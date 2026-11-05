@@ -1,0 +1,427 @@
+{
+ "packet_id": "CC0278-clyu02-P03",
+ "kit_version": "1.0",
+ "source_file": "clyu02.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ふたりで考えたように言ってはいるけど、おそらくは結衣が決めたんだろう。"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「私たちのユニット名は〜。せーのっ」"
+  },
+  {
+   "speaker": "結衣＆結人",
+   "speaker_ko": "유이＆유토",
+   "jp": "「『⟦col:280aa02d1400⟧ミルフィーユ⟦col:800000⟧』です」⟦n⟧⟦par⟧「みるふぃーゆ、です」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「『ミルフィーユ』か。へえ……悪くない名前じゃないか」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「でしょでしょ？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "結衣の考えた名前が褒められたからか、結人もなんだか嬉しそうに見えた。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu02:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "이토 신지",
+   "jp": "やっぱり、ふたりをユニットにしたのは正解だったかもしれない。"
+  },
+  {
+   "id": "clyu02:19700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「オッケー。そんじゃまあ、『ミルフィーユ』のおふたりさんにまず質問。アイドルに一番大切なのはなんだと思う？」"
+  },
+  {
+   "id": "clyu02:19800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "「大切なもの……歌唱力とか……」"
+  },
+  {
+   "id": "clyu02:19900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "이토 신지",
+   "jp": "「笑顔……とかかな？」"
+  },
+  {
+   "id": "clyu02:20000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ノンノンノン。いいか？ アイドルに最も大切なもの。それはズバリ――！」"
+  },
+  {
+   "id": "clyu02:20100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「サービス精神だ！」"
+  },
+  {
+   "id": "clyu02:20200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「サービス精神？」"
+  },
+  {
+   "id": "clyu02:20300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「そう。どうすれば皆に喜んでもらえるか。楽しんでもらえるか。それらはすべて、サービス精神から生まれるものだ」"
+  },
+  {
+   "id": "clyu02:20400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「サービスされて悪く思う奴はいない。サービスで喜んでもらえるなら、それに越したことはない」"
+  },
+  {
+   "id": "clyu02:20500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「サービス過多？ 結構じゃないか。それで人気が上がるならな」"
+  },
+  {
+   "id": "clyu02:20600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「特に出始めの頃は、まず人の目に触れなきゃ話にならない。そのためには、ある程度のサービスは必要最低条件ともいえる」"
+  },
+  {
+   "id": "clyu02:20700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ふむふむ」"
+  },
+  {
+   "id": "clyu02:20800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "이토 신지",
+   "jp": "「えっと……」"
+  },
+  {
+   "id": "clyu02:20900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「おっと、結人には難しかったか。要するに、みんなに喜んでもらうためには、なんだってしなきゃいけないってことだ」"
+  },
+  {
+   "id": "clyu02:21000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「なるほど……」"
+  },
+  {
+   "id": "clyu02:21100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "카즈키 하나",
+   "jp": "伊藤の言ってることは極端だが、一理あるといえばある。"
+  },
+  {
+   "id": "clyu02:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "카즈키 하나",
+   "jp": "今や世の中はアイドル戦国時代と言ってもいい……らしい。"
+  },
+  {
+   "id": "clyu02:21300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "카즈키 하나",
+   "jp": "数多のアイドル達がしのぎを削る中、まず記憶してもらうことが重要なのだ。"
+  },
+  {
+   "id": "clyu02:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "카즈키 하나",
+   "jp": "そのためには、最初は過多と思えるサービスも必要なのかもしれない。"
+  },
+  {
+   "id": "clyu02:21500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "오노에 세리카",
+   "jp": "「言いたいことはわかったかも、だけど……」"
+  },
+  {
+   "id": "clyu02:21600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「真ちゃんとしては……」"
+  },
+  {
+   "id": "clyu02:21700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「伊藤プロデューサー！」"
+  },
+  {
+   "id": "clyu02:21800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「い、伊藤プロデューサーとしては、具体的に何をすればいいと思うの？」"
+  },
+  {
+   "id": "clyu02:21900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ふふーん……それについては、ちょっとばかり準備が必要だから、しばらく待ってもらえるか？」"
+  },
+  {
+   "id": "clyu02:22000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "さすがにさっき話したばっかりだし、今日の今日じゃ用意も何もできないのは仕方ない。"
+  },
+  {
+   "id": "clyu02:22100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ま、この伊藤プロデューサーに任せておけば、何も心配はない。必ずや君たちを、日本一のアイドルに育てあげてみせようじゃないか！」"
+  },
+  {
+   "id": "clyu02:22200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "「はい、お願いします、プロデューサーさんっ！」"
+  },
+  {
+   "id": "clyu02:22300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「お、おねがいします」"
+  },
+  {
+   "id": "clyu02:22400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "아리무라 히나에",
+   "jp": "話が広がり始めたせいか、これまでは戸惑いばかりが強かった結人の顔にも、真剣なものが見え始めた。"
+  },
+  {
+   "id": "clyu02:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "아리무라 히나에",
+   "jp": "その時……そのやり取りを、何故か不敵な笑みを浮かべて聞いていた有村が、腕組みをして伊藤の前に立ちはだかった。"
+  },
+  {
+   "id": "clyu02:22600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "이토 신지",
+   "jp": "「ふふふ、いいでしょう。まずは伊藤先輩プロデューサーのお手並み拝見と行こうじゃありませんか」"
+  },
+  {
+   "id": "clyu02:22700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村プロデューサーには負けないぜ」"
+  },
+  {
+   "id": "clyu02:22800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「その台詞、そっくりそのままお返ししますよ」"
+  },
+  {
+   "id": "clyu02:22900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「はははははははは！」"
+  },
+  {
+   "id": "clyu02:23000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おーっほっほっほっほ」"
+  },
+  {
+   "id": "clyu02:23100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いつの間にそうなったのか、状況は伊藤と有村、ふたりのプロデューサー対決という様相をとっていた。"
+  },
+  {
+   "id": "clyu02:23200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "が、ちょっと待て。"
+  },
+  {
+   "id": "clyu02:23300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そもそもプロデューサーは僕だったはずなのに……。"
+  },
+  {
+   "id": "clyu02:23400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu02:23500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "……まあいいか。"
+  },
+  {
+   "id": "clyu02:23600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "最初は、伊藤がプロデューサーというのが不安でもあったが、今日の様子を見ていると、意外と悪くないのかもしれない。"
+  },
+  {
+   "id": "clyu02:23700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "あとはそれこそお手並み拝見……ってところだ。"
+  }
+ ],
+ "context_after": []
+}

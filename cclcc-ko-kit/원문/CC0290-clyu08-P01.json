@@ -1,0 +1,313 @@
+{
+ "packet_id": "CC0290-clyu08-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu08.msb",
+ "speakers_in_packet": [
+  "야마조에 우키",
+  "유",
+  "유이",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu08:0",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유토",
+   "jp": "「ねえ、ユウ。私たちで⟦col:280aa02d1400⟧ニヤ生⟦col:800000⟧、やってみない？」"
+  },
+  {
+   "id": "clyu08:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "そう言い出したのは、姉、橘結衣だった。"
+  },
+  {
+   "id": "clyu08:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "いつもなら、宮代拓留が動画を撮影し、後日編集したうえでニヤ動にアップするという手順をとっていたが、その日、碧朋学園の中等部は昼までの授業で、結衣も結人も時間を持て余していた。"
+  },
+  {
+   "id": "clyu08:300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ニヤ生？」"
+  },
+  {
+   "id": "clyu08:400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「うん。私たちいつも拓留兄ばっかりに頼ってるでしょ？ それも悪いかなって」"
+  },
+  {
+   "id": "clyu08:500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「だから、たまには自分たちでできることもした方がいいと思うんだ」"
+  },
+  {
+   "id": "clyu08:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "というのは、もちろん方便だった。"
+  },
+  {
+   "id": "clyu08:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "アップした動画に流れるコメントも良いが、一度くらい、リアルタイムの反応を見てみたい。"
+  },
+  {
+   "id": "clyu08:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "まだ中学生の少女が、日々増えてゆく視聴カウントに気持ちが大きくなって、もっともっと見て欲しい、応援して欲しいと、そう思うようになるのも無理のないことだった。"
+  },
+  {
+   "id": "clyu08:900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「どう、ユウ？ やってみたくない？」"
+  },
+  {
+   "id": "clyu08:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "結人としては、特に興味はなかったが、それでも姉の結衣にこう切り出されて返す言葉は決まっていた。"
+  },
+  {
+   "id": "clyu08:1100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「お姉ちゃんがやりたいならいいよ」"
+  },
+  {
+   "id": "clyu08:1200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "야마조에 우키",
+   "jp": "「やった！ それじゃあ、今日はふたりで生配信しちゃお！」"
+  },
+  {
+   "id": "clyu08:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "야마조에 우키",
+   "jp": "こうして始まったふたりのニヤ生配信の楽しさは、結衣の想像を超えていた。"
+  },
+  {
+   "id": "clyu08:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "야마조에 우키",
+   "jp": "カメラは同じく、午前中で授業を終えて帰っていたうきに頼むことにした。"
+  },
+  {
+   "id": "clyu08:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "야마조에 우키",
+   "jp": "機械には弱い彼女だが、とりあえずカメラの操作だけは何とか覚えてくれたようだ。"
+  },
+  {
+   "id": "clyu08:1600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "유이",
+   "jp": "「えっと……それじゃあ、いきます」"
+  },
+  {
+   "id": "clyu08:1700",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "유",
+   "jp": "「こんにちは！ 『⟦col:280aa02d1400⟧ミルフィーユ⟦col:800000⟧』ユイです」"
+  },
+  {
+   "id": "clyu08:1800",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ゆ、ユウです」"
+  },
+  {
+   "id": "clyu08:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "まだ明るい時間にも関わらず、驚くほど多く集まった視聴者からは、応援と賛美の声が溢れ、誹謗中傷などはひとつとして無かった。"
+  },
+  {
+   "id": "clyu08:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "そこには、うきの能力――誰かの願望を具現化する――という能力が関わっているのだが、ふたりは当然そんなことを知る由もない。"
+  },
+  {
+   "id": "clyu08:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "⟦top:38⟧そして、まだ中学生である彼女たちが、溢れかえるコメントに次第に大胆になったとしても、致し方のないことだった。"
+  },
+  {
+   "id": "clyu08:2200",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「リクエストかぁ……うーん、どうする、ユウ？」"
+  },
+  {
+   "id": "clyu08:2300",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ぼ、僕は、お姉ちゃんさえいいなら」"
+  },
+  {
+   "id": "clyu08:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "最初こそ、ほんのちょっとした要望だった。"
+  },
+  {
+   "id": "clyu08:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "『好きな食べ物は？』『趣味は？』そんな質問から始まったコメント群は、次第に『踊って』だの『歌って』だのといった、要望へと変わっていき、そこから更にエスカレートしていった。"
+  },
+  {
+   "id": "clyu08:2600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「制服姿？ 見たいの？ うーん、いいけど」"
+  },
+  {
+   "id": "clyu08:2700",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「でも、制服姿で何すればいいの？」"
+  },
+  {
+   "id": "clyu08:2800",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「え？ ふーん、そんなのが見たいんだ。変なの……」"
+  },
+  {
+   "id": "clyu08:2900",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「どうする、ユウ？」"
+  },
+  {
+   "id": "clyu08:3000",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「僕は、別にいいよ？」"
+  },
+  {
+   "id": "clyu08:3100",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": null,
+   "jp": "「そうだなー……それやったら、もっともっと応援してくれる？」"
+  },
+  {
+   "id": "clyu08:3200",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": null,
+   "jp": "「わかった。それじゃ、ちょっと待っててね」"
+  }
+ ],
+ "context_after": []
+}

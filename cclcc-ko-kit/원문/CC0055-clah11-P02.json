@@ -1,0 +1,964 @@
+{
+ "packet_id": "CC0055-clah11-P02",
+ "kit_version": "1.0",
+ "source_file": "clah11.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "画面には渋谷の地図が映し出されていた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そしてその中にひとつ、点滅する赤い印があった。"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ひなさんの……スマホの位置……かも……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ひょっとしてＧＰＳか？"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "でも、あらかじめ⟦col:280aa02d1400⟧アプリ⟦col:800000⟧を入れてない限り、たとえ電話番号がわかっていたとしても、そんなに簡単に位置情報の取得なんてできないはずだけど……。"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「香月……どうやってこれを……？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah11:10000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「知り合いの⟦col:280aa02d1400⟧エンスー⟦col:800000⟧仲間に……相談してみた……かも」"
+  },
+  {
+   "id": "clah11:10100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お前の知り合いって、いったいどんな奴なんだよ？」"
+  },
+  {
+   "id": "clah11:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "同感だ。"
+  },
+  {
+   "id": "clah11:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや、でもとにかく助かった！！"
+  },
+  {
+   "id": "clah11:10400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「でかした、香月！！！」"
+  },
+  {
+   "id": "clah11:10500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ていうか、タク。ここって……」"
+  },
+  {
+   "id": "clah11:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "赤く点滅している位置を改めて確かめる。"
+  },
+  {
+   "id": "clah11:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "と、そこは――。"
+  },
+  {
+   "id": "clah11:10800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「宮下公園……？」"
+  },
+  {
+   "id": "clah11:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "もしかして、僕の住処！？"
+  },
+  {
+   "id": "clah11:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "どうして？ 忘れ物でもしたのか？"
+  },
+  {
+   "id": "clah11:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それとも……少しは寂しいと思ってくれてるのか？"
+  },
+  {
+   "id": "clah11:11200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留。考えるのはあと。今は動かないと！」"
+  },
+  {
+   "id": "clah11:11300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "「あ、ああ……！！」"
+  },
+  {
+   "id": "clah11:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村はたぶん、僕を待っているわけじゃない……。"
+  },
+  {
+   "id": "clah11:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "となると、すぐに移動する可能性が高い。"
+  },
+  {
+   "id": "clah11:11600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その前に、なんとかして有村を捕まえなきゃ！"
+  },
+  {
+   "id": "clah11:11700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "（有村……）"
+  },
+  {
+   "id": "clah11:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は通いなれた家路を、ただ只管に走った。"
+  },
+  {
+   "id": "clah11:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "何十回、何百回と往復してきたこの道だが、たぶんその中でも一番の速さだったに違いない。"
+  },
+  {
+   "id": "clah11:12000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "（有村……っ）"
+  },
+  {
+   "id": "clah11:12100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「有村っ！！」"
+  },
+  {
+   "id": "clah11:12200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "蹴破りそうな勢いでドアを開け、転がるように上がり込んだ。"
+  },
+  {
+   "id": "clah11:12300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "が――。"
+  },
+  {
+   "id": "clah11:12400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「はぁ……はぁ……」"
+  },
+  {
+   "id": "clah11:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そこに有村の姿は無かった。"
+  },
+  {
+   "id": "clah11:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "くそっ、一足遅かった……。"
+  },
+  {
+   "id": "clah11:12700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "電話！？"
+  },
+  {
+   "id": "clah11:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうだ。香月が――！"
+  },
+  {
+   "id": "clah11:12900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「僕だ！」"
+  },
+  {
+   "id": "clah11:13000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タク？ よかった、やっとつながった！」"
+  },
+  {
+   "id": "clah11:13100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「尾上！！ 有村は――」"
+  },
+  {
+   "id": "clah11:13200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ついさっき、そこを出て、今は駅へ向かってる。今ならまだ追いつけるよ」"
+  },
+  {
+   "id": "clah11:13300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そうか！ ありがとう！！」"
+  },
+  {
+   "id": "clah11:13400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……タク」"
+  },
+  {
+   "id": "clah11:13500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ん……？」"
+  },
+  {
+   "id": "clah11:13600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「しっかり！！」"
+  },
+  {
+   "id": "clah11:13700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……ああ！」"
+  },
+  {
+   "id": "clah11:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "早く！"
+  },
+  {
+   "id": "clah11:13900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "早く！！！"
+  },
+  {
+   "id": "clah11:14000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ……！」"
+  },
+  {
+   "id": "clah11:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あの後ろ姿は――。"
+  },
+  {
+   "id": "clah11:14200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村っ！！！」"
+  },
+  {
+   "id": "clah11:14300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え……！？」"
+  },
+  {
+   "id": "clah11:14400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村は僕の顔を見るなり逃げ出そうとしたが、それよりも早く僕は彼女の腕を掴んだ。"
+  },
+  {
+   "id": "clah11:14500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「や、やっと……捕まえた……！」"
+  },
+  {
+   "id": "clah11:14600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代先輩……」"
+  },
+  {
+   "id": "clah11:14700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "怯えたような瞳が僕を見て――。"
+  },
+  {
+   "id": "clah11:14800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、すぐに目を逸らした。"
+  },
+  {
+   "id": "clah11:14900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「どうして逃げるんだよ？」"
+  },
+  {
+   "id": "clah11:15000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だって……」"
+  },
+  {
+   "id": "clah11:15100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「聞いてくれ、有村」"
+  },
+  {
+   "id": "clah11:15200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いやっ、聞きたくない！」"
+  },
+  {
+   "id": "clah11:15300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村は僕から逃れようともがいていたが、やがて諦め、脱力したように力を抜くと、ぽつりと言った。"
+  },
+  {
+   "id": "clah11:15400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先輩……私ね、昔からずっと、本当のことが知りたかった……」"
+  },
+  {
+   "id": "clah11:15500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村……。"
+  },
+  {
+   "id": "clah11:15600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うちの家は、パパもママも嘘ばっかり。口では愛してる、なんて言いながら、自分たちは外で好き勝手やって……」"
+  },
+  {
+   "id": "clah11:15700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、私はずっと、本当のことが知りたいと思ってた。言葉の奥に隠された、本当の心が……」"
+  },
+  {
+   "id": "clah11:15800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村は僕と目を合わせようとはしなかった。"
+  },
+  {
+   "id": "clah11:15900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だからこの能力は私が望んだ能力。この能力さえあれば、私は幸せになれるはずだった……」"
+  },
+  {
+   "id": "clah11:16000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah11:16100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「でもね……でも、現実はまったく逆。本当のことなんて知っても、何も幸せなことなんてなかった……」"
+  },
+  {
+   "id": "clah11:16200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "道行く人たちが、遠慮ない視線で物珍しそうに僕たちを眺めてゆく。"
+  },
+  {
+   "id": "clah11:16300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "それでも有村は続けた。"
+  },
+  {
+   "id": "clah11:16400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「この世界に、嘘のない人なんていない。誰だってみんな嘘をついて生きてた……」"
+  },
+  {
+   "id": "clah11:16500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「両親もお兄ちゃんも、友達も先生も、偉い政治家の人だって、みんなみんな嘘をついてる……」"
+  },
+  {
+   "id": "clah11:16600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「もちろん、その中には悪くない嘘もあった。だけど、耳をふさぎたくなる嘘もたくさんあった……」"
+  },
+  {
+   "id": "clah11:16700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "泣いているのか、それとも怯えているのか、有村の手は僅かに震えていた。"
+  },
+  {
+   "id": "clah11:16800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕は有村のそんな言葉を黙って聞いていた。"
+  },
+  {
+   "id": "clah11:16900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私のこと、言葉では友だちだっていいながら、心の中では嫌ってる子もいた」"
+  },
+  {
+   "id": "clah11:17000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「毎日ずっと一緒にいるのに。笑いあってるのに、本当はお互い嫌い合ってる子たちだっていた……」"
+  },
+  {
+   "id": "clah11:17100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "⟦col:280aa02d1400⟧スクランブル交差点⟦col:800000⟧の信号が青に変わり、人の波が動き出す。"
+  },
+  {
+   "id": "clah11:17200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だからね……私は私自身を嘘で塗り固めることにしたの。誰とも本当の心で向き合わなくてすむように……」"
+  },
+  {
+   "id": "clah11:17300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうすれば誰かが嘘をついていたとしても、心は痛くならないから……」"
+  },
+  {
+   "id": "clah11:17400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "そうだ。"
+  },
+  {
+   "id": "clah11:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "嘘を一番嫌っていた有村が、一番嘘をついていた。"
+  },
+  {
+   "id": "clah11:17600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "自分の本当の心に。"
+  },
+  {
+   "id": "clah11:17700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "でも、僕は思う。"
+  },
+  {
+   "id": "clah11:17800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "それもきっと嘘なんだと。"
+  },
+  {
+   "id": "clah11:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "たとえ嘘で塗り固めた自分だろうと、誰かの嘘を突き付けられて、心が痛まないわけがない。"
+  },
+  {
+   "id": "clah11:18000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "むしろ、自分が嘘をついているという後ろめたさが、傷ついた心を更に痛めつけるはずだ。"
+  },
+  {
+   "id": "clah11:18100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうやって自分を嘘で固めるうちに、私はだんだんと嘘に慣れていった。他人の嘘も平気で受け止められるようになっていった」"
+  },
+  {
+   "id": "clah11:18200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もう、誰かの本当の気持ちを知るのが怖いだなんて、そんな風に思うことはないはずだった……」"
+  },
+  {
+   "id": "clah11:18300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "不思議と静かだった。"
+  },
+  {
+   "id": "clah11:18400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうだよ……ずっと嘘のつもりだったのに……」"
+  },
+  {
+   "id": "clah11:18500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "行きかう車の音も、すれ違ってゆく人々の声も僕には届かない。"
+  },
+  {
+   "id": "clah11:18600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "呟くような有村の声だけが、僕の耳を震わせる。"
+  },
+  {
+   "id": "clah11:18700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ただ、人の良い先輩をからかって甘えて……それだけのつもりだったのに……」"
+  },
+  {
+   "id": "clah11:18800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村……」"
+  },
+  {
+   "id": "clah11:18900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それなのに……」"
+  },
+  {
+   "id": "clah11:19000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "不意に顔を上げた有村の瞳には、膨れ上がった不安が涙となって溢れていた。"
+  },
+  {
+   "id": "clah11:19100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それなのに、今は怖いのっ。嘘だったはずの自分の気持ちも！ 先輩と会えない時の寂しいっていう気持ちも、なにもかもが……」"
+  },
+  {
+   "id": "clah11:19200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "点滅していた信号が赤に変わる。"
+  },
+  {
+   "id": "clah11:19300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でもなにより……先輩の本当の気持ちを知るのが怖い……」"
+  },
+  {
+   "id": "clah11:19400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「でも僕は――！」"
+  },
+  {
+   "id": "clah11:19500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もしもっ！」"
+  },
+  {
+   "id": "clah11:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村が僕の言葉を遮る。"
+  },
+  {
+   "id": "clah11:19700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もしも先輩が、私のこと好きだって言ってくれても……その裏側に別の気持ちがあったとしたら……」"
+  },
+  {
+   "id": "clah11:19800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それが偽りだったとしたら……」"
+  },
+  {
+   "id": "clah11:19900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「そんな言葉なんて、聞きたくない……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「有村……」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「先輩の口から……好きなんて言葉、聞きたくない……」"
+  }
+ ]
+}

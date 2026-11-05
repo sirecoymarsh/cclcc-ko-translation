@@ -1,0 +1,938 @@
+{
+ "packet_id": "CC0106-clkn07-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn07.msb",
+ "speakers_in_packet": [
+  "남학생",
+  "모두",
+  "미나미사와 센리",
+  "미야시로 타쿠루",
+  "사쿠마 와타루",
+  "선도부원",
+  "야마조에 우키",
+  "여학생",
+  "이토 신지",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn07:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "乃々にそう告げた僕の言葉は、⟦rb⟧概⟦rt⟧おおむ⟦/r⟧ね間違ってはいなかった。"
+  },
+  {
+   "id": "clkn07:100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あの校則が可決されてどうなるかとも思ったけど、大した変わりはねぇな」"
+  },
+  {
+   "id": "clkn07:200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「だろ？ 結局、僕たちにはほとんど関係のないことなんだよ」"
+  },
+  {
+   "id": "clkn07:300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "선도부원",
+   "jp": "「くっ……それはそれで、なんかムカつくけどな」"
+  },
+  {
+   "id": "clkn07:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "선도부원",
+   "jp": "異性との関わりをすべて禁止する――なんて無茶な校則でもなく、特定の相手も意中の相手もいない僕たちにとってみれば、校内恋愛が禁止されたところで、何ら困ることは無いのだ。"
+  },
+  {
+   "id": "clkn07:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "선도부원",
+   "jp": "まあ、たまに――。"
+  },
+  {
+   "id": "clkn07:600",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "남학생",
+   "jp": "「おい、見つけたぞ！ あそこだ！」"
+  },
+  {
+   "id": "clkn07:700",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "남학생",
+   "jp": "「よし、行くぞ！」"
+  },
+  {
+   "id": "clkn07:800",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "남학생",
+   "jp": "「おい、君たち！！ そこでコソコソなにしている！！」"
+  },
+  {
+   "id": "clkn07:900",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "선도부원",
+   "next_speaker": "여학생",
+   "jp": "「あ、いや僕たちは別に……」"
+  },
+  {
+   "id": "clkn07:1000",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "선도부원",
+   "jp": "「そうよ。ただ、誕生日のプレゼントをもらってただけでしょ」"
+  },
+  {
+   "id": "clkn07:1100",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "여학생",
+   "next_speaker": "남학생",
+   "jp": "「つまり、誕生日のプレゼントをやりとりするような仲ということだな」"
+  },
+  {
+   "id": "clkn07:1200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "선도부원",
+   "next_speaker": "선도부원",
+   "jp": "「プレゼントくらい、友達同士でもあげるだろ」"
+  },
+  {
+   "id": "clkn07:1300",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "남학생",
+   "next_speaker": "여학생",
+   "jp": "「……どれ……指輪か……アウトだな」"
+  },
+  {
+   "id": "clkn07:1400",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "남학생",
+   "next_speaker": "여학생",
+   "jp": "「よし、ふたりとも、生徒会室に来てもらおう」"
+  },
+  {
+   "id": "clkn07:1500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "선도부원",
+   "next_speaker": "이토 신지",
+   "jp": "「そんな！！」"
+  },
+  {
+   "id": "clkn07:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "이토 신지",
+   "jp": "なんてこともあるようだけど、まあそれも僕たちには関係のないことだった。"
+  },
+  {
+   "id": "clkn07:1700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんか、騒いで損しちまった感じ」"
+  },
+  {
+   "id": "clkn07:1800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「まあな……」"
+  },
+  {
+   "id": "clkn07:1900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ああ、そういやお前、次はいつ家に帰るんだよ？ 週一回は帰る約束したんだろ？」"
+  },
+  {
+   "id": "clkn07:2000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「は？ なんでお前がその話知ってるんだ？」"
+  },
+  {
+   "id": "clkn07:2100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「昨日、バッタリ結衣ちゃんに会ってな。帰ってくるように伝えてくれって」"
+  },
+  {
+   "id": "clkn07:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "結衣のやつ……。"
+  },
+  {
+   "id": "clkn07:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "まあでも確かに今週はまだ帰ってないし、いきなり約束破るってのも気持ち悪いな。"
+  },
+  {
+   "id": "clkn07:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "それにそんなことしたら、次回帰った時に何言われるかわかったもんじゃないし。"
+  },
+  {
+   "id": "clkn07:2500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「たまには可愛い妹の頼み、ちゃんと聞いてやれよ」"
+  },
+  {
+   "id": "clkn07:2600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「伊藤……」"
+  },
+  {
+   "id": "clkn07:2700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんだよ？」"
+  },
+  {
+   "id": "clkn07:2800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「お前……まさか結衣をどうにかしようってつもりじゃないだろうな？」"
+  },
+  {
+   "id": "clkn07:2900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ど、どうにかって、どういうことだよ？」"
+  },
+  {
+   "id": "clkn07:3000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「だからその……狙ってるとか」"
+  },
+  {
+   "id": "clkn07:3100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ば、バカ！ 俺にはそういう趣味はねえっつーの」"
+  },
+  {
+   "id": "clkn07:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ホントか？"
+  },
+  {
+   "id": "clkn07:3300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんなに大事なら、箱にでも入れて仕舞っとけっての。つーか、もちょっと大事にしてやれ」"
+  },
+  {
+   "id": "clkn07:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ま、伊藤に限ってそれはないか。"
+  },
+  {
+   "id": "clkn07:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こいつ、どっちかっていうと、冷たそうな美人に罵られたいタイプだもんな。"
+  },
+  {
+   "id": "clkn07:3600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「しょうがない。家には今日、帰ることにするよ……」"
+  },
+  {
+   "id": "clkn07:3700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "모두",
+   "jp": "「あー、そうしろそうしろ」"
+  },
+  {
+   "id": "clkn07:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "모두",
+   "jp": "伊藤に諭されたってのがちょっと癪だけど、約束は約束だ。"
+  },
+  {
+   "id": "clkn07:3900",
+   "type": "dialogue",
+   "speaker": "全員",
+   "speaker_ko": "모두",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「「「「ごちそうさまでした」」」」"
+  },
+  {
+   "id": "clkn07:4000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "모두",
+   "next_speaker": "타치바나 유토",
+   "jp": "「はい、お粗末さまでした」"
+  },
+  {
+   "id": "clkn07:4100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ねえ、拓留兄！ トランプしようよ、トランプ」"
+  },
+  {
+   "id": "clkn07:4200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ダメよ、結人。遊ぶのは宿題終わらせてから」"
+  },
+  {
+   "id": "clkn07:4300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「えー。せっかく拓留兄が帰って来てるのにぃ」"
+  },
+  {
+   "id": "clkn07:4400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ご飯の前に終わらせておかないからよ」"
+  },
+  {
+   "id": "clkn07:4500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ちぇー」"
+  },
+  {
+   "id": "clkn07:4600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「結衣。洗い物、手伝ってくれる？」"
+  },
+  {
+   "id": "clkn07:4700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "야마조에 우키",
+   "jp": "「はぁい」"
+  },
+  {
+   "id": "clkn07:4800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「あ、じゃあ私は診療所のお洗濯物を片付けてきますね」"
+  },
+  {
+   "id": "clkn07:4900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「お願い、助かるわ」"
+  },
+  {
+   "id": "clkn07:5000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「あ、父さんはお酒の前にお風呂の掃除お願いね」"
+  },
+  {
+   "id": "clkn07:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "背中を向けたまま言う泉理に、棚の中の焼酎に手を伸ばしていた父さんの動きが止まる。"
+  },
+  {
+   "id": "clkn07:5200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あいつ……背中に目でもついてんのか？」"
+  },
+  {
+   "id": "clkn07:5300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「かもね」"
+  },
+  {
+   "id": "clkn07:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "ここ、青葉寮の中の泉理は、家の中のすべてを把握しているみたいだ。"
+  },
+  {
+   "id": "clkn07:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "学校の中でも彼女は来栖乃々として、生徒会長としてあらゆることに目を向けている。"
+  },
+  {
+   "id": "clkn07:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "泉理はいつも、本物の来栖乃々と自分を比べて引け目を感じているけど、ただの真似でそこまでできるわけがない。"
+  },
+  {
+   "id": "clkn07:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "つまり、それは泉理に元々備わっていた素質なんだろう。"
+  },
+  {
+   "id": "clkn07:5800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「しゃあねぇ、風呂掃除してくっか」"
+  },
+  {
+   "id": "clkn07:5900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「泉理。僕も洗い物、手伝うよ」"
+  },
+  {
+   "id": "clkn07:6000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あら、拓留が自分から言ってくれるなんて珍しいわね」"
+  },
+  {
+   "id": "clkn07:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "さすがに父さんまでが手伝ってるのに、僕が何もしないわけにはいかない。"
+  },
+  {
+   "id": "clkn07:6200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃあ、洗った食器を拭いてもらえる？」"
+  },
+  {
+   "id": "clkn07:6300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「オッケー」"
+  },
+  {
+   "id": "clkn07:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "泉理と結衣と三人、肩を並べて流しに立つ。"
+  },
+  {
+   "id": "clkn07:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "久しぶりに家の手伝いをしてみると、人数が多い分結構大変だ。"
+  },
+  {
+   "id": "clkn07:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "でも、泉理は毎日こうして勉強も家事も両立させてる。"
+  },
+  {
+   "id": "clkn07:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "もしかして泉理って、実は凄いんじゃないのか……？"
+  },
+  {
+   "id": "clkn07:6800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「そういえばさ、高等部で恋愛禁止令がでたんでしょ？」"
+  },
+  {
+   "id": "clkn07:6900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「……ええ、まあ……」"
+  },
+  {
+   "id": "clkn07:7000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「勘弁してほしいよねー。泉理姉や拓留兄は卒業しちゃうからいいけどさ、私なんて来年からだよ？」"
+  },
+  {
+   "id": "clkn07:7100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「それなのに、校内恋愛禁止だなんて」"
+  },
+  {
+   "id": "clkn07:7200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あら。結衣には拓留がいるじゃない」"
+  },
+  {
+   "id": "clkn07:7300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ぶっ！」"
+  },
+  {
+   "id": "clkn07:7400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「な、なな、なによそれ！ なんで私が拓留兄なんかと！」"
+  },
+  {
+   "id": "clkn07:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "“なんか”って……。"
+  },
+  {
+   "id": "clkn07:7600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それに……拓留兄には泉理姉がいるじゃん……」"
+  },
+  {
+   "id": "clkn07:7700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ぶぶーっ！！」"
+  },
+  {
+   "id": "clkn07:7800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ど、どうして私が拓留なんかと……」"
+  },
+  {
+   "id": "clkn07:7900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「いや、君たち……」"
+  },
+  {
+   "id": "clkn07:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "さっきから“なんか”“なんか”ってそう連発されると、いくらなんでも僕だって傷つくわけで……。"
+  },
+  {
+   "id": "clkn07:8100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「なんだ、拓留。お前、なかなかモテモテだなぁ」"
+  },
+  {
+   "id": "clkn07:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "いつの間にか風呂掃除から戻ってきた父さんがニヤニヤしながら言った。"
+  },
+  {
+   "id": "clkn07:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "モテモテ……なのか、これは……？"
+  },
+  {
+   "id": "clkn07:8400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "타치바나 유이",
+   "jp": "「もう、父さんまでからかわないで」"
+  },
+  {
+   "id": "clkn07:8500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「そうだよ。だいたい拓留兄とはその……兄妹だし」"
+  },
+  {
+   "id": "clkn07:8600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「知ってるか、お前ら。実はな……お前たちは本当は……血の繋がっていない家族なんだよ……」"
+  },
+  {
+   "id": "clkn07:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "な、ナンダッテー！"
+  },
+  {
+   "id": "clkn07:8800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「もう、父さん、そんなこと改めて言われなくても知ってるし」"
+  },
+  {
+   "id": "clkn07:8900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「わっはっは！ そうか。知ってるならいんだ」"
+  },
+  {
+   "id": "clkn07:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "なにがいいんだか……。"
+  },
+  {
+   "id": "clkn07:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "でも……。"
+  },
+  {
+   "id": "clkn07:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "確かに見る人が見れば、モテモテに思われなくもないかもしれない。"
+  },
+  {
+   "id": "clkn07:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "でも、一応“きょうだい”って肩書きでひとつ屋根の下生活しているからには、⟦rb⟧そういうこと⟦rt⟧⟦rbc⟧●●●●●●⟦/r⟧は起きないと思うんだけど……。"
+  },
+  {
+   "id": "clkn07:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "どう……なんだろう。"
+  },
+  {
+   "id": "clkn07:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "いや、さすがに無いな。"
+  },
+  {
+   "id": "clkn07:9600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それより拓留。お風呂、入ってらっしゃい」"
+  },
+  {
+   "id": "clkn07:9700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、ああ……」"
+  },
+  {
+   "id": "clkn07:9800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「はぁ……」"
+  },
+  {
+   "id": "clkn07:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "風呂に入ると、日本人で良かったと思うよな。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ねえ、拓留……お湯加減、どう？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「え？ あ……うん、ちょうどいいよ」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「そう」"
+  }
+ ]
+}

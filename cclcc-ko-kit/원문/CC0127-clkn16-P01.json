@@ -1,0 +1,935 @@
+{
+ "packet_id": "CC0127-clkn16-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn16.msb",
+ "speakers_in_packet": [
+  "남학생",
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "여학생",
+  "이토 신지",
+  "카와하라 마사시",
+  "카즈키 하나",
+  "쿠노사토 미오"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn16:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카와하라 마사시",
+   "jp": "放課後。"
+  },
+  {
+   "id": "clkn16:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카와하라 마사시",
+   "jp": "体育館にはすでに、多くの生徒が集まっていた。"
+  },
+  {
+   "id": "clkn16:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카와하라 마사시",
+   "jp": "まったく、ご苦労なことだ。"
+  },
+  {
+   "id": "clkn16:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카와하라 마사시",
+   "jp": "いわば⟦col:280aa02d1400⟧公開処刑⟦col:800000⟧に集まった見物人といったところか。"
+  },
+  {
+   "id": "clkn16:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카와하라 마사시",
+   "jp": "皆、これから僕が残酷に処刑されていく様を楽しみにしているんだろう。"
+  },
+  {
+   "id": "clkn16:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카와하라 마사시",
+   "jp": "自らは動くことなく、与えられた娯楽にのみ飛びつく。"
+  },
+  {
+   "id": "clkn16:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카와하라 마사시",
+   "jp": "それこそまさに情弱たる証拠だ。"
+  },
+  {
+   "id": "clkn16:700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「良く逃げずに来たな、宮代。その勇気だけは褒めてやろう」"
+  },
+  {
+   "id": "clkn16:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "壇上から川原くんが、⟦col:280aa02d1400⟧Ｂ級映画⟦col:800000⟧の悪役そのままのような台詞を恥ずかしげもなく投げかけてきた。"
+  },
+  {
+   "id": "clkn16:900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「久しぶりに学校に来たら、随分と面白そうなことをやってるじゃないか」"
+  },
+  {
+   "id": "clkn16:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いつの間にか、僕の隣には久野里さんが立っていた。"
+  },
+  {
+   "id": "clkn16:1100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さん、どうしてここに……？」"
+  },
+  {
+   "id": "clkn16:1200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お前が何度電話しても出ないからに決まってるだろう」"
+  },
+  {
+   "id": "clkn16:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clkn16:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そういえば乃々の件で相談したまま、そのあと何度か電話があったにも関わらず、無視していたんだった……。"
+  },
+  {
+   "id": "clkn16:1500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それにしても、見ろ、あの川原とかいう男の顔。この状況に陶酔しきっている醜悪な顔だ」"
+  },
+  {
+   "id": "clkn16:1600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まあ、これまでずっと女王陛下に仕えるナンバー２だったのが、初めて全校生徒の注目と支持を浴びたんだからな」"
+  },
+  {
+   "id": "clkn16:1700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「満足感に酔いしれている事だろう……」"
+  },
+  {
+   "id": "clkn16:1800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「満足感……」"
+  },
+  {
+   "id": "clkn16:1900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「ああ、そうだ。来栖乃々との間に立ちふさがるお前を排除できる満足感……」"
+  },
+  {
+   "id": "clkn16:2000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「そしてそれはそのまま、来栖乃々に対する優越感でもあり征服欲が満たされつつあることへの充足感でもある……」"
+  },
+  {
+   "id": "clkn16:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "満足感と優越感と征服欲。"
+  },
+  {
+   "id": "clkn16:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "なるほど。"
+  },
+  {
+   "id": "clkn16:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "川原くんがここまで行動する理由は、そういうことか。"
+  },
+  {
+   "id": "clkn16:2400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「それにしても、これだけの生徒を味方につけるとは……まさか、あいつも何らかの能力に覚醒した……？」"
+  },
+  {
+   "id": "clkn16:2500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「さて、それじゃあ早速本題に入ろうか」"
+  },
+  {
+   "id": "clkn16:2600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「いや、仮にそうだとしてもあの様子ではまだ不完全というところか……」"
+  },
+  {
+   "id": "clkn16:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "카와하라 마사시",
+   "jp": "久野里さんは何事か呟いていたが、その声は川原くんの言葉にかき消され、僕の耳にまでは届かなかった。"
+  },
+  {
+   "id": "clkn16:2800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代拓留。ここに来たということは、同棲と赤ん坊の件について、我々を納得させる理由を持ってきたということか？」"
+  },
+  {
+   "id": "clkn16:2900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それとも、我々の想像が、単なる想像ではなく事実だと認めるためか。どっちだ？」"
+  },
+  {
+   "id": "clkn16:3000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "이토 신지",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn16:3100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「おい、宮代。どうするつもりだよ？」"
+  },
+  {
+   "id": "clkn16:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카와하라 마사시",
+   "jp": "いつしか集まってきていた新聞部の皆が、心配そうに僕を見ていた。"
+  },
+  {
+   "id": "clkn16:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카와하라 마사시",
+   "jp": "だが、その中に乃々の姿は無かった。"
+  },
+  {
+   "id": "clkn16:3400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「もしも、我々の納得いく理由を提示できるなら、こちらも非を認め、君に謝罪しよう」"
+  },
+  {
+   "id": "clkn16:3500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だが、事実であるなら……残念だが生徒会としても、この騒ぎの原因となる君を捨ておくわけにはいかない」"
+  },
+  {
+   "id": "clkn16:3600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「学園に直談判して、然るべき措置をとってもらうことになるだろう」"
+  },
+  {
+   "id": "clkn16:3700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "「自分たちで勝手に騒ぎを起こしておいてよく言う」"
+  },
+  {
+   "id": "clkn16:3800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clkn16:3900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さて、答えてもらおうか。あれは事実なのか否か……」"
+  },
+  {
+   "id": "clkn16:4000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "이토 신지",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn16:4100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「宮代ぉ……」"
+  },
+  {
+   "id": "clkn16:4200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「答えられないのか、宮代？」"
+  },
+  {
+   "id": "clkn16:4300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「宮代先輩！」"
+  },
+  {
+   "id": "clkn16:4400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「どうした？ だんまりか？」"
+  },
+  {
+   "id": "clkn16:4500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn16:4600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「答えられないなら、事実と認めることになるが、それでもいいのか？」"
+  },
+  {
+   "id": "clkn16:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかし、今さら何を言われたところで僕の心はもう揺らぐことはない。"
+  },
+  {
+   "id": "clkn16:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は――。"
+  },
+  {
+   "id": "clkn16:4900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "이토 신지",
+   "jp": "「き、君の言うことを一部認める……」"
+  },
+  {
+   "id": "clkn16:5000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "남학생",
+   "jp": "「おい！？」"
+  },
+  {
+   "id": "clkn16:5100",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "여학생",
+   "jp": "「一部？ なんだそりゃ？」"
+  },
+  {
+   "id": "clkn16:5200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "여학생",
+   "jp": "「おいおい……」"
+  },
+  {
+   "id": "clkn16:5300",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「どういうこと？」"
+  },
+  {
+   "id": "clkn16:5400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「なにそれ？」"
+  },
+  {
+   "id": "clkn16:5500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「わけわかんないんだけど……」"
+  },
+  {
+   "id": "clkn16:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "注目という重圧に押しつぶされそうになりながらも絞り出した僕の答えに、会場中にざわめきが波打った。"
+  },
+  {
+   "id": "clkn16:5700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "여학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「一部？ それはどういうことだ？」"
+  },
+  {
+   "id": "clkn16:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "川原くんは一瞬、眉をひそめて不快感を表した。"
+  },
+  {
+   "id": "clkn16:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これまで丁寧語だった僕が、急にタメ口になったことで、イラついたのかもしれない。"
+  },
+  {
+   "id": "clkn16:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それでも僕は続けた。"
+  },
+  {
+   "id": "clkn16:6100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「ま、前にも来栖が言ったとおり、あの赤ん坊は僕の住んでる施設に預けられた子どもだ……」"
+  },
+  {
+   "id": "clkn16:6200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「だから、あれが僕の子だっていう君たちの想像は事実じゃない……」"
+  },
+  {
+   "id": "clkn16:6300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ということは……彼女、南沢泉理が一緒に住んでいるという件に関しては？」"
+  },
+  {
+   "id": "clkn16:6400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "남학생",
+   "jp": "「それについては……事実だ……」"
+  },
+  {
+   "id": "clkn16:6500",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여학생",
+   "jp": "「おい、認めたぞ！」"
+  },
+  {
+   "id": "clkn16:6600",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여학생",
+   "jp": "「マジかよ……」"
+  },
+  {
+   "id": "clkn16:6700",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「ねえ、それってつまり……」"
+  },
+  {
+   "id": "clkn16:6800",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「事実だって！」"
+  },
+  {
+   "id": "clkn16:6900",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「うそー！」"
+  },
+  {
+   "id": "clkn16:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "全員の注目が僕に集まる。"
+  },
+  {
+   "id": "clkn16:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "正直、それだけで逃げ出したくなる気分だが、ここで逃げるわけにはいかない。"
+  },
+  {
+   "id": "clkn16:7200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "여학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それはつまり、学園に申請している以外の人間を住まわせているということだな？」"
+  },
+  {
+   "id": "clkn16:7300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「ああ。そういうことだ……」"
+  },
+  {
+   "id": "clkn16:7400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「こちらとしては、それを不適切な関係だと受け取らざるを得ないが？」"
+  },
+  {
+   "id": "clkn16:7500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「か、彼女は家族の一員だ。別に⟦rb⟧疚⟦rt⟧やま⟦/r⟧しいことはない」"
+  },
+  {
+   "id": "clkn16:7600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふんっ。おかしな話だな。疚しいことがないなら、どうして申請していないんだ？」"
+  },
+  {
+   "id": "clkn16:7700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「それは……」"
+  },
+  {
+   "id": "clkn16:7800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まあいい。そういうことなら、張本人である彼女の言い分を聞いて判断しようじゃないか。さあ、彼女をここへ」"
+  },
+  {
+   "id": "clkn16:7900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn16:8000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうした？ 連れているんじゃないのか？」"
+  },
+  {
+   "id": "clkn16:8100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "남학생",
+   "jp": "「それは……できない」"
+  },
+  {
+   "id": "clkn16:8200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여학생",
+   "jp": "「おいおい、なんだよそれ」"
+  },
+  {
+   "id": "clkn16:8300",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여학생",
+   "jp": "「それじゃあ説明になってねーじゃねーか……」"
+  },
+  {
+   "id": "clkn16:8400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "이토 신지",
+   "jp": "「なにそれ……」"
+  },
+  {
+   "id": "clkn16:8500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "이토 신지",
+   "jp": "「わけわかんないんだけど」"
+  },
+  {
+   "id": "clkn16:8600",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "이토 신지",
+   "jp": "「どーゆーことー？」"
+  },
+  {
+   "id": "clkn16:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "이토 신지",
+   "jp": "お約束のざわめきの中、伊藤が僕の肩を小さく叩く。"
+  },
+  {
+   "id": "clkn16:8800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「宮代……大丈夫なのか？」"
+  },
+  {
+   "id": "clkn16:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카와하라 마사시",
+   "jp": "僕は伊藤に向かってしっかりと頷くと、再び川原くんに向き合った。"
+  },
+  {
+   "id": "clkn16:9000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「連れて来られないということは、君の言うことを証明する術はない、ということになるが、それでもいいのか？」"
+  },
+  {
+   "id": "clkn16:9100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……構わない」"
+  },
+  {
+   "id": "clkn16:9200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「先輩！」"
+  },
+  {
+   "id": "clkn16:9300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「君がそう言うなら、こちらは一向にかまわないが……一応理由を聞いておこうか」"
+  },
+  {
+   "id": "clkn16:9400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「理由？」"
+  },
+  {
+   "id": "clkn16:9500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうだ。彼女をここに連れて来られない、その理由だ」"
+  },
+  {
+   "id": "clkn16:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……そんなの簡単だ。"
+  },
+  {
+   "id": "clkn16:9700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "「それは、僕にとって、彼女が大切な存在だからだ」"
+  },
+  {
+   "id": "clkn16:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は真っ直ぐに川原くんの目を射すくめた。"
+  },
+  {
+   "id": "clkn16:9900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "「だから、彼女をここに連れて来るつもりもなければ、こんなところで晒し者にするつもりもない。これ以上の弁明もしない」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「もしもそれが気に入らないというなら……僕は君たちの決定に従おう……！」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「拓留……先輩……」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「…………」"
+  }
+ ]
+}

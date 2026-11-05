@@ -1,0 +1,894 @@
+{
+ "packet_id": "CC0064-clka03-P01",
+ "kit_version": "1.0",
+ "source_file": "clka03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clka03:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――数分後。僕はようやく最適な場所を見つけた。"
+  },
+  {
+   "id": "clka03:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "誰にも邪魔されずに一人で考えられる場所といえば、ここしかない。"
+  },
+  {
+   "id": "clka03:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "トイレだ。"
+  },
+  {
+   "id": "clka03:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "５階の一番奥にあるこの男子トイレは利便性が悪く、普通の生徒は滅多に使うことはない。"
+  },
+  {
+   "id": "clka03:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "正直言って、普段は僕と伊藤しか使っていないんじゃないかと思う。身を潜めるのに絶好の場所だった。"
+  },
+  {
+   "id": "clka03:500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――さて」"
+  },
+  {
+   "id": "clka03:600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「改めて考えてみよう」"
+  },
+  {
+   "id": "clka03:700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「写真に映っているこの女の子が、誰なのかについて」"
+  },
+  {
+   "id": "clka03:800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「正しい答えを導き出す為には、正しい推論を立てなければならない」"
+  },
+  {
+   "id": "clka03:900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「正しい推論を立てる為には、正しいデータ、つまり事実を積み重ねなければならない」"
+  },
+  {
+   "id": "clka03:1000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よし、まずはこの写真から読み取れる事実を集めていこう」"
+  },
+  {
+   "id": "clka03:1100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まず、周囲の背景から確認しよう」"
+  },
+  {
+   "id": "clka03:1200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「べ、べつに、いきなり半裸の女の子を直視するのにびびっているわけじゃないからな」"
+  },
+  {
+   "id": "clka03:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……誰に言い訳してるんだ、僕は？」"
+  },
+  {
+   "id": "clka03:1400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よし」"
+  },
+  {
+   "id": "clka03:1500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女の子が座っているのはベッドだろう」"
+  },
+  {
+   "id": "clka03:1600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「彼女の後ろに伸びる影の長さから、ベッドの幅が推測できる。かなり狭い。普通のベッドじゃない」"
+  },
+  {
+   "id": "clka03:1700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「スプリングも大して良い物を使っていない。彼女の下半身の沈み込み具合からそれも明らかだ」"
+  },
+  {
+   "id": "clka03:1800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「この二つから導き出せる推論、それは、即ち――」"
+  },
+  {
+   "id": "clka03:1900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――彼女が腰掛けているのは簡易ベッドだ！」"
+  },
+  {
+   "id": "clka03:2000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「更に言えば、それは僕のキャンピングカーの簡易ベッドだ！」"
+  },
+  {
+   "id": "clka03:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……。"
+  },
+  {
+   "id": "clka03:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "…………。"
+  },
+  {
+   "id": "clka03:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "…………むなしい。"
+  },
+  {
+   "id": "clka03:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "推理や謎を解き明かすのは、読書好きの高校生なら誰しも一度は憧れる物だ。"
+  },
+  {
+   "id": "clka03:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なんとなくノリでやってしまったが、別に今の推理の組み立ては元々必要なかった。"
+  },
+  {
+   "id": "clka03:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ベッドの構造なんかに注目しなくても、もっと分かりやすい事実が写真に写っているからだ。"
+  },
+  {
+   "id": "clka03:2700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――伊藤」"
+  },
+  {
+   "id": "clka03:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "女の子の足下に、バカっぽい寝顔を晒している伊藤の顔が見切れていた。"
+  },
+  {
+   "id": "clka03:2900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「伊藤がいるってことは、僕のキャンピングカーなんだろうな」"
+  },
+  {
+   "id": "clka03:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤とこの謎の女の子はどういう関係なんだろうか。"
+  },
+  {
+   "id": "clka03:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "少なくとも二人以外に写真に写り込んでいる人物はいない。"
+  },
+  {
+   "id": "clka03:3200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……まさか、伊藤の彼女とか？」"
+  },
+  {
+   "id": "clka03:3300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやいやいやいやいや」"
+  },
+  {
+   "id": "clka03:3400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ないないないないないないない」"
+  },
+  {
+   "id": "clka03:3500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなそんなそんなそんな」"
+  },
+  {
+   "id": "clka03:3600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まさかまさかまさかまさか」"
+  },
+  {
+   "id": "clka03:3700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あってたまるか！！！！！」"
+  },
+  {
+   "id": "clka03:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……ハッ。"
+  },
+  {
+   "id": "clka03:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "思わず気持ちが高ぶってしまった。"
+  },
+  {
+   "id": "clka03:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "落ち着け。"
+  },
+  {
+   "id": "clka03:4100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「伊藤と女の子の関係についてはいったん置こう」"
+  },
+  {
+   "id": "clka03:4200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「事実としてカウントできるのは、女の子がこの自撮り写真を撮った時、そばに伊藤が眠っていた。それだけだ」"
+  },
+  {
+   "id": "clka03:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかし、それは一体どういうシチュエーションなんだ？"
+  },
+  {
+   "id": "clka03:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "少なくとも、記憶している限り、新聞部設立以来、僕のキャンピングカーに見も知らぬ女の子を連れて来た事などない。"
+  },
+  {
+   "id": "clka03:4500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ん？ 記憶している限り？」"
+  },
+  {
+   "id": "clka03:4600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしかして！」"
+  },
+  {
+   "id": "clka03:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "スマホを操作して、写真を撮影した日付を確認する。"
+  },
+  {
+   "id": "clka03:4800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっぱり！ 昨日だ！」"
+  },
+  {
+   "id": "clka03:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "昨日の２３時１４分。"
+  },
+  {
+   "id": "clka03:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕の記憶が無い時間帯だ。"
+  },
+  {
+   "id": "clka03:5100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「昨日の深夜、少なくともこの女の子と伊藤はあそこにいたわけだ」"
+  },
+  {
+   "id": "clka03:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "写真には僕の姿は写り込んでいない。だから、その場所に僕がいたかどうかはわからない。"
+  },
+  {
+   "id": "clka03:5300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ただまあ、いたと考えるのが妥当だろうな」"
+  },
+  {
+   "id": "clka03:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、朝に目が覚めた時、キャンピングカーには僕しかいなかった。"
+  },
+  {
+   "id": "clka03:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "つまり、女の子だけではなく、伊藤も消えた事になる。"
+  },
+  {
+   "id": "clka03:5600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「意味がわからないな……」"
+  },
+  {
+   "id": "clka03:5700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka03:5800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さて、他に対して特徴的な物は写ってないし、風景から得られる情報はこれくらいのようだな」"
+  },
+  {
+   "id": "clka03:5900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いよいよ、本丸へと進もう」"
+  },
+  {
+   "id": "clka03:6000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「この、中央に写っている、女の子だが……」"
+  },
+  {
+   "id": "clka03:6100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka03:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はようやく、これまで意識的に避けていた、写真中央の被写体の方へと視線を向けようとした。"
+  },
+  {
+   "id": "clka03:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "途端に、ブラウスのはだけた胸元に視線が強制的に吸い込まれて行く。"
+  },
+  {
+   "id": "clka03:6400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああああああああああ！」"
+  },
+  {
+   "id": "clka03:6500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「い、いかんいかん！ 冷静になれ！」"
+  },
+  {
+   "id": "clka03:6600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「冷静に。冷静に。事実だけを拾い上げるんだ」"
+  },
+  {
+   "id": "clka03:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "深呼吸を２回してから、考察を再開する。"
+  },
+  {
+   "id": "clka03:6800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まず、この女の子は碧朋学園の制服を着ている」"
+  },
+  {
+   "id": "clka03:6900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「！」"
+  },
+  {
+   "id": "clka03:7000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「つ、つまり、こ、この学校の、生徒だ」"
+  },
+  {
+   "id": "clka03:7100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「！！」"
+  },
+  {
+   "id": "clka03:7200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だだだ、だから、この子が誰なのかは、顔からは判断できない」"
+  },
+  {
+   "id": "clka03:7300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「個人を特定するための身体的特徴は……」"
+  },
+  {
+   "id": "clka03:7400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああああああああああ！」"
+  },
+  {
+   "id": "clka03:7500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「む、無理だ。この写真を長時間直視することは僕にはできない」"
+  },
+  {
+   "id": "clka03:7600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「刺激が強すぎる……」"
+  },
+  {
+   "id": "clka03:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ネットで検索したら無限にでてくるようなエロ自撮り写真とはわけが違う。"
+  },
+  {
+   "id": "clka03:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この写真に写っているのはこの学園の女子生徒で、しかも僕のメアドを知っている。"
+  },
+  {
+   "id": "clka03:7900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "つまり、僕の知っている人物の可能性が高いのだ。"
+  },
+  {
+   "id": "clka03:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕が知っているかもしれない女の子が、制服の胸元を開き、スカートをたぐり、イタズラっぽく微笑みながら撮った写真なのだ。"
+  },
+  {
+   "id": "clka03:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかも、僕のキャンピングカーの中で！！！"
+  },
+  {
+   "id": "clka03:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "オーラのように画像から生々しさと艶っぽさが醸し出されてきて、思考がどうにもまとまらない。"
+  },
+  {
+   "id": "clka03:8300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……落ち着け。まずは被写体の特定を優先するんだ」"
+  },
+  {
+   "id": "clka03:8400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「写真の他の部分から、本人を特定できる情報はないかな？」"
+  },
+  {
+   "id": "clka03:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は写真を拡大し、刺激の強い肌色部分を避けながらスクロールしていく。"
+  },
+  {
+   "id": "clka03:8600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clka03:8700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んん……」"
+  },
+  {
+   "id": "clka03:8800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んんん……！」"
+  },
+  {
+   "id": "clka03:8900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んんんん……！！」"
+  },
+  {
+   "id": "clka03:9000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んんんんん……！！！」"
+  },
+  {
+   "id": "clka03:9100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……はあ」"
+  },
+  {
+   "id": "clka03:9200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だめだな」"
+  },
+  {
+   "id": "clka03:9300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「必要な情報が全然足りない」"
+  },
+  {
+   "id": "clka03:9400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「この写真だけで特定するのは不可能だ」"
+  },
+  {
+   "id": "clka03:9500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「当たり前だけど、推理小説のように都合よくは行かないな」"
+  },
+  {
+   "id": "clka03:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「部室に戻って、伊藤が帰って来るのを待つか」"
+  },
+  {
+   "id": "clka03:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "伊藤が知っているなら、それで解決だ。"
+  }
+ ],
+ "context_after": []
+}

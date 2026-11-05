@@ -1,0 +1,807 @@
+{
+ "packet_id": "CC0189-clse07-P30",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "케이 씨",
+  "쿠노사토 미오"
+ ],
+ "context_before": [
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「あ、ああ、もちろん」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「ん？」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「あ、いや、なんでもない。ちょっと面倒なヤツからの電話でな」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「こいつから連絡がある時は、ロクなことがない」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「全くだ。というか、もうアンタと会うことはないと思っていたんだが」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「私は医者じゃないぞ。診察ならこの病院でいくらでも出来るだろう」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:284200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなバカなことがあるか。カオスチャイルド症候群者は、全員、すでに治療のめどが立っている。完全に治癒した者も多い」"
+  },
+  {
+   "id": "clse07:284300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「この私も、全員の脳の断層写真まで確認しているんだ。症候群者が残っているはずが――」"
+  },
+  {
+   "id": "clse07:284400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これは……」"
+  },
+  {
+   "id": "clse07:284500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「カオスチャイルド症候群……しかも、能力者に間違いないんだな？」"
+  },
+  {
+   "id": "clse07:284600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なぜ治らない？ 宮代拓留の脳から作り出した治療用イメージは？」"
+  },
+  {
+   "id": "clse07:284700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なに？」"
+  },
+  {
+   "id": "clse07:284800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こんなに厳重に拘束する必要があるのか？」"
+  },
+  {
+   "id": "clse07:284900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふざけたことを……」"
+  },
+  {
+   "id": "clse07:285000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:285100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「因果律を、歪曲する能力……だと？」"
+  },
+  {
+   "id": "clse07:285200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……！」"
+  },
+  {
+   "id": "clse07:285300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（いったい、ヤツはいつから？）"
+  },
+  {
+   "id": "clse07:285400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……和久井……貴様……ッ」"
+  },
+  {
+   "id": "clse07:285500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「確かに私たちが罪を犯したことは認める。だがな、神成さん？ あんたが今日こうして渋谷の街をアテもなくうろついているのは、私たちと同じ理由だと思うのだが、どうだろう？」"
+  },
+  {
+   "id": "clse07:285600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうであれば、こんな所で私たち相手に世間話をしている場合ではないと思うが？」"
+  },
+  {
+   "id": "clse07:285700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「毒舌とは心外だ。私は至極まっとうなことを言っているつもりだが」"
+  },
+  {
+   "id": "clse07:285800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほう。『ニュージェネレーションの狂気』と、事件発生日の一致について……か。オマエの目はただのフシ穴ではないようだな」"
+  },
+  {
+   "id": "clse07:285900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「実は、私もずっと考えていたんだ。六年前の事件と、なぜ同じ日なんだろうと」"
+  },
+  {
+   "id": "clse07:286000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「“犯人”？ いったい、なんの犯人だ？」"
+  },
+  {
+   "id": "clse07:286100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代、よく考えてみろ。今回の件に犯人なんてものが存在するか？」"
+  },
+  {
+   "id": "clse07:286200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「たとえば、第一の事件『こっち見んなー！』だが、あれはただ消費期限切れのチーズを、それと気が付かないで食べてしまっただけだ」"
+  },
+  {
+   "id": "clse07:286300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いわば、本人のミス以外のなにものでもない」"
+  },
+  {
+   "id": "clse07:286400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「続いて『音漏れてん』か？ あれも、ネット上では事件なのかも知れないが、リアルな社会の中では、やっぱり本人がミスをしただけのことで、事件扱いにすらなっていない」"
+  },
+  {
+   "id": "clse07:286500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ただの⟦rb⟧偶然⟦rt⟧⟦rbc⟧●●⟦/r⟧」"
+  },
+  {
+   "id": "clse07:286600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あるいは、そうじゃないかも知れない」"
+  },
+  {
+   "id": "clse07:286700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それが判然としないから、私も思考がまとまらずに困ってるんだ」"
+  },
+  {
+   "id": "clse07:286800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「ただ、もしも１０月２３日にまで何かが起こるようであれば……確率的にも、さすがに偶然とは言いがたいな」"
+  },
+  {
+   "id": "clse07:286900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「ふむ。……それなら私も同行させてもらおう」"
+  },
+  {
+   "id": "clse07:287000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「なんだ、イヤなのか？」"
+  },
+  {
+   "id": "clse07:287100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「危険？ 何か事件が発生するような情報を持ってるんだな、警察は？」"
+  },
+  {
+   "id": "clse07:287200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「⟦rb⟧発火能力者⟦rt⟧パイロキネシスト⟦/r⟧だと言うのか……？」"
+  },
+  {
+   "id": "clse07:287300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「きゃっ……」"
+  },
+  {
+   "id": "clse07:287400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「本当だ。こんな男の彼女だと思われたのなら、実に心外だぞ」"
+  },
+  {
+   "id": "clse07:287500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「なるほど。連続放火事件の真相は、そういうことか」"
+  },
+  {
+   "id": "clse07:287600",
+   "type": "dialogue",
+   "speaker": "ケイさん",
+   "speaker_ko": "케이 씨",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「こんばんは。渋谷にうず、ケイさんです。ただいまのドッキリご覧いただけましたか？」"
+  },
+  {
+   "id": "clse07:287700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "케이 씨",
+   "next_speaker": null,
+   "jp": "「おい、お前」"
+  },
+  {
+   "id": "clse07:287800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "케이 씨",
+   "next_speaker": null,
+   "jp": "「何をニヤニヤしているのか知らんが、歩く時はちゃんと前を見て歩け」"
+  },
+  {
+   "id": "clse07:287900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "케이 씨",
+   "next_speaker": null,
+   "jp": "「していだだろう。遠くから見ていても気持ち悪いくらいにな」"
+  },
+  {
+   "id": "clse07:288000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "케이 씨",
+   "next_speaker": null,
+   "jp": "「なんだ、客に向かって失礼だな、君は」"
+  },
+  {
+   "id": "clse07:288100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "케이 씨",
+   "next_speaker": null,
+   "jp": "「なに。ちょうどそこの刑事と一緒にいる時に、面白そうな話が入ってきたものでな」"
+  },
+  {
+   "id": "clse07:288200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "케이 씨",
+   "next_speaker": null,
+   "jp": "「せっかくだから、子育てに悪戦苦闘する男子学生の姿を見てやろうと思ったんだよ」"
+  },
+  {
+   "id": "clse07:288300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "케이 씨",
+   "next_speaker": null,
+   "jp": "「それにしても、この子はさっきから寝てばかりじゃないか。ちっともお前が悪戦苦闘する様を見られやしない」"
+  },
+  {
+   "id": "clse07:288400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "케이 씨",
+   "next_speaker": null,
+   "jp": "「ふむ……しかし、赤ん坊と言うのは興味深い生き物だな。それに……」"
+  },
+  {
+   "id": "clse07:288500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんだ、この柔らかさは？ 自然界において、これだけ柔らかくて滑らかなものはそうそう無いぞ」"
+  },
+  {
+   "id": "clse07:288600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、おい！ 宮代！ 泣き出してしまったぞ。どうにかしてくれ」"
+  },
+  {
+   "id": "clse07:288700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、何とかって……どうすればいいんだ？」"
+  },
+  {
+   "id": "clse07:288800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……卑怯だぞ！ おい、宮代っ……ど、どうすれば……」"
+  },
+  {
+   "id": "clse07:288900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「抱っこ！？ この赤ん坊を、私が、か？」"
+  },
+  {
+   "id": "clse07:289000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、お前がやってくれ、宮代っ」"
+  },
+  {
+   "id": "clse07:289100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clse07:289200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だ、ダメだ！ 無理だ！ 私に出来るはずがないっ！」"
+  },
+  {
+   "id": "clse07:289300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くっ……」"
+  },
+  {
+   "id": "clse07:289400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こ、こうか……？ これでいいのか？」"
+  },
+  {
+   "id": "clse07:289500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、泣き止まないじゃないか！ むしろ泣き声が激しくなったぞ！ おい、宮代ぉ〜っ！」"
+  },
+  {
+   "id": "clse07:289600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「揺らす……難しい注文を……！」"
+  },
+  {
+   "id": "clse07:289700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前……楽しんでるな……」"
+  },
+  {
+   "id": "clse07:289800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「笑顔……笑顔、笑顔……」"
+  },
+  {
+   "id": "clse07:289900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほ、ほうら、もう怖くないぞ？ な？ だから泣きやめ。頼むから」"
+  },
+  {
+   "id": "clse07:290000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「にぃぃぃ〜」"
+  },
+  {
+   "id": "clse07:290100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「笑った！ ほら、笑ったぞ！！ ははっ、どうだ、参ったか！」"
+  },
+  {
+   "id": "clse07:290200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい、お前。今のうちにたくさんの事を見聞きするんだぞ」"
+  },
+  {
+   "id": "clse07:290300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「人間の脳の８割は、乳児期に出来上がるというからな」"
+  },
+  {
+   "id": "clse07:290400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「優秀な脳に育つがいい。そうすれば私の研究材料くらいにはしてやる」"
+  },
+  {
+   "id": "clse07:290500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、また笑ったな。なかなか聞き分けの良い奴だ」"
+  },
+  {
+   "id": "clse07:290600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだな。何らかの精神的な理由から、脳に負担がかかり、ギガロマニアックスとしての能力を制限されるということは考えられる……」"
+  },
+  {
+   "id": "clse07:290700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「逆？ つまり、能力が制御できなくなるということか？」"
+  },
+  {
+   "id": "clse07:290800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふむ……そういう症例はあまり聞いたことがないが、確かに有り得ることかもしれないな」"
+  },
+  {
+   "id": "clse07:290900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっかいなことに人間ってヤツは、仮に本人がそう願ったとしても、深層心理で拒絶してしまうということがある」"
+  },
+  {
+   "id": "clse07:291000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その場合はやはり、制御できなくなるかもしれない」"
+  },
+  {
+   "id": "clse07:291100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もちろん、原因を取り除くしかないだろうな」"
+  },
+  {
+   "id": "clse07:291200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「能力暴走の原因となっている心的ストレスを取り除いてやることで、元のように力を制御できるようになるだろう」"
+  },
+  {
+   "id": "clse07:291300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい、宮代。その口ぶりだと、そういう症例があったということか？ そうなんだな！？」"
+  },
+  {
+   "id": "clse07:291400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「今すぐそいつを私のところへ連れてこい！ 早速、頭の中を調べてみて――」"
+  },
+  {
+   "id": "clse07:291500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「久しぶりに学校に来たら、随分と面白そうなことをやってるじゃないか」"
+  },
+  {
+   "id": "clse07:291600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前が何度電話しても出ないからに決まってるだろう」"
+  },
+  {
+   "id": "clse07:291700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それにしても、見ろ、あの川原とかいう男の顔。この状況に陶酔しきっている醜悪な顔だ」"
+  },
+  {
+   "id": "clse07:291800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあ、これまでずっと女王陛下に仕えるナンバー２だったのが、初めて全校生徒の注目と支持を浴びたんだからな」"
+  },
+  {
+   "id": "clse07:291900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「満足感に酔いしれている事だろう……」"
+  },
+  {
+   "id": "clse07:292000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ、そうだ。来栖乃々との間に立ちふさがるお前を排除できる満足感……」"
+  },
+  {
+   "id": "clse07:292100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そしてそれはそのまま、来栖乃々に対する優越感でもあり征服欲が満たされつつあることへの充足感でもある……」"
+  },
+  {
+   "id": "clse07:292200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それにしても、これだけの生徒を味方につけるとは……まさか、あいつも何らかの能力に覚醒した……？」"
+  },
+  {
+   "id": "clse07:292300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、仮にそうだとしてもあの様子ではまだ不完全というところか……」"
+  },
+  {
+   "id": "clse07:292400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふんっ……茶番だな……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「行ってしまったか……」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「なんでとは随分なご挨拶だな。人がわざわざ例の騒動について説明してやろうと思ったのに」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「で、例の件だが、やはり何らかのギガロマニアックスの能力が発動していただろうというのが私の見解だ」"
+  }
+ ]
+}

@@ -1,0 +1,932 @@
+{
+ "packet_id": "CC0052-clah10-P01",
+ "kit_version": "1.0",
+ "source_file": "clah10.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clah10:0",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おはよう、拓留」"
+  },
+  {
+   "id": "clah10:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "朝、学校に着いたところで、乃々に会った。"
+  },
+  {
+   "id": "clah10:200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ああ……」"
+  },
+  {
+   "id": "clah10:300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まったく、また朝からそうやって暗い顔して」"
+  },
+  {
+   "id": "clah10:400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「悪かったな。僕は元からこんな顔だ」"
+  },
+  {
+   "id": "clah10:500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あら、今日は随分とご機嫌斜めね。また有村さんとケンカでもした？」"
+  },
+  {
+   "id": "clah10:600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、有村は関係ない！」"
+  },
+  {
+   "id": "clah10:700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……なにも、そんなにムキにならなくても……」"
+  },
+  {
+   "id": "clah10:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "あ……。"
+  },
+  {
+   "id": "clah10:900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あらあら、またそんな皺だらけのシャツなんか着て」"
+  },
+  {
+   "id": "clah10:1000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「え……？」"
+  },
+  {
+   "id": "clah10:1100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「最近はちゃんとしてたと思ったのに、どうしたの……？」"
+  },
+  {
+   "id": "clah10:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "シャツの皺なんて、今まで気にしたこともなかった。"
+  },
+  {
+   "id": "clah10:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "着られれば一緒だと思ってた。"
+  },
+  {
+   "id": "clah10:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そうか……あいつ……。"
+  },
+  {
+   "id": "clah10:1500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「拓留？」"
+  },
+  {
+   "id": "clah10:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "昼のチャイムが鳴るなり、伊藤がやってきた。"
+  },
+  {
+   "id": "clah10:1700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あー、終わった終わった。なあ、昼飯――」"
+  },
+  {
+   "id": "clah10:1800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「悪い、伊藤。僕ちょっと行くところあるから」"
+  },
+  {
+   "id": "clah10:1900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ん？ ああ、そうか。また有村の愛妻弁当かー」"
+  },
+  {
+   "id": "clah10:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "確か有村の教室は……。"
+  },
+  {
+   "id": "clah10:2100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれ、タク？」"
+  },
+  {
+   "id": "clah10:2200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ああ、尾上。いいところに」"
+  },
+  {
+   "id": "clah10:2300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なになに、私に何か用かな？」"
+  },
+  {
+   "id": "clah10:2400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あー、いや……」"
+  },
+  {
+   "id": "clah10:2500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なぁんだ、私じゃなくて、ひなちゃんに用か……」"
+  },
+  {
+   "id": "clah10:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "普段は察しが悪いくせに、こういう時だけ勘がいいな。"
+  },
+  {
+   "id": "clah10:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "もしかして能力使ったのか？"
+  },
+  {
+   "id": "clah10:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "まあ、どっちだっていい。"
+  },
+  {
+   "id": "clah10:2900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれ？ でも今日ひなちゃん休みじゃなかったっけ？」"
+  },
+  {
+   "id": "clah10:3000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そう……なのか？」"
+  },
+  {
+   "id": "clah10:3100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う？ タク、ひなちゃんと一緒だったんじゃないの？」"
+  },
+  {
+   "id": "clah10:3200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ、ああ……まあ、ちょっといろいろあって……」"
+  },
+  {
+   "id": "clah10:3300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうなんだ……」"
+  },
+  {
+   "id": "clah10:3400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「悪いな、ありがと」"
+  },
+  {
+   "id": "clah10:3500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う、うん……」"
+  },
+  {
+   "id": "clah10:3600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah10:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "学校を休んだだなんて、いったいどうしたんだ？"
+  },
+  {
+   "id": "clah10:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "やっぱり、この前あんな格好で料理してたから、風邪でも引いたんじゃ……。"
+  },
+  {
+   "id": "clah10:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "それとも、家でまた何かあったとか。"
+  },
+  {
+   "id": "clah10:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "……ああ、まただ。"
+  },
+  {
+   "id": "clah10:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "僕はまた有村のことを考えてる。"
+  },
+  {
+   "id": "clah10:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "昨日からずっとこうだ。"
+  },
+  {
+   "id": "clah10:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "何かっていうと、あいつのことばっかり考えてしまっている。"
+  },
+  {
+   "id": "clah10:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "起きてから学校に向かう間も、授業中も休憩時間も帰ってからも。"
+  },
+  {
+   "id": "clah10:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "どうしてこんなに……。"
+  },
+  {
+   "id": "clah10:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いや、その理由は自分でももう、とっくにわかってる。"
+  },
+  {
+   "id": "clah10:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "有村に会いたいんだ、僕は。"
+  },
+  {
+   "id": "clah10:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "うるさくて、調子が良くて気分屋で、面倒で鬱陶しいなんて思ったこともあったけど、それでもあいつといると、僕は楽しいんだ。"
+  },
+  {
+   "id": "clah10:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "楽しかったんだ。"
+  },
+  {
+   "id": "clah10:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この何日間かが。"
+  },
+  {
+   "id": "clah10:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうだよ。"
+  },
+  {
+   "id": "clah10:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "認めよう。"
+  },
+  {
+   "id": "clah10:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "勝負は僕の負けだ。"
+  },
+  {
+   "id": "clah10:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "君の勝ちだよ、有村。"
+  },
+  {
+   "id": "clah10:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はきっと、君に惹かれてるんだ。"
+  },
+  {
+   "id": "clah10:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "くだらない意地の張り合いから始まった争いだったけど、それでも勝負は勝負だ。"
+  },
+  {
+   "id": "clah10:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だから、せめて『まいった』くらい言わせろよ。"
+  },
+  {
+   "id": "clah10:5800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah10:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "スマホを取り出して有村の名前を呼び出す。"
+  },
+  {
+   "id": "clah10:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "何か言葉を打とうと思って、指が止まった。"
+  },
+  {
+   "id": "clah10:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんな文字にした言葉じゃ、本当か嘘かわからないじゃないか。"
+  },
+  {
+   "id": "clah10:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は、ちゃんと声に出して伝えなきゃいけないんだ。"
+  },
+  {
+   "id": "clah10:6300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ…………」"
+  },
+  {
+   "id": "clah10:6400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『迷惑かけたのはわかってる……だから言わないで……』"
+  },
+  {
+   "id": "clah10:6500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『声に……出さないで……』"
+  },
+  {
+   "id": "clah10:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あの時の有村の言葉。"
+  },
+  {
+   "id": "clah10:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ずっと違和感を覚えていた、あの言葉。"
+  },
+  {
+   "id": "clah10:6800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あれはもしかしたら……。"
+  },
+  {
+   "id": "clah10:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦rb⟧僕の⟦rt⟧⟦rbc⟧●●⟦/r⟧⟦rb⟧言葉の⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧真偽を⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧知りたく⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧なかった⟦rt⟧⟦rbc⟧●●●●⟦/r⟧ってことなんじゃないのか？"
+  },
+  {
+   "id": "clah10:7000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "「――！！」"
+  },
+  {
+   "id": "clah10:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は、あの日放り出したままにしていた有村の台本のページを捲った。"
+  },
+  {
+   "id": "clah10:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『僕は雛絵さんのことが好きなんです！』"
+  },
+  {
+   "id": "clah10:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『だから雛絵さんを帰したくありません』"
+  },
+  {
+   "id": "clah10:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『これが嘘偽りのない僕の気持ちです』"
+  },
+  {
+   "id": "clah10:7500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……やっぱ文芸部、向いてないよ、あいつ……」"
+  },
+  {
+   "id": "clah10:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "もしもあの時、僕がこの言葉を口にしていれば、有村は否応なくそれが本当か嘘かわかってしまっただろう。"
+  },
+  {
+   "id": "clah10:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "たとえそれが作られた台詞だとしても。"
+  },
+  {
+   "id": "clah10:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "じゃあ、どうして有村は僕の本心を知りたくなかった？"
+  },
+  {
+   "id": "clah10:7900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "もしも僕の言葉が偽りでなかったとしたら――それは、僕が有村を本当に好きだ、ということになる。"
+  },
+  {
+   "id": "clah10:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "その場合、有村が聞きたくなかった理由はひとつ。"
+  },
+  {
+   "id": "clah10:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "僕に好かれているという事実を知りたくなかったということだ。"
+  },
+  {
+   "id": "clah10:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "どうして？"
+  },
+  {
+   "id": "clah10:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "僕が有村のアプローチに負けて、有村のことを本当に好きになっていたら困るから？"
+  },
+  {
+   "id": "clah10:8400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "好きでもない相手から本気で好意を持たれても困る。だからこそ僕を拒絶した――そういうことになる。"
+  },
+  {
+   "id": "clah10:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でもあの時の有村は心細げな……今にも泣き出してしまいそうな、そんな顔をしていた。"
+  },
+  {
+   "id": "clah10:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あれが、誰かの好意を拒絶する人間の顔だろうか？"
+  },
+  {
+   "id": "clah10:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕にはそうは思えない。"
+  },
+  {
+   "id": "clah10:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "じゃあ、他に理由は？"
+  },
+  {
+   "id": "clah10:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もうひとつ、考えられる理由があるとすればそれは――僕の言葉が嘘だった場合だ。"
+  },
+  {
+   "id": "clah10:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "台本通り『有村の事が好きだ』と、そう告げた僕の言葉が偽りであるなら、実際には僕は本当は有村を好きじゃない、ということになる。"
+  },
+  {
+   "id": "clah10:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もしも、有村がその事実を知ってしまうことを拒絶したのだとするなら、それは何故だ？"
+  },
+  {
+   "id": "clah10:9200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（まさか、有村も僕のことを……？）"
+  },
+  {
+   "id": "clah10:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "自分が好意を寄せている相手が、もしも自分のことを好きでなかったら――。"
+  },
+  {
+   "id": "clah10:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "その事実を知るのが怖いから、有村はあの時、僕に声に出すなと、そう言ったんじゃないのか？"
+  },
+  {
+   "id": "clah10:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "もちろん、僕のことを嫌になり拒絶したという可能性だって有り得る。"
+  },
+  {
+   "id": "clah10:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "でも僕は、もうひとつの可能性を信じたかった。"
+  },
+  {
+   "id": "clah10:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "有村が僕を好きだという可能性を……。"
+  },
+  {
+   "id": "clah10:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "だとしたら、僕はなおさら彼女に会わなきゃいけない。"
+  },
+  {
+   "id": "clah10:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "会って気持ちを声にして伝えなきゃいけない。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "事実を確かめるために。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "でも果たして、有村は会ってくれるだろうか？"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "……違うな。"
+  }
+ ]
+}

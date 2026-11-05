@@ -1,0 +1,963 @@
+{
+ "packet_id": "CC0274-clyu01-P11",
+ "kit_version": "1.0",
+ "source_file": "clyu01.msb",
+ "speakers_in_packet": [
+  "겐 씨",
+  "남자",
+  "미야시로 타쿠루",
+  "오노에 세리카",
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "jp": "「バッカ。あんたなんて、プロデュースしてもらっても売れるわけないじゃん。それより私が」"
+  },
+  {
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "jp": "「いいえ、私よ！」"
+  },
+  {
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "jp": "「何言ってるの。私！！」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（まったく。困ったもんだ……）"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "最近はちょっと歩くだけで、みんなこれだ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "お前たちみたいな、何の取り柄もない女子を僕が相手にするとでも思ってるのか？"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu01:99500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "まあでも、そう思わせてしまう僕の才能がいけないんだけど。"
+  },
+  {
+   "id": "clyu01:99600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "そういう意味では、彼女たちに罪は無い。"
+  },
+  {
+   "id": "clyu01:99700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "むしろ罪なのは僕の方だ。"
+  },
+  {
+   "id": "clyu01:99800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "それに僕の手にかかれば、あの子たちのようにどんなに冴えない女の子だって、アイドルにしてみせる。"
+  },
+  {
+   "id": "clyu01:99900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "なぜなら僕は……名プロデューサー、宮代拓留だから！"
+  },
+  {
+   "id": "clyu01:100000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「プロデューサー」"
+  },
+  {
+   "id": "clyu01:100100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ん？ どうした、尾上くん？」"
+  },
+  {
+   "id": "clyu01:100200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「この後の予定ですが、テレビ局の社長と会食。その後――」"
+  },
+  {
+   "id": "clyu01:100300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「悪いが、夜の予定はすべてキャンセルしてくれたまえ」"
+  },
+  {
+   "id": "clyu01:100400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ですが……」"
+  },
+  {
+   "id": "clyu01:100500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「二度は言わせるな」"
+  },
+  {
+   "id": "clyu01:100600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はい……わかりました……」"
+  },
+  {
+   "id": "clyu01:100700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "お偉いさんとの会食も、さすがに連日となるとつまらない。"
+  },
+  {
+   "id": "clyu01:100800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それに――。"
+  },
+  {
+   "id": "clyu01:100900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はプロデューサーだ。"
+  },
+  {
+   "id": "clyu01:101000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유이",
+   "jp": "「マウンテンビューとミルクを」"
+  },
+  {
+   "id": "clyu01:101100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "最も目をかけなければならないのは、プロデュースしているアイドルなのだ。"
+  },
+  {
+   "id": "clyu01:101200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "とはいえ、僕だってボランティアでやってるわけじゃない。"
+  },
+  {
+   "id": "clyu01:101300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유이",
+   "jp": "「……それで？」"
+  },
+  {
+   "id": "clyu01:101400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私、どうしたらいいでしょうか？」"
+  },
+  {
+   "id": "clyu01:101500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「どうしたら……とは？」"
+  },
+  {
+   "id": "clyu01:101600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私、アイドルとしてもっと売れたいんです。でも、どうしたらいいかわからなくて」"
+  },
+  {
+   "id": "clyu01:101700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それなりの見返りを望んだところで、罰は当たらないはずだ。"
+  },
+  {
+   "id": "clyu01:101800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「……売れるためには覚悟が必要だ。君にその覚悟はあるのかい？」"
+  },
+  {
+   "id": "clyu01:101900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もちろんです！ トップアイドルになるためなら私、どんなことでもします」"
+  },
+  {
+   "id": "clyu01:102000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「どんなことでも……ね。本当に？」"
+  },
+  {
+   "id": "clyu01:102100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はいっ。どんなことでも！」"
+  },
+  {
+   "id": "clyu01:102200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「そうか……それじゃあ……」"
+  },
+  {
+   "id": "clyu01:102300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「――！」"
+  },
+  {
+   "id": "clyu01:102400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ポケットから取り出した鍵を目の前にぶら下げると、少女の顔色が変わった。"
+  },
+  {
+   "id": "clyu01:102500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「この意味……わかるよね？」"
+  },
+  {
+   "id": "clyu01:102600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu01:102700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「わかるよね？」"
+  },
+  {
+   "id": "clyu01:102800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……はい」"
+  },
+  {
+   "id": "clyu01:102900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu01:103000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「緊張してるのかい？」"
+  },
+  {
+   "id": "clyu01:103100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……少し」"
+  },
+  {
+   "id": "clyu01:103200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「心配しなくてもいい……優しくするから……」"
+  },
+  {
+   "id": "clyu01:103300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「プロデューサー……さん……」"
+  },
+  {
+   "id": "clyu01:103400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clyu01:103500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「大丈夫……天井のシミを数えてる間に終わるよ……」"
+  },
+  {
+   "id": "clyu01:103600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「プロデューサー……」"
+  },
+  {
+   "id": "clyu01:103700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu01:103800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留兄？ どうしたの？」"
+  },
+  {
+   "id": "clyu01:103900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「え？ あ、ああ」"
+  },
+  {
+   "id": "clyu01:104000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ヤバい。"
+  },
+  {
+   "id": "clyu01:104100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "また妄想に耽ってしまった！"
+  },
+  {
+   "id": "clyu01:104200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "第一、いくら妄想にしても古すぎるだろ、僕！"
+  },
+  {
+   "id": "clyu01:104300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "天井のシミとか、いったいいつの時代だよ！"
+  },
+  {
+   "id": "clyu01:104400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかも、結衣は妹だぞ！！！"
+  },
+  {
+   "id": "clyu01:104500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しっかりしろ、僕！！！"
+  },
+  {
+   "id": "clyu01:104600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "남자",
+   "jp": "「と、とにかく僕に任せておけば何とかするから」"
+  },
+  {
+   "id": "clyu01:104700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu01:104800",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれ？ なあ……今のヤツ、アレじゃね？ 昔、アイドルのプロデューサーとかやってた……」"
+  },
+  {
+   "id": "clyu01:104900",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「は？ 誰それ？ 知らね」"
+  },
+  {
+   "id": "clyu01:105000",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だよな。一瞬だけ売れかけたアイドルで、その後すぐ消えたし」"
+  },
+  {
+   "id": "clyu01:105100",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ンなヤツ、知るわけねーって」"
+  },
+  {
+   "id": "clyu01:105200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "남자",
+   "next_speaker": null,
+   "jp": "「はぁ……」"
+  },
+  {
+   "id": "clyu01:105300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "アイドル活動か……懐かしいな。"
+  },
+  {
+   "id": "clyu01:105400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "最初は結構いい線いくと思ったんだよ。"
+  },
+  {
+   "id": "clyu01:105500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "ネット上ではそれなりにファンもついて、ライブハウスで活動するようになって、テレビにも少しは出るようになって……。"
+  },
+  {
+   "id": "clyu01:105600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "だけど……僕が甘かった。"
+  },
+  {
+   "id": "clyu01:105700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "アイドル活動なんて、やっぱりそんなに簡単なものじゃなかったんだ。"
+  },
+  {
+   "id": "clyu01:105800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "겐 씨",
+   "jp": "今の時代、アイドルはどれだけ活動を長く続けられるかが勝負だ。"
+  },
+  {
+   "id": "clyu01:105900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "겐 씨",
+   "jp": "長い長い下積みを経て、多くの人に認知されるようになって、ようやく小さな花を咲かせる、それがアイドルだ。"
+  },
+  {
+   "id": "clyu01:106000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "겐 씨",
+   "jp": "そのためにはやはり資金が必要で、僕たちはその根本の部分で間違っていた。"
+  },
+  {
+   "id": "clyu01:106100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "겐 씨",
+   "jp": "おかげで結衣と結人の活動はあっという間に終了。"
+  },
+  {
+   "id": "clyu01:106200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "겐 씨",
+   "jp": "それどころか借金を背負ったせいで、ふたりとも他の事務所に強制的に移籍させられる始末。"
+  },
+  {
+   "id": "clyu01:106300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "겐 씨",
+   "jp": "その後、地道に活動はしてはいたみたいだけど、今やどうしているのか、名前すらも聞かなくなってしまった。"
+  },
+  {
+   "id": "clyu01:106400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "겐 씨",
+   "jp": "……僕のせいだ。"
+  },
+  {
+   "id": "clyu01:106500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "겐 씨",
+   "jp": "全部、僕の……。"
+  },
+  {
+   "id": "clyu01:106600",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おー、タク。ほれ、例のもの、また手に入ったぞ」"
+  },
+  {
+   "id": "clyu01:106700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": null,
+   "jp": "「ああ……ありがと……」"
+  },
+  {
+   "id": "clyu01:106800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦col:280aa02d1400⟧クールキャットプレス⟦col:800000⟧か。"
+  },
+  {
+   "id": "clyu01:106900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今となってはこれも……。"
+  },
+  {
+   "id": "clyu01:107000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": null,
+   "jp": "「あれ？ なんだ、これ？」"
+  },
+  {
+   "id": "clyu01:107100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "クールキャットプレスじゃない……。"
+  },
+  {
+   "id": "clyu01:107200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ゲンさんめ、間違って違うの持ってきたな。"
+  },
+  {
+   "id": "clyu01:107300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ていうか、この本……ちょっとアダルトな奴じゃないか。"
+  },
+  {
+   "id": "clyu01:107400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": null,
+   "jp": "「うわ……エロいな……」"
+  },
+  {
+   "id": "clyu01:107500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんな本持ってきて……まったく困ったな、ゲンさんにも……。"
+  },
+  {
+   "id": "clyu01:107600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "と言いつつ、ページを捲る手が止まらない僕なんだけど。"
+  },
+  {
+   "id": "clyu01:107700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――！？」"
+  },
+  {
+   "id": "clyu01:107800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "おい……嘘だろ……これ……。"
+  },
+  {
+   "id": "clyu01:107900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『元アイドルユニットが魅せた。ギリギリ限界ショット……』」"
+  },
+  {
+   "id": "clyu01:108000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この⟦col:280aa02d1400⟧袋とじ⟦col:800000⟧……のふたり……。"
+  },
+  {
+   "id": "clyu01:108100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これって……。"
+  },
+  {
+   "id": "clyu01:108200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣……結人……」"
+  },
+  {
+   "id": "clyu01:108300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "際どい格好で煽情的なポーズをとっているふたり。"
+  },
+  {
+   "id": "clyu01:108400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それは、まぎれもなく結衣と結人だった。"
+  },
+  {
+   "id": "clyu01:108500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ…………」"
+  },
+  {
+   "id": "clyu01:108600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕のせいだ。"
+  },
+  {
+   "id": "clyu01:108700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕がプロデューサーなんて呼ばれて浮かれて、軽々しくアイドル活動なんてやらせたから……。"
+  },
+  {
+   "id": "clyu01:108800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だからふたりはこんな……。"
+  },
+  {
+   "id": "clyu01:108900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「う、うぅ……」"
+  },
+  {
+   "id": "clyu01:109000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ごめんな、結衣、結人。"
+  },
+  {
+   "id": "clyu01:109100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんな目に遭わせて。"
+  },
+  {
+   "id": "clyu01:109200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "せめてもの僕の罪滅ぼしとして……。"
+  },
+  {
+   "id": "clyu01:109300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はこの写真を、目に焼き付けておくことにするよ。"
+  },
+  {
+   "id": "clyu01:109400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ずっと……。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ずっと。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「ねえ、拓留兄……？」"
+  }
+ ]
+}

@@ -1,0 +1,959 @@
+{
+ "packet_id": "CC0219-clse07-P60",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「え？ どこへ？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「そ、そんなことない。僕には大いなる使命が――」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「はい」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「別に……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「げ……生徒会室じゃないか」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（仕方ない）"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:577300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ち、違う！ 僕は誰にも言って……ません……」"
+  },
+  {
+   "id": "clse07:577400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、来栖！ これに関しては僕は――」"
+  },
+  {
+   "id": "clse07:577500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい」"
+  },
+  {
+   "id": "clse07:577600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、別に僕は気にしてないし……」"
+  },
+  {
+   "id": "clse07:577700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ホントだってば」"
+  },
+  {
+   "id": "clse07:577800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:577900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……来栖……本気で言ってるのか、それ」"
+  },
+  {
+   "id": "clse07:578000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんでだよ。来栖は来栖じゃないか」"
+  },
+  {
+   "id": "clse07:578100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そもそも、僕はもう青葉寮では暮らしてないんだ。それなのに、学校で“乃々”なんて呼んだら、変に思われるだろ」"
+  },
+  {
+   "id": "clse07:578200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだけど、中には知らない奴もいるわけで……」"
+  },
+  {
+   "id": "clse07:578300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや。さすがにそういうわけにもいかないだろ」"
+  },
+  {
+   "id": "clse07:578400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ 家って、青葉寮に？」"
+  },
+  {
+   "id": "clse07:578500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……い、言ったろ。僕はひとりが良くて、あの寮を出てったんだ。今さら、家族ごっこなんかに戻れるわけがない」"
+  },
+  {
+   "id": "clse07:578600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ち、違う！ 僕が出て行ったのは父さんとケンカしたからで、そんな――」"
+  },
+  {
+   "id": "clse07:578700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぐ……」"
+  },
+  {
+   "id": "clse07:578800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:578900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……わかったよ」"
+  },
+  {
+   "id": "clse07:579000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ。でも、ずっとじゃない。とりあえず今日だけだ」"
+  },
+  {
+   "id": "clse07:579100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと待て。その前に部室でカバンとってこなきゃダメだろ」"
+  },
+  {
+   "id": "clse07:579200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:579300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや……」"
+  },
+  {
+   "id": "clse07:579400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、お邪魔します」"
+  },
+  {
+   "id": "clse07:579500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えっと……ただいま……」"
+  },
+  {
+   "id": "clse07:579600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、おい……なんだよ、いきなり」"
+  },
+  {
+   "id": "clse07:579700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「出て行ったからって、遠くへ行ったわけじゃないんだ。会おうと思ったらいつだって会えるだろ」"
+  },
+  {
+   "id": "clse07:579800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣……」"
+  },
+  {
+   "id": "clse07:579900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えと……どういうことだ？」"
+  },
+  {
+   "id": "clse07:580000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣……」"
+  },
+  {
+   "id": "clse07:580100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ただいま」"
+  },
+  {
+   "id": "clse07:580200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あれ……そういえば来栖は？」"
+  },
+  {
+   "id": "clse07:580300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……いや……」"
+  },
+  {
+   "id": "clse07:580400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「の、乃々はどうしたんだ？」"
+  },
+  {
+   "id": "clse07:580500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……ああ、そうだな。じゃあそうするよ」"
+  },
+  {
+   "id": "clse07:580600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あれ？ 来栖……じゃなくて、乃々は、まだ戻ってないのか？」"
+  },
+  {
+   "id": "clse07:580700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「用ってわけじゃないけど……」"
+  },
+  {
+   "id": "clse07:580800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clse07:580900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと行ってくる」"
+  },
+  {
+   "id": "clse07:581000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「僕だ。いるんだろ？」"
+  },
+  {
+   "id": "clse07:581100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なかなか戻ってこないからさ。どうしたのかと思って」"
+  },
+  {
+   "id": "clse07:581200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「入っていいか？」"
+  },
+  {
+   "id": "clse07:581300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「開けるぞ」"
+  },
+  {
+   "id": "clse07:581400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「今さら何を気にしてるんだよ？」"
+  },
+  {
+   "id": "clse07:581500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、そんな顔するなって、乃々……じゃなくて、今は泉理か」"
+  },
+  {
+   "id": "clse07:581600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなに後ろめたいなら、いっそのことその姿に戻ればいいのに」"
+  },
+  {
+   "id": "clse07:581700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうして？」"
+  },
+  {
+   "id": "clse07:581800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなこと――」"
+  },
+  {
+   "id": "clse07:581900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「とにかく、家にいる時はその姿に戻るって約束なんだ。今さらそうやって、引きこもったってはじまらないだろ」"
+  },
+  {
+   "id": "clse07:582000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「とにかく、僕は気にしてないからさ」"
+  },
+  {
+   "id": "clse07:582100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いただきます」"
+  },
+  {
+   "id": "clse07:582200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ど、どうした、結衣？」"
+  },
+  {
+   "id": "clse07:582300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん、美味いよ」"
+  },
+  {
+   "id": "clse07:582400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こんなことで嘘言ってもしょうがないだろ」"
+  },
+  {
+   "id": "clse07:582500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうなのか？」"
+  },
+  {
+   "id": "clse07:582600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「へぇ、これを結衣がねぇ……」"
+  },
+  {
+   "id": "clse07:582700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん、ほんとに美味いよ。泉理が作るのとそんなに変わらない」"
+  },
+  {
+   "id": "clse07:582800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「チキンはいらないんじゃなかったの？」"
+  },
+  {
+   "id": "clse07:582900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ！！ それ、一番大きいやつ！」"
+  },
+  {
+   "id": "clse07:583000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くっそ〜……！」"
+  },
+  {
+   "id": "clse07:583100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣？」"
+  },
+  {
+   "id": "clse07:583200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「マジカル……ユイ……」"
+  },
+  {
+   "id": "clse07:583300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、驚くに決まってるだろ！ しかもなんだよ、魔法のアイドルって！」"
+  },
+  {
+   "id": "clse07:583400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は？」"
+  },
+  {
+   "id": "clse07:583500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「も、もちろん知ってたさ！ 僕を誰だと思ってるんだ。そこらの情弱と一緒にしないでくれよ」"
+  },
+  {
+   "id": "clse07:583600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「と、当然、僕は知ってたけどな！」"
+  },
+  {
+   "id": "clse07:583700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣……」"
+  },
+  {
+   "id": "clse07:583800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ゆ……」"
+  },
+  {
+   "id": "clse07:583900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣ぃぃぃぃぃぃぃぃぃ！！」"
+  },
+  {
+   "id": "clse07:584000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:584100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clse07:584200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「い、いや……その……テレビは……後にしなさい……」"
+  },
+  {
+   "id": "clse07:584300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ディソード……！」"
+  },
+  {
+   "id": "clse07:584400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は……？」"
+  },
+  {
+   "id": "clse07:584500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ま、待て、結人！ それは――！」"
+  },
+  {
+   "id": "clse07:584600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結人！ お前、何してんだよ！」"
+  },
+  {
+   "id": "clse07:584700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「マジックって……お前、今の声……」"
+  },
+  {
+   "id": "clse07:584800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やめろっ！！！」"
+  },
+  {
+   "id": "clse07:584900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「と、父さんこそ、なに冷静に見てるんだ！ 切られてるんだぞ、結衣が！」"
+  },
+  {
+   "id": "clse07:585000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ゆ……結衣いぃぃぃぃぃぃぃぃ！！」"
+  },
+  {
+   "id": "clse07:585100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:585200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clse07:585300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「い、いや……その……テレビは……後にしなさい……」"
+  },
+  {
+   "id": "clse07:585400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う、うん……まあ……」"
+  },
+  {
+   "id": "clse07:585500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:585600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んー……」"
+  },
+  {
+   "id": "clse07:585700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………あ、あれ？」"
+  },
+  {
+   "id": "clse07:585800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふあぁ……」"
+  },
+  {
+   "id": "clse07:585900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん……あ、泉理」"
+  },
+  {
+   "id": "clse07:586000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その……さっき、なんで僕の言いたいことがわかったんだ？」"
+  },
+  {
+   "id": "clse07:586100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ごちそうさま」"
+  },
+  {
+   "id": "clse07:586200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「充分だよ。朝から食べ過ぎたくらいだ」"
+  },
+  {
+   "id": "clse07:586300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうした？」"
+  },
+  {
+   "id": "clse07:586400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ」"
+  },
+  {
+   "id": "clse07:586500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「父さんのところに行った。とにかく僕は先に行くから。それじゃ」"
+  },
+  {
+   "id": "clse07:586600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうしたんだよ。わざわざ教室に来るなんて」"
+  },
+  {
+   "id": "clse07:586700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんだ……有村も一緒か……」"
+  },
+  {
+   "id": "clse07:586800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっほーい。ひなえたんがぼくにあいにきてくれたよ。たくるかんげきー』」"
+  },
+  {
+   "id": "clse07:586900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんで怒るんだよ」"
+  },
+  {
+   "id": "clse07:587000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんでわかったんだ！？ まさかお前、能力を……」"
+  },
+  {
+   "id": "clse07:587100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どこがだよっ！」"
+  },
+  {
+   "id": "clse07:587200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぐ……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「いいもの？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「尾上と有村が……ベーグル……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「食べられるんだろうな？」"
+  }
+ ]
+}

@@ -1,0 +1,864 @@
+{
+ "packet_id": "CC0142-clse02-P02",
+ "kit_version": "1.0",
+ "source_file": "clse02.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "에린",
+  "오노에 세리카",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "jp": "「もごもごもご！？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「今日はちょっと事情があってですねっ、別行動なんですっ。なので、こっち側の席に座りますからっ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "不思議そうに首をかしげる店員さんを尻目に、僕はコソコソとＬＡＸ店内にもぐり込み、いつもの席から死角になるあたりにそっと陣取った。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ちょうど、尾上や来栖たちの背中が見え、トーンを落として話している声がなんとか聞こえてくる。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "盗み聞きなんて本当はしたくないけれど……世莉架が病気かも知れないとなれば話は別だ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "しかも、僕に聞かれないようにしなきゃいけない病気って……。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse02:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "子供の頃から一緒に過ごしてきた兄妹同然の僕にショックを与えないよう、検査結果が確定するまでは隠しておこう、とか考えているのかも知れないけど……。"
+  },
+  {
+   "id": "clse02:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "でも、そんなの、かえって残酷だ。"
+  },
+  {
+   "id": "clse02:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "もしも悪い結果が出て……それを急に聞かされたら、余計にショックじゃないか。"
+  },
+  {
+   "id": "clse02:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕は三人の会話の内容をなんとか聞き取ろうと耳を澄ませた。"
+  },
+  {
+   "id": "clse02:8900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「ちょっとせり？ ずっとモゴモゴ言ってるだけじゃ分かんないって。そもそも、何があったの？」"
+  },
+  {
+   "id": "clse02:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "有村の言うとおりだ。"
+  },
+  {
+   "id": "clse02:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "何があったんだ？ ちゃんと話せ！"
+  },
+  {
+   "id": "clse02:9200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「う？ うう……えと……あの……ね」"
+  },
+  {
+   "id": "clse02:9300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「だめよ、有村さん。せかしたら何も言えなくなっちゃうわ。……いいのよ、ゆっくりで、世莉架」"
+  },
+  {
+   "id": "clse02:9400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「う、うん。えとね、えとね……最初、変だなって思ったのは、その……『思考盗撮』がうまく出来なくなったことで……」"
+  },
+  {
+   "id": "clse02:9500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「思考盗撮？」"
+  },
+  {
+   "id": "clse02:9600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、もちろん普段は使ってないよ。のんちゃんに注意されたから。だけど、その……なぜかタクの考えてることがものすごく気になることがあって。つい……タクだけ」"
+  },
+  {
+   "id": "clse02:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "な、なんだとー！？"
+  },
+  {
+   "id": "clse02:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "やっぱり能力を使ってたのか！ しかも僕だけ、だと！？"
+  },
+  {
+   "id": "clse02:9900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「拓留だけ？」"
+  },
+  {
+   "id": "clse02:10000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「うん、ホントだよ！ 新聞部のみんなにはやってない」"
+  },
+  {
+   "id": "clse02:10100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「………。せり？ 私には分かっちゃうんだからダメだよ。ちょっとだけウソついてる」"
+  },
+  {
+   "id": "clse02:10200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「え？ あ、それは……」"
+  },
+  {
+   "id": "clse02:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "尾上は言葉につまった。"
+  },
+  {
+   "id": "clse02:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "が、すぐに真摯な口調で言葉を継いだ。"
+  },
+  {
+   "id": "clse02:10500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そ、それはね、その、違わないけど、違うの」"
+  },
+  {
+   "id": "clse02:10600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「……？」"
+  },
+  {
+   "id": "clse02:10700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「私ね、最近、タクの思考⟦rb⟧だけ⟦rt⟧⟦rbc⟧●●⟦/r⟧が見えなくなっちゃったみたいで……」"
+  },
+  {
+   "id": "clse02:10800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「宮代先輩だけ？」"
+  },
+  {
+   "id": "clse02:10900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……うん。タクにだけ能力が全く働かないの。それで、私、びっくりして、焦っちゃって……」"
+  },
+  {
+   "id": "clse02:11000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「悪いことだとは分かってたんだけど……新聞部のみんなに、ちょっとだけ能力を試してみたことがあるの」"
+  },
+  {
+   "id": "clse02:11100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ごめんなさい、のんちゃん……」"
+  },
+  {
+   "id": "clse02:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "後ろ姿だが、世莉架がうつむいたのはよく分かった。"
+  },
+  {
+   "id": "clse02:11300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うん。今度はウソはついてないみたいですよ、来栖先輩」"
+  },
+  {
+   "id": "clse02:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "有村は、今度は、尾上の言葉を肯定した。"
+  },
+  {
+   "id": "clse02:11500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「分かったわ。そのことは、明日、みんなに謝りましょう？ 私も一緒に謝ってあげるから」"
+  },
+  {
+   "id": "clse02:11600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「それで、能力の結果はどうだったの？」"
+  },
+  {
+   "id": "clse02:11700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……読めるの。⟦rb⟧タク以外の人の心⟦rt⟧⟦rbc⟧●●●●●●●●⟦/r⟧なら誰でも」"
+  },
+  {
+   "id": "clse02:11800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも何回やっても、やっぱり⟦rb⟧タクの心だけ⟦rt⟧⟦rbc⟧●●●●●●⟦/r⟧、読めない……」"
+  },
+  {
+   "id": "clse02:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "それを聞いた来栖と有村が顔を見合わせるのが、ここからでも分かった。"
+  },
+  {
+   "id": "clse02:12000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私、病気になっちゃったのかなあ。久野里さんに診てもらった方がいいのかなあ」"
+  },
+  {
+   "id": "clse02:12100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "不安そうに尾上が言う。"
+  },
+  {
+   "id": "clse02:12200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そのか細い声を聞きながら、僕もようやく色々と合点がいっていた。"
+  },
+  {
+   "id": "clse02:12300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "（そっか。だから尾上のやつ……やたら、僕の眼を……）"
+  },
+  {
+   "id": "clse02:12400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ここ最近、新聞部のルールに反して、尾上が何度も僕の思考を盗撮しようとする素振りを見せていた。"
+  },
+  {
+   "id": "clse02:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それで、なんかおかしいとは思ってたんだ。"
+  },
+  {
+   "id": "clse02:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに、何もしていないのに『能力』が失われていくのは普通じゃない。"
+  },
+  {
+   "id": "clse02:12700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今はまだ、僕の心を読めないだけで済んでいるけれど、やがて、他の人たちの思考も盗撮出来なくなっていく可能性だってあるだろう。"
+  },
+  {
+   "id": "clse02:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だとすれば、尾上が自分で言っている通り、久野里さんにきちんと調べてもらった方がいいに決まってる。"
+  },
+  {
+   "id": "clse02:12900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もしかしたら、思考盗撮をつかさどっている脳の部位に異変が生じているのかも知れないし……だとしたら大変なことだ。"
+  },
+  {
+   "id": "clse02:13000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "（よし！）"
+  },
+  {
+   "id": "clse02:13100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は、自分の席から立ち上がった。"
+  },
+  {
+   "id": "clse02:13200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "来栖たちを尾行したあげく、話を聞いてしまったことについては、彼女たちにかなり怒られるだろう。"
+  },
+  {
+   "id": "clse02:13300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もしかしたら、だけれど……嫌われてしまう可能性だってある。"
+  },
+  {
+   "id": "clse02:13400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "（けど、そんなこと気にしてる場合じゃない）"
+  },
+  {
+   "id": "clse02:13500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だいたい、こんな大事なこと、やっぱり僕にだって相談して欲しい。"
+  },
+  {
+   "id": "clse02:13600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「おい、尾上！」"
+  },
+  {
+   "id": "clse02:13700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "決心を固めると、僕は世莉架たちに声をかけた。"
+  },
+  {
+   "id": "clse02:13800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ひやぁっ！？」"
+  },
+  {
+   "id": "clse02:13900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うわっ！？」"
+  },
+  {
+   "id": "clse02:14000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「た、拓留っ！？」"
+  },
+  {
+   "id": "clse02:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "突然声をかけられた三人は、驚いて一斉に立ち上がった。"
+  },
+  {
+   "id": "clse02:14200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "目を丸くして、なぜ僕がここにいるのか全く理解不能といった表情をしている。"
+  },
+  {
+   "id": "clse02:14300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「悪いとは思ったけど……話は聞かせてもらったよ、尾上。どうして、そんな大事なこと、僕に黙って――」⟦avs⟧⟦n⟧⟦n⟧"
+  },
+  {
+   "id": "clse02:14400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "けれど、僕は最後までその台詞を言い終えることは出来なかった。"
+  },
+  {
+   "id": "clse02:14500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "「いやあああぁぁぁぁーーー！」"
+  },
+  {
+   "id": "clse02:14600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "에린",
+   "jp": "ものすごい悲鳴が、僕の言葉をさえぎった。"
+  },
+  {
+   "id": "clse02:14700",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「な、な、なんじゃ！？」"
+  },
+  {
+   "id": "clse02:14800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "에린",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いつもの店員さんが、いったい何事かとキッチンから慌てて飛び出してきたくらいだ。"
+  },
+  {
+   "id": "clse02:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "에린",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さいわい、店内に僕ら以外のお客さんがいなかったからよかったものの――もしも誰か他に人がいたら、さぞかし迷惑だったろう。"
+  },
+  {
+   "id": "clse02:15000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "에린",
+   "next_speaker": "오노에 세리카",
+   "jp": "「お、おい、尾上！？」"
+  },
+  {
+   "id": "clse02:15100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やだやだやだ！ なんでここにいるの！？ 私の話、聞いちゃった！？」"
+  },
+  {
+   "id": "clse02:15200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いや、あのな……！」"
+  },
+  {
+   "id": "clse02:15300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕は別に悪気があったわけじゃない！"
+  },
+  {
+   "id": "clse02:15400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "むしろ、尾上の事が心配だったから、こうして――！"
+  },
+  {
+   "id": "clse02:15500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "でも、僕はそんな言い訳すら、口にすることは出来なかった。"
+  },
+  {
+   "id": "clse02:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "耳まで真っ赤になっていた尾上は、大きく見開いていた目から、ボロボロと大粒の涙をこぼし始めたからだ。"
+  },
+  {
+   "id": "clse02:15700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う……ぐすっ……うううっ……」"
+  },
+  {
+   "id": "clse02:15800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "幼馴染なのだから、これまでだって、当然ちょっとした喧嘩をすることなんて何回もあった。それで彼女が泣き出してしまったことだって。"
+  },
+  {
+   "id": "clse02:15900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "逆に、小さい頃は、僕の方が泣かされたことだってあったんだ。"
+  },
+  {
+   "id": "clse02:16000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも――。"
+  },
+  {
+   "id": "clse02:16100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんなふうに泣いている尾上世莉架を見たのは――。"
+  },
+  {
+   "id": "clse02:16200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "生まれて初めてのことだった。"
+  },
+  {
+   "id": "clse02:16300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「せ、世莉架？ お前、どうしたって言うん――」"
+  },
+  {
+   "id": "clse02:16400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……っ、ううっ、うえええっ……タクなんて……もうキライっ……だいっキライ！！」"
+  },
+  {
+   "id": "clse02:16500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse02:16600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「わ、わたしっ……ひっく……かえる……っ！」"
+  },
+  {
+   "id": "clse02:16700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕がそれ以上何か言う前に、尾上は席を離れて、パッと走り出した。慌てて後を追おうとしたが、誰かに強く腕をつかまれる。"
+  },
+  {
+   "id": "clse02:16800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "振り返ると、僕を睨みつけている有村と目が合った。"
+  },
+  {
+   "id": "clse02:16900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あんたね、先輩ですけど、我慢できないんで言いますよ！？ なんてことするんですか！？ この大バカ野郎！」"
+  },
+  {
+   "id": "clse02:17000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "は！？ 大バカってどういう意味だ！？"
+  },
+  {
+   "id": "clse02:17100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕が世莉架の病気の心配しちゃいけないっていうのかよ！？"
+  },
+  {
+   "id": "clse02:17200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村さん、もういいから！ 世莉架をお願い！」"
+  },
+  {
+   "id": "clse02:17300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ あ、はい！ 了解っす！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "来栖に⟦rb⟧諭⟦rt⟧さと⟦/r⟧された有村は僕の腕を離すと、尾上の後を追って店を飛び出していった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "後に残された僕は、呆然とそれを見送るほかなかった。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「………」"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "packet_id": "CC0042-clah05-P04",
+ "kit_version": "1.0",
+ "source_file": "clah05.msb",
+ "speakers_in_packet": [
+  "아리무라 히나에"
+ ],
+ "context_before": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「さっきの一連の出来事は、飼い犬にでも噛まれたと思って忘れましょう」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いろいろ間違っているが、言いたいことはわかった。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「そ、そうだな……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "とは言ったけど、あんな強烈な体験、忘れられる自信はもちろんない。"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「よ、よーし。そんじゃ、ご飯、食べましょうか」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「え？ あ、ああ……そうだな……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah05:30000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「ひ、雛絵ちゃんが腕によりをかけて作ったご飯、しっかり味わって食べてくださいよ〜」"
+  },
+  {
+   "id": "clah05:30100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "その後、僕も有村も努めて明るくふるまい、互いにあくまで表面上はさっきのことは無かったことにした。"
+  },
+  {
+   "id": "clah05:30200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "それにしても……さっきの有村の様子、なんだかおかしかった気がしたけれど。"
+  },
+  {
+   "id": "clah05:30300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "……どうやら、気のせいだったようだ。"
+  }
+ ],
+ "context_after": []
+}

@@ -1,0 +1,969 @@
+{
+ "packet_id": "CC0301-clyu18-P02",
+ "kit_version": "1.0",
+ "source_file": "clyu18.msb",
+ "speakers_in_packet": [
+  "BJ",
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "유이",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠노사토 미오",
+  "쿠루스 노노",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「現状と、それからゲンさんとやらの目撃情報を考えるに、やはり何らかのトラブルに巻き込まれたと考えるのが妥当だろうな」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「その＠ちゃんねるの書き込みから、連れていた人間を探すことは出来ないんですか？」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「ＩＰアドレスから、書き込んだ人物を特定することはできる。しかし今すぐに、というのは無理だ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そのためには、事件の可能性があることを示した上で、＠ちゃんねるの運営にデータを提出してもらわなければならない。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そんなに悠長なことをしてはいられない。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「警察に動いてもらうことはできないんですか？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu18:9400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「いなくなって、まだ半日も経っていないんだろう？ 届け出を受理することはできても、実際に捜索となるとな……」"
+  },
+  {
+   "id": "clyu18:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "僕たちからすれば、結衣がこの時間まで帰って来ないという事実だけで、充分におかしいけれど、事件を示す確実な証拠がない限り、警察は動いてくれないということだ。"
+  },
+  {
+   "id": "clyu18:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "となると、後は自分たちで何とかするしかない。"
+  },
+  {
+   "id": "clyu18:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "でも……じゃあどうすればいいのかと言われると、皆目見当がつかない。"
+  },
+  {
+   "id": "clyu18:9800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あとは、百瀬さんにでも頼むか……」"
+  },
+  {
+   "id": "clyu18:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "百瀬さんと言うのは、⟦col:280aa02d1400⟧興信所⟦col:800000⟧を経営している知り合いの女性だ。"
+  },
+  {
+   "id": "clyu18:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "確かにそれくらいしか方法はないのかもしれないが……。"
+  },
+  {
+   "id": "clyu18:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "どうするべきか迷っていると、ポケットのスマホが着信を告げた。"
+  },
+  {
+   "id": "clyu18:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "一瞬、結衣かと期待したけど、発信者は僕の予想を大きく外れる人だった。"
+  },
+  {
+   "id": "clyu18:10300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私だ」"
+  },
+  {
+   "id": "clyu18:10400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さん……悪いけど今、取り込んでて……」"
+  },
+  {
+   "id": "clyu18:10500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ニヤ生を見たか？」"
+  },
+  {
+   "id": "clyu18:10600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ニヤ生？」"
+  },
+  {
+   "id": "clyu18:10700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「⟦col:280aa02d1400⟧ＵＲＬ⟦col:800000⟧を送る。すぐに見ろ」"
+  },
+  {
+   "id": "clyu18:10800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "「待って。今はそんな場合じゃ……」"
+  },
+  {
+   "id": "clyu18:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "問答無用で通話が切られ、代わりにＵＲＬを張ったメッセージが送られてきた。"
+  },
+  {
+   "id": "clyu18:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今はそれどころじゃないのに……と思いながら、久野里さんのただならぬ様子にＵＲＬを開いてみる。"
+  },
+  {
+   "id": "clyu18:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "するとそこには――。"
+  },
+  {
+   "id": "clyu18:11200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "「――！！」"
+  },
+  {
+   "id": "clyu18:11300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「お姉ちゃん！」"
+  },
+  {
+   "id": "clyu18:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "야마조에 우키",
+   "jp": "その場にいた全員が、一斉にニヤ生の画面を覗き込む。"
+  },
+  {
+   "id": "clyu18:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "야마조에 우키",
+   "jp": "そこには、ゴテゴテとした衣装を着せられて、後ろ手に縛られた結衣が映っていた。"
+  },
+  {
+   "id": "clyu18:11600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "BJ",
+   "jp": "「結衣ちゃん……」"
+  },
+  {
+   "id": "clyu18:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "BJ",
+   "jp": "これは……いったいどういうことだ？"
+  },
+  {
+   "id": "clyu18:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "BJ",
+   "jp": "どうして結衣が……。"
+  },
+  {
+   "id": "clyu18:11900",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "유이",
+   "jp": "「ほら、お名前は？」"
+  },
+  {
+   "id": "clyu18:12000",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「ユイ……です……」"
+  },
+  {
+   "id": "clyu18:12100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "BJ",
+   "jp": "画面の外から聞こえる、ねっとりとした男の声に、結衣は粛々と答えた。"
+  },
+  {
+   "id": "clyu18:12200",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「今の気分はどう？」"
+  },
+  {
+   "id": "clyu18:12300",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「喉が……乾きました……」"
+  },
+  {
+   "id": "clyu18:12400",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ふぅん。それじゃあ、今から出す質問に答えたら何か飲ませてあげる」"
+  },
+  {
+   "id": "clyu18:12500",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ブラはもうつけてるの？」"
+  },
+  {
+   "id": "clyu18:12600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「……はい」"
+  },
+  {
+   "id": "clyu18:12700",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ふーん、必要なさそうに見えるけど、一応つけてるんだ」"
+  },
+  {
+   "id": "clyu18:12800",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「それじゃあ、はじめてブラしたのはいつ？」"
+  },
+  {
+   "id": "clyu18:12900",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「小学校……５年生のとき、です……」"
+  },
+  {
+   "id": "clyu18:13000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유이",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「なんなのコイツ！ マジキモいんだけど！！」"
+  },
+  {
+   "id": "clyu18:13100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「拓留！ この配信止められないの！？」"
+  },
+  {
+   "id": "clyu18:13200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "皆が声をそろえて映像への不快感を訴える中、再びスマホが鳴った。"
+  },
+  {
+   "id": "clyu18:13300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「見たな？」"
+  },
+  {
+   "id": "clyu18:13400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あ、あれはどういうことです？ どうして結衣があんなこと！」"
+  },
+  {
+   "id": "clyu18:13500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "「その様子だと、お前たちの話題作りの一環というわけではないようだな」"
+  },
+  {
+   "id": "clyu18:13600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "僕がスマホに出たことで、伊藤がすぐにＰＣでニヤ生に繋いでくれていた。"
+  },
+  {
+   "id": "clyu18:13700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "画面ではやはり、ロリータファッションに身を包んだ結衣が縛られている。"
+  },
+  {
+   "id": "clyu18:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "どうやら、この配信が始まったのは１０分ほど前のことらしい。"
+  },
+  {
+   "id": "clyu18:13900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "最初こそ見ている人間は少なかったものの、あれが『ミルフィーユ』の『ユイ』であるという話が広まり、更にはその尋常ならざる様子から、あっという間に視聴者数は膨れ上がったのだという。"
+  },
+  {
+   "id": "clyu18:14000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "「なるほどな。ということは、そこに神成さんもいるわけだな」"
+  },
+  {
+   "id": "clyu18:14100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ああ、ここにいる」"
+  },
+  {
+   "id": "clyu18:14200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "皆に聞こえるようにと、スピーカー通話に切り替えていたおかげで、すぐに神成さんが応えた。"
+  },
+  {
+   "id": "clyu18:14300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「今すぐ、ニヤ生の運営に連絡して、放送を⟦col:280aa02d1400⟧ＢＡＮ⟦col:800000⟧させないようにしろ」"
+  },
+  {
+   "id": "clyu18:14400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「バン？」"
+  },
+  {
+   "id": "clyu18:14500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「配信を強制終了させないようにしろってことです」"
+  },
+  {
+   "id": "clyu18:14600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「待ってよ！ そんなことしたら、結衣が晒し者になるだけじゃん！」"
+  },
+  {
+   "id": "clyu18:14700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「バカかお前は。あれは居所につながる貴重な映像だ。配信が終了すればそれで手掛かりは無くなる」"
+  },
+  {
+   "id": "clyu18:14800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clyu18:14900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「わ、わかった。今すぐに手配する」"
+  },
+  {
+   "id": "clyu18:15000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成さんはすぐに携帯を取り出して、慌ただしく各所に連絡しはじめた。"
+  },
+  {
+   "id": "clyu18:15100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "타치바나 유토",
+   "jp": "「あとは、この映像から、どこから配信されているのか、ヒントでも見つかればいいんだが……」"
+  },
+  {
+   "id": "clyu18:15200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "結衣は薄暗い部屋の中央に座らされていた。"
+  },
+  {
+   "id": "clyu18:15300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "部屋の全体像が見渡せるわけじゃないから、それがどこなのか思い当たる節は全くない。"
+  },
+  {
+   "id": "clyu18:15400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "皆も互いに顔を見合わせ、左右に首を振った。"
+  },
+  {
+   "id": "clyu18:15500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ねえ……お姉ちゃん、どうなっちゃうの？」"
+  },
+  {
+   "id": "clyu18:15600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "BJ",
+   "jp": "「大丈夫よ……」"
+  },
+  {
+   "id": "clyu18:15700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "BJ",
+   "jp": "不安に押しつぶされそうな結人の肩を乃々は優しく抱いて、配信されている会話の内容が聞こえないように画面から遠ざけた。"
+  },
+  {
+   "id": "clyu18:15800",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "유이",
+   "jp": "「それじゃあ、素直に答えたご褒美をあげよう。はい、口を開けて」"
+  },
+  {
+   "id": "clyu18:15900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "BJ",
+   "next_speaker": "유이",
+   "jp": "⟦col:280aa02d1400⟧生主⟦col:800000⟧の言われるままに開いた結衣の口に、液体が注ぎ込まれる。"
+  },
+  {
+   "id": "clyu18:16000",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「うっ……」"
+  },
+  {
+   "id": "clyu18:16100",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ほら、喉乾いてたんでしょ？ いっぱい飲んで」"
+  },
+  {
+   "id": "clyu18:16200",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「んっ……ごっ……んんっ……ごふっ……！」"
+  },
+  {
+   "id": "clyu18:16300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "大量に流し込まれる液体を飲み込み切れず⟦rb⟧嘔吐⟦rt⟧えづ⟦/r⟧いているにも関わらずなお、男は液体を結衣に注ぎ続けた。"
+  },
+  {
+   "id": "clyu18:16400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「げほっ……がほっ……ううっ……けほけほっ……」"
+  },
+  {
+   "id": "clyu18:16500",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「あーあ、こんなに零しちゃって。ちゃんと全部飲まなきゃ」"
+  },
+  {
+   "id": "clyu18:16600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「うぅ……」"
+  },
+  {
+   "id": "clyu18:16700",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ほら、床にこぼれたのもちゃんと飲んで」"
+  },
+  {
+   "id": "clyu18:16800",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「いや……よ……」"
+  },
+  {
+   "id": "clyu18:16900",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「あ？ いいのかな、そんなこと言って。飲まないと……大変なことになるよ？」"
+  },
+  {
+   "id": "clyu18:17000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "男が何ごとか結衣の耳元で囁いた。"
+  },
+  {
+   "id": "clyu18:17100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "すると、結衣の瞳からは反抗の意思が消え、ただ悔しそうに瞼を伏せる様子が画面に映しだされた。"
+  },
+  {
+   "id": "clyu18:17200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "そして――。"
+  },
+  {
+   "id": "clyu18:17300",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「それじゃあほら、こぼれた分も飲まなきゃ」"
+  },
+  {
+   "id": "clyu18:17400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「はい……」"
+  },
+  {
+   "id": "clyu18:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "BJ",
+   "jp": "結衣はさっきとは変わって、素直に身をかがめ、床にこぼれた水を啜った。"
+  },
+  {
+   "id": "clyu18:17600",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "카즈키 하나",
+   "jp": "「いいねぇ。君たちは、たくさんの人に配信を見てもらいたかったんでしょ？」"
+  },
+  {
+   "id": "clyu18:17700",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ほら、今まさに、犬みたいに舐める君を、たくさんの人が見てるよ。嬉しいだろ？」"
+  },
+  {
+   "id": "clyu18:17800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "BJ",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「っ……クソがっ……！」"
+  },
+  {
+   "id": "clyu18:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "全員の声を、普段口数の少ない香月が代弁してくれた。"
+  },
+  {
+   "id": "clyu18:18000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それにしても――さっきの結衣の態度の変りよう……あの男は結衣に何を言った？"
+  },
+  {
+   "id": "clyu18:18100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ゲンさんがふたりを見かけた時、ふたりは男と連れ立って歩いていたという。"
+  },
+  {
+   "id": "clyu18:18200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "あの結衣が素直に見ず知らずの男についていくなんて、あり得ない。"
+  },
+  {
+   "id": "clyu18:18300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "だからと言って、誰か肉親が事故にあった、なんていう誘拐の常とう手段に騙されるとも思えない……。"
+  },
+  {
+   "id": "clyu18:18400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「もしかしたら……」"
+  },
+  {
+   "id": "clyu18:18500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕が考えたことをそのまま口にすると、乃々が言った。"
+  },
+  {
+   "id": "clyu18:18600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「何か秘密を握られている……とか？」"
+  },
+  {
+   "id": "clyu18:18700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유토",
+   "jp": "「秘密？ なんだよ、それ？ 知りもしない男に握られるような秘密が結衣ちゃんにあるのか？」"
+  },
+  {
+   "id": "clyu18:18800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "伊藤の言うとおりだ。"
+  },
+  {
+   "id": "clyu18:18900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "そんなものあるはずが――。"
+  },
+  {
+   "id": "clyu18:19000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "いや……あった。"
+  },
+  {
+   "id": "clyu18:19100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "ひとつだけ……。"
+  },
+  {
+   "id": "clyu18:19200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「僕のこと……かも……」"
+  },
+  {
+   "id": "clyu18:19300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「どういうこと、結人？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「僕が……『ミルフィーユ』のユウが本当は男だってことを知られちゃったのかも……」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「あ……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そう、それだ。"
+  }
+ ]
+}

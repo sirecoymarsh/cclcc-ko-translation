@@ -1,0 +1,95 @@
+{
+ "packet_id": "CC0053-clah10-P02",
+ "kit_version": "1.0",
+ "source_file": "clah10.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その事実を知るのが怖いから、有村はあの時、僕に声に出すなと、そう言ったんじゃないのか？"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "もちろん、僕のことを嫌になり拒絶したという可能性だって有り得る。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "でも僕は、もうひとつの可能性を信じたかった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "有村が僕を好きだという可能性を……。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "だとしたら、僕はなおさら彼女に会わなきゃいけない。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "会って気持ちを声にして伝えなきゃいけない。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah10:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "事実を確かめるために。"
+  },
+  {
+   "id": "clah10:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でも果たして、有村は会ってくれるだろうか？"
+  },
+  {
+   "id": "clah10:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "……違うな。"
+  },
+  {
+   "id": "clah10:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "会ってくれるか、じゃなくて、会うんだ。"
+  },
+  {
+   "id": "clah10:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "絶対に。"
+  },
+  {
+   "id": "clah10:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "もう一度、僕の気持ちを声に出して伝えるために。"
+  }
+ ],
+ "context_after": []
+}

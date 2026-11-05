@@ -1,0 +1,929 @@
+{
+ "packet_id": "CC0034-clah04-P01",
+ "kit_version": "1.0",
+ "source_file": "clah04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clah04:0",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふわぁあ……」"
+  },
+  {
+   "id": "clah04:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もう朝か……。"
+  },
+  {
+   "id": "clah04:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ダメだ……。"
+  },
+  {
+   "id": "clah04:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なんだか疲れがとれない。"
+  },
+  {
+   "id": "clah04:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今さら言うのもなんだが、この生活にはやはり無理があるんじゃないのか？"
+  },
+  {
+   "id": "clah04:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんなことなら、昨日有村の母さんに頼み込んで、無理にでも連れて返ってもらうべきだったのかもしれない。"
+  },
+  {
+   "id": "clah04:600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……？」"
+  },
+  {
+   "id": "clah04:700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――！？」"
+  },
+  {
+   "id": "clah04:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "不意に目に飛び込んできた映像に、重かった頭が一気に覚醒した。"
+  },
+  {
+   "id": "clah04:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "有村のやつ、僕が寝てると思って、なんて無防備な……。"
+  },
+  {
+   "id": "clah04:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "いつも着替えはさすがに、洗面所でやってるけど、⟦col:280aa02d1400⟧ニーハイ⟦col:800000⟧くらいはと油断しているのかもしれない。"
+  },
+  {
+   "id": "clah04:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "でも……。"
+  },
+  {
+   "id": "clah04:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "なんか、こうやってニーハイ履いてるところって、なんとも言えないエロチシズムを感じる。"
+  },
+  {
+   "id": "clah04:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "いかんいかん。"
+  },
+  {
+   "id": "clah04:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "冷静になれ、宮代拓留。"
+  },
+  {
+   "id": "clah04:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "相手は有村だ。"
+  },
+  {
+   "id": "clah04:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "昨日、変な気は起こさないって、言い切ったばかりじゃないか。"
+  },
+  {
+   "id": "clah04:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ここで寝たふりしてこっそり見てるなんてことがバレたら、それこそ勝ち誇ったように威張るに違いない。"
+  },
+  {
+   "id": "clah04:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村は昨日、女の意地と言ったが、僕にだって男の意地がある。"
+  },
+  {
+   "id": "clah04:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "決して、邪な感情を持つわけにはいかない。"
+  },
+  {
+   "id": "clah04:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いかないんだ。"
+  },
+  {
+   "id": "clah04:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも……。"
+  },
+  {
+   "id": "clah04:2200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah04:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "つい目がいっちゃったって、しょうがないじゃない。"
+  },
+  {
+   "id": "clah04:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "だって男の子だもの。"
+  },
+  {
+   "id": "clah04:2500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clah04:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "マズい！！"
+  },
+  {
+   "id": "clah04:2700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「せんぱ〜い？ なぁに、見てたんですかぁ？」"
+  },
+  {
+   "id": "clah04:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ニーハイを履き終えた有村がふらりと立ち上がった。"
+  },
+  {
+   "id": "clah04:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ここは誤魔化すしかない！"
+  },
+  {
+   "id": "clah04:3000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ふぇ？ ああ、おはよう、有村」"
+  },
+  {
+   "id": "clah04:3100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「誤魔化したって駄目ですよ。さっき見てましたよね？」"
+  },
+  {
+   "id": "clah04:3200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……なにを？」"
+  },
+  {
+   "id": "clah04:3300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私がニーハイ履いてるところ」"
+  },
+  {
+   "id": "clah04:3400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ああ……」"
+  },
+  {
+   "id": "clah04:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "どうせ嘘をついてもバレる。"
+  },
+  {
+   "id": "clah04:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "こういう時は、事実を認めつつ平静を装うのが一番だ。"
+  },
+  {
+   "id": "clah04:3700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「昨日、私にはそんな気にならないって言ってませんでしたっけぇ？」"
+  },
+  {
+   "id": "clah04:3800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「言ったな」"
+  },
+  {
+   "id": "clah04:3900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……もしかして、ニーハイ好きなんですか？」"
+  },
+  {
+   "id": "clah04:4000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「さあ……」"
+  },
+  {
+   "id": "clah04:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "そして、ヤバいところは曖昧にごまかす。"
+  },
+  {
+   "id": "clah04:4200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「ふ〜ん、そうやって誤魔化すつもりですか」"
+  },
+  {
+   "id": "clah04:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村がゆっくりと僕に近寄って来た。"
+  },
+  {
+   "id": "clah04:4400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「いいですよ。そうやって誤魔化すっていうなら、吐かせてあげます」"
+  },
+  {
+   "id": "clah04:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "……何をするつもりだ？"
+  },
+  {
+   "id": "clah04:4600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「えいっ」"
+  },
+  {
+   "id": "clah04:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "こ、これは――！"
+  },
+  {
+   "id": "clah04:4800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふふっ、どうです？ こういうの、好きなんでしょう？」"
+  },
+  {
+   "id": "clah04:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "両頬に太ももの柔らかな感触とぬくもりが！"
+  },
+  {
+   "id": "clah04:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "それに、有村が身じろぎをするたびに、ニーハイのすべすべとした材質が僕の頬をこすり上げる"
+  },
+  {
+   "id": "clah04:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "まさに至福！"
+  },
+  {
+   "id": "clah04:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "そして、何よりも素晴らしいのはニーハイと太ももの境目の盛り上がったところだ。"
+  },
+  {
+   "id": "clah04:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "その盛り上がりを、こんなに近くで拝めるとは……！"
+  },
+  {
+   "id": "clah04:5400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうなんです？ ほら、言ってください。好きだって」"
+  },
+  {
+   "id": "clah04:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clah04:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村の投げかける質問に、僕は答えず、ただその感触と、そして視界に広がる境界線を楽しんでいた。"
+  },
+  {
+   "id": "clah04:5700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だんまりですか。それじゃあ――」"
+  },
+  {
+   "id": "clah04:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "両頬の締め付けが一層強くなる。"
+  },
+  {
+   "id": "clah04:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ちょうど、⟦col:280aa02d1400⟧首４の字⟦col:800000⟧のあんばいだ。"
+  },
+  {
+   "id": "clah04:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "けれど、ぐいぐいと締め付けられれば締め付けられるほど、僕の中のボルテージは高まってゆく。"
+  },
+  {
+   "id": "clah04:6100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほら、言ってごらん？ 好きだって」"
+  },
+  {
+   "id": "clah04:6200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「う……」"
+  },
+  {
+   "id": "clah04:6300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……もう、強情なんだから。それじゃあ、これはどう？」"
+  },
+  {
+   "id": "clah04:6400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "「うわっ！！」"
+  },
+  {
+   "id": "clah04:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "突然、視界が暗闇に覆われた。"
+  },
+  {
+   "id": "clah04:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もちろん、停電でもなんでもない。"
+  },
+  {
+   "id": "clah04:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村が僕の頭の上からスカートを被せたのだ。"
+  },
+  {
+   "id": "clah04:6800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今や僕の頭はすっぽりと有村のスカートで覆われている。"
+  },
+  {
+   "id": "clah04:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その上、両頬に触れるのは生太ももとニーハイという至極のハーモニーだ。"
+  },
+  {
+   "id": "clah04:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんなことされたら、もう……。"
+  },
+  {
+   "id": "clah04:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……冷静になれ、僕。"
+  },
+  {
+   "id": "clah04:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "仮に見つかっても、そんなことにはならないから。"
+  },
+  {
+   "id": "clah04:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも……。"
+  },
+  {
+   "id": "clah04:7400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah04:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "つい目がいっちゃったって、しょうがないじゃない。"
+  },
+  {
+   "id": "clah04:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "だって男の子だもの。"
+  },
+  {
+   "id": "clah04:7700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clah04:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "マズい！！"
+  },
+  {
+   "id": "clah04:7900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「せんぱ〜い？ なぁに、見てたんですかぁ？」"
+  },
+  {
+   "id": "clah04:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ニーハイを履き終えた有村がふらりと立ち上がった。"
+  },
+  {
+   "id": "clah04:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ここは誤魔化すしかない！"
+  },
+  {
+   "id": "clah04:8200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ふぇ？ ああ、おはよう、有村」"
+  },
+  {
+   "id": "clah04:8300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「誤魔化したって駄目ですよ。さっき見てましたよね？」"
+  },
+  {
+   "id": "clah04:8400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……なにを？」"
+  },
+  {
+   "id": "clah04:8500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私がニーハイ履いてるところ」"
+  },
+  {
+   "id": "clah04:8600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ああ……」"
+  },
+  {
+   "id": "clah04:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "どうせ嘘をついてもバレる。"
+  },
+  {
+   "id": "clah04:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "こういう時は、事実を認めつつ平静を装うのが一番だ。"
+  },
+  {
+   "id": "clah04:8900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「昨日、私にはそんな気にならないって言ってませんでしたっけぇ？」"
+  },
+  {
+   "id": "clah04:9000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「言ったな」"
+  },
+  {
+   "id": "clah04:9100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……もしかして、ニーハイ好きなんですか？」"
+  },
+  {
+   "id": "clah04:9200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ああ……」"
+  },
+  {
+   "id": "clah04:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "しまった！！"
+  },
+  {
+   "id": "clah04:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "適当にのらりくらりと誤魔化すつもりが、思わず素直に返事してしまった！"
+  },
+  {
+   "id": "clah04:9500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふふっ、素直なんですね、先輩」"
+  },
+  {
+   "id": "clah04:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村には、さっきの言葉が僕の本心だとわかっただろう。"
+  },
+  {
+   "id": "clah04:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "となれば、もう誤魔化したところで無駄だ。"
+  },
+  {
+   "id": "clah04:9800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そうだ。僕はニーハイが大好きだ」"
+  },
+  {
+   "id": "clah04:9900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう。それじゃあ、素直な先輩にはご褒美、あげなきゃ」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ご褒美？"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「私のニーハイ……欲しいでしょう？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "有村の履いているあのニーハイ……。"
+  }
+ ]
+}

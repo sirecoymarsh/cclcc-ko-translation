@@ -1,0 +1,960 @@
+{
+ "packet_id": "CC0023-clah01-P04",
+ "kit_version": "1.0",
+ "source_file": "clah01.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "“良い意味で”って、便利な言葉だよな。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "とりあえずなんでもそう付け足しとけば、フォローになるんだから。"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「というわけでぇ……しばらくの間、ご厄介になりまっす」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ダメだ！」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「いいって言ってくれないと、さっきの、⟦rb⟧暴露⟦rt⟧ばら⟦/r⟧しますよ」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「さっきのって、なんだよ？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah01:29900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほら。クールキャットなんとかって本」"
+  },
+  {
+   "id": "clah01:30000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ぐ……！」"
+  },
+  {
+   "id": "clah01:30100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あんなのを読んでるなんて知られたら……。"
+  },
+  {
+   "id": "clah01:30200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「い、いや。それでもダメだ……！」"
+  },
+  {
+   "id": "clah01:30300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え〜、なんでぇ〜？」"
+  },
+  {
+   "id": "clah01:30400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なんでもなにも、僕の心の自由は、何物にも代えられはしない。"
+  },
+  {
+   "id": "clah01:30500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんな脅しなんかに屈するものか。"
+  },
+  {
+   "id": "clah01:30600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そもそも、このトレーラーハウスはふたりが生活するには手狭過ぎる。"
+  },
+  {
+   "id": "clah01:30700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "中央の廊下部分なんて、すれ違うだけでいっぱいいっぱいだ。"
+  },
+  {
+   "id": "clah01:30800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ダメったらダメだ。そもそも、そんなのそっちの都合じゃないか。僕のプライベートはどうなる！」"
+  },
+  {
+   "id": "clah01:30900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんじゃ、私のことは空気みたいなもんだと思ってくれればいいっす」"
+  },
+  {
+   "id": "clah01:31000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「無理に決まってるだろ！」"
+  },
+  {
+   "id": "clah01:31100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月みたいなタイプならともかく、⟦rb⟧有村⟦rt⟧これ⟦/r⟧をいないものと思えとか、たとえ悟りを開いたお釈迦さまでもできないに違いない。"
+  },
+  {
+   "id": "clah01:31200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「とにかく、今すぐ出て行ってくれ」"
+  },
+  {
+   "id": "clah01:31300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え〜。でもお外、真っ暗だし〜、こんなところにひとり放り出されたら、どんな目に遭うかわかんないし〜」"
+  },
+  {
+   "id": "clah01:31400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なんと言おうとダメだ。とにかく帰れ」"
+  },
+  {
+   "id": "clah01:31500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う〜……わかりました……」"
+  },
+  {
+   "id": "clah01:31600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "あれ？"
+  },
+  {
+   "id": "clah01:31700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "……なんだよ。"
+  },
+  {
+   "id": "clah01:31800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ご迷惑をおかけしてすみませんでした……」"
+  },
+  {
+   "id": "clah01:31900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いや……」"
+  },
+  {
+   "id": "clah01:32000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "もっとゴネるかと思ったけど、意外と素直に言うこと聞くじゃないか。"
+  },
+  {
+   "id": "clah01:32100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah01:32200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "扉を開けた有村は、顔だけ出して周りを確認すると、振り返って僅かに頭を下げ、そして部屋を後にした。"
+  },
+  {
+   "id": "clah01:32300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah01:32400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに、この辺りは女の子ひとりだと心細いかもしれないけど、ほんの少し歩けばすぐに渋谷の繁華街だ。"
+  },
+  {
+   "id": "clah01:32500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "よっぽどの事でもない限り、おかしなことなんて……。"
+  },
+  {
+   "id": "clah01:32600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah01:32700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村！！！」"
+  },
+  {
+   "id": "clah01:32800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ 宮代……先輩？」"
+  },
+  {
+   "id": "clah01:32900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "よりによって、わざわざこんな暗くて人通りの少ない道を。"
+  },
+  {
+   "id": "clah01:33000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……まだこんなところにいたのか」"
+  },
+  {
+   "id": "clah01:33100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先輩こそ、どうして」"
+  },
+  {
+   "id": "clah01:33200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ちょっと飲み物買いに出てきただけだ。そしたらお前がいたから……」"
+  },
+  {
+   "id": "clah01:33300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そっすか……」"
+  },
+  {
+   "id": "clah01:33400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……なんて顔してんだよ。"
+  },
+  {
+   "id": "clah01:33500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しょうがないな。"
+  },
+  {
+   "id": "clah01:33600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「お腹、空いてるだろ？ うちで何か食べていけよ」"
+  },
+  {
+   "id": "clah01:33700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……いいんですか？」"
+  },
+  {
+   "id": "clah01:33800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……しょうがないだろ。行くところないんなら」"
+  },
+  {
+   "id": "clah01:33900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ここで呼び止めたってことは……結局僕が折れたということになるのは仕方のないことで。"
+  },
+  {
+   "id": "clah01:34000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ありがとうございます、先輩っ！！」"
+  },
+  {
+   "id": "clah01:34100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "やれやれ。僕も甘いよな……。"
+  },
+  {
+   "id": "clah01:34200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えへへ、ほんっと、先輩って、お人よしですよね」"
+  },
+  {
+   "id": "clah01:34300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "それ、褒め言葉じゃないし。"
+  },
+  {
+   "id": "clah01:34400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、もちろん、いい意味で、ですよ？」"
+  },
+  {
+   "id": "clah01:34500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah01:34600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ずずずずずず……」"
+  },
+  {
+   "id": "clah01:34700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ずずずずずず……」"
+  },
+  {
+   "id": "clah01:34800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「悪いな……こんなものしかなくて」"
+  },
+  {
+   "id": "clah01:34900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いえいえ、これで充分っすよ」"
+  },
+  {
+   "id": "clah01:35000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村はおよそ女の子向きとは言い難いカップ麺を、意外なほど大人しく啜っていた。"
+  },
+  {
+   "id": "clah01:35100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah01:35200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんです？」"
+  },
+  {
+   "id": "clah01:35300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いや、有村のことだから『夕飯にカップ麺とか、本気ですか？』くらい言われるんじゃないかと思ったんだけど……」"
+  },
+  {
+   "id": "clah01:35400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんなこと言いませんよ。無理言ってお世話になってるんだし」"
+  },
+  {
+   "id": "clah01:35500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "へぇ……。"
+  },
+  {
+   "id": "clah01:35600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "そういうところはちゃんとしてるんだな。"
+  },
+  {
+   "id": "clah01:35700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "意外……って言うと、怒られるかもしれないけど。"
+  },
+  {
+   "id": "clah01:35800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "そういえば有村って、他人の言葉の真偽がわかるんだっけ。"
+  },
+  {
+   "id": "clah01:35900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "あんまり深く考えたこともなかったけど、それって想像以上に大変なことなんじゃないだろうか。"
+  },
+  {
+   "id": "clah01:36000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "そう考えれば、普段の有村の言動も、彼女なりに気を使った上、っていう可能性も……。"
+  },
+  {
+   "id": "clah01:36100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先輩、夕飯っていっつもこんな感じですか？」"
+  },
+  {
+   "id": "clah01:36200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そうだな。あとはコンビニで弁当買ったり、⟦col:280aa02d1400⟧カロリーブロック⟦col:800000⟧だったり……」"
+  },
+  {
+   "id": "clah01:36300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えー、ダメですよ、そんなんじゃ。育ちざかりなんだから」"
+  },
+  {
+   "id": "clah01:36400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「お前まで来栖みたいなことを言うなよ」"
+  },
+  {
+   "id": "clah01:36500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "とまあ、そんなこんなでご飯を食べて、なんとなくまったりしてネットを見たり、⟦col:280aa02d1400⟧渋谷にうず⟦col:800000⟧をチェックしたりしていると、いつしかいい時間になってしまった。"
+  },
+  {
+   "id": "clah01:36600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ふあぁぁ……」"
+  },
+  {
+   "id": "clah01:36700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、もうこんな時間ですね。そんじゃ、そろそろ寝るとしますか」"
+  },
+  {
+   "id": "clah01:36800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「え？ あ、そ、そうだな、うん」"
+  },
+  {
+   "id": "clah01:36900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "思わず声が上ずってしまったのを慌てて取り繕う。"
+  },
+  {
+   "id": "clah01:37000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "意識するな、宮代拓留。"
+  },
+  {
+   "id": "clah01:37100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "相手は有村だ。"
+  },
+  {
+   "id": "clah01:37200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "変なことなんて起こるはずがない。"
+  },
+  {
+   "id": "clah01:37300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、有村はそこの布団使っていいから」"
+  },
+  {
+   "id": "clah01:37400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "この部屋の中には、僕が普段使いしているベッドとは別に、普段は物置きと化している可動式のソファベッドが前方にもうひとつあって、それを使えばふたりが寝ることくらいはなんとかできる。"
+  },
+  {
+   "id": "clah01:37500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ でも先輩は？」"
+  },
+  {
+   "id": "clah01:37600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「僕は寝袋があるから……」"
+  },
+  {
+   "id": "clah01:37700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ここに来てすぐの頃は布団なんかも無くて、しばらくは寝袋で寝起きしてたし、その程度なら慣れっこだ。"
+  },
+  {
+   "id": "clah01:37800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えー、でもそれじゃ悪いっすよー」"
+  },
+  {
+   "id": "clah01:37900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「じょ、女子を寝袋で寝かすわけにもいかないだろ」"
+  },
+  {
+   "id": "clah01:38000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃ、一緒に寝ます？」"
+  },
+  {
+   "id": "clah01:38100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ばっ！ ばばばばばばばばバカなこと言うな！」"
+  },
+  {
+   "id": "clah01:38200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あはは、照れてる照れてるー」"
+  },
+  {
+   "id": "clah01:38300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "くっ……！"
+  },
+  {
+   "id": "clah01:38400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「意外と紳士なんですね、先輩って」"
+  },
+  {
+   "id": "clah01:38500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「僕はいつだって紳士だ」"
+  },
+  {
+   "id": "clah01:38600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でもホントはちょっと期待してたり？」"
+  },
+  {
+   "id": "clah01:38700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そ、そんなわけあるか！」"
+  },
+  {
+   "id": "clah01:38800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふーん……そっかそっか。安心安心」"
+  },
+  {
+   "id": "clah01:38900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "あ、有村が納得してるってことは、嘘じゃない……ってことだよな。"
+  },
+  {
+   "id": "clah01:39000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "グッジョブ、僕。"
+  },
+  {
+   "id": "clah01:39100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、ダイジョブっすよ。だって私、宮代先輩のこと、信用してますから」"
+  },
+  {
+   "id": "clah01:39200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村……。"
+  },
+  {
+   "id": "clah01:39300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「それ……なにやってんだ？」"
+  },
+  {
+   "id": "clah01:39400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ 警報機ですけど？」"
+  },
+  {
+   "id": "clah01:39500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah01:39600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃ、おやすみなさーい」"
+  },
+  {
+   "id": "clah01:39700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "こいつ……何が信頼してるだ！"
+  },
+  {
+   "id": "clah01:39800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「すー……すー……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "しかも、もう寝てるし。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "あーあ、意識するだけ無駄だ。"
+  }
+ ]
+}

@@ -1,0 +1,952 @@
+{
+ "packet_id": "CC0049-clah08-P02",
+ "kit_version": "1.0",
+ "source_file": "clah08.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 에미",
+  "아리무라 히나에"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「僕、帰るよ……」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「え？ あ、おい……！」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「やれやれ。世話の焼けるこった」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "背後で伊藤が何かつぶやいていたけれど、雑踏に飲み込まれて僕の耳には届かなかった。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ん……？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "伊藤と別れて住処に戻って来ると、中から人の気配がした。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah08:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村、もう帰ってるんだろうか？"
+  },
+  {
+   "id": "clah08:10100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 에미",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah08:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "くそっ！"
+  },
+  {
+   "id": "clah08:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤が変なこと言うから、意識しちゃうじゃないか。"
+  },
+  {
+   "id": "clah08:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "とはいえ、ここで引き返すというのも、伊藤に言われたことを認めるみたいで、癪に障る。"
+  },
+  {
+   "id": "clah08:10500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 에미",
+   "jp": "「ただい……」"
+  },
+  {
+   "id": "clah08:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そこに居た人物の姿に、僕の言葉は止まり、代わりに違う言葉が口から出た。"
+  },
+  {
+   "id": "clah08:10700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 에미",
+   "jp": "「お、お母さん……」"
+  },
+  {
+   "id": "clah08:10800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あら。ひょっとしてしばらく来ないうちに“お母さん”って呼ばれる関係になっちゃったのかしら？」"
+  },
+  {
+   "id": "clah08:10900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「あ、いや、今のは言葉の⟦rb⟧あや⟦rt⟧⟦rbc⟧●●⟦/r⟧で……」"
+  },
+  {
+   "id": "clah08:11000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「わかってるわ。冗談よ、冗談」"
+  },
+  {
+   "id": "clah08:11100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「つまんない冗談」"
+  },
+  {
+   "id": "clah08:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "帰って来るなりこの空気、勘弁してほしい。"
+  },
+  {
+   "id": "clah08:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ここは僕の家だってのに。"
+  },
+  {
+   "id": "clah08:11400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「どうして来たのよ？」"
+  },
+  {
+   "id": "clah08:11500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「一応ね。ほら、この前来るって言ったから。私、嘘は嫌いなのよねぇ」"
+  },
+  {
+   "id": "clah08:11600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……嘘ばっかり」"
+  },
+  {
+   "id": "clah08:11700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 에미",
+   "jp": "「の、飲み物でもどう……ですか？」"
+  },
+  {
+   "id": "clah08:11800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あら、気が利くわね。ちょうど喉乾いてたの」"
+  },
+  {
+   "id": "clah08:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確か、その辺に水が……。"
+  },
+  {
+   "id": "clah08:12000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あぁ、そういえば切らしてたんだ。"
+  },
+  {
+   "id": "clah08:12100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「⟦col:280aa02d1400⟧マウンテンビュー⟦col:800000⟧で、いいですか？」"
+  },
+  {
+   "id": "clah08:12200",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なにそれ？」"
+  },
+  {
+   "id": "clah08:12300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「……ですよね。じゃあ、アップルティーで」"
+  },
+  {
+   "id": "clah08:12400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "アップルティーだったら、有村のために常備してある。"
+  },
+  {
+   "id": "clah08:12500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、私、アップルティー嫌いなの。そのマウンテンなんとかでいいわ」"
+  },
+  {
+   "id": "clah08:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ほんと、娘とは相容れないんだな。"
+  },
+  {
+   "id": "clah08:12700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「どうぞ」"
+  },
+  {
+   "id": "clah08:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村の母さんは、差し出したマウンテンビューを一口飲んで、僅かに顔をしかめた。"
+  },
+  {
+   "id": "clah08:12900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "やっぱり口には合わなかったらしい。"
+  },
+  {
+   "id": "clah08:13000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「えっと……それで、その……」"
+  },
+  {
+   "id": "clah08:13100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「話は言わなくてもわかってるわよね？」"
+  },
+  {
+   "id": "clah08:13200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "有村に帰って来いって話であることは間違いない。"
+  },
+  {
+   "id": "clah08:13300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "けれど当然、有村は拒否するだろう。"
+  },
+  {
+   "id": "clah08:13400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "その為に、僕はまた例の台本とやらを手渡されたんだから。"
+  },
+  {
+   "id": "clah08:13500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "いったいどんなことが書かれているのかという興味本位もあって、一応台本をパラパラ見てはみたけど、内容的には前とほとんど同じだった。"
+  },
+  {
+   "id": "clah08:13600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "『僕は雛絵のことが好きだ』とか『離れたくない』だとか、そんなものだ。"
+  },
+  {
+   "id": "clah08:13700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "けれど有村の母さんは、有村が僕のところに半ば無理矢理、居候していることを感づいている。"
+  },
+  {
+   "id": "clah08:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "だから今さら、そんな芝居をしたところで茶番でしかない。"
+  },
+  {
+   "id": "clah08:13900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "……まあ、最初から茶番は茶番なんだけど。"
+  },
+  {
+   "id": "clah08:14000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "아리무라 에미",
+   "jp": "とはいえ、それを口に出すか出さないかの選択は、僕の意思がどこにあるのかを示すことにもなる。"
+  },
+  {
+   "id": "clah08:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "아리무라 에미",
+   "jp": "台本通りに進めるということは、有村の作戦に乗る意思がある、ということだ。"
+  },
+  {
+   "id": "clah08:14200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "아리무라 에미",
+   "jp": "有村の作戦に乗ると言うことは、彼女をここに泊めおくことも⟦rb⟧吝⟦rt⟧やぶさ⟦/r⟧かではないと表明するのと同義だ。"
+  },
+  {
+   "id": "clah08:14300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "아리무라 에미",
+   "jp": "逆に、僕が早いところ有村を連れて帰って欲しいと願っているのなら、有村の仕掛けた茶番に乗らなければいい。"
+  },
+  {
+   "id": "clah08:14400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "아리무라 에미",
+   "jp": "僕としては当然、早く平穏な自分だけの時間を取り戻したいわけで、どちらを選択するかは今さら考える必要もないことだった。"
+  },
+  {
+   "id": "clah08:14500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「雛絵。馬鹿みたいな意地を張るのはやめて、いい加減帰ってきなさい」"
+  },
+  {
+   "id": "clah08:14600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah08:14700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「こちらの……宮代さん、だったかしら？ あなたにも随分と迷惑かけてるでしょう？」"
+  },
+  {
+   "id": "clah08:14800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「僕は……」"
+  },
+  {
+   "id": "clah08:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう、今さら考える必要もないことだった――はずなのに。"
+  },
+  {
+   "id": "clah08:15000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "悔しいけど、僕はこの生活がもう少し続けばいいなと、たぶんそう思っている――。"
+  },
+  {
+   "id": "clah08:15100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……だから。"
+  },
+  {
+   "id": "clah08:15200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「い、いえ、僕は――」"
+  },
+  {
+   "id": "clah08:15300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "「あぁぁぁっ！」"
+  },
+  {
+   "id": "clah08:15400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "答えようとした僕の声を、有村が遮った。"
+  },
+  {
+   "id": "clah08:15500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "「そ、そういえばママ。いない間に、私の部屋、勝手に入ってないわよね？」"
+  },
+  {
+   "id": "clah08:15600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なに、いきなり？」"
+  },
+  {
+   "id": "clah08:15700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「いくら家族だからって、人のプライバシーを侵害したりしないでよ？」"
+  },
+  {
+   "id": "clah08:15800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんなことしないわよ。それに、今は大事な話をしてるんだから、そんな話は後になさい」"
+  },
+  {
+   "id": "clah08:15900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "有村の母さんは、険しい顔で言うと、もう一度僕に向き直った。"
+  },
+  {
+   "id": "clah08:16000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いい？ あなたたちはまだふたりとも学生よ。今はお遊びで許されるかもしれないけど、もしこのままおかしなことになったら、あなたたちで責任とれるの？」"
+  },
+  {
+   "id": "clah08:16100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この問いに対する答えも、基本は前と同じだ。"
+  },
+  {
+   "id": "clah08:16200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ぼ、僕はその、彼女のことが――」"
+  },
+  {
+   "id": "clah08:16300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "「ママ！ ママこそ最近は家に帰ってるのよね！？」"
+  },
+  {
+   "id": "clah08:16400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……私だってこの前、あなたが家を出てから、少しは反省してるのよ。これまでのことも、これからのことも含めて、パパときちんとお話もしてるわ」"
+  },
+  {
+   "id": "clah08:16500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「そ、そう……」"
+  },
+  {
+   "id": "clah08:16600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それより、今はあなたたちのことを話してるの」"
+  },
+  {
+   "id": "clah08:16700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「こんな当てつけみたいな家出の真似事しなくても、もしもあなたたちが本気で付き合ってるというのなら、私だって何もそれを咎めるつもりはないわ」"
+  },
+  {
+   "id": "clah08:16800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、年相応の付き合い方というものがあるはずでしょう？ そのあたりのことを、どう思ってるのかきちんと話してほしいの」"
+  },
+  {
+   "id": "clah08:16900",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうなの、宮代さん？」"
+  },
+  {
+   "id": "clah08:17000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だから僕は――」"
+  },
+  {
+   "id": "clah08:17100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "「そうだ！ ねえ、この前――」"
+  },
+  {
+   "id": "clah08:17200",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「雛絵！ 今は宮代さんに聞いてるの！」"
+  },
+  {
+   "id": "clah08:17300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah08:17400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いったい有村はどうしたっていうんだろう。"
+  },
+  {
+   "id": "clah08:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もしかして、僕があの台本通り言えるかどうか不安になっているんだろうか？"
+  },
+  {
+   "id": "clah08:17600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに、僕だって細かい台詞のやりとりまでは覚えていない。"
+  },
+  {
+   "id": "clah08:17700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それでも、一度流し読みはしているし、前回のことだってある。"
+  },
+  {
+   "id": "clah08:17800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "おおよそのパターンはわかっているつもりだ。"
+  },
+  {
+   "id": "clah08:17900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「おい、さっきから何言ってんだよ、有村」"
+  },
+  {
+   "id": "clah08:18000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は有村にこっそり耳打ちした。"
+  },
+  {
+   "id": "clah08:18100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「せっかく僕が台本どおりに進めようとしてるのに……」"
+  },
+  {
+   "id": "clah08:18200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いいんです……もう……」"
+  },
+  {
+   "id": "clah08:18300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "は……？"
+  },
+  {
+   "id": "clah08:18400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今、なんて言った？"
+  },
+  {
+   "id": "clah08:18500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もういい、って……そう言ったのか？"
+  },
+  {
+   "id": "clah08:18600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「待てよ。それってどういう……」"
+  },
+  {
+   "id": "clah08:18700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「当てつけみたいなことしてゴメンなさい、ママ。私、帰ります……」"
+  },
+  {
+   "id": "clah08:18800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 에미",
+   "jp": "「有村……？」"
+  },
+  {
+   "id": "clah08:18900",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「は？ なんなのいきなり。どうしてまた……」"
+  },
+  {
+   "id": "clah08:19000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "当然、有村の母さんも、なぜ突然有村がそんなことを言い出したのか、理解できていないようだ。"
+  },
+  {
+   "id": "clah08:19100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「もちろん帰って来るなら、文句はないわ」"
+  },
+  {
+   "id": "clah08:19200",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「でも、理由を説明しなさい、理由を。これまで散々心配かけておいて、説明もなしにいきなり帰るなんて、こっちだってわけがわからないわ」"
+  },
+  {
+   "id": "clah08:19300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「いいでしょ。私、帰るって言ってるんだから」"
+  },
+  {
+   "id": "clah08:19400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「よくないわよ。こないだはふたり口裏あわせて、妙なこと言ってたけど、あの遊びはもう終わりってこと？」"
+  },
+  {
+   "id": "clah08:19500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「――っ」"
+  },
+  {
+   "id": "clah08:19600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「気まぐれも結構だけど、それに付き合わされる人のことも少しは考えたらどう？ くだらない嘘に付き合わされた宮代さんもいい迷惑よね」"
+  },
+  {
+   "id": "clah08:19700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「あ、いや……」"
+  },
+  {
+   "id": "clah08:19800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いいのよ、はっきり言ってあげて。そうじゃないと、この子、わからないんだから」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "確かに最初は迷惑だった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ついさっきまで、迷惑だと思っていた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "けれど、それでも――。"
+  }
+ ]
+}

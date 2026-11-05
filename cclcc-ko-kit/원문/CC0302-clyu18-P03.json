@@ -1,0 +1,968 @@
+{
+ "packet_id": "CC0302-clyu18-P03",
+ "kit_version": "1.0",
+ "source_file": "clyu18.msb",
+ "speakers_in_packet": [
+  "BJ",
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "유이",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "伊藤の言うとおりだ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そんなものあるはずが――。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いや……あった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ひとつだけ……。"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「僕のこと……かも……」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「どういうこと、結人？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu18:19400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「僕が……『ミルフィーユ』のユウが本当は男だってことを知られちゃったのかも……」"
+  },
+  {
+   "id": "clyu18:19500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clyu18:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유토",
+   "jp": "そう、それだ。"
+  },
+  {
+   "id": "clyu18:19700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유토",
+   "jp": "ユウが本当は結衣の弟だということをバラす――そう言って脅されたのだとしたら、結衣の行動もわからなくはない。"
+  },
+  {
+   "id": "clyu18:19800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유토",
+   "jp": "もしもユウが本当は結人という男の子だとバレれば、これまで応援してくれていた人たちは皆、騙されたと怒るだろう。"
+  },
+  {
+   "id": "clyu18:19900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유토",
+   "jp": "そしてその怒りの矛先は、当然結人に向けられる。"
+  },
+  {
+   "id": "clyu18:20000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유토",
+   "jp": "結衣がそう言われて、この男の指示に従ったのだとしたら……。"
+  },
+  {
+   "id": "clyu18:20100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お姉ちゃん……」"
+  },
+  {
+   "id": "clyu18:20200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結人は祈るように、胸元で手を合わせた。"
+  },
+  {
+   "id": "clyu18:20300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "오노에 세리카",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clyu18:20400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「結衣ちゃんの居場所さえわかれば……！」"
+  },
+  {
+   "id": "clyu18:20500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「くそっ……手掛かりはないのかよ！？」"
+  },
+  {
+   "id": "clyu18:20600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "「あったら、こんなところでのんびりしてないっすよ！」"
+  },
+  {
+   "id": "clyu18:20700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유토",
+   "jp": "……そう、今のところ手掛かりはない……。"
+  },
+  {
+   "id": "clyu18:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유토",
+   "jp": "いや、待て……本当にそうだろうか？"
+  },
+  {
+   "id": "clyu18:20900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「お姉ちゃん……教えて。どこにいるの？」"
+  },
+  {
+   "id": "clyu18:21000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "もう一度考えろ、宮代拓留……。"
+  },
+  {
+   "id": "clyu18:21100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "ゲンさんが結衣を見かけた時、結衣は男に連れられて歩いていたという。"
+  },
+  {
+   "id": "clyu18:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "となると、徒歩で移動している可能性が高い。"
+  },
+  {
+   "id": "clyu18:21300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "電車を使った線も考えられるが、時間をかけて遠くへ行けば行くほど、逃げられる可能性も高くなる。"
+  },
+  {
+   "id": "clyu18:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "ということは、ふたりがいるのは渋谷からそう遠いところじゃないのかもしれない……。"
+  },
+  {
+   "id": "clyu18:21500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……え！？」"
+  },
+  {
+   "id": "clyu18:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "その時、今まで祈るようにうつむいていた結人が、顔をあげていた。"
+  },
+  {
+   "id": "clyu18:21700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「どうしたの……結人？」"
+  },
+  {
+   "id": "clyu18:21800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お姉……ちゃん……？」"
+  },
+  {
+   "id": "clyu18:21900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clyu18:22000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「聞こえる……お姉ちゃんの声……」"
+  },
+  {
+   "id": "clyu18:22100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "どういう……ことだ？"
+  },
+  {
+   "id": "clyu18:22200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「お姉ちゃん！ 僕だよ！ 結人だよ！ ねえ、返事して！ 今どこにいるの！？」"
+  },
+  {
+   "id": "clyu18:22300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "結人は耳からの余計な音を遮断するように、耳を塞ぎ叫んだ。"
+  },
+  {
+   "id": "clyu18:22400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "一瞬、誰もが、緊張感のあまり結人がおかしくなってしまったのかと視線を交わした。"
+  },
+  {
+   "id": "clyu18:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そんな中――。"
+  },
+  {
+   "id": "clyu18:22600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "이토 신지",
+   "jp": "「もしかして……話せるの？ 結衣と……」"
+  },
+  {
+   "id": "clyu18:22700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "そばにいた乃々が訊くと、結人はゆっくりと頷いた。"
+  },
+  {
+   "id": "clyu18:22800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유토",
+   "jp": "「嘘だろ……どうやって……」"
+  },
+  {
+   "id": "clyu18:22900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "そう、そんなこと、常識で考えればあるはずがない……。"
+  },
+  {
+   "id": "clyu18:23000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "けれど、僕たちは皆、ひとつだけその可能性について思い当たった。"
+  },
+  {
+   "id": "clyu18:23100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "――⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧。"
+  },
+  {
+   "id": "clyu18:23200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "結衣も結人も、碧朋に通う生徒だ。"
+  },
+  {
+   "id": "clyu18:23300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "姉と弟、ふたりが潜在的に感応能力を持ってたのだとしたら、その能力がこの緊張感の中でいま、開花したという可能性――。"
+  },
+  {
+   "id": "clyu18:23400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……そんな」"
+  },
+  {
+   "id": "clyu18:23500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "結人が悲しそうに呟いたところを見ると、おそらく、結衣にも今自分がいる場所がわからないのだろう。"
+  },
+  {
+   "id": "clyu18:23600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「結衣はなんて？」"
+  },
+  {
+   "id": "clyu18:23700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どこかの建物の３階か４階……それくらいしかわかんないって……」"
+  },
+  {
+   "id": "clyu18:23800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「結人！ 結衣にそこに行くのにどれくらいかかったか訊いてくれ！」"
+  },
+  {
+   "id": "clyu18:23900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "「え？ う、うん！」"
+  },
+  {
+   "id": "clyu18:24000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "「お姉ちゃん！ そこまで歩いてどれくらいかかったのかって、拓留兄ちゃんが！」"
+  },
+  {
+   "id": "clyu18:24100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "「……１５分？ 車には？ うん、わかった」"
+  },
+  {
+   "id": "clyu18:24200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "신조 타케시",
+   "jp": "結人は僕を見て大きく首を振った。"
+  },
+  {
+   "id": "clyu18:24300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "신조 타케시",
+   "jp": "つまり車や電車には乗らず、徒歩だけで移動したということだ。"
+  },
+  {
+   "id": "clyu18:24400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "신조 타케시",
+   "jp": "であるなら、渋谷から出ていないということになる。"
+  },
+  {
+   "id": "clyu18:24500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「部屋の中には何がある？」"
+  },
+  {
+   "id": "clyu18:24600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "타치바나 유토",
+   "jp": "結人は神成さんに言われたままを結衣に伝えた。"
+  },
+  {
+   "id": "clyu18:24700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「……大きな丸いベッド。それ以外は、暗くてよくわかんないって」"
+  },
+  {
+   "id": "clyu18:24800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「窓は？ どこか外が見えるところはないか？」"
+  },
+  {
+   "id": "clyu18:24900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "再び神成さんの言葉を伝えた結人は、しばらくして不思議そうな顔をして僕を見た。"
+  },
+  {
+   "id": "clyu18:25000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "타치바나 유토",
+   "jp": "「どうした？」"
+  },
+  {
+   "id": "clyu18:25100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "「窓の外に顔が見えたって……壁のところに浮かんで……」"
+  },
+  {
+   "id": "clyu18:25200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……ん？」"
+  },
+  {
+   "id": "clyu18:25300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "타치바나 유토",
+   "jp": "「なにそれ？ どういうこと？」"
+  },
+  {
+   "id": "clyu18:25400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "BJ",
+   "jp": "「あ……お姉ちゃん！？ お姉ちゃんってば！」"
+  },
+  {
+   "id": "clyu18:25500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "BJ",
+   "jp": "結人が何度も結衣の名前を呼んだ。"
+  },
+  {
+   "id": "clyu18:25600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "BJ",
+   "jp": "どうやら、突然声が聞こえなくなったらしい。"
+  },
+  {
+   "id": "clyu18:25700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "BJ",
+   "jp": "同時に、ニヤ生の画面からは、結衣をいたぶる生主のねちっこい声が聞こえてきた。"
+  },
+  {
+   "id": "clyu18:25800",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "유이",
+   "jp": "「ん〜、どうした？ 足をモジモジさせて」"
+  },
+  {
+   "id": "clyu18:25900",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「トイレ……」"
+  },
+  {
+   "id": "clyu18:26000",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ん〜、なんだって？ 聞こえないなぁ」"
+  },
+  {
+   "id": "clyu18:26100",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「トイレ！ トイレいきたいの！」"
+  },
+  {
+   "id": "clyu18:26200",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ん〜、お願いするには、それなりの言い方、あるよねぇ？」"
+  },
+  {
+   "id": "clyu18:26300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "BJ",
+   "next_speaker": "유이",
+   "jp": "こいつ、結衣が抵抗できないからって調子に乗りやがって。"
+  },
+  {
+   "id": "clyu18:26400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「お願い……します。トイレにいかせてください……」"
+  },
+  {
+   "id": "clyu18:26500",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「トイレにいってなにするのかなぁ？」"
+  },
+  {
+   "id": "clyu18:26600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「……っこ」"
+  },
+  {
+   "id": "clyu18:26700",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「聞こえねえっつってんだろ！」"
+  },
+  {
+   "id": "clyu18:26800",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「させてください……」"
+  },
+  {
+   "id": "clyu18:26900",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「なんだ、ちゃあんと言えるんじゃないか」"
+  },
+  {
+   "id": "clyu18:27000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "結衣の顔が悔しさと羞恥に染まるのを見た生主が、満面の笑みを浮かべているだろうことは、顔が映っていなくてもわかった。"
+  },
+  {
+   "id": "clyu18:27100",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「でも、ダ〜メ！ したいなら、そこでしな」"
+  },
+  {
+   "id": "clyu18:27200",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「そんな！！」"
+  },
+  {
+   "id": "clyu18:27300",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「たくさんの人に見られながら、おしっこするアイドル。いいねぇ。きっと大人気になるよ〜」"
+  },
+  {
+   "id": "clyu18:27400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clyu18:27500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유이",
+   "next_speaker": "신조 타케시",
+   "jp": "「神成さん！ こいつ捕まえたら、マジ殺していいっすか！」"
+  },
+  {
+   "id": "clyu18:27600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「２、３発殴るくらいなら大目に見る……」"
+  },
+  {
+   "id": "clyu18:27700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕もまったく有村と同じ気持ちだった。"
+  },
+  {
+   "id": "clyu18:27800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど、そのためには早く結衣の居場所を突き止めなきゃいけない。"
+  },
+  {
+   "id": "clyu18:27900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "BJ",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu18:28000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さっきから僕の中では、結人の言葉が引っかかっていた。"
+  },
+  {
+   "id": "clyu18:28100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――壁に人の顔。"
+  },
+  {
+   "id": "clyu18:28200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも結衣の情報によると、ふたりがいるのはビルの３階か４階だ。"
+  },
+  {
+   "id": "clyu18:28300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それに、窓の向こうじゃなく壁に人の顔っていうのが気になる。"
+  },
+  {
+   "id": "clyu18:28400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "壁に書かれた絵か何かってことだろうか？"
+  },
+  {
+   "id": "clyu18:28500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも、そんな高いところに？"
+  },
+  {
+   "id": "clyu18:28600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "BJ",
+   "jp": "（考えるんだ、宮代拓留……何か……何かが……）"
+  },
+  {
+   "id": "clyu18:28700",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "「ほらほら、あきらめてそこでやっちゃいなよ。どうせ誰も助けになんか来ないんだからさ」"
+  },
+  {
+   "id": "clyu18:28800",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "BJ",
+   "jp": "「そんなことないもん！ きっと来てくれるもん！」"
+  },
+  {
+   "id": "clyu18:28900",
+   "type": "dialogue",
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「は？ まだそんなこと言ってるんだ？ だいたい場所もわからないのに、誰が来るっていうんだよ？」"
+  },
+  {
+   "id": "clyu18:29000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "BJ",
+   "next_speaker": "유이",
+   "jp": "その時、結衣が画面のこちら――生主を見据えた。"
+  },
+  {
+   "id": "clyu18:29100",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お兄ちゃんが……拓留兄が必ず来てくれるもん！」"
+  },
+  {
+   "id": "clyu18:29200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "それは、強い意思と、そして信頼のこもった目だった。"
+  },
+  {
+   "id": "clyu18:29300",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "BJ",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留兄がきっと助けに来てくれるもん！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「結衣……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "結衣がこんなにも僕のことを頼ってくれていたなんて……。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その事実に、僕は少なからず衝撃を受けていた。"
+  }
+ ]
+}

@@ -1,0 +1,936 @@
+{
+ "packet_id": "CC0124-clkn14-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn14.msb",
+ "speakers_in_packet": [
+  "남학생",
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "여학생",
+  "오노에 세리카",
+  "와쿠이 슈이치",
+  "카와하라 마사시",
+  "카즈키 하나",
+  "학생회 임원"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn14:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "緊急の生徒集会が行われてから数日が経った。"
+  },
+  {
+   "id": "clkn14:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "どうせすぐに収束するだろうと思っていた、僕と泉理、そしてひかりに関する問題は、その想像に反して、収まるどころか益々苛烈の一途を辿っていた。"
+  },
+  {
+   "id": "clkn14:200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「あ、チャオっす、宮代せんぱーい」"
+  },
+  {
+   "id": "clkn14:300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「チャオっす……」"
+  },
+  {
+   "id": "clkn14:400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もー、聞いてくださいよー。華がさー」"
+  },
+  {
+   "id": "clkn14:500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村。それに香月も、僕に近づかないほうがいい……」"
+  },
+  {
+   "id": "clkn14:600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はい？ なんでっすか？」"
+  },
+  {
+   "id": "clkn14:700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "남학생",
+   "jp": "「だって……」"
+  },
+  {
+   "id": "clkn14:800",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여학생",
+   "jp": "「おい、あいつだろ。例の……」"
+  },
+  {
+   "id": "clkn14:900",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여학생",
+   "jp": "「うわっ、あんな暗そうなのに、ヤることヤってんのかよ……」"
+  },
+  {
+   "id": "clkn14:1000",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほら、あの人……」"
+  },
+  {
+   "id": "clkn14:1100",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「近づいたら妊娠しちゃうんじゃない？」"
+  },
+  {
+   "id": "clkn14:1200",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もしかしたら、あの子たちも毒牙に……？」"
+  },
+  {
+   "id": "clkn14:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "話は⟦rb⟧歪⟦rt⟧いびつ⟦/r⟧な尾ひれをつけて更に大きくなっている。"
+  },
+  {
+   "id": "clkn14:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "学校内どこへいっても、向けられるのは好奇の目。"
+  },
+  {
+   "id": "clkn14:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "くそっ！"
+  },
+  {
+   "id": "clkn14:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕が注目されたかったのは、スクープをゲットする側としてであって、される側としてじゃない。"
+  },
+  {
+   "id": "clkn14:1700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여학생",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「な？ わかっただろ。だから、しばらく僕には――」"
+  },
+  {
+   "id": "clkn14:1800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "「大丈夫っすよー。私、別にそーゆーの気にしないし。ねー」"
+  },
+  {
+   "id": "clkn14:1900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねー……」"
+  },
+  {
+   "id": "clkn14:2000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「有村……香月……」"
+  },
+  {
+   "id": "clkn14:2100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あんなの本当じゃないから、きっとみんなそのうちわかってくれる……はず……」"
+  },
+  {
+   "id": "clkn14:2200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「……そっか。ありがとう……」"
+  },
+  {
+   "id": "clkn14:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "そうは言ってみたものの、校内の風向きがかなり悪くなってきているのは、当事者である僕が一番よくわかっている。"
+  },
+  {
+   "id": "clkn14:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "伊藤なんかは、すべて川原くんが何らかの情報操作をして、⟦col:280aa02d1400⟧燃料⟦col:800000⟧を投下してるんじゃないかと言っていたけれど、それも定かではない。"
+  },
+  {
+   "id": "clkn14:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "仮にそうだとしても、僕たちに出来ることはただひとつしかない。"
+  },
+  {
+   "id": "clkn14:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "それは、真実を言って誤解をとくことだ。"
+  },
+  {
+   "id": "clkn14:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "けれど……。"
+  },
+  {
+   "id": "clkn14:2800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ああ。いたいた」"
+  },
+  {
+   "id": "clkn14:2900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「和久井先生……」"
+  },
+  {
+   "id": "clkn14:3000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代くん。悪いんだけど、ちょっといいかな？」"
+  },
+  {
+   "id": "clkn14:3100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「僕も努力はしたんだけどね、如何せん問題が問題でね。このままだと何らかの対策をしなきゃいけない……」"
+  },
+  {
+   "id": "clkn14:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "誰も来ないことを確認して和久井先生が話し出したのは、やはり例の件に関してのことだった。"
+  },
+  {
+   "id": "clkn14:3300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「何らかの対策……それは、退学ってこと……ですか？」"
+  },
+  {
+   "id": "clkn14:3400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「いやいやいや、まだそこまでのことじゃない」"
+  },
+  {
+   "id": "clkn14:3500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「ただ……これ以上話が大きくなると、学校側としてもそれなりの措置をとらざるを得なくなるかもしれない……ということだよ」"
+  },
+  {
+   "id": "clkn14:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "それなりの措置。"
+  },
+  {
+   "id": "clkn14:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "結局、言ってることは同じじゃないか。"
+  },
+  {
+   "id": "clkn14:3800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「いくら生徒たちの自主性に任せるとはいえ、こう事が大きくなってくるといろいろあってねぇ」"
+  },
+  {
+   "id": "clkn14:3900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「生徒たちからの声はもちろんだが、⟦col:280aa02d1400⟧教育委員会⟦col:800000⟧とか保護者の声とか、ね」"
+  },
+  {
+   "id": "clkn14:4000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「風紀が乱れているという噂が流れると、これから入学してくる生徒にも影響を及ぼすかもしれない……」"
+  },
+  {
+   "id": "clkn14:4100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「実際、他の先生方からは、厳しく対処すべきだという声もあがりつつある……」"
+  },
+  {
+   "id": "clkn14:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "このままいけば、良くて停学。"
+  },
+  {
+   "id": "clkn14:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "悪くて退学ってところか……。"
+  },
+  {
+   "id": "clkn14:4400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも宮代くん。僕の方で一応、佐久間さんに電話して確認してみたんだが、その赤ちゃんは君たちの言うように預けられた子だっていうじゃないか」"
+  },
+  {
+   "id": "clkn14:4500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だったら、その例の写真の女の子に来てもらって、本当のことを言ってもらえば、それで済むことなんじゃないのかい？」"
+  },
+  {
+   "id": "clkn14:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "そう。"
+  },
+  {
+   "id": "clkn14:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "たかがそれだけのこと、だ。"
+  },
+  {
+   "id": "clkn14:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "けれども僕たちには“たかがそれだけのこと”でも、彼女にとってはそうじゃない。"
+  },
+  {
+   "id": "clkn14:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "人には誰しも、知られたくない過去のひとつやふたつあるだろう。"
+  },
+  {
+   "id": "clkn14:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "それが今まで築いてきたものをすべてぶち壊すことになるとすれば、尚更だ。"
+  },
+  {
+   "id": "clkn14:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "過去、彼女が自分が本当は来栖乃々ではなく、南沢泉理だと打ち明けられた時、家族の間にもギクシャクした空気は当然あった。"
+  },
+  {
+   "id": "clkn14:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "僕だってそうだ。"
+  },
+  {
+   "id": "clkn14:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "その事実をすぐに受け入れることは出来なかった。"
+  },
+  {
+   "id": "clkn14:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "今となっても鮮明に思い出すことができる。"
+  },
+  {
+   "id": "clkn14:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "真実を告げようとするときの、彼女の悲痛な顔を。"
+  },
+  {
+   "id": "clkn14:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "彼女は今も、あの時と同じ顔をしているように僕には思える。"
+  },
+  {
+   "id": "clkn14:5700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "학생회 임원",
+   "jp": "「まあ、とにかく考えてみておくれ」"
+  },
+  {
+   "id": "clkn14:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "학생회 임원",
+   "jp": "考えてみてくれと和久井先生は言ったけど、言われなくても僕だってもう何度も考えた。"
+  },
+  {
+   "id": "clkn14:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "학생회 임원",
+   "jp": "そのうえで、既に結論らしきものは出ている。"
+  },
+  {
+   "id": "clkn14:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "학생회 임원",
+   "jp": "僕は――。"
+  },
+  {
+   "id": "clkn14:6100",
+   "type": "dialogue",
+   "speaker": "生徒会役員",
+   "speaker_ko": "학생회 임원",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「生徒の皆さんにお伝えします。本日放課後、臨時の生徒集会を行います」"
+  },
+  {
+   "id": "clkn14:6200",
+   "type": "dialogue",
+   "speaker": "生徒会役員",
+   "speaker_ko": "학생회 임원",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「放課後になりましたら、生徒の皆さんは体育館に集まってください。繰り返します……」"
+  },
+  {
+   "id": "clkn14:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "학생회 임원",
+   "next_speaker": "카와하라 마사시",
+   "jp": "生徒集会、ね……。"
+  },
+  {
+   "id": "clkn14:6400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "학생회 임원",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代」"
+  },
+  {
+   "id": "clkn14:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "振り返ると、そこに川原くんが立って僕を見つめていた。"
+  },
+  {
+   "id": "clkn14:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "その瞳の中に宿るのは優越感だろうか、それとも満足感だろうか。"
+  },
+  {
+   "id": "clkn14:6700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "학생회 임원",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「聞いたとおりだ。今日の放課後、生徒集会を行う。目的はわかるな？」"
+  },
+  {
+   "id": "clkn14:6800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「当たり前じゃない……ですか……」"
+  },
+  {
+   "id": "clkn14:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "声が震えないように、精一杯力を込めて言う。"
+  },
+  {
+   "id": "clkn14:7000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「逃げるなよ」"
+  },
+  {
+   "id": "clkn14:7100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「……逃げたりなんて……しませんよ」"
+  },
+  {
+   "id": "clkn14:7200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ふん……珍しく言うじゃないか。それでこそ、放課後が楽しみというものだ」"
+  },
+  {
+   "id": "clkn14:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "오노에 세리카",
+   "jp": "午後の授業が始まっても、僕は教室には戻らなかった。"
+  },
+  {
+   "id": "clkn14:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "오노에 세리카",
+   "jp": "どうせ戻ったところで、好奇の目にさらされるだけだ。"
+  },
+  {
+   "id": "clkn14:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "오노에 세리카",
+   "jp": "別に学校に未練はない。"
+  },
+  {
+   "id": "clkn14:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "오노에 세리카",
+   "jp": "未練があるとしたら、この新聞部にだけだ。"
+  },
+  {
+   "id": "clkn14:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "오노에 세리카",
+   "jp": "それ以外はどうだって良かった。"
+  },
+  {
+   "id": "clkn14:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "오노에 세리카",
+   "jp": "それでもこうして学校に来ているのは、僕の最後の抵抗だ。"
+  },
+  {
+   "id": "clkn14:7900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、タク。やっぱりここにいた〜」"
+  },
+  {
+   "id": "clkn14:8000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「尾上……なんで？」"
+  },
+  {
+   "id": "clkn14:8100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タクの考えることくらいわかるよ……」"
+  },
+  {
+   "id": "clkn14:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "ああ、そうか。"
+  },
+  {
+   "id": "clkn14:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "尾上の⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧としての能力は『思考盗撮』。"
+  },
+  {
+   "id": "clkn14:8400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "普段は出来るだけ能力を使わないよう言ってあるが、その気になればどれだけ隠そうとしていても、他人の考えていることなんて丸わかりなんだ。"
+  },
+  {
+   "id": "clkn14:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "そして、それはつまり……。"
+  },
+  {
+   "id": "clkn14:8600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、タク。タクは言わないの、ホントのこと？」"
+  },
+  {
+   "id": "clkn14:8700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ホントのことって？」"
+  },
+  {
+   "id": "clkn14:8800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……のんちゃんのこと」"
+  },
+  {
+   "id": "clkn14:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "つまり、乃々と泉理の関係についても、尾上はずっと知っていたということだ。"
+  },
+  {
+   "id": "clkn14:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今日この後の生徒集会で、川原くんは僕の退学を学校側に求めるつもりだろう。"
+  },
+  {
+   "id": "clkn14:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それを阻止するためには、本当のことを言うしかない。"
+  },
+  {
+   "id": "clkn14:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "来栖乃々が本当は南沢泉理だと告げること。"
+  },
+  {
+   "id": "clkn14:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "現在、泉理に戻れないとはいえ、それを嘘だと決めつけることはすぐにはできないだろう。"
+  },
+  {
+   "id": "clkn14:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "証言や証拠を出しさえすれば実証できる可能性だってある。"
+  },
+  {
+   "id": "clkn14:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど尾上の質問に対する答えは、僕の中では既に決まっていた。"
+  },
+  {
+   "id": "clkn14:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「言わないよ、そんなこと……」"
+  },
+  {
+   "id": "clkn14:9700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうして？」"
+  },
+  {
+   "id": "clkn14:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "どうして？"
+  },
+  {
+   "id": "clkn14:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その理由も散々考えた。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そして考えた挙句、ひとつの答えに達していた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "揺らぎない答えに。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「僕はもう嫌なんだよ……あいつのあんな哀しい顔を見るのが……」"
+  }
+ ]
+}

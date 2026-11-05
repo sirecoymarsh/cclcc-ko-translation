@@ -1,0 +1,651 @@
+{
+ "packet_id": "CC0005-claa02-P01",
+ "kit_version": "1.0",
+ "source_file": "claa02.msb",
+ "speakers_in_packet": [
+  "신조 타케시",
+  "와쿠이 슈이치",
+  "쿠노사토 미오"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "claa02:0",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「悪かったな、わざわざ来てもらって」"
+  },
+  {
+   "id": "claa02:100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「全くだ。というか、もうアンタと会うことはないと思っていたんだが」"
+  },
+  {
+   "id": "claa02:200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「相変わらず口が悪いな、キミは」"
+  },
+  {
+   "id": "claa02:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "スマホにかかってきた電話は、⟦rb⟧神成⟦rt⟧しんじょう⟦/r⟧という刑事からだった。澪は彼に呼び出され、数日後、とある病院の特別病室にいた。"
+  },
+  {
+   "id": "claa02:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:38⟧病室には、カーテンでおおわれているベッドがひとつ。そこに、患者が横たわっているとおぼしき気配がある。"
+  },
+  {
+   "id": "claa02:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "澪は、病室に入ってきた時から、その患者に対してどうにもイヤな予感を覚えていた。"
+  },
+  {
+   "id": "claa02:600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「キミに診てほしいのは、この“少女”だ。年齢は今年で十五歳になる」"
+  },
+  {
+   "id": "claa02:700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「私は医者じゃないぞ。診察ならこの病院でいくらでも出来るだろう」"
+  },
+  {
+   "id": "claa02:800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あらゆる検査も治療も行った。それでも、どう判断していいか分からないんだ。だから、専門家としてのキミの意見を聞きたい――ここまで言えば分かるだろう？」"
+  },
+  {
+   "id": "claa02:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "鋭い目つきで自分を見つめてくる神成のその表情で、澪は全てを理解した。"
+  },
+  {
+   "id": "claa02:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "つまり、このカーテンの奥で眠っているのは……"
+  },
+  {
+   "id": "claa02:1100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そんなバカなことがあるか。⟦col:280aa02d1400⟧カオスチャイルド症候群者⟦col:800000⟧は、全員、すでに治療のめどが立っている。完全に治癒した者も多い」"
+  },
+  {
+   "id": "claa02:1200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「この私も、全員の脳の断層写真まで確認しているんだ。症候群者が残っているはずが――」"
+  },
+  {
+   "id": "claa02:1300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「詳しくは後で話す。とにかく見てくれないか」"
+  },
+  {
+   "id": "claa02:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成がそっとカーテンを開いた。"
+  },
+  {
+   "id": "claa02:1500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「これは……」"
+  },
+  {
+   "id": "claa02:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そこには、全身を拘束衣で包まれた上、さらにベッドに拘束ベルトで固定された老婆が横たわっていた。"
+  },
+  {
+   "id": "claa02:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "いくつもの点滴で薬が投与されているが、そのラベルのひとつにプリントされている薬剤名は、かなり強い鎮静剤だった。"
+  },
+  {
+   "id": "claa02:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧つまり、薬で眠らされているのだ。"
+  },
+  {
+   "id": "claa02:1900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「カオスチャイルド症候群……しかも、能力者に間違いないんだな？」"
+  },
+  {
+   "id": "claa02:2000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ああ。佐久間たちのグループ――⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧研究を続けていた医者連中だな――そいつらを全員、逮捕したんだが、そのうちのひとりの病院に監禁されていた」"
+  },
+  {
+   "id": "claa02:2100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「なぜ治らない？ 宮代拓留の脳から作り出した治療用イメージは？」"
+  },
+  {
+   "id": "claa02:2200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「それが……この子に限って、効果がないんだ」"
+  },
+  {
+   "id": "claa02:2300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「なに？」"
+  },
+  {
+   "id": "claa02:2400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「これがカルテだ。彼女を監禁していた医師のものだが……読んでみてくれ」"
+  },
+  {
+   "id": "claa02:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成は、電子カルテをカラープリントしたらしい紙束を澪に手渡した。"
+  },
+  {
+   "id": "claa02:2600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「こんなに厳重に拘束する必要があるのか？」"
+  },
+  {
+   "id": "claa02:2700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ああ。この子を研究していた医者も、最後は制御できなくなったらしくてな。こうやって拘束したまま、薬で安楽死させるつもりだったらしい」"
+  },
+  {
+   "id": "claa02:2800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「ふざけたことを……」"
+  },
+  {
+   "id": "claa02:2900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「カルテを読めば分かる。我々がどうすることも出来ず、キミをここへ呼んだ理由もな」"
+  },
+  {
+   "id": "claa02:3000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa02:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は義憤の表情を浮かべたまま、カルテのコピーに目を走らせ始めた。"
+  },
+  {
+   "id": "claa02:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧が、すぐにその眉根にしわが寄った。"
+  },
+  {
+   "id": "claa02:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "顔から血の気が引き始め、額や頬が白くなってくる。"
+  },
+  {
+   "id": "claa02:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "カルテ上に並んでいる脳波や検査数値、ＣＴの断層写真などは他の症候群者とほぼ同じだったが、医師の所見や診察記録に想像だにしないことが記されていたからだ。"
+  },
+  {
+   "id": "claa02:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は、知らず知らずのうちに思わずうめいていた。"
+  },
+  {
+   "id": "claa02:3600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「⟦col:280aa02d1400⟧因果律⟦col:800000⟧を、歪曲する能力……だと？」"
+  },
+  {
+   "id": "claa02:3700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「カルテと一緒に、この患者に関するレポートも押収した。俺は小難しい理屈が苦手でね、ちゃんと理解できてはいないんだが……とんでもない能力者だということだけは分かる」"
+  },
+  {
+   "id": "claa02:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成が、カルテとは別のレポートを取り出して、澪に差し出した。"
+  },
+  {
+   "id": "claa02:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は一度、眠り続けている老女――実際はまだ十五歳の少女――を見つめてから、差し出されたレポートの束を手にした。"
+  },
+  {
+   "id": "claa02:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そして、それに目を通そうとして――"
+  },
+  {
+   "id": "claa02:4100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「……！」"
+  },
+  {
+   "id": "claa02:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "全身に緊張がみなぎり、思わずレポートをグシャリと握りしめていた。"
+  },
+  {
+   "id": "claa02:4300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「く、久野里さん？ どうした？」"
+  },
+  {
+   "id": "claa02:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成が、びっくりしたように澪の顔を見ている。"
+  },
+  {
+   "id": "claa02:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ということは、神成にはこれが“普通のレポート”に見えているのだ。"
+  },
+  {
+   "id": "claa02:4600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "（いったい、ヤツはいつから？）"
+  },
+  {
+   "id": "claa02:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "この病室に入った瞬間からか。"
+  },
+  {
+   "id": "claa02:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "あるいはもっと前、神成から電話を受けた時にはすでに？"
+  },
+  {
+   "id": "claa02:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "⟦top:76⟧澪は、握りつぶしていた極めて不快な⟦rb⟧私信⟦rt⟧⟦rbc⟧●●⟦/r⟧を広げ直すと、その上に、睨み付けるように目を落とした。"
+  },
+  {
+   "id": "claa02:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "やあ、久野里くん。またキミのような聡明な女性と関わることが出来て、うれしい限りだ。まさか、僕――和久井修一のことなど覚えていないとか、寂しいことは言ってくれるなよ？"
+  },
+  {
+   "id": "claa02:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "目の前で眠っている少女はね、佐久間たちが発見した能力者の中でもかなり特殊な存在だ。とある病院の拘禁室に、たったひとり、ずっと意識のない状態で監禁されていた。"
+  },
+  {
+   "id": "claa02:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "ご覧の通り、全身を拘束衣に包まれ、身動き一つできず……まるで懲罰房の囚人扱いだ。こんないたいけな少女になぜ、と僕の胸は痛んだが……。"
+  },
+  {
+   "id": "claa02:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "残されていた電子カルテを見て、納得がいった。おそらくキミもそうだろう。"
+  },
+  {
+   "id": "claa02:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "さて。いまさら訊くまでもないが、当然、＜因果律＞というものをキミは知っているね？ 全ての事象には＜原因＞があり、それによって＜結果＞が生じる。"
+  },
+  {
+   "id": "claa02:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "今回のカオスチャイルド症候群の事件も、もちろん因果律の輪の中にあった。"
+  },
+  {
+   "id": "claa02:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ところが、この少女の能力はね……その因果律をねじ曲げてしまえるんだ。"
+  },
+  {
+   "id": "claa02:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "正確に言うなら、自分が求める＜結果＞になるよう、＜その原因となった事象＞を改変してしまう能力と言った方が正しいな。"
+  },
+  {
+   "id": "claa02:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そして、その＜因果律改変＞のせいで、世界は大きく変化してしまうんだ。すごい能力だと思わないか？"
+  },
+  {
+   "id": "claa02:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "とはいえ、これは同時に危険すぎる能力でもある。佐久間たちが、この子を眠らせたままずっと拘束していた理由も分かるというものだ。"
+  },
+  {
+   "id": "claa02:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "でもね、僕はこの子の素敵な使い方を思いついたよ。ほら、キミや宮代くんのせいで僕はひどい目にあっただろう？ だからもう一度、２００９年の渋谷地震の時点から因果の改変を――"
+  },
+  {
+   "id": "claa02:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そこまで読んだ澪は、心の奥底に響く警鐘とともに顔を上げた。"
+  },
+  {
+   "id": "claa02:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "自分にこのレポートを渡してきた神成の方を見る。"
+  },
+  {
+   "id": "claa02:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧だが、そこにはすでに神成の姿はなかった。"
+  },
+  {
+   "id": "claa02:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その代わり、壁にもたれかかって、ニヤニヤとイヤな笑みを浮かべていたのは――"
+  },
+  {
+   "id": "claa02:6500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「……和久井……貴様……ッ」"
+  },
+  {
+   "id": "claa02:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井修一だった。"
+  },
+  {
+   "id": "claa02:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "⟦top:76⟧澪は悟った。自分は罠にはまったのだ。"
+  },
+  {
+   "id": "claa02:6800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「だからね、この世界にはもう一度、渋谷地震の後からやり直してもらおうと思うんだ。僕にとって、都合のいい結果になるようにね」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「そうすれば僕は、キミたちのせいで委員会に責められることもなく、平穏無事な人生を送れる。委員会の作る、新しい世界の中で――」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "和久井の口から澪に届いた声は、そこまでだった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ベッドに拘束されていた彼女の目が、いきなり見開かれた。"
+  }
+ ]
+}

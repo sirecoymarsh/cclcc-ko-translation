@@ -1,0 +1,215 @@
+{
+ "packet_id": "CC0088-clka11-P04",
+ "kit_version": "1.0",
+ "source_file": "clka11.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "카즈키 하나"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ええと……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「さっきの言葉……」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「っ！ ……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ええと、あれは」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「なんていうのかな、」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「お前の、本心なのか？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka11:30000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「つまり、香月は」"
+  },
+  {
+   "id": "clka11:30100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「僕が、好き、なのか？」"
+  },
+  {
+   "id": "clka11:30200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ！！？？」"
+  },
+  {
+   "id": "clka11:30300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "このシチュエーションで確認するの！？"
+  },
+  {
+   "id": "clka11:30400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "どんだけコミュ力無いのこの人！？"
+  },
+  {
+   "id": "clka11:30500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "心の中でそう絶叫しつつ、香月は必死に気持ちを落ち着けた。"
+  },
+  {
+   "id": "clka11:30600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』がくれたこのボーナスステージを台無しにしたくなかった。"
+  },
+  {
+   "id": "clka11:30700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "ふっと、誰かに背中を押された気がした。"
+  },
+  {
+   "id": "clka11:30800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ん」"
+  },
+  {
+   "id": "clka11:30900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「好き、かも」"
+  },
+  {
+   "id": "clka11:31000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka11:31100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clka11:31200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「…………あ、」"
+  },
+  {
+   "id": "clka11:31300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ありが、とう」"
+  },
+  {
+   "id": "clka11:31400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「！……」"
+  },
+  {
+   "id": "clka11:31500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "それは、今、一番聞きたかった言葉だった。"
+  },
+  {
+   "id": "clka11:31600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka11:31700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clka11:31800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「ん」"
+  }
+ ],
+ "context_after": []
+}

@@ -1,0 +1,934 @@
+{
+ "packet_id": "CC0321-clzz99-P01",
+ "kit_version": "1.0",
+ "source_file": "clzz99.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clzz99:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "結局、その後、部の予算が削減されるようなこともなく、また世間をあっと言わせるような事件も起こらず。"
+  },
+  {
+   "id": "clzz99:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "そのため、僕たちの新聞部としての活動も、どうにもパッとすることのないまま、一か月が過ぎようとしていた。"
+  },
+  {
+   "id": "clzz99:200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、タク」"
+  },
+  {
+   "id": "clzz99:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そしてその日の放課後、部活に向かおうとしているところで、僕は尾上に会った。"
+  },
+  {
+   "id": "clzz99:400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ああ、尾上か。お前も部室だろ？」"
+  },
+  {
+   "id": "clzz99:500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ゴメン、タク。今日は部活休ませて」"
+  },
+  {
+   "id": "clzz99:600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「は？ なんでだよ？」"
+  },
+  {
+   "id": "clzz99:700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「えっと、それが……」"
+  },
+  {
+   "id": "clzz99:800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ、いたいた。せりー」"
+  },
+  {
+   "id": "clzz99:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "尾上が何か言いかけたところで、やかましい奴がやかましく駆け寄って来た。"
+  },
+  {
+   "id": "clzz99:1000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「どう？ もう話はついた？」"
+  },
+  {
+   "id": "clzz99:1100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あー、ひなちゃん。ごめん、それがまだ……」"
+  },
+  {
+   "id": "clzz99:1200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なにー？ まだ話してないってか。しゃーないなー」"
+  },
+  {
+   "id": "clzz99:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なるほどな……有村がそんな風に言うってことは、一緒に遊びに行くってことか……」"
+  },
+  {
+   "id": "clzz99:1400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お、さすが先輩。察しがお早い。つーわけで、ふたり、借りていきまーす」"
+  },
+  {
+   "id": "clzz99:1500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ふたり？」"
+  },
+  {
+   "id": "clzz99:1600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私も一緒……かも」"
+  },
+  {
+   "id": "clzz99:1700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うわっ！」"
+  },
+  {
+   "id": "clzz99:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "いつの間にか背後にいたらしい香月の声に、思わず飛び上がりそうになる。"
+  },
+  {
+   "id": "clzz99:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "いたなら声かけろよ。"
+  },
+  {
+   "id": "clzz99:2000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ゴメンね、タク。新しくできたチョコレートバーにみんなで行こうって話になって」"
+  },
+  {
+   "id": "clzz99:2100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、なんなら先輩も一緒に行きます？ 店内、女子ばっかりですけど」"
+  },
+  {
+   "id": "clzz99:2200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いや、遠慮する……」"
+  },
+  {
+   "id": "clzz99:2300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あらま、残念」"
+  },
+  {
+   "id": "clzz99:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "さして残念そうにも見えない態度から、どうせ最初から断るとわかってて誘ったのが丸わかりだ。"
+  },
+  {
+   "id": "clzz99:2500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「それよりほら、早く行かないと、超並ぶことになるって。この時間が一番、人多いんだから」"
+  },
+  {
+   "id": "clzz99:2600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「あ、うん。それじゃタク。またね」"
+  },
+  {
+   "id": "clzz99:2700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「お店の取材もしてくる……かも」"
+  },
+  {
+   "id": "clzz99:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "怒涛のように去っていく３人を、僕は黙って見送った。"
+  },
+  {
+   "id": "clzz99:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "どうせ口を挟んだところで、スイーツが目の前にぶら下がった女子を止めることなど出来ないことは、僕だってわかっている。"
+  },
+  {
+   "id": "clzz99:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それに、あの３人がいようがいまいが、部活にはたいした影響はない。"
+  },
+  {
+   "id": "clzz99:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "仕方がない、と気を取り直して部室に向かおうとした、その矢先、前方からまたまた見知った顔が近づいてきた。"
+  },
+  {
+   "id": "clzz99:3200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ああ、拓留。良かった。今ちょうど、部室に向かおうと思ってたところだったんだけど、手間がはぶけたわ」"
+  },
+  {
+   "id": "clzz99:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "手間？"
+  },
+  {
+   "id": "clzz99:3400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……ってことは、もしかして来栖も……？」"
+  },
+  {
+   "id": "clzz99:3500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「その様子だと、やっぱり忘れてたわね」"
+  },
+  {
+   "id": "clzz99:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "来栖はやれやれとでも言うように、大きく息を吐いた。"
+  },
+  {
+   "id": "clzz99:3700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「今日は、うきと結衣の進路のことで、家に先生が来るから、部活は休むって前に言ってたはずだけど」"
+  },
+  {
+   "id": "clzz99:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "……言われてみれば、そんなことも言ってた気がする。"
+  },
+  {
+   "id": "clzz99:3900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「そういうことだから、よろしく頼むわね」"
+  },
+  {
+   "id": "clzz99:4000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「すみません、拓留さん……」"
+  },
+  {
+   "id": "clzz99:4100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "이토 신지",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clzz99:4200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "이토 신지",
+   "jp": "「まったく、尾上も来栖も香月も有村もうきも、みんなもうちょっと部活に本腰を入れてもらわないと困るよ」"
+  },
+  {
+   "id": "clzz99:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "遊びに行くだの家の用事だの――部活をなんだと思ってるんだ。"
+  },
+  {
+   "id": "clzz99:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "まあ……考えてみれば、有村とうきはそもそも部員じゃないんだけど。"
+  },
+  {
+   "id": "clzz99:4500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちーっす！ って、なんだよ……宮代だけか？」"
+  },
+  {
+   "id": "clzz99:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "そんな中、⟦rb⟧伊藤⟦rt⟧こいつ⟦/r⟧だけが、ちゃんと部活にやって来たのか。"
+  },
+  {
+   "id": "clzz99:4700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「他の連中はどうした？」"
+  },
+  {
+   "id": "clzz99:4800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「みんな休むって。というわけで、今日は実質活動休止ってとこだ」"
+  },
+  {
+   "id": "clzz99:4900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふーん」"
+  },
+  {
+   "id": "clzz99:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤は無造作にカバンを投げ出すと、僕の向かい側に陣取った。"
+  },
+  {
+   "id": "clzz99:5100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、そういう日もあるだろ」"
+  },
+  {
+   "id": "clzz99:5200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「なんだよ。帰ってもいいんだぞ？」"
+  },
+  {
+   "id": "clzz99:5300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうせ、帰ってもやることないしな」"
+  },
+  {
+   "id": "clzz99:5400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ふん、暇なやつ」"
+  },
+  {
+   "id": "clzz99:5500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お前だって同じだろ？」"
+  },
+  {
+   "id": "clzz99:5600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「バカいうな。僕にはやることが山ほどある」"
+  },
+  {
+   "id": "clzz99:5700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、そ」"
+  },
+  {
+   "id": "clzz99:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "いつもなら“やることってなんだよ？”って突っかかって来そうなものを、伊藤は特に話にも乗って来ず、机に突っ伏した。"
+  },
+  {
+   "id": "clzz99:5900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そういうことならちょうど良いや。俺、ちょっと寝るわ」"
+  },
+  {
+   "id": "clzz99:6000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「おい、寝るなら帰って寝ろよ」"
+  },
+  {
+   "id": "clzz99:6100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いいだろ、ちょっとくらい。もう、放課後から眠くってさー。午前中に体育、それもマラソンとかカンベンして欲しいよな」"
+  },
+  {
+   "id": "clzz99:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "と言うなり、ものの数秒もすると、伊藤は寝息を立て始めていた。"
+  },
+  {
+   "id": "clzz99:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ったく、やっぱりこいつも部活を舐めてるよな。"
+  },
+  {
+   "id": "clzz99:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも……。"
+  },
+  {
+   "id": "clzz99:6500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ふわぁ……」"
+  },
+  {
+   "id": "clzz99:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "目の前で寝られると、こっちまで眠くなるじゃないか。"
+  },
+  {
+   "id": "clzz99:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに午前中の体育は……疲れるんだよ……な……。"
+  },
+  {
+   "id": "clzz99:6800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「うっ……」"
+  },
+  {
+   "id": "clzz99:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "寒っ！"
+  },
+  {
+   "id": "clzz99:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……あれ？ そうか、僕、いつの間にか寝て……。"
+  },
+  {
+   "id": "clzz99:7100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "「――！！？」"
+  },
+  {
+   "id": "clzz99:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "突然、横殴りの激しい揺れが僕たちを襲った。"
+  },
+  {
+   "id": "clzz99:7300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「うわっ！ なんだ？ 地震か！？」"
+  },
+  {
+   "id": "clzz99:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "それは、立っているのも困難なほどの揺れだった。"
+  },
+  {
+   "id": "clzz99:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "部屋中のあらゆる物が金切り声を上げながら、上下左右に激しく動いていた。"
+  },
+  {
+   "id": "clzz99:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "どれくらい……２０秒か３０秒か……あるいはもっと短かったのかもしれない。"
+  },
+  {
+   "id": "clzz99:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "とにかく、ようやく揺れが収まって、僕と伊藤は恐る恐る動き出した。"
+  },
+  {
+   "id": "clzz99:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "あれだけ揺れたのに、奇跡的に部室の中は揺れる前と何も変わっていなかった。"
+  },
+  {
+   "id": "clzz99:7900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ガラスが割れたり物が落ちたりもしていない。"
+  },
+  {
+   "id": "clzz99:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "さすがは、渋谷地震から教訓を得て作った建物のことはある。"
+  },
+  {
+   "id": "clzz99:8100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「凄かったな、今の地震……」"
+  },
+  {
+   "id": "clzz99:8200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「また渋谷地震みたいなやつかな」"
+  },
+  {
+   "id": "clzz99:8300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だとしたら、ヤバいな……」"
+  },
+  {
+   "id": "clzz99:8400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そうだ。とりあえず、状況を……」"
+  },
+  {
+   "id": "clzz99:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こういう時、一番に役に立つのは、⟦col:280aa02d1400⟧ＳＮＳ⟦col:800000⟧だ。"
+  },
+  {
+   "id": "clzz99:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう思って、ポケットの中からスマホを取り出そうとしたところ……。"
+  },
+  {
+   "id": "clzz99:8700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「……しまった。スマホ、教室に忘れてきた」"
+  },
+  {
+   "id": "clzz99:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "いつもならすぐに気づくのに、ついウトウトしてしまったせいで、まったく気づいていなかった。"
+  },
+  {
+   "id": "clzz99:8900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「マジかよ。宮代らしくねえな。そんじゃ俺のを……あ……」"
+  },
+  {
+   "id": "clzz99:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ポケットをまさぐる伊藤の動きが止まった。"
+  },
+  {
+   "id": "clzz99:9100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「おい、まさか……」"
+  },
+  {
+   "id": "clzz99:9200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「俺も忘れたらしい。ちょっと取って来る！」"
+  },
+  {
+   "id": "clzz99:9300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「だったら僕も行くよ」"
+  },
+  {
+   "id": "clzz99:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ふたりして部室から出ようと、ドアに手をかけ力を込めた。"
+  },
+  {
+   "id": "clzz99:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ところが……。"
+  },
+  {
+   "id": "clzz99:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「あれ？ 開かない……」"
+  },
+  {
+   "id": "clzz99:9700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「嘘？ マジで？ ちょっと貸してみろ」"
+  },
+  {
+   "id": "clzz99:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕を押しのけるようにして、伊藤がドアに手をかけたが、やはり扉はガタガタと音を立てるだけでびくともしない。"
+  },
+  {
+   "id": "clzz99:9900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「もしかして、今の地震で立て付けが歪んだのか？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「宮代、手伝ってくれ！！」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「よし、行くぞ。せーのっ！！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ふたりで力を合わせて見たものの、やはり扉は一向に開く気配がなかった。"
+  }
+ ]
+}

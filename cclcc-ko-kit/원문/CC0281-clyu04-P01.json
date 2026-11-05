@@ -1,0 +1,938 @@
+{
+ "packet_id": "CC0281-clyu04-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신문부원들",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "오노에 세리카",
+  "유",
+  "유이",
+  "이토 신지",
+  "카즈키 하나",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu04:0",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「そんじゃ、次は私の番ですね」"
+  },
+  {
+   "id": "clyu04:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유이",
+   "jp": "いつの間にか⟦col:280aa02d1400⟧プロデューサー⟦col:800000⟧として手を挙げていた有村が僕たちに集合をかけたのは、それから２日後のことだった。"
+  },
+  {
+   "id": "clyu04:200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유토",
+   "jp": "「よろしくお願いします、有村プロデューサー」"
+  },
+  {
+   "id": "clyu04:300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「お願いします」"
+  },
+  {
+   "id": "clyu04:400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「不甲斐ない伊藤先輩と違って、この私に任せておけば大丈夫だから」"
+  },
+  {
+   "id": "clyu04:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "自信満々に胸を張る有村だが、その自信がかえって不安を煽ることもある。"
+  },
+  {
+   "id": "clyu04:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "だが、有村とはいえ女の子であるという点で、きっと伊藤に比べてもアドバンテージがあるに違いない。"
+  },
+  {
+   "id": "clyu04:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "少なくとも、伊藤が考えたような方向へは行かないはずだ。"
+  },
+  {
+   "id": "clyu04:800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「それじゃ、今日は外ロケを行いまーす。その前に、ふたりはこれに着替えて」"
+  },
+  {
+   "id": "clyu04:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유토",
+   "jp": "有村が持参していた大きな紙袋をふたりに手渡した。"
+  },
+  {
+   "id": "clyu04:1000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「えっと……これは？」"
+  },
+  {
+   "id": "clyu04:1100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「もっちろん、衣装だよ。どんなアイドルにだって、制服は必要でしょ？ それがアイドルのトレードマークにもなるんだし、ちゃんとしたものが無いと」"
+  },
+  {
+   "id": "clyu04:1200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유토",
+   "jp": "「制服！？」"
+  },
+  {
+   "id": "clyu04:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "アイドルの命ともいえる制服と聞いて、結衣の目が輝いた。"
+  },
+  {
+   "id": "clyu04:1400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유토",
+   "jp": "「やった！ 制服だって、ユウ！」"
+  },
+  {
+   "id": "clyu04:1500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「う、うん」"
+  },
+  {
+   "id": "clyu04:1600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「早く着替えよ！ ほらっ！」"
+  },
+  {
+   "id": "clyu04:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "아리무라 히나에",
+   "jp": "なるほど。結人はともかくとして、制服がこれほどまでに結衣のテンションを上げるとは。"
+  },
+  {
+   "id": "clyu04:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村もなかなかやるのかもしれない。"
+  },
+  {
+   "id": "clyu04:1900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "야마조에 우키",
+   "jp": "「華、それからうきちゃんも、手伝ってあげて」"
+  },
+  {
+   "id": "clyu04:2000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「は、はい」"
+  },
+  {
+   "id": "clyu04:2100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clyu04:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣と結人、そして香月たちは、有村から手渡された紙袋を抱えて着替えのためにトレーラーハウスの中に入っていった。"
+  },
+  {
+   "id": "clyu04:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに有村の言うとり、アイドルといえば、各々固有の制服に身を包んでいるイメージがあるだろう。"
+  },
+  {
+   "id": "clyu04:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ふたりにそんな制服があるというのは、ありがたい話ではあるけど……。"
+  },
+  {
+   "id": "clyu04:2500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「おい、有村。大丈夫なのか、あれ……」"
+  },
+  {
+   "id": "clyu04:2600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？ 何がっすか？」"
+  },
+  {
+   "id": "clyu04:2700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「制服なんて作る金、無かっただろ」"
+  },
+  {
+   "id": "clyu04:2800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そうだぞ。部費をあてになんてしてたら、痛い目にあうぞ」"
+  },
+  {
+   "id": "clyu04:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ちなみに伊藤は絶賛、アルバイトを探している最中らしい。"
+  },
+  {
+   "id": "clyu04:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "気の毒な気もするが、そもそもは早まった伊藤が悪いのだから同情の余地はない。"
+  },
+  {
+   "id": "clyu04:3100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あー、それなら大丈夫っすよ。私のは、お金、ほとんどかかってないんで」"
+  },
+  {
+   "id": "clyu04:3200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そうなのか？ でも制服だろ？ 材料費だけでも、それなりにいくんじゃないか？」"
+  },
+  {
+   "id": "clyu04:3300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「だーいじょうぶだいじょうぶ。その辺のところはうまくやってるんで、心配しなくても平気ですって」"
+  },
+  {
+   "id": "clyu04:3400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "야마조에 우키",
+   "jp": "「あ、ふたりとも着替え終わったみたいだよ〜」"
+  },
+  {
+   "id": "clyu04:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "야마조에 우키",
+   "jp": "僕たちがそんな話をしているうちにも、ふたりの準備は着々と進んでいたらしく、尾上の声とともに、部屋の扉がゆっくりと開いた。"
+  },
+  {
+   "id": "clyu04:3600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「お待たせしました」"
+  },
+  {
+   "id": "clyu04:3700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clyu04:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "타치바나 유이",
+   "jp": "香月たちに促されて、ふたりの姿がゆっくりと現れる。"
+  },
+  {
+   "id": "clyu04:3900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "타치바나 유토",
+   "jp": "「じゃーん」"
+  },
+  {
+   "id": "clyu04:4000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "신문부원들",
+   "jp": "「えっと……こんな感じで大丈夫かな？」"
+  },
+  {
+   "id": "clyu04:4100",
+   "type": "dialogue",
+   "speaker": "新聞部員たち",
+   "speaker_ko": "신문부원들",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「「「「おおぉ、これは――！」」」」"
+  },
+  {
+   "id": "clyu04:4200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "신문부원들",
+   "next_speaker": "유",
+   "jp": "「おっけいおっけい。そのままゆっくり顔を出して」"
+  },
+  {
+   "id": "clyu04:4300",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「えっと……こう？」"
+  },
+  {
+   "id": "clyu04:4400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "「うーん、いい感じいい感じ。次、結衣ちゃん」"
+  },
+  {
+   "id": "clyu04:4500",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「えへっ」"
+  },
+  {
+   "id": "clyu04:4600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「おお、ファンタスティック！」"
+  },
+  {
+   "id": "clyu04:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村の提供してくれた制服はなかなかに可愛らしいデザインで、結衣と結人をはじめ、尾上や香月の評判も上々だった。"
+  },
+  {
+   "id": "clyu04:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕も悪くないんじゃないかと思う。"
+  },
+  {
+   "id": "clyu04:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "が……問題はそこじゃなく。"
+  },
+  {
+   "id": "clyu04:5000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「そう！ そこでひと言、はいっ！ 『大好きだよっ』！」"
+  },
+  {
+   "id": "clyu04:5100",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だ、大好きだよ……？」"
+  },
+  {
+   "id": "clyu04:5200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「うーん、戸惑った感じも悪くはないけど、もっと思い切って言ってみよう！ さん、はいっ」"
+  },
+  {
+   "id": "clyu04:5300",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「大好きだよーっ」"
+  },
+  {
+   "id": "clyu04:5400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유이",
+   "next_speaker": "유",
+   "jp": "「いいねいいねー。じゃ、今度はユウちゃん！ はいっ！」"
+  },
+  {
+   "id": "clyu04:5500",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だ、大好きだよー」"
+  },
+  {
+   "id": "clyu04:5600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「もっと笑顔で！」"
+  },
+  {
+   "id": "clyu04:5700",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だいすき……だよぉ……？」"
+  },
+  {
+   "id": "clyu04:5800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「まだ固いなー。もいっちょ！」"
+  },
+  {
+   "id": "clyu04:5900",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「っ……だいすきだよーっ！」"
+  },
+  {
+   "id": "clyu04:6000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うーん、私もだいすきだよっ！！」"
+  },
+  {
+   "id": "clyu04:6100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu04:6200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃ、次はどうしよっかなー……そうね、ふたりこう、向かい合ったまま両手を取り合って、楽しそうに笑いながらぐるぐる回っちゃおうか」"
+  },
+  {
+   "id": "clyu04:6300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「待て、有村」"
+  },
+  {
+   "id": "clyu04:6400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「は？ なんすか先輩。今、いいとこなんすけど」"
+  },
+  {
+   "id": "clyu04:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "途中で止められて有村は露骨に嫌な顔をした。"
+  },
+  {
+   "id": "clyu04:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だが、ここはやはり止めておくべきところだということは、僕だけじゃなく、伊藤や香月の表情を見ても明らかだった。"
+  },
+  {
+   "id": "clyu04:6700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村……お前、全体的に古くさい……」"
+  },
+  {
+   "id": "clyu04:6800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「な！？ い、今……なんて……」"
+  },
+  {
+   "id": "clyu04:6900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だから、感覚が古いんだって。なんだよ、さっきの」"
+  },
+  {
+   "id": "clyu04:7000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ななな、何言ってんすか！ アイドルといえば、木の後ろから顔を出すのは定番でしょ！」"
+  },
+  {
+   "id": "clyu04:7100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いつの時代のアイドルだよ、それ」"
+  },
+  {
+   "id": "clyu04:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "アイドルに詳しくない僕だって、それが古いってことくらいはわかる。"
+  },
+  {
+   "id": "clyu04:7300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そ、それは宮代先輩の感覚がおかしいだけでしょ。ね？ そうだよね、みんな？」"
+  },
+  {
+   "id": "clyu04:7400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "야마조에 우키",
+   "jp": "「うー……それは……」"
+  },
+  {
+   "id": "clyu04:7500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「わ、私はいいと思いますけど……」"
+  },
+  {
+   "id": "clyu04:7600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "이토 신지",
+   "jp": "「んー……」"
+  },
+  {
+   "id": "clyu04:7700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いや、どう考えてたって古いだろ。昭和の匂いプンプンだ」"
+  },
+  {
+   "id": "clyu04:7800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「しょ、昭和……」"
+  },
+  {
+   "id": "clyu04:7900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「もしかして、この後、メリーゴーランドに乗って手を振ったり、草原に寝そべってタンポポの花びらを１枚１枚数えたりしないよな？」"
+  },
+  {
+   "id": "clyu04:8000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "「え？ あ、あはははは……や、やだなぁ。この私がそんな古臭い演出するわけないじゃないすかー。あは、あは、あははは……」"
+  },
+  {
+   "id": "clyu04:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "유이",
+   "jp": "有村は笑っていたが、僕たちは見逃さなかった。"
+  },
+  {
+   "id": "clyu04:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "유이",
+   "jp": "有村の表情が一瞬、固まったのを。"
+  },
+  {
+   "id": "clyu04:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "유이",
+   "jp": "その顔はまさに『どうしてそれを！？』と口走っていた。"
+  },
+  {
+   "id": "clyu04:8400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "유",
+   "jp": "「あのー……ところで……」"
+  },
+  {
+   "id": "clyu04:8500",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ぼ、僕たちはどうすればいいのかな？」"
+  },
+  {
+   "id": "clyu04:8600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "유",
+   "next_speaker": "타치바나 유이",
+   "jp": "「えー、非常に無念ではありますが、私、有村雛絵、プロデューサーの任を降りたいと思います」"
+  },
+  {
+   "id": "clyu04:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유이",
+   "jp": "自分のセンスが古いと指摘されたのが、よっぽど⟦rb⟧堪⟦rt⟧こた⟦/r⟧えたのか、有村はその日のうちに降板を申し出た。"
+  },
+  {
+   "id": "clyu04:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유이",
+   "jp": "その決断に異を唱えるものは誰一人いなかった。"
+  },
+  {
+   "id": "clyu04:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유이",
+   "jp": "伊藤もダメ、有村もダメ。"
+  },
+  {
+   "id": "clyu04:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유이",
+   "jp": "尾上や香月やうきは、最初から向いてないと思っているのか、名乗りをあげようともしない。"
+  },
+  {
+   "id": "clyu04:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유이",
+   "jp": "となると……。"
+  },
+  {
+   "id": "clyu04:9200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、拓留兄。私、やっぱり拓留兄にプロデューサー、してほしい」"
+  },
+  {
+   "id": "clyu04:9300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "「僕に……？」"
+  },
+  {
+   "id": "clyu04:9400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「僕も拓留兄ちゃんがいいな……」"
+  },
+  {
+   "id": "clyu04:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "야마조에 우키",
+   "jp": "……ふたりにこんな風に懇願されたら、やるしかない。"
+  },
+  {
+   "id": "clyu04:9600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留さんなら……きっとできると思います……」"
+  },
+  {
+   "id": "clyu04:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それに伊藤や有村には悪いけど、そもそもは僕が頼まれたことなわけだし。"
+  },
+  {
+   "id": "clyu04:9800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": null,
+   "jp": "「わかったよ。そこまで言うなら、これからは僕が責任をもってふたりをプロデュースする」"
+  },
+  {
+   "id": "clyu04:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "なんのことはない。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "この数日かけて、話はただ振り出しに戻っただけだった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "だが、それでも伊藤と有村を見ていて、得たものも幾つかはある。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "まずはアプローチの仕方だ。"
+  }
+ ]
+}

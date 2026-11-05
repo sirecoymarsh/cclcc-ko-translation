@@ -1,0 +1,817 @@
+{
+ "packet_id": "CC0103-clkn05-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn05.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "와쿠이 슈이치",
+  "이토 신지",
+  "카와하라 마사시",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn05:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "翌朝、碧朋学園は、やけに⟦rb⟧騒⟦rt⟧ざわ⟦/r⟧ついていた。"
+  },
+  {
+   "id": "clkn05:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "大勢の生徒たちが掲示板の前に集まって口々に何かを言っていた。"
+  },
+  {
+   "id": "clkn05:200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "（何が書いてるんだ？）"
+  },
+  {
+   "id": "clkn05:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "けれど、その内容を確かめるためには輪の中に入っていかねばならず、僕には少々ハードルが高い。"
+  },
+  {
+   "id": "clkn05:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "どうすべきか輪の外からしばらく様子を見ていると、"
+  },
+  {
+   "id": "clkn05:500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、宮代！」"
+  },
+  {
+   "id": "clkn05:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ちょうど輪の中から抜け出てきた伊藤が近づいてきた。"
+  },
+  {
+   "id": "clkn05:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ナイスだ、伊藤。"
+  },
+  {
+   "id": "clkn05:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "これでわざわざあの中に入っていかなくても済む。"
+  },
+  {
+   "id": "clkn05:900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「見たか、あの張り紙。冗談じゃねえよな。ふざけんなっつーの」"
+  },
+  {
+   "id": "clkn05:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "どうやら、怒るに値する内容のものらしい。"
+  },
+  {
+   "id": "clkn05:1100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「えっと……」"
+  },
+  {
+   "id": "clkn05:1200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ？ お前、まさか知らないのか？」"
+  },
+  {
+   "id": "clkn05:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「え？ あ、し、知ってるに決まってるだろ！ 僕を誰だと思ってる」"
+  },
+  {
+   "id": "clkn05:1400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だよなぁ。それにしても、あ〜、マジでムカつく！ あんなのが通ってたまるかってんだ」"
+  },
+  {
+   "id": "clkn05:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しまった。"
+  },
+  {
+   "id": "clkn05:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんなところで伊藤相手に強がり言ったところでどうにもならないというのに、つい癖で。"
+  },
+  {
+   "id": "clkn05:1700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「あ、あのさ、伊藤」"
+  },
+  {
+   "id": "clkn05:1800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ？ なんだよ？」"
+  },
+  {
+   "id": "clkn05:1900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いや……」"
+  },
+  {
+   "id": "clkn05:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "今さら何が書かれているのかなんて訊けない。"
+  },
+  {
+   "id": "clkn05:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "かと言って、このまま話題に置いて行かれるのも僕の主義に反する。"
+  },
+  {
+   "id": "clkn05:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "くっ……なんとか張り紙が見えないだろうか？"
+  },
+  {
+   "id": "clkn05:2300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なに背伸びしてんの、タク？」"
+  },
+  {
+   "id": "clkn05:2400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「お、尾上？ いや、違うんだ、これは別に、張り紙の内容を見ようとしてたわけじゃなくて……！」"
+  },
+  {
+   "id": "clkn05:2500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、ひどいよねぇ、あの張り紙。校内恋愛禁止令だなんて、おーぼーすぎるよぉ」"
+  },
+  {
+   "id": "clkn05:2600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「校内恋愛禁止っ！？」"
+  },
+  {
+   "id": "clkn05:2700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんだ？ 知ってたんじゃないのか？」"
+  },
+  {
+   "id": "clkn05:2800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「し、知ってたよ！ もちろん知ってたとも！ ほんと、ひどい話だよな！！！」"
+  },
+  {
+   "id": "clkn05:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "助かったぞ、尾上。"
+  },
+  {
+   "id": "clkn05:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "それにしても……校内恋愛禁止令だって？"
+  },
+  {
+   "id": "clkn05:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "なんだ、その前時代的な話は。"
+  },
+  {
+   "id": "clkn05:3200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、生徒会の提案てことは、のんちゃんも承知のうえなのかなぁ？」"
+  },
+  {
+   "id": "clkn05:3300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「生徒会の提案なのか？」"
+  },
+  {
+   "id": "clkn05:3400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ああ、そう書いてただろ？ あれ？ 宮代。お前もしかして……」"
+  },
+  {
+   "id": "clkn05:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "その時、伊藤の声を遮るように、廊下の向こうから異様な集団が姿を現した。"
+  },
+  {
+   "id": "clkn05:3600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ねえ、タク。あれ……のんちゃん」"
+  },
+  {
+   "id": "clkn05:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "先頭を歩いているのは、まさに乃々だった。"
+  },
+  {
+   "id": "clkn05:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "その後ろを大勢の連中が、乃々に向かって口々に言葉を投げかけながら追っかけている。"
+  },
+  {
+   "id": "clkn05:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "どうやら、張り紙に関しての生徒会の考えや真偽を問うているらしい。"
+  },
+  {
+   "id": "clkn05:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "乃々はそんな人々の言葉に応えを返すことなく、更には僕たちの姿にさえも気づかずに、大股に廊下を歩いてゆく。"
+  },
+  {
+   "id": "clkn05:4100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うわ……まさに⟦col:280aa02d1400⟧女帝⟦col:800000⟧って感じだな……」"
+  },
+  {
+   "id": "clkn05:4200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「のんちゃんのあんな怖い顔、初めて見た……」"
+  },
+  {
+   "id": "clkn05:4300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そんな暢気なこと言ってる場合か！」"
+  },
+  {
+   "id": "clkn05:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕は慌てて、乃々が引き連れていた集団の後を追った。"
+  },
+  {
+   "id": "clkn05:4500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「どういうことなの、あれは！！」"
+  },
+  {
+   "id": "clkn05:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "生徒会室の前に行くと、机を叩く大きな音とともに怒声が聞こえた。"
+  },
+  {
+   "id": "clkn05:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "あんなに強く叩きつけたら、さぞ手も痛かろうと思うが、今の乃々はそんなことすら感じないようだ。"
+  },
+  {
+   "id": "clkn05:4800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ど、どういうこともなにも、そういうことだよ」"
+  },
+  {
+   "id": "clkn05:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "아리무라 히나에",
+   "jp": "乃々が糾弾している相手は川原くんだった。"
+  },
+  {
+   "id": "clkn05:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "아리무라 히나에",
+   "jp": "川原くんは乃々の剣幕に、僅かにひるんだもののそれでも言葉を返した。"
+  },
+  {
+   "id": "clkn05:5100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "이토 신지",
+   "jp": "「うへぇ……大変なことになっとりますなぁ」"
+  },
+  {
+   "id": "clkn05:5200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「すげぇな、あいつ。俺だったらチビってるぜ」"
+  },
+  {
+   "id": "clkn05:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카와하라 마사시",
+   "jp": "いつの間にか伊藤だけでなく、尾上や有村たちまでが、僕の傍で生徒会室の様子をのぞき込んでいる。"
+  },
+  {
+   "id": "clkn05:5400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「恋だの愛だの、そんな話は学生生活には無用だ。そんなくだらないことに現を抜かしている暇があれば、勉学やスポーツに励むべきだ」"
+  },
+  {
+   "id": "clkn05:5500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「そんなことは訊いていません。これまで、生徒会であんな話、一度でも出たことないでしょう」"
+  },
+  {
+   "id": "clkn05:5600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「それを、ああいった形で生徒会の声明として出すなんて、どういうつもりなのか訊いているんです」"
+  },
+  {
+   "id": "clkn05:5700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「悪いけど、あれに関しては既に生徒会役員の過半数の賛成を得ている。わざわざ会長を煩わせることもないと思ってね」"
+  },
+  {
+   "id": "clkn05:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "川原くんは乃々の前に、紙の束を放り出した。"
+  },
+  {
+   "id": "clkn05:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "紙を捲るたびに、乃々の顔色が青くなっていくのが遠目にもわかった。"
+  },
+  {
+   "id": "clkn05:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "いわばこれはクーデターのようなものだ。"
+  },
+  {
+   "id": "clkn05:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "それにしても、まさかフラれた腹いせにこんな手に出るとは……。"
+  },
+  {
+   "id": "clkn05:6200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「来栖だって、付き合うような相手はいないんだろう？ だったら、別に構わないんじゃないのか？」"
+  },
+  {
+   "id": "clkn05:6300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「そういう個人的なことを言ってるんじゃありません。こんな馬鹿げた校則認めるわけにはいかないわ」"
+  },
+  {
+   "id": "clkn05:6400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「認める認めないを決めるのは俺たちじゃない。生徒のみんなだ」"
+  },
+  {
+   "id": "clkn05:6500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「それは……」"
+  },
+  {
+   "id": "clkn05:6600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いいじゃないか。これはまだ、生徒会からの提案に過ぎない。どのみち、校則の可決にはさらに全校生徒の過半数の賛成票が必要だ」"
+  },
+  {
+   "id": "clkn05:6700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「最終的な判断は生徒のみんなに委ねてみればいい。問題ないだろう？」"
+  },
+  {
+   "id": "clkn05:6800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「っ…………」"
+  },
+  {
+   "id": "clkn05:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "その後も、乃々はいろいろと反論を突き付けたが、川原くんは生徒の意見を聞こうの一点張り。"
+  },
+  {
+   "id": "clkn05:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "最終的には、一週間後に全校投票をすることになってしまった。"
+  },
+  {
+   "id": "clkn05:7100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「てか、そもそもあんな校則、認めちゃっていいんすか？」"
+  },
+  {
+   "id": "clkn05:7200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「まあ、うちの学校は生徒の自主性を重んじているからねぇ」"
+  },
+  {
+   "id": "clkn05:7300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「そういう意味では、認めるも認めないも君たち次第という、川原くんの言葉は確かに間違ってはいないし……」"
+  },
+  {
+   "id": "clkn05:7400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だからって、恋愛禁止なんておかしいでしょ」"
+  },
+  {
+   "id": "clkn05:7500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そうっすよ。これから先、卒業まで彼女が出来る可能性皆無の伊藤先輩が言ってるんですよ？ おかしいですよ」"
+  },
+  {
+   "id": "clkn05:7600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「そうですよ。彼女出来る可能性皆無の俺が……って、なんだと、有村！」"
+  },
+  {
+   "id": "clkn05:7700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「まあまあ……僕も君たちと同じく、おかしいとは思うよ。でも、みんながそう思うなら、可決されることもないんじゃないのかな？」"
+  },
+  {
+   "id": "clkn05:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "確かに、和久井先生の言うとおりではある。"
+  },
+  {
+   "id": "clkn05:7900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そうなるのが嫌なら、君たちも君たちで訴えかければいい」"
+  },
+  {
+   "id": "clkn05:8000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「君たち新聞部には、言論という大きな武器があるだろう？」"
+  },
+  {
+   "id": "clkn05:8100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "「というわけでだ、こんどの新聞は、生徒会が掲げた『校内恋愛禁止令』への異議を唱えるものにしたいと思うんだが」"
+  },
+  {
+   "id": "clkn05:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ペンは剣よりもなんとやら。"
+  },
+  {
+   "id": "clkn05:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "和久井先生の言葉どおり、僕たちには新聞という手段があった。"
+  },
+  {
+   "id": "clkn05:8400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ただ……伊藤はやけに張り切っているが、正直な話、僕にはどうでも良いことでもあった。"
+  },
+  {
+   "id": "clkn05:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "今さら恋愛を禁止されようがされまいが、これから先の学校生活、何か変わるわけでもない。"
+  },
+  {
+   "id": "clkn05:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "わざわざそんなことにかまけるくらいなら、もっと実のあることに時間を使ったほうが有効というものだ。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そういう意味では、どちらかといえば僕は川原くん寄りな考え方なのかもしれない。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "だからと言って、別にわざわざ恋愛禁止令なんて出す必要もないとも思う。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "結局のところ、答えは“どうだっていい”だ。"
+  }
+ ]
+}

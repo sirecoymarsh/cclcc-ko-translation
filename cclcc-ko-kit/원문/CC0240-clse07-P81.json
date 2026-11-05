@@ -1,0 +1,663 @@
+{
+ "packet_id": "CC0240-clse07-P81",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "오노에 세리카",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「う、うん。えとね、えとね……最初、変だなって思ったのは、その……『思考盗撮』がうまく出来なくなったことで……」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「あ、もちろん普段は使ってないよ。のんちゃんに注意されたから。だけど、その……なぜかタクの考えてることがものすごく気になることがあって。つい……タクだけ」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「うん、ホントだよ！ 新聞部のみんなにはやってない」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「え？ あ、それは……」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「そ、それはね、その、違わないけど、違うの」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「私ね、最近、タクの思考⟦rb⟧だけ⟦rt⟧⟦rbc⟧●●⟦/r⟧が見えなくなっちゃったみたいで……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:783500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……うん。タクにだけ能力が全く働かないの。それで、私、びっくりして、焦っちゃって……」"
+  },
+  {
+   "id": "clse07:783600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「悪いことだとは分かってたんだけど……新聞部のみんなに、ちょっとだけ能力を試してみたことがあるの」"
+  },
+  {
+   "id": "clse07:783700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ごめんなさい、のんちゃん……」"
+  },
+  {
+   "id": "clse07:783800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……読めるの。⟦rb⟧タク以外の人の心⟦rt⟧⟦rbc⟧●●●●●●●●⟦/r⟧なら誰でも」"
+  },
+  {
+   "id": "clse07:783900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「でも何回やっても、やっぱり⟦rb⟧タクの心だけ⟦rt⟧⟦rbc⟧●●●●●●⟦/r⟧、読めない……」"
+  },
+  {
+   "id": "clse07:784000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「私、病気になっちゃったのかなあ。久野里さんに診てもらった方がいいのかなあ」"
+  },
+  {
+   "id": "clse07:784100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ひやぁっ！？」"
+  },
+  {
+   "id": "clse07:784200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「いやあああぁぁぁぁーーー！」"
+  },
+  {
+   "id": "clse07:784300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「やだやだやだ！ なんでここにいるの！？ 私の話、聞いちゃった！？」"
+  },
+  {
+   "id": "clse07:784400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「う……ぐすっ……うううっ……」"
+  },
+  {
+   "id": "clse07:784500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「……っ、ううっ、うえええっ……タクなんて……もうキライっ……だいっキライ！！」"
+  },
+  {
+   "id": "clse07:784600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「わ、わたしっ……ひっく……かえる……っ！」"
+  },
+  {
+   "id": "clse07:784700",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「さーて、ここで問題です。私の正体はタクの予想通り、真ちゃんでしょうか？ それとも別の誰かでしょーか？」"
+  },
+  {
+   "id": "clse07:784800",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ちっちっちっちっちっちっちっち！ さあ、宮代拓留選手はこの難問に答えられるのかーっ！？ ドキドキの展開はＣＭのあと！！」"
+  },
+  {
+   "id": "clse07:784900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ぶっぶー！ 時間切れです！ 宮代選手、残念でしたー！」"
+  },
+  {
+   "id": "clse07:785000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「やだなあ。その前に、何か私に言うことあるんじゃないの？」"
+  },
+  {
+   "id": "clse07:785100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「あー、分かってなーい。ひっどーい」"
+  },
+  {
+   "id": "clse07:785200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ひなちゃんはさ、『宮代先輩も、きっといまごろ反省してますよ』とか言ってなぐさめてくれたけど……やっぱりタク、反省なんてしてないじゃん」"
+  },
+  {
+   "id": "clse07:785300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「うーん、やっぱりダメかあ……」"
+  },
+  {
+   "id": "clse07:785400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「知ってるでしょ？ カフェで盗み聞きしてたんだから。私、タクの心が読めなくなっちゃったんだよ」"
+  },
+  {
+   "id": "clse07:785500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「だからいま、タクが本気で謝ってくれてるのか、ただ謝るフリしてるだけなのか、分からないんだよね」"
+  },
+  {
+   "id": "clse07:785600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ほんとう？」"
+  },
+  {
+   "id": "clse07:785700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そっかあ、良かった。えへへぇ」"
+  },
+  {
+   "id": "clse07:785800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「変なプレイってなぁに？」"
+  },
+  {
+   "id": "clse07:785900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「また、すぐそうやって私を子供扱いする。ＳＭくらい知ってるよ」"
+  },
+  {
+   "id": "clse07:786000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「タクが時々、ゲンさんに売りつけられそうになってる本にも載ってるじゃん。こうやって縛って、拷問したりするんでしょ？」"
+  },
+  {
+   "id": "clse07:786100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う？ 思考盗撮が出来るなら、こんなことしなくても済むんだけど……タクがウソつかないように、ＳＭプレイで聞くことにしたんだよ」"
+  },
+  {
+   "id": "clse07:786200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあ、絶対にウソつかない？ だったら抜いてあげる」"
+  },
+  {
+   "id": "clse07:786300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ん、分かった」"
+  },
+  {
+   "id": "clse07:786400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「そうなんだ？ じゃあ、こういうのもダメかなあ」"
+  },
+  {
+   "id": "clse07:786500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「でも、みんなこの部屋に置いてあったものだよ？ 勝手に捨てていいのかなあ」"
+  },
+  {
+   "id": "clse07:786600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「うーん、やっぱりダメだよ。何かに使えるかもしれないし」"
+  },
+  {
+   "id": "clse07:786700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「それもダメ」"
+  },
+  {
+   "id": "clse07:786800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「タクってば、絶対に逃げちゃうもん。私ね、ここをタクと私だけの秘密の部屋にするつもりなんだー」"
+  },
+  {
+   "id": "clse07:786900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「うん。昔よく、廃墟の中とかに、秘密基地を作って遊んだでしょ？ あんな感じになったらいいなーって」"
+  },
+  {
+   "id": "clse07:787000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「…………。私」"
+  },
+  {
+   "id": "clse07:787100",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「お前をここに連れ込むのは、思っていたより簡単だった」"
+  },
+  {
+   "id": "clse07:787200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「トレーラーハウスの外に落ちていた⟦rb⟧焚火⟦rt⟧たきび⟦/r⟧用の棒で、ケガをしない程度に殴りつける。逃げようと背中を向けたお前の首を、後ろから腕で締め上げた」"
+  },
+  {
+   "id": "clse07:787300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「そのまま頸動脈を強く圧迫していれば、⟦rb⟧落ちる⟦rt⟧⟦rbc⟧●●●⟦/r⟧のはたやすい」"
+  },
+  {
+   "id": "clse07:787400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「あとは急病だとウソをついて、タクシーでこの病院まで連れてきたんだ。病院では、ロビーに置いてある車いすを使って、実に簡単に運ぶことが出来たよ。拍子抜けしたくらいだ」"
+  },
+  {
+   "id": "clse07:787500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「時間外の病院スタッフというのは人手が足りないせいか、夜勤の仕事に忙殺されている。廊下をウロウロしているのは、入院患者とその家族の方が多いくらいだ」"
+  },
+  {
+   "id": "clse07:787600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「そんな中、眠っているように偽装したお前をエレベーターで地下へ運んでいても、誰にも見とがめられなかったよ」"
+  },
+  {
+   "id": "clse07:787700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ただし、この最下層は閉鎖されていたからな。さすがに、侵入には苦労すると思っていたんだが……」"
+  },
+  {
+   "id": "clse07:787800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「あらかじめ偽造して、すり替えておいた山添うきのＩＤカードがまだ使えたんだ。あまりにもずさんで、思わず笑ってしまったよ」"
+  },
+  {
+   "id": "clse07:787900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ああ、これか？ 驚かなくていい。これもまた『私』――尾上世莉架なんだよ」"
+  },
+  {
+   "id": "clse07:788000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いつものアレは、そうだな……『白』の人格とでも言おうか。あるいは、お前の望みを叶えるための、⟦rb⟧撒き餌⟦rt⟧まきえ⟦/r⟧のような人格と言い換えてもいい」"
+  },
+  {
+   "id": "clse07:788100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああいう方が、女友達を作りやすい。必然的に、お前のまわりにも、私を通じて女が集まる」"
+  },
+  {
+   "id": "clse07:788200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それがお前の願いだった。だからそうしただけだ」"
+  },
+  {
+   "id": "clse07:788300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前は誰かに愛されたい。そして、愛したい。そうなのだろう？」"
+  },
+  {
+   "id": "clse07:788400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「取りつくろっても無意味だ。私はお前の全てを理解している存在なのだから」"
+  },
+  {
+   "id": "clse07:788500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前は情報強者なのだろう？ だったらもっと女のことを学べ。さっさと愛し合う女を作れ」"
+  },
+  {
+   "id": "clse07:788600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いつまでたっても、お前が目的を叶えないせいで、私よりも純粋で⟦rb⟧脆⟦rt⟧もろ⟦/r⟧い『白』の尾上世莉架が、⟦rb⟧壊れはじめている⟦rt⟧⟦rbc⟧●●●●●●●●⟦/r⟧」"
+  },
+  {
+   "id": "clse07:788700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前に対してだけ、思考盗撮が出来なくなっただろう？ あれは、お前の本心を知るのが怖くなったせいだ」"
+  },
+  {
+   "id": "clse07:788800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「⟦rb⟧あいつ⟦rt⟧⟦rbc⟧●●●⟦/r⟧はな、いつしかこう考えるようになってしまったんだよ。『宮代拓留に、私より好きな女が出来るなんて……そんなの嫌だ。他の女を想ってる彼の心なんて知りたくない』」"
+  },
+  {
+   "id": "clse07:788900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「事実だよ。だからこそ、お前への思考盗撮を無意識に封じてしまったんだ」"
+  },
+  {
+   "id": "clse07:789000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「問題は、それがフィードバックされたのか……とうとう私までおかしくなってきてしまったことだ」"
+  },
+  {
+   "id": "clse07:789100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「他の女がお前と一緒にいたり、楽しそうにしているだけでイライラする。どうにも我慢できない。下手をすれば、殺してしまいそうになる」"
+  },
+  {
+   "id": "clse07:789200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だからお前をここに閉じ込めて、他の女と接触させないことにした」"
+  },
+  {
+   "id": "clse07:789300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んっ………ん……んんっ」"
+  },
+  {
+   "id": "clse07:789400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁ、はぁ……いいか、覚えておけ。お前はもう⟦rb⟧私たち⟦rt⟧⟦rbc⟧●●●⟦/r⟧のものだ。特に、⟦rb⟧あいつ⟦rt⟧⟦rbc⟧●●●⟦/r⟧には逆らうな」"
+  },
+  {
+   "id": "clse07:789500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『白』の尾上世莉架だよ……あれは、お前が思っているよりずっと嫉妬深くて恐ろしいものになりかけているんだ」"
+  },
+  {
+   "id": "clse07:789600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふ……お前と私で、楽しいことをたくさんしよう。いい思いも色々とさせてやるよ」"
+  },
+  {
+   "id": "clse07:789700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふぅ……少しだけ疲れた。休ませてもらおう」"
+  },
+  {
+   "id": "clse07:789800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん、ん〜？ なぁに〜？」"
+  },
+  {
+   "id": "clse07:789900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「トイレー？ おしっこー？」"
+  },
+  {
+   "id": "clse07:790000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふわぁ〜、分かったよぉ。代わりに私が行ってくればいい？」"
+  },
+  {
+   "id": "clse07:790100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うーん、そうだそうだ。トイレは大事だよねえ」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「だから、ダメ。絶対、逃げちゃうもん」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「だいじょぶだよ。私がそっちのお世話もしてあげるから」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「ええ〜？ この前、タクがゲンさんから買った本に、こういうシーン、あったよ〜？」"
+  }
+ ]
+}

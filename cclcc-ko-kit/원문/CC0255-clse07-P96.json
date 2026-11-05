@@ -1,0 +1,959 @@
+{
+ "packet_id": "CC0255-clse07-P96",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「私？ 別にいいけど……」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「え……ここに入ればいいの？」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「ゃああああああああああああああ！！！」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「ぎゃあああああああああああああっ！！！」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「な、なによ！？ いきなり？」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「いきなり大声で呼んだりするから、ビックリするじゃない」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:909500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「で、なんなの？」"
+  },
+  {
+   "id": "clse07:909600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁい」"
+  },
+  {
+   "id": "clse07:909700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁい」"
+  },
+  {
+   "id": "clse07:909800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「乃々姉〜！ 私の体操服は〜？」"
+  },
+  {
+   "id": "clse07:909900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あれ？ 拓留兄、もう行くの？」"
+  },
+  {
+   "id": "clse07:910000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと待ってよ。だったら一緒に……あれ？ 乃々姉は？」"
+  },
+  {
+   "id": "clse07:910100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ あ、拓留兄、待ちなさーい」"
+  },
+  {
+   "id": "clse07:910200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ごちそうさまでした」"
+  },
+  {
+   "id": "clse07:910300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ご飯の前に終わらせておかないからよ」"
+  },
+  {
+   "id": "clse07:910400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁい」"
+  },
+  {
+   "id": "clse07:910500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そういえばさ、高等部で恋愛禁止令がでたんでしょ？」"
+  },
+  {
+   "id": "clse07:910600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「勘弁してほしいよねー。泉理姉や拓留兄は卒業しちゃうからいいけどさ、私なんて来年からだよ？」"
+  },
+  {
+   "id": "clse07:910700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それなのに、校内恋愛禁止だなんて」"
+  },
+  {
+   "id": "clse07:910800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、なな、なによそれ！ なんで私が拓留兄なんかと！」"
+  },
+  {
+   "id": "clse07:910900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それに……拓留兄には泉理姉がいるじゃん……」"
+  },
+  {
+   "id": "clse07:911000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだよ。だいたい拓留兄とはその……兄妹だし」"
+  },
+  {
+   "id": "clse07:911100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうしたの、拓留兄？」"
+  },
+  {
+   "id": "clse07:911200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おやすみ、拓留兄」"
+  },
+  {
+   "id": "clse07:911300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうなの？」"
+  },
+  {
+   "id": "clse07:911400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だったらいいんだけど……」"
+  },
+  {
+   "id": "clse07:911500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「抱っこ？ 抱っこしたほうがいいの？」"
+  },
+  {
+   "id": "clse07:911600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うきちゃんやったことあるの？」"
+  },
+  {
+   "id": "clse07:911700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留兄、買ってきて！」"
+  },
+  {
+   "id": "clse07:911800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、そのための拓留兄でしょ？」"
+  },
+  {
+   "id": "clse07:911900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふーん……」"
+  },
+  {
+   "id": "clse07:912000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「べべ、別にジロジロなんて見てないし！ ねー！？」"
+  },
+  {
+   "id": "clse07:912100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだよ。それにこれくらい、ユウので見慣れてるし」"
+  },
+  {
+   "id": "clse07:912200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「泉理姉は珍しくないの？」"
+  },
+  {
+   "id": "clse07:912300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「せ、泉理姉、だいたーん……」"
+  },
+  {
+   "id": "clse07:912400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「乃々姉、どうしたの？」"
+  },
+  {
+   "id": "clse07:912500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ぷっ！！」"
+  },
+  {
+   "id": "clse07:912600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ごほん！」"
+  },
+  {
+   "id": "clse07:912700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お布団、敷き終わりましたけどー」"
+  },
+  {
+   "id": "clse07:912800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、ほら、ひかり！ パパとママが帰ってきたわよ」"
+  },
+  {
+   "id": "clse07:912900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さっすがママ！」"
+  },
+  {
+   "id": "clse07:913000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁい」"
+  },
+  {
+   "id": "clse07:913100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「泉理姉、なにかあったの？」"
+  },
+  {
+   "id": "clse07:913200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え！？ ちょっと拓留兄！ なに？ やっぱり泉理姉と何かあったの？」"
+  },
+  {
+   "id": "clse07:913300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ホントにぃ？」"
+  },
+  {
+   "id": "clse07:913400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃ、いってきまーす」"
+  },
+  {
+   "id": "clse07:913500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほんと、どういう風の吹き回し？」"
+  },
+  {
+   "id": "clse07:913600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『あ、ほら、ひかり！ パパとママが帰ってきたわよ』」"
+  },
+  {
+   "id": "clse07:913700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まだ言ってる。それがベストだって、ユウもわかってるでしょ」"
+  },
+  {
+   "id": "clse07:913800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃんのこと、覚えてるんだゾ」"
+  },
+  {
+   "id": "clse07:913900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「行こっ、うきちゃん」"
+  },
+  {
+   "id": "clse07:914000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まだ言ってる。それがベストだって、ユウもわかってるでしょ」"
+  },
+  {
+   "id": "clse07:914100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃんのこと、覚えてるんだゾ」"
+  },
+  {
+   "id": "clse07:914200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あはは。拓留兄ったら、今から泉理姉のお尻に敷かれてたら、この先タイヘンだぞー」"
+  },
+  {
+   "id": "clse07:914300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おっやすみなっさーい」"
+  },
+  {
+   "id": "clse07:914400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええ？ なぁに、拓留兄ぃ？ もう一回言って？」"
+  },
+  {
+   "id": "clse07:914500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「聞こえな〜い。だいたい、それが人にものを頼む態度なのかなあ？ せめて、土下座くらいしてもらわないと〜」"
+  },
+  {
+   "id": "clse07:914600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ〜、そう？ そういうこと言うんだ？ ふぅ〜ん」"
+  },
+  {
+   "id": "clse07:914700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「きゃぁぁあ、助けて乃々姉ぇ〜！ 部屋に拓留兄ぃが――！」"
+  },
+  {
+   "id": "clse07:914800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふん、最初から素直にそうすればいいのよ」"
+  },
+  {
+   "id": "clse07:914900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留兄ぃ、土下座の仕方がなってないなあ？ もっとこう、頭を床にこすりつけるの。こうやって、グリグリグリって」"
+  },
+  {
+   "id": "clse07:915000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「乃々姉ぇに決まってるでしょ？」"
+  },
+  {
+   "id": "clse07:915100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほらぁ？ もっとキチンとお願いしなさいよ！ 乃々姉ぇ、呼んじゃうよ？」"
+  },
+  {
+   "id": "clse07:915200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふふ、しょうがないなあ。確かに拓留兄ぃは、私が助けてあげないとなんにも出来ないダメ人間だもんね〜」"
+  },
+  {
+   "id": "clse07:915300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうでしょ？ ね？ ぐりぐりぐり……」"
+  },
+  {
+   "id": "clse07:915400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あっれぇ！？ 自分で『踏んで』ってお願いしたくせに、そういうこと言うの？ あと『結衣』じゃなくって、『結衣さま』でしょ？」"
+  },
+  {
+   "id": "clse07:915500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「って、ねぇ！？ なに、見てるわけ！？」"
+  },
+  {
+   "id": "clse07:915600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ウソ！ 拓留兄ぃってば、下から私のパンツ、見まくりじゃない！ このえっち！ ヘンタイ！」"
+  },
+  {
+   "id": "clse07:915700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんですってー？」"
+  },
+  {
+   "id": "clse07:915800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ホントの事、言いなさい！ 嬉しいんでしょ！？」"
+  },
+  {
+   "id": "clse07:915900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと、乃々姉ぇ〜！？ ここに不審者が隠れてるよー！？」"
+  },
+  {
+   "id": "clse07:916000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「む〜。いまいち、本気が感じられないなあ！」"
+  },
+  {
+   "id": "clse07:916100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふんっ、まぁ、いいわ。とにかく、今、拓留兄ぃは、私の奴隷ってことでいいのよね？」"
+  },
+  {
+   "id": "clse07:916200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあ、命令。拓留兄ぃは、今日から私の『犬』になりなさい」"
+  },
+  {
+   "id": "clse07:916300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私ね、ずっと犬が飼いたかったの。でも、青葉寮はペット禁止でしょう？」"
+  },
+  {
+   "id": "clse07:916400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それでも、いつかこっそり飼っちゃおうと思って、用意しといたんだよね。うふふ」"
+  },
+  {
+   "id": "clse07:916500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さぁ、可愛いワンちゃん？ これからず〜っと可愛がってあげるからね〜」"
+  },
+  {
+   "id": "clse07:916600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こら、ダメでしょう！？ 乃々姉ぇに見つかりたくなかったら、私の命令には絶対服従よ。しかも、『ワンワン！』とだけ答えなさい」"
+  },
+  {
+   "id": "clse07:916700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さぁ、タクちゃん？ お散歩に連れて行ってあげるわ！ 準備なさい？」"
+  },
+  {
+   "id": "clse07:916800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「犬が人間の服を着てたらおかしいでしょう？ 犬は犬らしく――裸に決まってるじゃない」"
+  },
+  {
+   "id": "clse07:916900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだ。せっかくだし、うきちゃんも散歩に誘っちゃおうかな〜？」"
+  },
+  {
+   "id": "clse07:917000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あのー」"
+  },
+  {
+   "id": "clse07:917100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「乃々姉に来るようにって言われたんだけど……」"
+  },
+  {
+   "id": "clse07:917200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私の？」"
+  },
+  {
+   "id": "clse07:917300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clse07:917400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、あれは……」"
+  },
+  {
+   "id": "clse07:917500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:917600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う、うん……わかった」"
+  },
+  {
+   "id": "clse07:917700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、あのさ……拓留兄……」"
+  },
+  {
+   "id": "clse07:917800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そ、その……私の……い……」"
+  },
+  {
+   "id": "clse07:917900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わ、私のおっぱい触ってもらえないかなっ！？」"
+  },
+  {
+   "id": "clse07:918000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う……うん……」"
+  },
+  {
+   "id": "clse07:918100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「や、やっぱりイヤ？」"
+  },
+  {
+   "id": "clse07:918200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、私、同世代の子と比べても、おっぱいちっちゃくて……なんか恥ずかしくて」"
+  },
+  {
+   "id": "clse07:918300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、おっぱいって触ってもらうと大きくなるって言うでしょ？」"
+  },
+  {
+   "id": "clse07:918400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それは、乃々姉が……」"
+  },
+  {
+   "id": "clse07:918500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっぱり、拓留兄は嫌なんだ……私のおっぱいなんて触りたくないんだ……」"
+  },
+  {
+   "id": "clse07:918600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ、ちっちゃいおっぱいが嫌い？」"
+  },
+  {
+   "id": "clse07:918700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう……だよね。私みたいなあるのかないのかわからないおっぱいなんて、触りたくもないよね……」"
+  },
+  {
+   "id": "clse07:918800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあ、好き？ ちっちゃいおっぱい……」"
+  },
+  {
+   "id": "clse07:918900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっぱり……」"
+  },
+  {
+   "id": "clse07:919000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほんと！？ じゃあ、触ってくれる？ 私のおっぱい」"
+  },
+  {
+   "id": "clse07:919100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……お、お願い、します……」"
+  },
+  {
+   "id": "clse07:919200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あぁ〜、いたいた」"
+  },
+  {
+   "id": "clse07:919300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ったく、乃々姉。こんなところにいたのか。探したぜ」"
+  },
+  {
+   "id": "clse07:919400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「今からダチと遊びに行くからさ、な？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「ちょっとばかし、くれよ？」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「使っちまった」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「あんなはした金、すぐ無くなっちまうに決まってんだろ？ だから、な？ ほら」"
+  }
+ ]
+}

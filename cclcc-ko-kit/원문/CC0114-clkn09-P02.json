@@ -1,0 +1,960 @@
+{
+ "packet_id": "CC0114-clkn09-P02",
+ "kit_version": "1.0",
+ "source_file": "clkn09.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "つまり、いまは乃々タイムというわけ。"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ふふっ。でも、留守にしてる間もちゃあんと良い子にしてたんでちゅね〜。いいこいいこ〜」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "久野里さんも頑張ってはいたとはいえ、やはりひかりの相手は、久野里さんよりも乃々に分があるようだ。"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「拓留も、きちんと面倒みてくれてたんでちゅね〜。えらいえらい」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「⟦rb⟧揶揄⟦rt⟧からか⟦/r⟧うなよ。僕だってそれくらいできる」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「そうなんだ。それじゃあ、いつ赤ちゃんができても大丈夫ね」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn09:8800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clkn09:8900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clkn09:9000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「の、乃々……お前、なに言ってんだよ？」"
+  },
+  {
+   "id": "clkn09:9100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ち、違うの。別に、私が、とかそういうことじゃなくて……！」"
+  },
+  {
+   "id": "clkn09:9200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ね、ねえ？ そうよねー、ひかりちゃ〜ん」"
+  },
+  {
+   "id": "clkn09:9300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あらあら。ひかりったらご機嫌ななめでちゅねぇ。どうしたのかなぁ？」"
+  },
+  {
+   "id": "clkn09:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "さっきまで機嫌よくしていたひかりが、急に⟦rb⟧憤⟦rt⟧むずか⟦/r⟧りはじめた。"
+  },
+  {
+   "id": "clkn09:9500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お腹空いたのかしら〜？ 拓留、悪いんだけど……」"
+  },
+  {
+   "id": "clkn09:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ミルクだろ？」"
+  },
+  {
+   "id": "clkn09:9700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「助かるわ、ありがとう」"
+  },
+  {
+   "id": "clkn09:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この２日間で、僕もすっかり子育て経験者だ。"
+  },
+  {
+   "id": "clkn09:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ミルクも作れれば、おむつだって替えられる。"
+  },
+  {
+   "id": "clkn09:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もちろん、最初はなんで僕がこんなことをしなきゃならないんだって思ってたけど、やってみると意外と簡単だ。"
+  },
+  {
+   "id": "clkn09:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "少なくとも、クラスの情弱たちと接するよりもずっと気楽でいい。"
+  },
+  {
+   "id": "clkn09:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "煮沸消毒済みの哺乳瓶に粉ミルクを入れて、７０度以上のお湯で溶かす。"
+  },
+  {
+   "id": "clkn09:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あとは哺乳瓶を冷水にさらして、人肌程度の温度に下げれば。"
+  },
+  {
+   "id": "clkn09:10400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ほら、ミルク」"
+  },
+  {
+   "id": "clkn09:10500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ありがと。はい、ひかりちゃん。ミルクでちゅよ〜」"
+  },
+  {
+   "id": "clkn09:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だが、ひかりは哺乳瓶を口に含もうとはしなかった。"
+  },
+  {
+   "id": "clkn09:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕が作ったミルクがイヤ……ってわけじゃないだろう。現に、今朝だってちゃんと飲んでたし。"
+  },
+  {
+   "id": "clkn09:10800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「どうしたんだろ？」"
+  },
+  {
+   "id": "clkn09:10900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お腹が空いたんじゃないのかしら？」"
+  },
+  {
+   "id": "clkn09:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "心配そうにのぞき込む乃々腕の中で、ひかりが身を捩った。"
+  },
+  {
+   "id": "clkn09:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "と思うと、唾液まみれの口を乃々の胸に押し付けた。"
+  },
+  {
+   "id": "clkn09:11200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そっか、ママのおっぱいが飲みたいのね」"
+  },
+  {
+   "id": "clkn09:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ママの……おっぱい。"
+  },
+  {
+   "id": "clkn09:11400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でもダメよ、ひかり。そんなことしても、お姉ちゃん、おっぱいでないの」"
+  },
+  {
+   "id": "clkn09:11500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn09:11600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "いやいやいや。"
+  },
+  {
+   "id": "clkn09:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "赤ん坊が母親のおっぱいを欲しがるのは当たり前のことだ。"
+  },
+  {
+   "id": "clkn09:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "でも……。"
+  },
+  {
+   "id": "clkn09:11900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あんっ、ダメだってば。もう、いけない子ね」"
+  },
+  {
+   "id": "clkn09:12000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn09:12100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "待て、落ち着け拓留。"
+  },
+  {
+   "id": "clkn09:12200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "相手は赤ちゃんだぞ。"
+  },
+  {
+   "id": "clkn09:12300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "別に邪な気持ちなんてあるわけない。"
+  },
+  {
+   "id": "clkn09:12400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "あるわけが……。"
+  },
+  {
+   "id": "clkn09:12500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「めっ！ そんなに吸い付いちゃいけません」"
+  },
+  {
+   "id": "clkn09:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "なんだ、この気持ちは！？"
+  },
+  {
+   "id": "clkn09:12700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕は……僕だって……！"
+  },
+  {
+   "id": "clkn09:12800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もう……しょうがないわね。そんなに飲みたいの？ だったら、飲ませてあげる」"
+  },
+  {
+   "id": "clkn09:12900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「は！？」"
+  },
+  {
+   "id": "clkn09:13000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だって、飲みたいんだったら仕方ないものねぇ……」"
+  },
+  {
+   "id": "clkn09:13100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "言うが早いか、乃々は上着をたくし上げたかと思うと、僕からは見えないように、器用にその部分だけを露にしてひかりに含ませた。"
+  },
+  {
+   "id": "clkn09:13200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んっ」"
+  },
+  {
+   "id": "clkn09:13300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「…………！」"
+  },
+  {
+   "id": "clkn09:13400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「す、すごい……なんだか初めての感覚……」"
+  },
+  {
+   "id": "clkn09:13500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そりゃそうだろう。"
+  },
+  {
+   "id": "clkn09:13600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう……よっぽどママのおっぱいが恋しかったのね……」"
+  },
+  {
+   "id": "clkn09:13700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "だ、ダメだ。"
+  },
+  {
+   "id": "clkn09:13800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あっ……だ、だから、そんなに吸っちゃダメだってば〜」"
+  },
+  {
+   "id": "clkn09:13900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "見ちゃいけないと心では思っていても、どうしても目が離せない。"
+  },
+  {
+   "id": "clkn09:14000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もうっ、拓留ったら、そんなにジロジロ見ないの」"
+  },
+  {
+   "id": "clkn09:14100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ぼ、僕は別にジロジロなんて――！」"
+  },
+  {
+   "id": "clkn09:14200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふふっ、わかった。羨ましいのね？」"
+  },
+  {
+   "id": "clkn09:14300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「な！？」"
+  },
+  {
+   "id": "clkn09:14400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「自分も同じようにしたいって、思ってるんでしょう……」"
+  },
+  {
+   "id": "clkn09:14500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そそっ、そんなこと思ってなんて……」"
+  },
+  {
+   "id": "clkn09:14600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ない？」"
+  },
+  {
+   "id": "clkn09:14700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ない……」"
+  },
+  {
+   "id": "clkn09:14800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「本当に？」"
+  },
+  {
+   "id": "clkn09:14900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ことも、ない……」"
+  },
+  {
+   "id": "clkn09:15000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もう……どっち？」"
+  },
+  {
+   "id": "clkn09:15100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だ、ダメだ。"
+  },
+  {
+   "id": "clkn09:15200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「したい……です」"
+  },
+  {
+   "id": "clkn09:15300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「素直な子はママ、大好きよ……ほら、いらっしゃい？」"
+  },
+  {
+   "id": "clkn09:15400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いただき……ます……」"
+  },
+  {
+   "id": "clkn09:15500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「はっ！？」"
+  },
+  {
+   "id": "clkn09:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "い、いけない！"
+  },
+  {
+   "id": "clkn09:15700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕はなんて想像をしてしまったんだ！！"
+  },
+  {
+   "id": "clkn09:15800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もう、いけない子なんだから」"
+  },
+  {
+   "id": "clkn09:15900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ご、ごめんなさいっ！」"
+  },
+  {
+   "id": "clkn09:16000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clkn09:16100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、いや……なんでもないんだ。なんでも……」"
+  },
+  {
+   "id": "clkn09:16200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もう。変な拓留ね」"
+  },
+  {
+   "id": "clkn09:16300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……猛省。"
+  },
+  {
+   "id": "clkn09:16400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「乃々っ！」"
+  },
+  {
+   "id": "clkn09:16500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なぁに、拓留？」"
+  },
+  {
+   "id": "clkn09:16600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ひかりを……抱かせてくれないか？」"
+  },
+  {
+   "id": "clkn09:16700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clkn09:16800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いいから、ひかりをこっちに」"
+  },
+  {
+   "id": "clkn09:16900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え、ええ……」"
+  },
+  {
+   "id": "clkn09:17000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "乃々からひかりを受け取ると、僕の心は充足感で満たされた。"
+  },
+  {
+   "id": "clkn09:17100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ああ、そうだ、これだ。"
+  },
+  {
+   "id": "clkn09:17200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕が求めていたのは、これだったんだ。"
+  },
+  {
+   "id": "clkn09:17300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そうか……ひかり。おっぱいが吸いたいのか？」"
+  },
+  {
+   "id": "clkn09:17400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だったら思う存分、吸うがいい！ 僕のこのおっぱいを！！」"
+  },
+  {
+   "id": "clkn09:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "高らかに宣言して、僕は服をはだけた！"
+  },
+  {
+   "id": "clkn09:17600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「た、拓留！？ あなた何してるの！？」"
+  },
+  {
+   "id": "clkn09:17700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "「ほら、遠慮しなくていい。吸ってくれ！」"
+  },
+  {
+   "id": "clkn09:17800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう、僕はきっとずっとこうしたかったんだ。"
+  },
+  {
+   "id": "clkn09:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "誰かのママになって、赤ん坊を育てる。"
+  },
+  {
+   "id": "clkn09:18000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それが、ずっと抑圧されていた僕の中の本当の欲望。"
+  },
+  {
+   "id": "clkn09:18100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ひかりの涎だらけの口が、僕の胸に吸い付いた。"
+  },
+  {
+   "id": "clkn09:18200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "「あぁ……」"
+  },
+  {
+   "id": "clkn09:18300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "初めての感覚。"
+  },
+  {
+   "id": "clkn09:18400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ママになるって、こんな気持ちなんだな……。"
+  },
+  {
+   "id": "clkn09:18500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「今日から僕が君のママだよ……こんにちは、赤ちゃん」"
+  },
+  {
+   "id": "clkn09:18600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「はっ！？」"
+  },
+  {
+   "id": "clkn09:18700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "な、なんだ今のは？"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いくら妄想にしたって、あれじゃあまるきりヘンタイじゃないか！！"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "違う！"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "今のは僕の本心なんかじゃない！！"
+  }
+ ]
+}

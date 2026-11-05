@@ -1,0 +1,926 @@
+{
+ "packet_id": "CC0325-_system-P01",
+ "kit_version": "1.0",
+ "source_file": "_system.msb",
+ "speakers_in_packet": [],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "_system:0",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "破損データ"
+  },
+  {
+   "id": "_system:100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｎｏ　ｄａｔａ"
+  },
+  {
+   "id": "_system:200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Play　Time"
+  },
+  {
+   "id": "_system:300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Save　Date"
+  },
+  {
+   "id": "_system:400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "／"
+  },
+  {
+   "id": "_system:500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "："
+  },
+  {
+   "id": "_system:600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｎｏ．"
+  },
+  {
+   "id": "_system:700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "総プレイ時間"
+  },
+  {
+   "id": "_system:800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "分"
+  },
+  {
+   "id": "_system:900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "秒"
+  },
+  {
+   "id": "_system:1000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "時間"
+  },
+  {
+   "id": "_system:1100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "．"
+  },
+  {
+   "id": "_system:1200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "％"
+  },
+  {
+   "id": "_system:1300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "／"
+  },
+  {
+   "id": "_system:1400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "？？／？？"
+  },
+  {
+   "id": "_system:1500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "？？？？？？"
+  },
+  {
+   "id": "_system:1600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "エンディング数"
+  },
+  {
+   "id": "_system:1700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＴＩＰＳ数"
+  },
+  {
+   "id": "_system:1800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "アルバムコンプリート率"
+  },
+  {
+   "id": "_system:1900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "隠しトロフィー"
+  },
+  {
+   "id": "_system:2000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "トロフィー取得数"
+  },
+  {
+   "id": "_system:2100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Chu☆Chu！の世界へようこそ"
+  },
+  {
+   "id": "_system:2200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "らぶChu☆Chu！への一歩を踏み出した"
+  },
+  {
+   "id": "_system:2300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "９９"
+  },
+  {
+   "id": "_system:2400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "９９／９９"
+  },
+  {
+   "id": "_system:2500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Play　Time:"
+  },
+  {
+   "id": "_system:2600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セーブ時間"
+  },
+  {
+   "id": "_system:2700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＣＧコンプリート率"
+  },
+  {
+   "id": "_system:2800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "新規"
+  },
+  {
+   "id": "_system:2900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "未読"
+  },
+  {
+   "id": "_system:3000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『"
+  },
+  {
+   "id": "_system:3100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "』"
+  },
+  {
+   "id": "_system:10000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "イントロダクションＣｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:10100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みんなでＣｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:10200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "梨深Ｃｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:10300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "七海Ｃｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:10400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "優愛Ｃｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:10500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "美愛Ｃｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:10600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あやせＣｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:10700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セナＣｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:10800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "梢Ｃｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:10900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "星来Ｃｈｕ☆Ｃｈｕ！編"
+  },
+  {
+   "id": "_system:15000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "プロローグ"
+  },
+  {
+   "id": "_system:15100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "共通"
+  },
+  {
+   "id": "_system:15200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "来栖乃々編"
+  },
+  {
+   "id": "_system:15300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "有村雛絵編"
+  },
+  {
+   "id": "_system:15400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "香月華編"
+  },
+  {
+   "id": "_system:15500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "結衣＆結人編"
+  },
+  {
+   "id": "_system:15600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "尾上世莉架編"
+  },
+  {
+   "id": "_system:15700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "インターミッション"
+  },
+  {
+   "id": "_system:15800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "エピローグ"
+  },
+  {
+   "id": "_system:16000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "蛇足"
+  },
+  {
+   "id": "_system:16100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "この新聞部には問題がある！"
+  },
+  {
+   "id": "_system:16200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "校内恋愛禁止令"
+  },
+  {
+   "id": "_system:16300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いつか"
+  },
+  {
+   "id": "_system:16400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "私らしく"
+  },
+  {
+   "id": "_system:16500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "先輩って、お人よしですよね"
+  },
+  {
+   "id": "_system:16600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "スクランブル交差点の中心で愛を語る"
+  },
+  {
+   "id": "_system:16700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "一生逃がしませんよ〜"
+  },
+  {
+   "id": "_system:16800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "スマホに届いたメール"
+  },
+  {
+   "id": "_system:16900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "……お揃い、かも"
+  },
+  {
+   "id": "_system:17000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "二人のミルフィーユ"
+  },
+  {
+   "id": "_system:17100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "普通の女の子にもどります！"
+  },
+  {
+   "id": "_system:17200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "大好きだよ"
+  },
+  {
+   "id": "_system:17300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "世莉架の想い"
+  },
+  {
+   "id": "_system:17400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "愛とか恋とかそういったもの"
+  },
+  {
+   "id": "_system:17500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "謎のシール"
+  },
+  {
+   "id": "_system:17600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "宮代拓留の望んだもの"
+  },
+  {
+   "id": "_system:17700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "改変された世界"
+  },
+  {
+   "id": "_system:17800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "決断"
+  },
+  {
+   "id": "_system:17900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ディソード"
+  },
+  {
+   "id": "_system:18000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "尾上世莉架の夢"
+  },
+  {
+   "id": "_system:20000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作曲:阿保剛"
+  },
+  {
+   "id": "_system:20100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作曲:志倉千代丸"
+  },
+  {
+   "id": "_system:20200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作曲:志倉千代丸　編曲:阿保剛"
+  },
+  {
+   "id": "_system:20300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作曲:磯江俊道"
+  },
+  {
+   "id": "_system:20400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作曲:大山曜"
+  },
+  {
+   "id": "_system:20500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作曲:神保伸太郎"
+  },
+  {
+   "id": "_system:20600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "歌:nao"
+  },
+  {
+   "id": "_system:20700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "歌:nao　作詞作曲:志倉千代丸　編曲:新井健史"
+  },
+  {
+   "id": "_system:20800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "歌:FES"
+  },
+  {
+   "id": "_system:20900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "歌:FES　cv.榊原ゆい　作詞:葉月みこ　作曲編曲:林達志"
+  },
+  {
+   "id": "_system:21000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "歌:いとうかなこ"
+  },
+  {
+   "id": "_system:21100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "歌:いとうかなこ　作詞:葉月みこ　作曲編曲:大島こうすけ"
+  },
+  {
+   "id": "_system:21200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "歌:FES　cv.榊原ゆい　作詞:志倉千代丸　作曲編曲:林達志"
+  },
+  {
+   "id": "_system:22000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Wake　up"
+  },
+  {
+   "id": "_system:22100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Pure"
+  },
+  {
+   "id": "_system:22200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Pure　-pop-"
+  },
+  {
+   "id": "_system:22300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Into　dream　again"
+  },
+  {
+   "id": "_system:22400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Into　dream　again　-Piano-"
+  },
+  {
+   "id": "_system:22500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "An　enchanting"
+  },
+  {
+   "id": "_system:22600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Erin-fray　Orgel"
+  },
+  {
+   "id": "_system:22700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Image　world"
+  },
+  {
+   "id": "_system:22800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "For　ghost"
+  },
+  {
+   "id": "_system:22900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "シンクロしようよ-LCCmix-"
+  },
+  {
+   "id": "_system:23000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "The　uniting　with　limit"
+  },
+  {
+   "id": "_system:23100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "M.I.L"
+  },
+  {
+   "id": "_system:23200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Silence"
+  },
+  {
+   "id": "_system:23300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Adventure"
+  },
+  {
+   "id": "_system:23400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Soliloquy"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "SHIBUYA"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "Delusion"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "Fear"
+  }
+ ]
+}

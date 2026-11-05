@@ -1,0 +1,960 @@
+{
+ "packet_id": "CC0199-clse07-P40",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "미나미사와 센리",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「拓留？ どうしたの？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「あ、うきも先に帰っておいてくれるかしら？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「悪いわね。お願い」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「あのね……結衣の相談にのってあげて欲しいの」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ええ。あの子、最近いろいろと悩みがあるみたいで……」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ほら、拓留が出ていく前は、父さんの手伝いとかやってくれてたのは知ってるでしょ？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:377300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、今はうきがいるじゃない？ 父さんの手伝いも、家の手伝いもあの子が進んでやってくれるようになって……」"
+  },
+  {
+   "id": "clse07:377400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「自分でもダメってわかってても、どうしても比較しちゃうみたいなの……」"
+  },
+  {
+   "id": "clse07:377500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それで最近、いろいろと悩むようになって……」"
+  },
+  {
+   "id": "clse07:377600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……私もそれとなく訊いてみようとしたことはあったの。でも、はぐらかされちゃって……」"
+  },
+  {
+   "id": "clse07:377700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私ってほら、少し口うるさいところがあるでしょ？ だから言いにくいのかもしれないし、その点、拓留ならって……」"
+  },
+  {
+   "id": "clse07:377800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「⟦rb⟧結衣⟦rt⟧あのこ⟦/r⟧、拓留に懐いてるところもあるし……」"
+  },
+  {
+   "id": "clse07:377900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それはそうだけど……」"
+  },
+  {
+   "id": "clse07:378000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留〜……？」"
+  },
+  {
+   "id": "clse07:378100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「関係ない？ 今、関係ないって言ったわよね？」"
+  },
+  {
+   "id": "clse07:378200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「家族の将来の話をしているのに関係ないですって？ まさか、本気で言ったんじゃないでしょうね！」"
+  },
+  {
+   "id": "clse07:378300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……そう。だったらいいんだけど」"
+  },
+  {
+   "id": "clse07:378400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら？ 結人だけ？ うきや結衣は？」"
+  },
+  {
+   "id": "clse07:378500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうだった？」"
+  },
+  {
+   "id": "clse07:378600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほ、ほら、拓留。私のおかずもあげるから、たくさん食べなさい」"
+  },
+  {
+   "id": "clse07:378700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい、お粗末様でした」"
+  },
+  {
+   "id": "clse07:378800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宿題は？」"
+  },
+  {
+   "id": "clse07:378900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん……だったらいいわよ」"
+  },
+  {
+   "id": "clse07:379000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こら、結衣」"
+  },
+  {
+   "id": "clse07:379100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら。拓留だって“ケイさん”に傾倒してたじゃない。それと一緒よ」"
+  },
+  {
+   "id": "clse07:379200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうしたの？」"
+  },
+  {
+   "id": "clse07:379300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうよ。あの高柳桃寧って人、口パクだったことを逆手にとって、今や口パクアイドルとして、ニヤ生でブレイク中……って、あら？ もしかして拓留、知らなかったの？」"
+  },
+  {
+   "id": "clse07:379400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうよね、拓留に限って、そんなわけないわよねぇ」"
+  },
+  {
+   "id": "clse07:379500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ダメよ、結衣、アイドル活動なんて」"
+  },
+  {
+   "id": "clse07:379600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いい？ 芸能活動っていうのは一見華やかに見えるけど、苦労だって多いのよ」"
+  },
+  {
+   "id": "clse07:379700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「簡単にできるように見えて、たくさんの人が協力してくれて初めてできることなの」"
+  },
+  {
+   "id": "clse07:379800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それに勉強と両立するのだって大変なんだから。あなたにそれができる？」"
+  },
+  {
+   "id": "clse07:379900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「今でも宿題いっぱいって泣き言いってるのに？」"
+  },
+  {
+   "id": "clse07:380000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それは……」"
+  },
+  {
+   "id": "clse07:380100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「確かにうちはお金があるわけじゃないけど、それでも私たちみんなが食べていくくらいは、きちんと父さんが稼いでくれてるわ」"
+  },
+  {
+   "id": "clse07:380200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それに、ネットで配信するということは、不特定多数の人が見るってことになるのよ。それがどういうことだかわかる？」"
+  },
+  {
+   "id": "clse07:380300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「たくさんの知らない人が、自分の顔を知ることになるのよ。その中には、ひょっとしたらおかしな人だっているかもしれない」"
+  },
+  {
+   "id": "clse07:380400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それでもし、何かあったらどうするつもり？」"
+  },
+  {
+   "id": "clse07:380500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣の気持ちはわかるわ。私だって、結衣みたいにアイドルに憧れたことだってあるもの」"
+  },
+  {
+   "id": "clse07:380600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なに？」"
+  },
+  {
+   "id": "clse07:380700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「確かに、今の世の中、アイドルの真似事は簡単にできちゃうかもしれない」"
+  },
+  {
+   "id": "clse07:380800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でもね、本気でやろうと思ったら、それこそお金だってかかるし、個人の力でそう簡単にできるものじゃないの」"
+  },
+  {
+   "id": "clse07:380900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あなたならわかるわよね、結衣……」"
+  },
+  {
+   "id": "clse07:381000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ……」"
+  },
+  {
+   "id": "clse07:381100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……拓、留……？」"
+  },
+  {
+   "id": "clse07:381200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ……拓留……どこにいるの？ 返事をして……」"
+  },
+  {
+   "id": "clse07:381300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「昏くて、何も見えないの……だから、お願い……」"
+  },
+  {
+   "id": "clse07:381400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留……昏いの……助けて……」"
+  },
+  {
+   "id": "clse07:381500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ただいま帰りました」"
+  },
+  {
+   "id": "clse07:381600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ、結衣。タクルの姿が見えないんだけど、どこに行ったか知ら――」"
+  },
+  {
+   "id": "clse07:381700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留……」"
+  },
+  {
+   "id": "clse07:381800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら、タクル。良かったわねぇ。結衣に遊んでもらえて」"
+  },
+  {
+   "id": "clse07:381900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふっ。タクル。良い子にしてたみたいね」"
+  },
+  {
+   "id": "clse07:382000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほら、タクル。いらっしゃい。良い子良い子してあげる」"
+  },
+  {
+   "id": "clse07:382100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よしよし、いいこいいこ」"
+  },
+  {
+   "id": "clse07:382200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あん！ もう！」"
+  },
+  {
+   "id": "clse07:382300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうしたの？」"
+  },
+  {
+   "id": "clse07:382400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:382500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ、結衣。拓留の姿が見えないんだけど、どこに行ったか知ら――」"
+  },
+  {
+   "id": "clse07:382600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留……」"
+  },
+  {
+   "id": "clse07:382700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「違う？ 何が違うっていうの？」"
+  },
+  {
+   "id": "clse07:382800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それは……どういうことかしら、結衣？」"
+  },
+  {
+   "id": "clse07:382900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私たちの……関係？ 私には資格がない……？」"
+  },
+  {
+   "id": "clse07:383000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう……」"
+  },
+  {
+   "id": "clse07:383100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clse07:383200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留は黙ってて！」"
+  },
+  {
+   "id": "clse07:383300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:383400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:383500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……言われてみればそうね」"
+  },
+  {
+   "id": "clse07:383600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、私も手がいいわ」"
+  },
+  {
+   "id": "clse07:383700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それもいいわね」"
+  },
+  {
+   "id": "clse07:383800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええ。わかったわ」"
+  },
+  {
+   "id": "clse07:383900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあ、行くわよ」"
+  },
+  {
+   "id": "clse07:384000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:384100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ふたりとも、最近、すごい食欲ね」"
+  },
+  {
+   "id": "clse07:384200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それはいいけど、あんまり食べると太るわよ」"
+  },
+  {
+   "id": "clse07:384300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やだ。雨降ってきたみたい」"
+  },
+  {
+   "id": "clse07:384400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……明日のお洗濯、どうしよう」"
+  },
+  {
+   "id": "clse07:384500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう？ だったらいいんだけど……」"
+  },
+  {
+   "id": "clse07:384600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そういえば拓留。最近、結衣たちとよく一緒にいるみたいだけど……」"
+  },
+  {
+   "id": "clse07:384700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ありがと。ここのところ、結衣も結人も嬉しそうにしてるし、拓留が帰って来てくれたおかげだわ」"
+  },
+  {
+   "id": "clse07:384800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ、やっぱり……」"
+  },
+  {
+   "id": "clse07:384900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その＠ちゃんねるの書き込みから、ふたりを連れていた人間を探すことは出来ないんですか？」"
+  },
+  {
+   "id": "clse07:385000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留！ この配信止められないの！？」"
+  },
+  {
+   "id": "clse07:385100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「大丈夫よ……きっと一緒にいるわ」"
+  },
+  {
+   "id": "clse07:385200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしかしたら……」"
+  },
+  {
+   "id": "clse07:385300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「何か秘密を握られている……とか？」"
+  },
+  {
+   "id": "clse07:385400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どういうこと、結人？」"
+  },
+  {
+   "id": "clse07:385500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうしたの……結人？」"
+  },
+  {
+   "id": "clse07:385600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしかして……話せるの？ 結衣と……」"
+  },
+  {
+   "id": "clse07:385700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣はなんて？」"
+  },
+  {
+   "id": "clse07:385800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「壁に……顔……」"
+  },
+  {
+   "id": "clse07:385900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「結衣っ！！」"
+  },
+  {
+   "id": "clse07:386000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「とにかく、私たちが来たからもう大丈夫だから……」"
+  },
+  {
+   "id": "clse07:386100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ああ、拓留。良かった。今ちょうど、部室に向かおうと思ってたところだったんだけど、手間がはぶけたわ」"
+  },
+  {
+   "id": "clse07:386200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「その様子だと、やっぱり忘れてたわね」"
+  },
+  {
+   "id": "clse07:386300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「今日は、うきと結衣の進路のことで、家に先生が来るから、部活は休むって前に言ってたはずだけど」"
+  },
+  {
+   "id": "clse07:386400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「そういうことだから、よろしく頼むわね」"
+  },
+  {
+   "id": "clse07:386500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「……まさか、部室に閉じ込められてただなんて……」"
+  },
+  {
+   "id": "clse07:386600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「こんばんは、久野里さん」"
+  },
+  {
+   "id": "clse07:386700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「結人ってば、学校から帰るなり、なんだか張り切ってお弁当を作ってるから、何事かと思ってたんですよ。訊いても何も教えてくれないし」"
+  },
+  {
+   "id": "clse07:386800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ね、結人？」"
+  },
+  {
+   "id": "clse07:386900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うん、いい匂い。もうちょっと早く来れば、一緒に食べられたかなぁ？」"
+  },
+  {
+   "id": "clse07:387000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ね、結人？ 今度は、お姉ちゃんにもごちそうしてね？」"
+  },
+  {
+   "id": "clse07:387100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「さぁ、困ったわね、結人？」"
+  },
+  {
+   "id": "clse07:387200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "？？？",
+   "jp": "「拓留？ どうか……したの？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「別に……ちょっと部屋を片付けていただけよ……」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「え？ ちょっと待――」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「あ――！」"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "packet_id": "CC0096-clkn01-P06",
+ "kit_version": "1.0",
+ "source_file": "clkn01.msb",
+ "speakers_in_packet": [
+  "미나미사와 센리",
+  "미야시로 타쿠루",
+  "사쿠마 와타루",
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「えぇぇぇぇ」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「ダメよ、結人。せっかく拓留が帰ってきてるんだもの。今日は皆でお話しましょう。結衣も、ね？」"
+  },
+  {
+   "speaker": "結衣＆結人",
+   "speaker_ko": "유이＆유토",
+   "jp": "「はぁい」⟦n⟧⟦par⟧「はぁい」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "それにしても、なんだよ、さっきの妄想は。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いくらなんでも結人が突然、あんなマジック披露するなんて言い出すはずないだろ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "しかも箱？"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn01:49600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "미나미사와 센리",
+   "jp": "なんだよ、それ。"
+  },
+  {
+   "id": "clkn01:49700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "미나미사와 센리",
+   "jp": "悪趣味にもほどがある。"
+  },
+  {
+   "id": "clkn01:49800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「でもテレビはダメよ、結衣。せっかく拓留が帰って来てるんだから、今日はみんなでお話しましょう」"
+  },
+  {
+   "id": "clkn01:49900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「はぁい」"
+  },
+  {
+   "id": "clkn01:50000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "結衣も結人もそれ以上、不平を言うことは無かった。"
+  },
+  {
+   "id": "clkn01:50100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、なんにせよ、こうして家族水入らずってのもいいもんだろ、な？ 拓留よ？」"
+  },
+  {
+   "id": "clkn01:50200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「う、うん……まあ……」"
+  },
+  {
+   "id": "clkn01:50300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「ハハハ！ そんなら、たまにでいいんだ、こうして帰ってこい」"
+  },
+  {
+   "id": "clkn01:50400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": null,
+   "jp": "いつもなら反発していたかもしれないそんな言葉にも、この日の僕は何故か素直に頷くことができた。"
+  }
+ ],
+ "context_after": []
+}

@@ -1,0 +1,789 @@
+{
+ "packet_id": "CC0247-clse07-P88",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "신조 타케시",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「カルテを読めば分かる。我々がどうすることも出来ず、キミをここへ呼んだ理由もな」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「カルテと一緒に、この患者に関するレポートも押収した。俺は小難しい理屈が苦手でね、ちゃんと理解できてはいないんだが……とんでもない能力者だということだけは分かる」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「く、久野里さん？ どうした？」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「なるほどな。話はだいたい分かった」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「まぁ、今回は特別、大目に見ておくからな、宮代くん。ホテルの中に侵入したのなら署まで来てもらうことになったが、未遂だからね……」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「………。あのな？ 俺はアテもなくうろついているわけじゃないし、キミたちと世間話をしてるわけでもない」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:838700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そもそも久野里さんは、自分が事情聴取をされているという自覚はあるのか？ いつになったらその毒舌を改めるつもりなんだ」"
+  },
+  {
+   "id": "clse07:838800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:838900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、久野里さん。今日は危険だから、このままおとなしく帰ってくれと言ってるんだ。君に助けを借りたい時は、改めて連絡するから」"
+  },
+  {
+   "id": "clse07:839000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい、神成。こっちは今のところ特に――」"
+  },
+  {
+   "id": "clse07:839100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ダメだ、宮代くん。あいつは、今までのバカバカしい事件の連中とはわけが違う」"
+  },
+  {
+   "id": "clse07:839200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ここ最近、渋谷で連続放火が起きてる。目撃情報から⟦rb⟧鑑⟦rt⟧かんが⟦/r⟧みて……犯人は、たぶんあの女だ」"
+  },
+  {
+   "id": "clse07:839300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「しかも、あいつはただの放火魔じゃない。火を使う能力者の可能性がある……」"
+  },
+  {
+   "id": "clse07:839400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「⟦rb⟧所轄⟦rt⟧しょかつ⟦/r⟧の刑事がすでに２人やられてる。ここは俺がなんとかするから、久野里さんは、宮代くんたちを連れて、逃げろ」"
+  },
+  {
+   "id": "clse07:839500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「止まれ！ 手を頭の後ろに置き、そのまま動くな！」"
+  },
+  {
+   "id": "clse07:839600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うわっ！？」"
+  },
+  {
+   "id": "clse07:839700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「二人を連れて逃げろ、宮代くんっ。早くっ」"
+  },
+  {
+   "id": "clse07:839800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は？」"
+  },
+  {
+   "id": "clse07:839900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええっと？」"
+  },
+  {
+   "id": "clse07:840000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、あの〜？ ちょっと、キミ？」"
+  },
+  {
+   "id": "clse07:840100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「放っておくわけにはいかないよ。いったい何があったのか、なんで火をつけて回ってるのか、教えてくれないか？」"
+  },
+  {
+   "id": "clse07:840200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、落ち着きなさい、キミ！ と、とりあえず火を出すのをやめないか！」"
+  },
+  {
+   "id": "clse07:840300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、やめてくれ！ そもそも、俺と久野里さんはカップルでもなんでもないし！」"
+  },
+  {
+   "id": "clse07:840400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それはこっちの台詞だ」"
+  },
+  {
+   "id": "clse07:840500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「で、杯田さん。始めのうちは、読まないで捨てられていた手紙を見つけるたびに、毎回、自宅へ帰る途中の道で燃やしていた、と」"
+  },
+  {
+   "id": "clse07:840600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ところがそのうち、怒りや悲しみのコントロールが出来なくなり、幸せそうなカップルを見ると、見境なくパイロキネシスを使うようになってしまった」"
+  },
+  {
+   "id": "clse07:840700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「とにかく事件はこれで解決だ。これから、所轄の方で事情聴取があると思うが、今夜はもう遅い。宮代くんたちには、明日にでも話を聞かせてもらうよ」"
+  },
+  {
+   "id": "clse07:840800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ようやく本当の愛に気付いたようだね、宮代くん！」"
+  },
+  {
+   "id": "clse07:840900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「彼の言うとおりだ、宮代くん。小生意気なツインテールの女も、科学者だかなんだか知らないが人をゴミのように扱う偉そうな女もいらない」"
+  },
+  {
+   "id": "clse07:841000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「俺たちは男だけで⟦rb⟧目眩⟦/r⟧めくるめ⟦/r⟧く愛の世界を紡ごうじゃないか」"
+  },
+  {
+   "id": "clse07:841100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「そうだぞ。せっかく出した勇気を否定しちゃあいけない」"
+  },
+  {
+   "id": "clse07:841200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「そう、彼こそが我らが国の王、キング・ゲンだ」"
+  },
+  {
+   "id": "clse07:841300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「宮代くん」"
+  },
+  {
+   "id": "clse07:841400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ようこそ、我ら、オトコ王国へ」"
+  },
+  {
+   "id": "clse07:841500",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「ん？ 宮代くんじゃないか」"
+  },
+  {
+   "id": "clse07:841600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「何してるんだ？ またスクープでも探しているのかい？」"
+  },
+  {
+   "id": "clse07:841700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「そいつは結構。学生は学生らしく日々を過ごすのが一番だ」"
+  },
+  {
+   "id": "clse07:841800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「お願い？」"
+  },
+  {
+   "id": "clse07:841900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「う〜ん。そういうことなら、俺たちは何も協力できないな」"
+  },
+  {
+   "id": "clse07:842000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ああ、捜索願が出てるわけでもないし、所在もわかっている。もちろん事件性もない。となると後は、当人たちの問題だからな」"
+  },
+  {
+   "id": "clse07:842100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「それにこの場合、下手につつくと、君の方が立場的にマズい……」"
+  },
+  {
+   "id": "clse07:842200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「君の部屋に未成年の女の子を連れ込んでいるわけだからね。未成年者略取の罪に問われる可能性もある」"
+  },
+  {
+   "id": "clse07:842300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「未成年者略取ってのは、被害者が未成年の場合に適応される。マル被……つまり、被疑者の年齢は関係ない。もちろん本人たちの意思もね」"
+  },
+  {
+   "id": "clse07:842400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、たとえそれが有村さん本人の意思によるものであっても、彼女の母親が訴え出たら、その時点で君は被疑者となる可能性もあるわけだ……」"
+  },
+  {
+   "id": "clse07:842500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ま、有村さんの母親の気が変わらないことを祈っておくよ。ははは」"
+  },
+  {
+   "id": "clse07:842600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それにしても、君も変わってるな」"
+  },
+  {
+   "id": "clse07:842700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「君くらいの年頃だと、女の子がうちに泊まりにきたら、普通は喜ぶものだろう」"
+  },
+  {
+   "id": "clse07:842800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「まあ……俺なんかには手厳しいところもあるけど、君たち同世代だと付き合いやすいんじゃないか？」"
+  },
+  {
+   "id": "clse07:842900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「でも確かに、意識しすぎると逆に付き合いづらいってのもあるからなぁ」"
+  },
+  {
+   "id": "clse07:843000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「特に彼女の場合は、全部筒抜けだしな」"
+  },
+  {
+   "id": "clse07:843100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ま、せいぜい頑張ってくれよ」"
+  },
+  {
+   "id": "clse07:843200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「なるほどね。話はわかったが……」"
+  },
+  {
+   "id": "clse07:843300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「一応、担当の部署に訊いてはみる。でも、あまり期待しないでくれ」"
+  },
+  {
+   "id": "clse07:843400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ま、そういうのはどちらかといえば警察よりも、百瀬さんの案件だからな」"
+  },
+  {
+   "id": "clse07:843500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「そ、そうだ。ちょっと署に電話しないといけないんだった、失礼」"
+  },
+  {
+   "id": "clse07:843600",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「宮代くん！！ どこにいる！？ 宮代くん！！」"
+  },
+  {
+   "id": "clse07:843700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「やっぱりここにいたのか、宮代くん！！」"
+  },
+  {
+   "id": "clse07:843800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「なるほど。それで、妹さんはまだ見つからないんだな？」"
+  },
+  {
+   "id": "clse07:843900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「現状と、それからゲンさんとやらの目撃情報を考えるに、やはり何らかのトラブルに巻き込まれたと考えるのが妥当だろうな」"
+  },
+  {
+   "id": "clse07:844000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ＩＰアドレスから、書き込んだ人物を特定することはできる。しかし今すぐに、というのは無理だ」"
+  },
+  {
+   "id": "clse07:844100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「いなくなって、まだ半日も経っていないんだろう？ 届け出を受理することはできても、実際に捜査となるとな……」"
+  },
+  {
+   "id": "clse07:844200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「あとは、百瀬さんにでも頼むか……」"
+  },
+  {
+   "id": "clse07:844300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ああ、ここにいる」"
+  },
+  {
+   "id": "clse07:844400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「バン？」"
+  },
+  {
+   "id": "clse07:844500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わ、わかった。今すぐに手配する」"
+  },
+  {
+   "id": "clse07:844600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「部屋の中には何がある？」"
+  },
+  {
+   "id": "clse07:844700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「窓は？ どこか外が見えるところはないか？」"
+  },
+  {
+   "id": "clse07:844800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「２、３発殴るくらいなら大目に見る……」"
+  },
+  {
+   "id": "clse07:844900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい、そこは――」"
+  },
+  {
+   "id": "clse07:845000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あのホテルか！！」"
+  },
+  {
+   "id": "clse07:845100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そこまでだ！！」"
+  },
+  {
+   "id": "clse07:845200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ――！」"
+  },
+  {
+   "id": "clse07:845300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ダメだ。今は言うことをきくしかない……」"
+  },
+  {
+   "id": "clse07:845400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「彼女から離れろ。これ以上罪を重ねることはない」"
+  },
+  {
+   "id": "clse07:845500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「待て……とにかく落ち着くんだ……」"
+  },
+  {
+   "id": "clse07:845600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ あ、ああ！！」"
+  },
+  {
+   "id": "clse07:845700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「久野里さん！？ 聞こえるか、久野里さんっ！ 久野里さんっ！」"
+  },
+  {
+   "id": "clse07:845800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「大丈夫か！？ 俺が分かるか！？」"
+  },
+  {
+   "id": "clse07:845900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それにしても驚いたよ。百瀬さんが調査先から『フリージア』に帰って来たら、君が倒れていたそうだ。それで、救急搬送されてね……」"
+  },
+  {
+   "id": "clse07:846000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「俺も、百瀬さんから連絡を受けてすぐに飛んできたんだが……何事もなくて本当に良かった」"
+  },
+  {
+   "id": "clse07:846100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いま、別の仕事に行ってる。その間、俺が君の看病をまかされたってわけさ。ま、今日は非番だったんでな」"
+  },
+  {
+   "id": "clse07:846200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、いつも捜査協力をしてもらってるんだ。このくらい当然のことじゃないか」"
+  },
+  {
+   "id": "clse07:846300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……？ なんの話だ？」"
+  },
+  {
+   "id": "clse07:846400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「久野里さん？」"
+  },
+  {
+   "id": "clse07:846500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「半日くらいだと思う。宮代くんも同じ意見だった」"
+  },
+  {
+   "id": "clse07:846600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ。キミは“ケイさん”として、ゆうべ放送を行っただろう？ 宮代くんはヘビーリスナーだからね。当然、放送を聴いていたが……その時、君にはなんの異常も感じられなかったそうだ」"
+  },
+  {
+   "id": "clse07:846700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「で、百瀬さんが、倒れているキミを見つけたのが今日の昼ごろ。つまり、君が倒れたのはその間ということになる」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「宮代くんは、さっきも見舞いに来ていたよ。ずいぶん心配していたからね、俺の方から連絡しておこう」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「だから。時々、捜査に協力してもらってる礼だと……」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「久野里さんは、他人の厚意をもう少し素直に受けられるようになるべきだと思う」"
+  }
+ ]
+}

@@ -1,0 +1,455 @@
+{
+ "packet_id": "CC0327-_system-P03",
+ "kit_version": "1.0",
+ "source_file": "_system.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＲＥＳＥＴ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＳＨＡＤＹ　ＡＭＢＩＥＮＣＥ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＦＬＡＳＨＢＡＣＫ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＬＡＳＴ　ＬＩＮＥ　－ＳＨＩＢＵＹＡ－"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＨＥ　ＩＳ　…"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "非合理的かつ訂正不能な思い込み"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_system:38000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "罪証のルシファー"
+  },
+  {
+   "id": "_system:40100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "？？？"
+  },
+  {
+   "id": "_system:40200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "宮代拓留"
+  },
+  {
+   "id": "_system:40300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "尾上世莉架"
+  },
+  {
+   "id": "_system:40400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "来栖乃々"
+  },
+  {
+   "id": "_system:40500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "有村雛絵"
+  },
+  {
+   "id": "_system:40600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "香月華"
+  },
+  {
+   "id": "_system:40700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "山添うき"
+  },
+  {
+   "id": "_system:40800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "久野里澪"
+  },
+  {
+   "id": "_system:40900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ケイさん"
+  },
+  {
+   "id": "_system:41000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "南沢泉理"
+  },
+  {
+   "id": "_system:41100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "伊藤真二"
+  },
+  {
+   "id": "_system:41200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "渡部友昭"
+  },
+  {
+   "id": "_system:41300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "神成岳志"
+  },
+  {
+   "id": "_system:41400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ゲンさん"
+  },
+  {
+   "id": "_system:41500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "エリン"
+  },
+  {
+   "id": "_system:41600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "和久井修一"
+  },
+  {
+   "id": "_system:41700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "橘結人"
+  },
+  {
+   "id": "_system:41800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ユウ"
+  },
+  {
+   "id": "_system:41900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "橘結衣"
+  },
+  {
+   "id": "_system:42000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ユイ"
+  },
+  {
+   "id": "_system:42100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＭＯＭＯＮＥ"
+  },
+  {
+   "id": "_system:42200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "佐久間恒"
+  },
+  {
+   "id": "_system:42300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "大谷悠馬"
+  },
+  {
+   "id": "_system:42400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "男"
+  },
+  {
+   "id": "_system:42500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "生主"
+  },
+  {
+   "id": "_system:42600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "川原雅司"
+  },
+  {
+   "id": "_system:42700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "杯田理子"
+  },
+  {
+   "id": "_system:42800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "有村恵美"
+  },
+  {
+   "id": "_system:42900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "カメラマン"
+  },
+  {
+   "id": "_system:43000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ひかり"
+  },
+  {
+   "id": "_system:43100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ひかりの母"
+  },
+  {
+   "id": "_system:43200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "医師"
+  },
+  {
+   "id": "_system:43300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "教師"
+  },
+  {
+   "id": "_system:43400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "女子生徒"
+  },
+  {
+   "id": "_system:43500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "男子生徒"
+  },
+  {
+   "id": "_system:43600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "生徒会役員"
+  },
+  {
+   "id": "_system:43700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "男"
+  },
+  {
+   "id": "_system:43800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "店員"
+  },
+  {
+   "id": "_system:43900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "南方謙二"
+  },
+  {
+   "id": "_system:44000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "風紀委員"
+  },
+  {
+   "id": "_system:44100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "女"
+  },
+  {
+   "id": "_system:44200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "女子一同"
+  },
+  {
+   "id": "_system:44300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "新聞部員たち"
+  },
+  {
+   "id": "_system:44400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "結衣＆結人"
+  },
+  {
+   "id": "_system:44500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "全員"
+  }
+ ],
+ "context_after": []
+}

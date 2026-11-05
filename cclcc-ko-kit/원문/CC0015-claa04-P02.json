@@ -1,0 +1,458 @@
+{
+ "packet_id": "CC0015-claa04-P02",
+ "kit_version": "1.0",
+ "source_file": "claa04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "尾上も僕の後ろに来て、画面をのぞき込んだ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そうされると、なにやら柔らかいものが背中に当たって、しかも、フワリといい香りが鼻をくすぐったりするが、そんなことくらいで動じる僕ではないのだ。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「僕の考えだと、これらの事件には〜……おほんおほん……これらの事件には、なんらかの関連性がある気がするんだ」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「うーん？ そうかなぁ」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ああ。絶対に何かあるはず。尾上は何か気づいた事とかないか？」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「ん〜？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "claa04:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "尾上は顎に手を当ててしばらく考えたあと、おもむろに両手をパシンと打って言った。"
+  },
+  {
+   "id": "claa04:7500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どの事件も、私たちを笑わせようとしている！」"
+  },
+  {
+   "id": "claa04:7600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そんなわけあるか！」"
+  },
+  {
+   "id": "claa04:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "……尾上に聞いた僕がバカだった。"
+  },
+  {
+   "id": "claa04:7800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でもでも、面白い事件ばっかりじゃない？ 何年か前に、『ニュージェなんとかのきょうき』とかいうのがあったけど、あれとは大違いだよ」"
+  },
+  {
+   "id": "claa04:7900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「『⟦col:280aa02d1400⟧ニュージェネレーションの狂気⟦col:800000⟧』な」"
+  },
+  {
+   "id": "claa04:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうだ。確か６年ほど前、今回と同じように渋谷で連続事件が起きたことがあった。"
+  },
+  {
+   "id": "claa04:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ただし、『ニュージェネレーションの狂気』と呼ばれているそれは、今回と違って、どれも目を覆いたくなるような殺人事件ばかりだったけれど――"
+  },
+  {
+   "id": "claa04:8200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「――あっ！？」"
+  },
+  {
+   "id": "claa04:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕はそこである事に気づき、思わず声を上げた。"
+  },
+  {
+   "id": "claa04:8400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どしたのタク？」"
+  },
+  {
+   "id": "claa04:8500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「尾上！ もしかしたら、お前、お手柄かも知れないぞ！」"
+  },
+  {
+   "id": "claa04:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "急いでＰＣを立ち上げると、色々なサイトを検索しつつ、表計算ソフトにデータを打ち込んでいく。"
+  },
+  {
+   "id": "claa04:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "⟦g:424⟧２００９年９月７日『ニュージェネの狂気／集団ダイブ』"
+  },
+  {
+   "id": "claa04:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "⟦g:424⟧２０１５年９月７日『こっち見んなー！』"
+  },
+  {
+   "id": "claa04:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "⟦g:424⟧２００９年９月１９日『ニュージェネの狂気／妊娠男』"
+  },
+  {
+   "id": "claa04:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦g:424⟧２０１５年９月１９日『音漏れてん』"
+  },
+  {
+   "id": "claa04:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦g:424⟧２００９年９月２９日『ニュージェネの狂気／張り付け』"
+  },
+  {
+   "id": "claa04:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦g:424⟧２０１５年９月２９日『回転ジェット』"
+  },
+  {
+   "id": "claa04:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦g:424⟧２００９年１０月１０日『ニュージェネの狂気／ヴァンパイ屋』"
+  },
+  {
+   "id": "claa04:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦g:424⟧２０１５年１０月１０日『ごっつァンデス』"
+  },
+  {
+   "id": "claa04:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "・２００９年１０月２３日『ニュージェネの狂気／ノータリン』"
+  },
+  {
+   "id": "claa04:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "・２００９年１０月２８日『ニュージェネの狂気／美味い手』"
+  },
+  {
+   "id": "claa04:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "・２００９年１１月４日『ニュージェネの狂気／ＤＱＮパズル』"
+  },
+  {
+   "id": "claa04:9800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「……今まで、気が付かなかった……」"
+  },
+  {
+   "id": "claa04:9900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なになに？」"
+  },
+  {
+   "id": "claa04:10000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「同じなんだ。日付が」"
+  },
+  {
+   "id": "claa04:10100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「日付？」"
+  },
+  {
+   "id": "claa04:10200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ああ。六年前の『ニュージェネレーションの狂気』事件と、今回の一連の事件――今のところ、全部同じ日に起こってる！」"
+  },
+  {
+   "id": "claa04:10300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「これって、すごいぞ！ バラバラだった点と点が、線につながった！」"
+  },
+  {
+   "id": "claa04:10400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……？」"
+  },
+  {
+   "id": "claa04:10500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「『こっち見んなー』にしても『音漏れてん』にしても『回転ジェット』にしても、関連性はゼロ。バカバカしい事件が頻発してるってだけで、なんの共通点も見えなかっただろ？」"
+  },
+  {
+   "id": "claa04:10600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う、うん」"
+  },
+  {
+   "id": "claa04:10700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「でも、実は共通点があったんだ。いくらなんでも、こんなに偶然が重なるわけない」"
+  },
+  {
+   "id": "claa04:10800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えと……つまりどういうこと？」"
+  },
+  {
+   "id": "claa04:10900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「一見、テキトーに発生しているように見える今回の事件の裏に――実は真犯人が潜んでる。そして、事件が起きるよう仕組んでるってことさ」"
+  },
+  {
+   "id": "claa04:11000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「しかもその真犯人は、６年前の『ニュージェネレーションの狂気』と同じ日に犯行を重ねてる」"
+  },
+  {
+   "id": "claa04:11100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、なんでそんな面倒なことしてるのかなあ？ しかも、笑っちゃうような事件ばっかり」"
+  },
+  {
+   "id": "claa04:11200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「たぶん、ある種の挑戦状だ。事件の共通性に気づいて、自分の犯行を止めてみろ、みたいな」"
+  },
+  {
+   "id": "claa04:11300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おー。なんかカッコいいねぇ」"
+  },
+  {
+   "id": "claa04:11400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「くっくっく、ネットのカキコミを見ても、まだこの事に気づいたヤツはいない。たぶん僕が一番乗りだ」"
+  },
+  {
+   "id": "claa04:11500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そして、もし僕の推測したルールが正しければ、次は『１０月２３日』になんらかの事件が起こるわけだ。それを、いち早くスクープしてやる」"
+  },
+  {
+   "id": "claa04:11600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「なるほどー！ すごいね、タクー！」"
+  },
+  {
+   "id": "claa04:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "尾上が、僕を尊敬のまなざしで見ながら小さく拍手をした。"
+  },
+  {
+   "id": "claa04:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "昼間の編集会議ではものの見事に敗北し、『渋谷の新しい隠れスポット』とか『これから流行するファッション』とか、実に軟派な新聞になってしまうところだったけれど――"
+  },
+  {
+   "id": "claa04:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "僕の手で、世間を驚かせるようなネタを絶対につかんでやる。"
+  }
+ ],
+ "context_after": []
+}

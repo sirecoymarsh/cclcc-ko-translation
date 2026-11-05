@@ -1,0 +1,84 @@
+{
+ "packet_id": "CC0296-clyu14-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu14.msb",
+ "speakers_in_packet": [
+  "？？？"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu14:0",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……『⟦col:280aa02d1400⟧ミルフィーユ⟦col:800000⟧』？」"
+  },
+  {
+   "id": "clyu14:100",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ふん、なにがアイドルだよ……」"
+  },
+  {
+   "id": "clyu14:200",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「たいして可愛くもないし、歌だって下手くそじゃないか」"
+  },
+  {
+   "id": "clyu14:300",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「クソが！ こんなんで、ランキング上位入れるとか、おかしいだろ！」"
+  },
+  {
+   "id": "clyu14:400",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これだったら、俺の方がよっぽど面白いっつーの！」"
+  },
+  {
+   "id": "clyu14:500",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「チッ！ いいよな、オンナは。ちょっと際どい動画あげりゃ、チヤホヤされて」"
+  },
+  {
+   "id": "clyu14:600",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あー、なんかムカついてきた！ クソっ！ クソっ！ クソっ！ クソっ！ クソっ！」"
+  },
+  {
+   "id": "clyu14:700",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これだったら、俺のほうが……俺のほうが……俺のほうが……」"
+  }
+ ],
+ "context_after": []
+}

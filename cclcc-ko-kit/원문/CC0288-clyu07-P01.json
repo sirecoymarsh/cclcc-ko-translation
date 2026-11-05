@@ -1,0 +1,930 @@
+{
+ "packet_id": "CC0288-clyu07-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu07.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "유",
+  "유이"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu07:0",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふっ」"
+  },
+  {
+   "id": "clyu07:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "青い空の下でスマホの画面を眺めながら、僕はほくそ笑んだ。"
+  },
+  {
+   "id": "clyu07:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もしかしたら僕は⟦col:280aa02d1400⟧プロデューサー⟦col:800000⟧としての才能があるんじゃないだろうか。"
+  },
+  {
+   "id": "clyu07:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣と結人と３人で喜びを分かち合った日から、更に１０日。"
+  },
+  {
+   "id": "clyu07:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その間も僕は、ふたりのダンス特訓映像をアップし続けていた。"
+  },
+  {
+   "id": "clyu07:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣のダンスもそれなりに形になって、今では結人と比べても見劣りしないものになり、それに比例するように、カウント数も伸びてきていた。"
+  },
+  {
+   "id": "clyu07:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "全ては僕の思惑通りに進んでいる……ように思えた。"
+  },
+  {
+   "id": "clyu07:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかし、ここ数日で少し気になることがでてきはじめた。"
+  },
+  {
+   "id": "clyu07:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "カウント数が、やや停滞しているように感じるのだ。"
+  },
+  {
+   "id": "clyu07:900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu07:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "やはり、視聴者が喜んでいたのは、ダンスの下手くそな結衣が失敗して、それでも尚且つ頑張る姿だったわけで。"
+  },
+  {
+   "id": "clyu07:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それが無くなった今、彼らが期待する映像を提供できなくなってしまったと、そういうことなのかもしれない。"
+  },
+  {
+   "id": "clyu07:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それに気づいた僕は、ふたりの踊る曲を変えてみたりもした。"
+  },
+  {
+   "id": "clyu07:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど伸び率はやはり変わらなかった。"
+  },
+  {
+   "id": "clyu07:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "既にダンスのコツを飲み込んできた結衣は、最初の頃ほどの壊滅的な失敗はしなくなってしまった。"
+  },
+  {
+   "id": "clyu07:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結果、無難な画しか作れない状態へと落ち入ってしまった。"
+  },
+  {
+   "id": "clyu07:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "このところ、カウントが増えないことを、ふたりも気にしてはいるようだった。"
+  },
+  {
+   "id": "clyu07:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "特に結衣は、最初にあれだけのカウントを見た喜びが大きかった分、現状に対してもどかしさを感じているようだ。"
+  },
+  {
+   "id": "clyu07:1800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "유",
+   "jp": "（やっぱり、そろそろ新しい展開を見せるべきかもしれないな……）"
+  },
+  {
+   "id": "clyu07:1900",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「これを食べるだけでいいの？」"
+  },
+  {
+   "id": "clyu07:2000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "「ああ。その代わり、時間をかけてゆっくり食べるんだ」"
+  },
+  {
+   "id": "clyu07:2100",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「時間をかけて？ なんで？」"
+  },
+  {
+   "id": "clyu07:2200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「それは……ほら、グルメ番組と同じだよ。美味しいものを食べてるのを見たい、って人はたくさんいるんだ」"
+  },
+  {
+   "id": "clyu07:2300",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うーん……そっか、なるほど」"
+  },
+  {
+   "id": "clyu07:2400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「それじゃ、回すぞ」"
+  },
+  {
+   "id": "clyu07:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "ふたりの了解を得て、僕はビデオを回し始めた。"
+  },
+  {
+   "id": "clyu07:2600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えっと……時間をかけてってことは、かじらないほうがいいんだよね？」"
+  },
+  {
+   "id": "clyu07:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣と結人の間にあるのは、一本の⟦col:280aa02d1400⟧ガルガリくん⟦col:800000⟧。"
+  },
+  {
+   "id": "clyu07:2800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「そうだな。ゆっくり舐めたほうがいい」"
+  },
+  {
+   "id": "clyu07:2900",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유",
+   "jp": "「わかった。それじゃあ、私はこっちから舐めるね」"
+  },
+  {
+   "id": "clyu07:3000",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「じゃあ、僕はこっちから……」"
+  },
+  {
+   "id": "clyu07:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "ふたりはゆっくりと、中央にそびえる棒に舌を近づけた。"
+  },
+  {
+   "id": "clyu07:3200",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「んぁー……ペロっ」"
+  },
+  {
+   "id": "clyu07:3300",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ん……れろっ……」"
+  },
+  {
+   "id": "clyu07:3400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「ん、甘くて美味し〜」"
+  },
+  {
+   "id": "clyu07:3500",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「うん」"
+  },
+  {
+   "id": "clyu07:3600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「ぺろっ……ぺろぺろ……」"
+  },
+  {
+   "id": "clyu07:3700",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ぺろぺろぺろ」"
+  },
+  {
+   "id": "clyu07:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "紅い煽情的な舌先が、長いアイスを下から上へと舐めあげる。"
+  },
+  {
+   "id": "clyu07:3900",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「あ、ユウ。そっち、溶けて垂れてきてる……」"
+  },
+  {
+   "id": "clyu07:4000",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「え？ あ、ほんとだ……じゅるっ……ん……っ……」"
+  },
+  {
+   "id": "clyu07:4100",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「あ、大変……こっちも……じゅるるっ……」"
+  },
+  {
+   "id": "clyu07:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "自分でやらせておいて言うのもなんだが、これは……結構やばいかもしれない。"
+  },
+  {
+   "id": "clyu07:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "更には、時折これでいいのかと確認するみたいに見上げる様が、想像をかきたてる。"
+  },
+  {
+   "id": "clyu07:4400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「わ、ダメ。どんどん溶けてきちゃう」"
+  },
+  {
+   "id": "clyu07:4500",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「舐めてるばかりじゃダメかも……」"
+  },
+  {
+   "id": "clyu07:4600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「そうだね。じゃあ……ん、ちゅっ……」"
+  },
+  {
+   "id": "clyu07:4700",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「じゅるるっ……」"
+  },
+  {
+   "id": "clyu07:4800",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「はむ……んっ……ん、はぁ……」"
+  },
+  {
+   "id": "clyu07:4900",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「……んっ、ちゅっ、ちゅる……」"
+  },
+  {
+   "id": "clyu07:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "溶けだして掬いきれなかったキャンディが、ふたりの口の端から首元にかけて濡らしてゆく。"
+  },
+  {
+   "id": "clyu07:5100",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「らめぇ……どんどん溶けちゃうよぉ……」"
+  },
+  {
+   "id": "clyu07:5200",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ……こんな感じれ、大丈夫なのかな……？」"
+  },
+  {
+   "id": "clyu07:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "上目づかいで心配そうに言うふたりに黙って頷きながらも、僕は確信していた。"
+  },
+  {
+   "id": "clyu07:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これでまた、カウント数は上がると。"
+  },
+  {
+   "id": "clyu07:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "「くくっ……ふふふ……」"
+  },
+  {
+   "id": "clyu07:5600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "「あはははははは！」"
+  },
+  {
+   "id": "clyu07:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "思ったとおりじゃないか。"
+  },
+  {
+   "id": "clyu07:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "昨日上げたばかりの映像で、停滞していた視聴数は、再びうなぎ登りに増え始めた。"
+  },
+  {
+   "id": "clyu07:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "やっぱり、視聴者は刺激を求めている！"
+  },
+  {
+   "id": "clyu07:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "ということは、もっとすごいことをやらなければ、更なる視聴数は稼げない。"
+  },
+  {
+   "id": "clyu07:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "そう、もっと！"
+  },
+  {
+   "id": "clyu07:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "もっとだ！"
+  },
+  {
+   "id": "clyu07:6300",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유",
+   "jp": "「う〜……」"
+  },
+  {
+   "id": "clyu07:6400",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「つ、次は何色？」"
+  },
+  {
+   "id": "clyu07:6500",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「えっと、次は……右手を赤に……」"
+  },
+  {
+   "id": "clyu07:6600",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「み、右手を……赤……んっ……」"
+  },
+  {
+   "id": "clyu07:6700",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「どう？ いけそう？」"
+  },
+  {
+   "id": "clyu07:6800",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「も、もうちょっとで……届く……」"
+  },
+  {
+   "id": "clyu07:6900",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「ゆ、ユウ……早く〜。この体勢、きつっ……」"
+  },
+  {
+   "id": "clyu07:7000",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「っ……と、届いたっ……！」"
+  },
+  {
+   "id": "clyu07:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "結衣と結人のふたりには、以前、ニヤ動のコメントでリクエストのあったパーティゲームに挑戦してもらっていた。"
+  },
+  {
+   "id": "clyu07:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "どうしてこのゲームを選んだかと言われれば、もちろん要望が多かったのも理由ではあるが、お金がかからないという点にもあった。"
+  },
+  {
+   "id": "clyu07:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "なにせ床に敷いているシートは手作りで充分だし、水着は前に伊藤が用意してくれたものがある。"
+  },
+  {
+   "id": "clyu07:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "とはいえ、自分で選んでおきながら、これで視聴数が稼げるかどうか、僕にはいまひとつ疑問だったのだが……。"
+  },
+  {
+   "id": "clyu07:7500",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「そ、それじゃあ、次、お願いします……！」"
+  },
+  {
+   "id": "clyu07:7600",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「つ、次は……左足を、緑……だって……」"
+  },
+  {
+   "id": "clyu07:7700",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「ええぇ……左？ 緑って……そんなの無理〜っ……」"
+  },
+  {
+   "id": "clyu07:7800",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「こ、こっちから足を通せばいけそう……だよ？」"
+  },
+  {
+   "id": "clyu07:7900",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「え？ こっちって……？」"
+  },
+  {
+   "id": "clyu07:8000",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「だ、だから、こっち……」"
+  },
+  {
+   "id": "clyu07:8100",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「あンっ！！」"
+  },
+  {
+   "id": "clyu07:8200",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ど、どうしたの？」"
+  },
+  {
+   "id": "clyu07:8300",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「ゆ、ユウの足がわき腹に当たって……くすぐった……っ……」"
+  },
+  {
+   "id": "clyu07:8400",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「わわっ、そんなに動いたら危な――！」"
+  },
+  {
+   "id": "clyu07:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……どうやら余計な心配だったようだ。"
+  },
+  {
+   "id": "clyu07:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ビデオの液晶画面の中で、まだ発展途上な互いの身体を絡め合う、結衣と結人の姿からは、なんともいえない背徳感が漂っていた。"
+  },
+  {
+   "id": "clyu07:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "窮屈で無理な体勢を何とか保とうと蠢く手足。"
+  },
+  {
+   "id": "clyu07:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そのたびに、浮き上がる僅かな筋肉や筋――そして、漏れ出る吐息。"
+  },
+  {
+   "id": "clyu07:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それらが彩る画が、この動画を視る連中を惹きつけること間違いなし、と語っていた。"
+  },
+  {
+   "id": "clyu07:9000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「……だが男だ」"
+  },
+  {
+   "id": "clyu07:9100",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ 拓留兄ちゃん……何か言った？」"
+  },
+  {
+   "id": "clyu07:9200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「い、いや気にするな……続けてくれ」"
+  },
+  {
+   "id": "clyu07:9300",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유이",
+   "jp": "「う、うん。えっと……次は……」"
+  },
+  {
+   "id": "clyu07:9400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「あ！ 待って、ユウ！ まだ動かないで……！」"
+  },
+  {
+   "id": "clyu07:9500",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「そ、そんなこと言われても、こんな格好のままじゃ無理だよぉ……」"
+  },
+  {
+   "id": "clyu07:9600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「あ……！ ダメっ！ それ以上動いちゃ……！」"
+  },
+  {
+   "id": "clyu07:9700",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「え！？ あ、ちょっと待っ――ああああっ！」"
+  },
+  {
+   "id": "clyu07:9800",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はぁんっ！」"
+  },
+  {
+   "id": "clyu07:9900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유이",
+   "next_speaker": "이토 신지",
+   "jp": "「え……？ 嘘……だろ？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕は画面上部に記された動画の再生カウント数を目にして、思わず声を漏らした。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "まだアップしてそれほど時間も経っていないというのに、既に視聴数が大変な数を叩き出している。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いくらなんでも早すぎるんじゃないのか？"
+  }
+ ]
+}

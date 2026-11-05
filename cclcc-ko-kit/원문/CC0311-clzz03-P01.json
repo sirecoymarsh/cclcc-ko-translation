@@ -1,0 +1,617 @@
+{
+ "packet_id": "CC0311-clzz03-P01",
+ "kit_version": "1.0",
+ "source_file": "clzz03.msb",
+ "speakers_in_packet": [
+  "신조 타케시",
+  "의사",
+  "쿠노사토 미오"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clzz03:0",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さん！？ 聞こえるか、久野里さんっ！ 久野里さんっ！」"
+  },
+  {
+   "id": "clzz03:100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「ん……んっ……？」"
+  },
+  {
+   "id": "clzz03:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪が横たわっていたのは――病院のベッドの上だった。"
+  },
+  {
+   "id": "clzz03:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧いままで居たはずの震災直後の渋谷や、フリージアではない。"
+  },
+  {
+   "id": "clzz03:400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「………」"
+  },
+  {
+   "id": "clzz03:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "声の方をゆっくり見ると、ベッド脇で心配そうな顔でこちらをのぞき込んでいる神成と、逆に冷静に久野里の目にペンライトの光を当てて――おそらく瞳孔の反射などを確認しているのだろう――いる医師が視界に入った。"
+  },
+  {
+   "id": "clzz03:600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「大丈夫か！？ 俺が分かるか！？」"
+  },
+  {
+   "id": "clzz03:700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "의사",
+   "jp": "「……神成、さん？」"
+  },
+  {
+   "id": "clzz03:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "いつも沈着冷静な彼女にしては珍しく、澪は混乱していた。"
+  },
+  {
+   "id": "clzz03:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧自分の置かれている状況がはっきりしない。"
+  },
+  {
+   "id": "clzz03:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "思考がまとまらず、そしてなにより、全てに確信が持てない。"
+  },
+  {
+   "id": "clzz03:1100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "의사",
+   "jp": "（私はどこにいる？ 現実？ それとも、ねじ曲げられてしまった別の現実か？ いや、そもそもそんなことが……）"
+  },
+  {
+   "id": "clzz03:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "의사",
+   "jp": "こんな時は、疑り深い自分の性格が少しだけ面倒になる。"
+  },
+  {
+   "id": "clzz03:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "의사",
+   "jp": "⟦top:38⟧とりあえず神成から情報を得ようと口を開きかけたが、彼女を診察していた医師にそれをさえぎられた。"
+  },
+  {
+   "id": "clzz03:1400",
+   "type": "dialogue",
+   "speaker": "医師",
+   "speaker_ko": "의사",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さん、どうです？ 視界のどこかに異常を感じたりは？」"
+  },
+  {
+   "id": "clzz03:1500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "의사",
+   "next_speaker": "의사",
+   "jp": "「え？ いえ、特に問題は……」"
+  },
+  {
+   "id": "clzz03:1600",
+   "type": "dialogue",
+   "speaker": "医師",
+   "speaker_ko": "의사",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「耳は両方ともきちんと聞こえていますか？ 耳鳴りは？」"
+  },
+  {
+   "id": "clzz03:1700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "의사",
+   "next_speaker": "의사",
+   "jp": "「聴覚も別に……」"
+  },
+  {
+   "id": "clzz03:1800",
+   "type": "dialogue",
+   "speaker": "医師",
+   "speaker_ko": "의사",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そうですか。どこにも問題なさそうですね。たぶん疲れによるものでしょう。念のため、点滴をしておきますね」"
+  },
+  {
+   "id": "clzz03:1900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "의사",
+   "next_speaker": null,
+   "jp": "「はぁ、どうも」"
+  },
+  {
+   "id": "clzz03:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "ぼんやりと答えつつも、彼女の脳はすでにフル回転を始めていた。"
+  },
+  {
+   "id": "clzz03:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "あいまいだった記憶が、だんだんとはっきりしてくる。"
+  },
+  {
+   "id": "clzz03:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧確か、ＰＣに異様な画像が送られて来て……その途端、激しい頭痛に襲われた。"
+  },
+  {
+   "id": "clzz03:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "あまりの痛みにうめき、最後は声を上げながら頭を抱え込んだ。"
+  },
+  {
+   "id": "clzz03:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そして、そのまま意識が遠のいていったが――"
+  },
+  {
+   "id": "clzz03:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その時、澪を恐怖させたのは、脳の血管になんらかの異常が起こったのかも知れないということだった。"
+  },
+  {
+   "id": "clzz03:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "もしかすると、自分はもう二度と目を覚まさないかもしれない、と。"
+  },
+  {
+   "id": "clzz03:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧幸いにしてそれは⟦rb⟧杞憂⟦rt⟧きゆう⟦/r⟧に終わったが……あの時はとにかく、送られてきた⟦rb⟧重要な⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧メッセージ⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧と画像が誰の目にも触れないよう、気が違ってしまいそうな痛みの中で最後の力を振り絞って消去をした。"
+  },
+  {
+   "id": "clzz03:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧澪のＰＣには、削除したファイルを二度と復元できないように抹消するソフトがインストールしてあるが、そのソフトを制作した人間の腕は信頼できる。"
+  },
+  {
+   "id": "clzz03:2900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "（問題は……あのメッセージや画像自体が本物なのか、それとも、私を罠に落とすためのブラフか……）"
+  },
+  {
+   "id": "clzz03:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "彼女は、額に手を当てて考え込んだ。"
+  },
+  {
+   "id": "clzz03:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "なんらかの確信が得られるまで、下手に動くと術中にはまる。"
+  },
+  {
+   "id": "clzz03:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "澪がいま敵対しているのは、そういう相手なのだ。"
+  },
+  {
+   "id": "clzz03:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:76⟧と……澪の思考を遮るかのように、今度は神成の言葉が割り込んできた。"
+  },
+  {
+   "id": "clzz03:3400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「それにしても驚いたよ。百瀬さんが調査先から『フリージア』に帰って来たら、君が倒れていたそうだ。それで、救急搬送されてね……」"
+  },
+  {
+   "id": "clzz03:3500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「俺も、百瀬さんから連絡を受けてすぐに飛んできたんだが……何事もなくて本当に良かった」"
+  },
+  {
+   "id": "clzz03:3600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「百瀬さんは？」"
+  },
+  {
+   "id": "clzz03:3700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「いま、別の仕事に行ってる。その間、俺が君の看病をまかされたってわけさ。ま、今日は非番だったんでな」"
+  },
+  {
+   "id": "clzz03:3800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「それは迷惑をかけたな。すまなかった」"
+  },
+  {
+   "id": "clzz03:3900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「いや、いつも捜査協力をしてもらってるんだ。このくらい当然のことじゃないか」"
+  },
+  {
+   "id": "clzz03:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成がいたって生真面目な口調でそう言ったので、澪は、『いっそのこと、私を警察で雇ったらどうだ？』と皮肉のひとつでも言おうと思っていたがやめた。"
+  },
+  {
+   "id": "clzz03:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧このぶんだと、これからも何かと手伝わされそうだ……と、軽く⟦rb⟧辟易⟦rt⟧へきえき⟦/r⟧しつつ、澪は、"
+  },
+  {
+   "id": "clzz03:4200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「ああ、捜査協力で思い出したが、あの老女――病院の地下で発見されたという症候群患者はどうなった？」"
+  },
+  {
+   "id": "clzz03:4300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「……？ なんの話だ？」"
+  },
+  {
+   "id": "clzz03:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成が不思議な顔をして、澪を見た。"
+  },
+  {
+   "id": "clzz03:4500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「なんの話もなにも、お前が私にその患者を見せて……」"
+  },
+  {
+   "id": "clzz03:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "そこまで言いかけた澪は、いや、待て、と口をつぐんだ。"
+  },
+  {
+   "id": "clzz03:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:38⟧もしもあの症候群者が、本当に因果を改変する能力を持っていて……しかも、少年時代の宮代拓留の願望を⟦rb⟧あのように⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧変えてしまったとしたら？"
+  },
+  {
+   "id": "clzz03:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:38⟧宮代が病院の地下に忍び込む必要もなくなり、あの老女――実際は若い少女なのだろうが――も、いまだ、地下室に閉ざされたままの可能性が高い。"
+  },
+  {
+   "id": "clzz03:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:38⟧となれば、当然、神成が彼女と出会うこともないわけだ。"
+  },
+  {
+   "id": "clzz03:5000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さん？」"
+  },
+  {
+   "id": "clzz03:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "不審そうにしている神成に対し、澪ははぐらかすように質問を変えた。"
+  },
+  {
+   "id": "clzz03:5200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「私はどのくらい、気を失っていたんだ？」"
+  },
+  {
+   "id": "clzz03:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "そう言いながら、ベッドの上で身を起こしてみた。"
+  },
+  {
+   "id": "clzz03:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:38⟧まだ少しめまいがするが、それ以外は特に問題なさそうだ。"
+  },
+  {
+   "id": "clzz03:5500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「半日くらいだと思う。宮代くんも同じ意見だった」"
+  },
+  {
+   "id": "clzz03:5600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「宮代？」"
+  },
+  {
+   "id": "clzz03:5700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ああ。キミは“⟦col:280aa02d1400⟧ケイさん⟦col:800000⟧”として、ゆうべ放送を行っただろう？ 宮代くんはヘビーリスナーだからね。当然、放送を聴いていたが……その時、君にはなんの異常も感じられなかったそうだ」"
+  },
+  {
+   "id": "clzz03:5800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「で、百瀬さんが、倒れているキミを見つけたのが今日の昼ごろ。つまり、君が倒れたのはその間ということになる」"
+  },
+  {
+   "id": "clzz03:5900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そうか……」"
+  },
+  {
+   "id": "clzz03:6000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「宮代くんは、さっきも見舞いに来ていたよ。ずいぶん心配していたからね、俺の方から連絡しておこう」"
+  },
+  {
+   "id": "clzz03:6100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「……本当に何もかもすまないな」"
+  },
+  {
+   "id": "clzz03:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "礼を言いながら、しかし、澪の頭脳は別の事でフル回転を始めていた。"
+  },
+  {
+   "id": "clzz03:6300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "（“因果の改変”……それによって、宮代拓留が『自由』に生活している世界……か）"
+  },
+  {
+   "id": "clzz03:6400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "（なるほど。例のメッセージ通りだな）"
+  },
+  {
+   "id": "clzz03:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "澪は、神成に気づかれないよう、そっと耳たぶに指を当てた。"
+  },
+  {
+   "id": "clzz03:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "⟦top:38⟧爪の先が、カチリと固いものに触れる感覚があった。"
+  }
+ ],
+ "context_after": []
+}

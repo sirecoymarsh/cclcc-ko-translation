@@ -1,0 +1,534 @@
+{
+ "packet_id": "CC0073-clka06-P03",
+ "kit_version": "1.0",
+ "source_file": "clka06.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「期限は今日一日。正確には、眠るまでの間。明日目が覚めれば、あたしは綺麗さっぱりいなくなってますんで、その辺については御心配なきよう」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「だから、てっとりばやく宮代先輩としちゃおうと思って、呼びだしたんです」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「てっとりばやくって、お前な……！？」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ね、そういうわけですから」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕の抗議を聞いてないのか、聞こえないふりをしてるのか、この香月ではない香月は、トコトコと僕の傍に歩み寄り、首を傾げて微笑んだ。"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「華の夢を叶えてあげてくださいよ。宮代先輩」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka06:19800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「華の処女を、もらってあげてください♪」"
+  },
+  {
+   "id": "clka06:19900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ふふふふ、ふざけるな！」"
+  },
+  {
+   "id": "clka06:20000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕は椅子から飛び退き、更に後ずさって壁まで後退した。"
+  },
+  {
+   "id": "clka06:20100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「宮代先輩。女の子がここまで言ってんだから、もらってあげればいいじゃないすか」"
+  },
+  {
+   "id": "clka06:20200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「タクってこういう時は潔癖なんだっけ？」"
+  },
+  {
+   "id": "clka06:20300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いやあ、あれは単に、突然来たモテ期にビビってるだけだな」"
+  },
+  {
+   "id": "clka06:20400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうね……。潔癖というか、臆病なのよ。拓留は」"
+  },
+  {
+   "id": "clka06:20500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "「僕のことはどうでもいいだろ！」"
+  },
+  {
+   "id": "clka06:20600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ね、宮代先輩」"
+  },
+  {
+   "id": "clka06:20700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「わっ！？」"
+  },
+  {
+   "id": "clka06:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "知らぬ間に、香月ではない香月が目の前に立っていた。顔が近い。"
+  },
+  {
+   "id": "clka06:20900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうしても、ダメですか……？」"
+  },
+  {
+   "id": "clka06:21000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "濡れた瞳が僕を貫く。シャンプーの香りがふんわりと鼻をくすぐる。"
+  },
+  {
+   "id": "clka06:21100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「だ……だめ、だ！」"
+  },
+  {
+   "id": "clka06:21200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「お前は、香月じゃない、だから！」"
+  },
+  {
+   "id": "clka06:21300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「その身体は、香月の物であって、お前の物じゃない！」"
+  },
+  {
+   "id": "clka06:21400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「だから、その身体を好き勝手にするのは、許されることじゃないだろ！」"
+  },
+  {
+   "id": "clka06:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "僕としては、苦し紛れに思いついたことを言っただけだった。しかし。"
+  },
+  {
+   "id": "clka06:21600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「わお」"
+  },
+  {
+   "id": "clka06:21700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月でない香月は、目を大きくして、感心したようにそう言った。"
+  },
+  {
+   "id": "clka06:21800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう来ましたか。なるほど、一理ありますね」"
+  },
+  {
+   "id": "clka06:21900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うーん、となると……」"
+  },
+  {
+   "id": "clka06:22000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月でない香月は、腕を組んでその場で考え始めた。"
+  },
+  {
+   "id": "clka06:22100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……あ、そうだ！」"
+  },
+  {
+   "id": "clka06:22200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "なにかを思いついたらしく、急に笑顔になる。"
+  },
+  {
+   "id": "clka06:22300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "そして、サッと僕の傍に駆け寄り、耳元で小さくささやいた。"
+  },
+  {
+   "id": "clka06:22400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さっきの写真、もう一度見てくれますか？」"
+  },
+  {
+   "id": "clka06:22500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clka06:22600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あの写真の、⟦rb⟧あたしの⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧横⟦rt⟧⟦rbc⟧●⟦/r⟧にある物、よく見てください」"
+  },
+  {
+   "id": "clka06:22700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「は？」"
+  },
+  {
+   "id": "clka06:22800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほら、早く！」"
+  },
+  {
+   "id": "clka06:22900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「あ、ああ……」"
+  },
+  {
+   "id": "clka06:23000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "言われるままにスマホを取り出し、エロ自撮り写真を表示させる。"
+  },
+  {
+   "id": "clka06:23100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「別になにも写って……」"
+  },
+  {
+   "id": "clka06:23200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……ん？」"
+  },
+  {
+   "id": "clka06:23300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月の横の部分をピンチでズームする。"
+  },
+  {
+   "id": "clka06:23400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そこには雑誌が一冊置かれていた。"
+  },
+  {
+   "id": "clka06:23500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「⟦col:280aa02d1400⟧クールキャットプレス⟦col:800000⟧か？」"
+  },
+  {
+   "id": "clka06:23600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "何故見落としていたのだろう。これは確かにクールキャットプレスだ。"
+  },
+  {
+   "id": "clka06:23700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "僕のキャンピングカーにはゲンさんから買い取ったこの雑誌が結構な冊数保管されている。"
+  },
+  {
+   "id": "clka06:23800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "それらは普段は目の届かない所にしまってある。新聞部の誰も、その場所を知らない筈だ。"
+  },
+  {
+   "id": "clka06:23900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "それが、何故ここにあるのだ？"
+  },
+  {
+   "id": "clka06:24000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「見覚えのある号じゃないですか？」"
+  },
+  {
+   "id": "clka06:24100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……？」"
+  },
+  {
+   "id": "clka06:24200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "おかしな気分になる。"
+  },
+  {
+   "id": "clka06:24300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "不思議なことに、⟦rb⟧見覚えが⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧ない⟦rt⟧⟦rbc⟧●●⟦/r⟧。"
+  },
+  {
+   "id": "clka06:24400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "何故この雑誌が写っているのかも不思議だが、その写っている号を僕が知らないというのはもっと不思議な話だ。"
+  },
+  {
+   "id": "clka06:24500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もう一度、アップになった雑誌の表紙を観察する。"
+  },
+  {
+   "id": "clka06:24600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "特集記事の文字が並んでいるが、さすがにスマホ画質では潰れてしまっていて良く読めない。"
+  },
+  {
+   "id": "clka06:24700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "タイトルの一部が大きく描かれている部分が、かろうじて読み取れた。"
+  },
+  {
+   "id": "clka06:24800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……『変えて』……？」"
+  },
+  {
+   "id": "clka06:24900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「んふ♪」"
+  },
+  {
+   "id": "clka06:25000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "その瞬間。"
+  },
+  {
+   "id": "clka06:25100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "僕は、開けるつもりのなかった、記憶の扉をこじ開けてしまった。"
+  }
+ ],
+ "context_after": []
+}

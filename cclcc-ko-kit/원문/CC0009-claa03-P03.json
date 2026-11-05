@@ -1,0 +1,852 @@
+{
+ "packet_id": "CC0009-claa03-P03",
+ "kit_version": "1.0",
+ "source_file": "claa03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신문부원들",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "에린",
+  "오노에 세리카",
+  "이토 신지",
+  "카와하라 마사시",
+  "카즈키 하나",
+  "쿠루스 노노",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「う？ んーと……なんだっけ？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「おいおい、事件からまだそれほど経ってないぞ？ いいか？ どんな事件だったかというと――」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「まず、『こっち見んなー！事件』は――』"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（いや、それは別の事件だ。考え直そう）"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（この事件は違う。もう少し考えてみるか）"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「そうだ。これが『こっち見んなー！事件』の概要だな」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "claa03:15500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ニコニヤ動画の人気実況屋がいたが、実況中にかじったチーズが⟦col:280aa02d1400⟧消費期限⟦col:800000⟧切れのためにカビが生えていたのに気づかなかったため、途中で気分が悪くなって、実況中に大リバースする姿をさらしてしまった件。"
+  },
+  {
+   "id": "claa03:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:38⟧リバースしながら『こっち見んなー！』と怒鳴ったことから、この事件名になった。"
+  },
+  {
+   "id": "claa03:15700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "（いや、違うぞ、これは違う事件だったはずだ）"
+  },
+  {
+   "id": "claa03:15800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「次に、『音漏れてん事件』」"
+  },
+  {
+   "id": "claa03:15900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（違うな、これは別の事件の話だ）"
+  },
+  {
+   "id": "claa03:16000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（いやいや、不正解だ。落ち着いて思い出せ）"
+  },
+  {
+   "id": "claa03:16100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん。これが『音漏れてん事件』と言われているものだ」"
+  },
+  {
+   "id": "claa03:16200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『歌ってみた』の人気アイドル的な歌い手が路上ライブを決行。"
+  },
+  {
+   "id": "claa03:16300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "途中まではよかったが、とある曲の難しいパート部分がうまく歌えず、口も開いていなかった……にも関わらず、伴奏には見事に歌が乗っていたため、彼女の路上ライブが全て口パクだったことが知れ渡ってしまった。"
+  },
+  {
+   "id": "claa03:16400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:38⟧事件の名前は、その時彼女が口走った『ちゃうねん、ちゃうねん！ どっかから違う曲の音が漏れてん！』という言葉からである。"
+  },
+  {
+   "id": "claa03:16500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そして、『回転ジェット事件』」"
+  },
+  {
+   "id": "claa03:16600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これは違うな。別の事件だ」"
+  },
+  {
+   "id": "claa03:16700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん、これがいわゆる『回転ジェット事件』だな」"
+  },
+  {
+   "id": "claa03:16800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "事件当日、他にホテルの空きがなく、ラブホに宿泊していた青年がいたが、彼が座っていた回転ベッドが故障しており、スイッチもいじってないのにいきなり超高速回転を始めてしまったというアホな事件。"
+  },
+  {
+   "id": "claa03:16900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ベッドの上から激しい勢いでふっとばされた青年は壁に激突して全治３週間の怪我をおった。"
+  },
+  {
+   "id": "claa03:17000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:38⟧この恐怖の回転ベッド事件は、当時、某遊園地で人気だった大回転ジェットコースターにちなんで『回転ジェット』と名付けられた。"
+  },
+  {
+   "id": "claa03:17100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "신문부원들",
+   "jp": "「そして、最新の事件がこれだ。『ごっつァンデス事件』」"
+  },
+  {
+   "id": "claa03:17200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有名ネット記者が、アンデス地方出身のとある若手人気力士のスクープをつかみ、相撲部屋に忍び込んだはいいが……若手の弟子たちに見つかり、アンデス風ちゃんこ鍋（？）を白目をむくほど強引に食べさせられて、ダウンした事件。"
+  },
+  {
+   "id": "claa03:17300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "裁判で、原告側は監禁および強要を主張しているが、相撲部屋としては、ただ単に『客人を、部屋名物のアンデス風大盛りちゃんこでおもてなししただけだ』と言い張っている。"
+  },
+  {
+   "id": "claa03:17400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:38⟧この事件はネット民の間で『ごっつぁんです』とかけて、『ごっつァンデス』事件と名付けられている。"
+  },
+  {
+   "id": "claa03:17500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "신문부원들",
+   "jp": "「ということで。まとめは以上だ」"
+  },
+  {
+   "id": "claa03:17600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "신문부원들",
+   "jp": "「で、さっきも言ったが、この四つのうち、どれを記事にしたらいいか迷ってる。そこで、みんなの意見を聞かせて欲しい。⟦rb⟧忌憚⟦rt⟧きたん⟦/r⟧なく言ってくれ」"
+  },
+  {
+   "id": "claa03:17700",
+   "type": "dialogue",
+   "speaker": "新聞部員たち",
+   "speaker_ko": "신문부원들",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "「「「「「「………」」」」」」"
+  },
+  {
+   "id": "claa03:17800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "카즈키 하나",
+   "jp": "部室内に、妙に冷めた空気が流れた。"
+  },
+  {
+   "id": "claa03:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "카즈키 하나",
+   "jp": "室内の温度まで１〜２度下がった気さえする。"
+  },
+  {
+   "id": "claa03:18000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "신문부원들",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ん、ん〜……」"
+  },
+  {
+   "id": "claa03:18100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "야마조에 우키",
+   "jp": "「えっと……そうね。どの事件も、その……とっても興味深いわ」"
+  },
+  {
+   "id": "claa03:18200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ね、姉さんの言う通りです」"
+  },
+  {
+   "id": "claa03:18300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「すっごいニュースばっかで迷っちゃうな〜」"
+  },
+  {
+   "id": "claa03:18400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:18500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "……いや、本当は分かってるんだ、僕だって。"
+  },
+  {
+   "id": "claa03:18600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "どの事件も、使える使えない以前の問題というか……。"
+  },
+  {
+   "id": "claa03:18700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どの事件もくだらねーなぁ！」"
+  },
+  {
+   "id": "claa03:18800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ぐはーーっ」"
+  },
+  {
+   "id": "claa03:18900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ちょっと、伊藤くんっ」"
+  },
+  {
+   "id": "claa03:19000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ハッキリ言っちゃダメだよぉー。少しは遠慮してあげなきゃー」"
+  },
+  {
+   "id": "claa03:19100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「お、尾上も来栖も、遠慮とかいらないぞ……」"
+  },
+  {
+   "id": "claa03:19200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「う？ そうなの？」"
+  },
+  {
+   "id": "claa03:19300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんか、ごめんなさい……」"
+  },
+  {
+   "id": "claa03:19400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「い、いや、いいんだ。逆に言えば、最近の渋谷が平和ってことだからな。ははは……」"
+  },
+  {
+   "id": "claa03:19500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "そう。"
+  },
+  {
+   "id": "claa03:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "ここ最近渋谷で起こっている事件は、どれもこれも、ほんとにどうでもいい。"
+  },
+  {
+   "id": "claa03:19700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "というか、平和すぎて、まるで誰かにそう仕組まれているかのような気さえしてくる。"
+  },
+  {
+   "id": "claa03:19800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なぁ、宮代？ これならさ、『渋谷の新しい隠れスポット』とか『これから流行するファッション』とか、そういう特集の方が受けるんじゃねーの？」"
+  },
+  {
+   "id": "claa03:19900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「尾上とかにメインの記事、書いてもらってさ」"
+  },
+  {
+   "id": "claa03:20000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「えー、いいの！？ やるやる！ のんちゃんも一緒に書くでしょ！？」"
+  },
+  {
+   "id": "claa03:20100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも……」"
+  },
+  {
+   "id": "claa03:20200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "来栖が、チラッとこっちを見た。"
+  },
+  {
+   "id": "claa03:20300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "明らかに、まだ僕に気を⟦rb⟧遣⟦rt⟧つか⟦/r⟧っている。"
+  },
+  {
+   "id": "claa03:20400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だから、気にするなよ来栖。とりあえず伊藤のプランで進めておいて――」"
+  },
+  {
+   "id": "claa03:20500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「で、僕はその間にもスクープを探すよ。何か大きなネタをつかんだら、改めて紙面を練り直す。こんな感じでどうだろう？」"
+  },
+  {
+   "id": "claa03:20600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「え、ええ。拓留さえよければ、それで構わないけど」"
+  },
+  {
+   "id": "claa03:20700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「賛成ー」"
+  },
+  {
+   "id": "claa03:20800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「じゃあ、来栖や尾上たちは先行して取材を頼む。ファッションのこととか、僕にはさっぱりだ」"
+  },
+  {
+   "id": "claa03:20900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ええ」"
+  },
+  {
+   "id": "claa03:21000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "「りょうかーい」"
+  },
+  {
+   "id": "claa03:21100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ん」"
+  },
+  {
+   "id": "claa03:21200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちなみに、取材費とか、部費から出るんすか！？」"
+  },
+  {
+   "id": "claa03:21300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「それはもちろん――って、有村！ お前はダメに決まってるだろ！」"
+  },
+  {
+   "id": "claa03:21400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え〜〜？ ひど〜〜い」"
+  },
+  {
+   "id": "claa03:21500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "에린",
+   "jp": "「そう思うんなら、さっさと文芸部へ戻れよっ」"
+  },
+  {
+   "id": "claa03:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こうして、新聞部はとりあえず一般ウケしそうな記事を先行させつつ、僕は、何か大きなスクープを探すことになった。"
+  },
+  {
+   "id": "claa03:21700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "에린",
+   "jp": "（というより、絶対に、大きなスクープを探さなくちゃいけないんだ）"
+  },
+  {
+   "id": "claa03:21800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "そこには、実は理由があった。"
+  },
+  {
+   "id": "claa03:21900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "あれは、数日前のことだ。"
+  },
+  {
+   "id": "claa03:22000",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おい、おぬしら。いい加減、追加注文をしてもバチは当たらぬ頃だぞ？」"
+  },
+  {
+   "id": "claa03:22100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「えっ？ あ、すみません」"
+  },
+  {
+   "id": "claa03:22200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "時計を見ると、入店してすでに２時間ほどが過ぎていた。"
+  },
+  {
+   "id": "claa03:22300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その間、僕、伊藤、尾上、有村そして香月も、ドリンク一杯でねばってしまったことになる。"
+  },
+  {
+   "id": "claa03:22400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "에린",
+   "next_speaker": "에린",
+   "jp": "（いくらなんでも、これはまずいな）"
+  },
+  {
+   "id": "claa03:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "少し、話に夢中になり過ぎた。"
+  },
+  {
+   "id": "claa03:22600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "このカフェは、碧朋学園から少し離れていて、他の生徒たちが来ることもないので、放課後、部室で話し足りない時には、僕ら新聞部プラスおまけ（有村のことだ）の秘密のたまり場になっていた。"
+  },
+  {
+   "id": "claa03:22700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "こんな居心地のいい場所、出入り禁止にでもなったら困ってしまう。"
+  },
+  {
+   "id": "claa03:22800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "僕ら５人は、慌てて追加オーダーをする。"
+  },
+  {
+   "id": "claa03:22900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "しかも、ちょっと⟦rb⟧贅沢⟦rt⟧ぜいたく⟦/r⟧めのメニューを混ぜて。"
+  },
+  {
+   "id": "claa03:23000",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "「うむ、了解した。ゆっくりしていくがよい」"
+  },
+  {
+   "id": "claa03:23100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "에린",
+   "next_speaker": "？？？",
+   "jp": "機嫌を直したらしい店員さんが厨房へ引っ込むと、僕らはホッとして、話の続きを始めようとした。"
+  },
+  {
+   "id": "claa03:23200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "에린",
+   "next_speaker": "？？？",
+   "jp": "ところが。"
+  },
+  {
+   "id": "claa03:23300",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "에린",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おい、宮代」"
+  },
+  {
+   "id": "claa03:23400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「え？」"
+  },
+  {
+   "id": "claa03:23500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "突然、店の入り口から声がかかった。"
+  },
+  {
+   "id": "claa03:23600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "驚いて振り返ると、そこにいたのは――"
+  },
+  {
+   "id": "claa03:23700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「あ、川原くん……」"
+  },
+  {
+   "id": "claa03:23800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やっぱりここだったか」"
+  },
+  {
+   "id": "claa03:23900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "生徒会の副会長が、文字通り“上から目線”で立っていた。"
+  },
+  {
+   "id": "claa03:24000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "에린",
+   "jp": "「……えと……何か？」"
+  },
+  {
+   "id": "claa03:24100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は、彼が少し……いや、かなり苦手だ。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "生徒会の会長である来栖のサポートを完璧にこなす優等生。また、彼女の幼馴染でもある。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そんな彼にしてみれば、来栖の生徒会活動の時間を削る僕ら新聞部は邪魔以外の何者でもなくて、なにかというと、目のかたきにしてくるのだ。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「何か用、ですか？」"
+  }
+ ]
+}

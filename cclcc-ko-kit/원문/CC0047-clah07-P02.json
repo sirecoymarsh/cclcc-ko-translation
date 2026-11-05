@@ -1,0 +1,242 @@
+{
+ "packet_id": "CC0047-clah07-P02",
+ "kit_version": "1.0",
+ "source_file": "clah07.msb",
+ "speakers_in_packet": [
+  "아리무라 히나에",
+  "쿠노사토 미오"
+ ],
+ "context_before": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "（あ！ 科学博物館ていうのもありかも）"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "（宮代先輩のことだし、事前にいろいろと調べてくるんだろうなぁ）"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "（で、前から知ってたように説明して）"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "（私はそれを、感心して聞いたり）"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "（あ、意外と水族館、なんてのもいいんじゃない？）"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "（でもやっぱりたまにはテーマパークなんかに無理矢理連れてったりして……）"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah07:9800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "（先輩のことだもん、面倒くさい、なんて言いながらも、ついてきてくれるんだよね）"
+  },
+  {
+   "id": "clah07:9900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "（うーん、でも先輩って絶叫系とか苦手そうだし、ホラー系もダメそうだし）"
+  },
+  {
+   "id": "clah07:10000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "（ふふっ。でも私の前だと強がっちゃったりしてぇ……）"
+  },
+  {
+   "id": "clah07:10100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「おい、お前」"
+  },
+  {
+   "id": "clah07:10200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clah07:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "考え事をしながら歩いていたせいで、前方から見知った顔が近づいていたことに雛絵は気づいていなかった。"
+  },
+  {
+   "id": "clah07:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "わかっていたなら、たとえ向こうが雛絵を視認していたとしても、途中で道を変えたものを。"
+  },
+  {
+   "id": "clah07:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "それほどに、雛絵は目の前に立つ少女、久野里澪を苦手としていた。"
+  },
+  {
+   "id": "clah07:10600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「……なんか用すか？」"
+  },
+  {
+   "id": "clah07:10700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「何をニヤニヤしているのか知らんが、歩く時はちゃんと前を見て歩け」"
+  },
+  {
+   "id": "clah07:10800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「は？ 別にニヤニヤなんてしてませんし」"
+  },
+  {
+   "id": "clah07:10900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「していただろう。遠くから見ていても気持ち悪いくらいにな」"
+  },
+  {
+   "id": "clah07:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "아리무라 히나에",
+   "jp": "小馬鹿にしたように言い残して、澪は通り過ぎていった。"
+  },
+  {
+   "id": "clah07:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "아리무라 히나에",
+   "jp": "⟦top:38⟧けれど。"
+  },
+  {
+   "id": "clah07:11200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah07:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "今の雛絵にとってそんな澪の態度はどうだって良かった。"
+  },
+  {
+   "id": "clah07:11400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「にやにや……してた？ 私が……？」"
+  },
+  {
+   "id": "clah07:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "澪の言葉に“嘘”はなかった。"
+  },
+  {
+   "id": "clah07:11600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "⟦top:38⟧ということは、事実だということだ。"
+  },
+  {
+   "id": "clah07:11700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「あれ？ 私……うそ……でしょ？」"
+  },
+  {
+   "id": "clah07:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "その瞬間、雛絵はわかってしまった。"
+  },
+  {
+   "id": "clah07:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "⟦top:38⟧自分の心の“真実”を。"
+  }
+ ],
+ "context_after": []
+}

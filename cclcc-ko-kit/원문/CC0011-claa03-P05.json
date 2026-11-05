@@ -1,0 +1,909 @@
+{
+ "packet_id": "CC0011-claa03-P05",
+ "kit_version": "1.0",
+ "source_file": "claa03.msb",
+ "speakers_in_packet": [
+  "미나미카타 켄지",
+  "미야시로 타쿠루",
+  "야마조에 우키",
+  "오노에 세리카",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「えー？ こっちの方が絶対にいいってー！ でしょ、うきちゃん？」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「あ、あの、私はえっと……どちらも素敵だと……ですよね、拓留さん？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「………」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「拓留？ うき？ 別におねーちゃんに気なんか⟦rb⟧遣⟦rt⟧つか⟦/r⟧わなくていいのよ？ 素直な意見を聞かせて？」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「えっ？ ええっと、その……」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「うわぁ！ 今のは絶対に⟦rb⟧脅⟦rt⟧おど⟦/r⟧しだー！ 『おねーちゃんの言う事を聞かなかったら、後でものすごいおしおきよ？』って意味だー！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "claa03:32300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちょっ！？ そんなことしないわ。私をなんだと思ってるの？ ねえ、拓留？」"
+  },
+  {
+   "id": "claa03:32400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:32500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「？？？ 拓留？」"
+  },
+  {
+   "id": "claa03:32600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "「おほん。……はっきり言っていいか、お前たち？」"
+  },
+  {
+   "id": "claa03:32700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「はい？」"
+  },
+  {
+   "id": "claa03:32800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なになに？」"
+  },
+  {
+   "id": "claa03:32900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「なぜこんな所に僕がいる！？ 流行の服の取材とか、お前たちに任せたろ！？」"
+  },
+  {
+   "id": "claa03:33000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「別にいいじゃないの。拓留とお買い物なんて、なかなか出来ないんだし」"
+  },
+  {
+   "id": "claa03:33100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「だから、買い物じゃないだろ、来栖！」"
+  },
+  {
+   "id": "claa03:33200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それに、ぶっちゃけて言えば、僕は、とにかく女の子ばかりの店内にいるのが苦手なのだ。"
+  },
+  {
+   "id": "claa03:33300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この、なんとも居心地の悪い感じ、男子諸君なら分かってもらえると思う。"
+  },
+  {
+   "id": "claa03:33400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "特に、やたら派手な化粧とかした子が、『なにアンタ？ もしかしてアタシが露出の多い服を買うとか思ってニヤニヤしてんじゃないの？ やらしー』的な視線でチロチロ見てくるのが耐えられない。"
+  },
+  {
+   "id": "claa03:33500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「とにかく、僕はもう帰るから。それじゃあな」"
+  },
+  {
+   "id": "claa03:33600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちょっと待ってタク。ねぇ、タク」"
+  },
+  {
+   "id": "claa03:33700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ？ なんだよっ」"
+  },
+  {
+   "id": "claa03:33800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ここで帰ったらもったいないよ。このあと、もんのすごいイベントが待ってるんだから」"
+  },
+  {
+   "id": "claa03:33900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「もんのすごいイベント？」"
+  },
+  {
+   "id": "claa03:34000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "って、なんだそれ？"
+  },
+  {
+   "id": "claa03:34100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "さすがに気になる。"
+  },
+  {
+   "id": "claa03:34200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちょっと耳貸して、耳」"
+  },
+  {
+   "id": "claa03:34300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕が興味を示したのを見て、尾上のピンク色の唇が僕の耳の⟦rb⟧側⟦rt⟧そば⟦/r⟧まで寄ってくる。"
+  },
+  {
+   "id": "claa03:34400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미나미카타 켄지",
+   "jp": "「……っ」"
+  },
+  {
+   "id": "claa03:34500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미카타 켄지",
+   "jp": "女の子特有の甘い匂いと、ほんのかすかな汗の香りが鼻腔を刺激しつつ、しかも、とろけるような吐息攻撃まで加わって、一瞬、僕の理性が押しつぶされそうになる。"
+  },
+  {
+   "id": "claa03:34600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미카타 켄지",
+   "jp": "が。いかん！ ダメだ！"
+  },
+  {
+   "id": "claa03:34700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미카타 켄지",
+   "jp": "こんな単純なことでいちいち女の子に惚れていては、⟦rb⟧初心⟦rt⟧うぶ⟦/r⟧丸出しのＤＴ野郎だ！"
+  },
+  {
+   "id": "claa03:34800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미카타 켄지",
+   "jp": "僕はすかさず、『⟦col:280aa02d1400⟧クールキャットプレス⟦col:800000⟧』で連載中の⟦rb⟧南方謙二⟦rt⟧みなみかたけんじ⟦/r⟧先生のお言葉を思い浮かべて耐えた。"
+  },
+  {
+   "id": "claa03:34900",
+   "type": "dialogue",
+   "speaker": "南方謙二",
+   "speaker_ko": "미나미카타 켄지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「真の漢ってのはな、本当に惚れるべき女が現れるまで、他の女の色香になんざ惑わされないものだぜ。なぁ？」"
+  },
+  {
+   "id": "claa03:35000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미카타 켄지",
+   "next_speaker": "오노에 세리카",
+   "jp": "――うむ！"
+  },
+  {
+   "id": "claa03:35100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미카타 켄지",
+   "next_speaker": "오노에 세리카",
+   "jp": "こういう時、南方先生の言葉は、僕をいつも支えてくれる！"
+  },
+  {
+   "id": "claa03:35200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미나미카타 켄지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「このあとねー、のんちゃんたちと水着のお店もチェックしようって話になってるんだよー」"
+  },
+  {
+   "id": "claa03:35300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なん、だと？」"
+  },
+  {
+   "id": "claa03:35400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「来年の夏の⟦col:280aa02d1400⟧トレンド⟦col:800000⟧が、もう発表になってるんだって。私ものんちゃんもうきちゃんも、たぶん試着するよー？ もちろん、タクにも見てもらうよー？」"
+  },
+  {
+   "id": "claa03:35500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うあぁ……っ」"
+  },
+  {
+   "id": "claa03:35600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "み、み、み、南方先生っ！？"
+  },
+  {
+   "id": "claa03:35700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "この子、なんか魅力的な――じゃなかった、○ッチっぽいことを言ってやがりますけど！？"
+  },
+  {
+   "id": "claa03:35800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "こういう場合、僕はどうしたらいいのですかっ！？"
+  },
+  {
+   "id": "claa03:35900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "もしかして、ちょっとくらい誘惑に負けても！？"
+  },
+  {
+   "id": "claa03:36000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "いやいや！ そんなこと先生が許すはずがない！"
+  },
+  {
+   "id": "claa03:36100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねぇねぇ、拓留ぅ？ どうかしら、これ？」"
+  },
+  {
+   "id": "claa03:36200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕が激しい葛藤を抱えて苦悩していると、背後から来栖の声がした。"
+  },
+  {
+   "id": "claa03:36300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ？ なんだよ、来栖？」"
+  },
+  {
+   "id": "claa03:36400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほら、これ」"
+  },
+  {
+   "id": "claa03:36500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うおわぁーっ！？」"
+  },
+  {
+   "id": "claa03:36600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕はまるで、１９６０年代のマンガ映画のようにビョイーンと飛び⟦rb⟧退⟦rt⟧すさ⟦/r⟧った。"
+  },
+  {
+   "id": "claa03:36700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちょっと？ なに驚いてるの？」"
+  },
+  {
+   "id": "claa03:36800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「な、な、なにって、お前、それっ！」"
+  },
+  {
+   "id": "claa03:36900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ただの試着じゃない」"
+  },
+  {
+   "id": "claa03:37000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いやいやいや！ 水着で売り場の中を歩き回るのは、ただの試着じゃないだろ！？ おかしいだろ！？」"
+  },
+  {
+   "id": "claa03:37100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "それじゃまるで露出症みたいだぞ、お前！"
+  },
+  {
+   "id": "claa03:37200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んもう、タクってばひどい。のんちゃんより、私の方を見てよ〜」 "
+  },
+  {
+   "id": "claa03:37300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「はい？」"
+  },
+  {
+   "id": "claa03:37400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "その声に振り向くと、いつの間にか尾上まで――"
+  },
+  {
+   "id": "claa03:37500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えへへ！ どお？」"
+  },
+  {
+   "id": "claa03:37600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ぎゃーーー！」"
+  },
+  {
+   "id": "claa03:37700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "い、いつの間に着替えたんだ！？"
+  },
+  {
+   "id": "claa03:37800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "歌舞伎の⟦rb⟧早替⟦rt⟧はやが⟦/r⟧えか、お前は！"
+  },
+  {
+   "id": "claa03:37900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "야마조에 우키",
+   "jp": "「とっ、とにかく！ 水着の試着はいいけど、それでウロウロするのは、ただの痴女だから――」"
+  },
+  {
+   "id": "claa03:38000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "そこまで言いかけた僕は、はたと気がついた。"
+  },
+  {
+   "id": "claa03:38100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "ちょっとだけアホの子な尾上はともかく……あの来栖乃々生徒会長が、こんなことをするなんてありえるだろうか？ いや、ありえるわけがない。"
+  },
+  {
+   "id": "claa03:38200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "力強く否定した僕は、とっさに山添うきの姿を探す。"
+  },
+  {
+   "id": "claa03:38300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:38400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いた！"
+  },
+  {
+   "id": "claa03:38500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "すぐ近くの柱の陰で、顔を真っ赤にしながらアタフタしている。"
+  },
+  {
+   "id": "claa03:38600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "（そうか！ 彼女の能力！）"
+  },
+  {
+   "id": "claa03:38700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「おい、うき！？ もしかしてこれ、お前のせいか！？」"
+  },
+  {
+   "id": "claa03:38800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕が柱の陰に声をかけると、彼女は申し訳なさそうにコクコクとうなずいた。"
+  },
+  {
+   "id": "claa03:38900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "といっても、うきに悪気があるわけではなくて……前にも言った通り、彼女の近くにいる誰かが強い妄想を抱くと、無意識にそれを⟦rb⟧現実化⟦rt⟧リアルブート⟦/r⟧してしまうのだ。"
+  },
+  {
+   "id": "claa03:39000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ちょっと拓留？ なんで逃げちゃうの？ もっとよく見て。どっちの水着が似合ってるか、決めて」"
+  },
+  {
+   "id": "claa03:39100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「決めてくれないと、抱きついちゃうぞー！」"
+  },
+  {
+   "id": "claa03:39200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だーっ！？」"
+  },
+  {
+   "id": "claa03:39300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "尾上が、僕の胸に思いっきり飛び込んできて、半裸の身体を押し付けてきた。"
+  },
+  {
+   "id": "claa03:39400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "あっちとかこっちとか、⟦rb⟧柔らかくて⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧⟦rb⟧よろしく⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧ない⟦rt⟧⟦rbc⟧●●⟦/r⟧⟦rb⟧モノ⟦rt⟧⟦rbc⟧●●⟦/r⟧が、僕の全身に当たる。"
+  },
+  {
+   "id": "claa03:39500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんなの卑怯だわ、世莉架！ それなら私もっ！」"
+  },
+  {
+   "id": "claa03:39600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "「『私も』じゃなくて！ やめろー！」"
+  },
+  {
+   "id": "claa03:39700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "必死に制止したが、今度は来栖が、僕の腕に自分の腕をからめるようにしてベッタリとくっついてきた。"
+  },
+  {
+   "id": "claa03:39800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これまで服の上からでは分からなかったが、実はけっこうボリュームのある⟦rb⟧膨⟦rt⟧ふく⟦/r⟧らみが、なんとも心地良く――って、そうじゃない！"
+  },
+  {
+   "id": "claa03:39900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "「うき！？ いったい誰の妄想だ、これ！？」"
+  },
+  {
+   "id": "claa03:40000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:40100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「おい、うき！？」"
+  },
+  {
+   "id": "claa03:40200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕がうきを強く⟦rb⟧促⟦rt⟧うなが⟦/r⟧すと、彼女は頬を真っ赤に染めながら、おずおずと指差した。"
+  },
+  {
+   "id": "claa03:40300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――僕のことを。"
+  },
+  {
+   "id": "claa03:40400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「って、僕ぅ！？」"
+  },
+  {
+   "id": "claa03:40500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「は、はい……残念ながら」"
+  },
+  {
+   "id": "claa03:40600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「残念ってなんだよ、残念って！？」"
+  },
+  {
+   "id": "claa03:40700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私、拓留さんのこと、素敵なお兄ちゃんだと思っていたのに……えっちなお兄ちゃんだったのですね」"
+  },
+  {
+   "id": "claa03:40800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "오노에 세리카",
+   "jp": "「悲しそうに言わないでくれ！ こういうのは健全な男子高校生なら誰でも持っちゃう妄想なの！」"
+  },
+  {
+   "id": "claa03:40900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちょっとタク！ 水着の私たちより、うきちゃんとばっかり話して！ もしかして、○リコンなの〜！？」"
+  },
+  {
+   "id": "claa03:41000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「違うわ！ お前はお前で、人聞きの悪いこと言うなーっ」"
+  },
+  {
+   "id": "claa03:41100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃあ、もしかして……拓留は私の身体になんて興味がないってことなの？ ううっ、ひどい。⟦rb⟧ここ⟦rt⟧⟦rbc⟧●●⟦/r⟧も⟦rb⟧あそこ⟦rt⟧⟦rbc⟧●●●⟦/r⟧も、拓留の好きにしていいのにっ」"
+  },
+  {
+   "id": "claa03:41200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "「って、来栖がそんなこと言うかーっ！」"
+  },
+  {
+   "id": "claa03:41300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やっぱりえっちです……」"
+  },
+  {
+   "id": "claa03:41400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「だから、そんな悲しそうな目はよしてくれぇ」"
+  },
+  {
+   "id": "claa03:41500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「で、でもっ、私にとって拓留さんは大事なお兄ちゃん！ 私、我慢しますからっ！」"
+  },
+  {
+   "id": "claa03:41600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「我慢とかしなくていい！ この妄想をなんとかしろ！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「えっ？ せっかくなのに、なんとかしちゃっていいんですか？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「いいから！ 早く！」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「でしたら簡単です。私からなるべく遠く離れて下さい。そうすれば、解除出来ると思います」"
+  }
+ ]
+}

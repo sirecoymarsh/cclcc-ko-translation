@@ -1,0 +1,961 @@
+{
+ "packet_id": "CC0177-clse07-P18",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "이토 신지",
+  "카와하라 마사시",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「おお、サンドイッチじゃねーか！」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「あ……なんだよ、ツナサンドかよ。俺、ハムサンドが良かったのに」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「は？ こういう時に分け合うのが友達って奴じゃないのか？」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「あ、ひでー！」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「……ぁー……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:167400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いいのか！？」"
+  },
+  {
+   "id": "clse07:167500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いっただっきまーす！ はむっ！」"
+  },
+  {
+   "id": "clse07:167600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んぐ、んぐ……っはー……」"
+  },
+  {
+   "id": "clse07:167700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ハムサンドほどじゃないけどな」"
+  },
+  {
+   "id": "clse07:167800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「へっへー。もう食っちまったもんねー！」"
+  },
+  {
+   "id": "clse07:167900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……やめろ」"
+  },
+  {
+   "id": "clse07:168000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい、マジでやめろって！！！」"
+  },
+  {
+   "id": "clse07:168100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「俺、寝るからな。お前もとっとと寝ろ」"
+  },
+  {
+   "id": "clse07:168200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なあ、宮代……寝たのか？」"
+  },
+  {
+   "id": "clse07:168300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代ぉ……」"
+  },
+  {
+   "id": "clse07:168400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:168500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前が変な話するからだろ！！」"
+  },
+  {
+   "id": "clse07:168600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……そういやそうだな……つーか、だったらくだらねー話すんなよ！！」"
+  },
+  {
+   "id": "clse07:168700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:168800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「聞くなよ！ 絶対聞くなよ」"
+  },
+  {
+   "id": "clse07:168900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「言っとくけど、今のはフリじゃないからな」"
+  },
+  {
+   "id": "clse07:169000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああああああああああああ！！」"
+  },
+  {
+   "id": "clse07:169100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その保証はあるのか？」"
+  },
+  {
+   "id": "clse07:169200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「普通、休日でも誰か来るだろ、学校なら。それが、丸２日誰も来ねえんだぞ。明日になったら誰か来る保証なんてどこにあるんだよ？」"
+  },
+  {
+   "id": "clse07:169300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……宮代？ どうしたんだ？」"
+  },
+  {
+   "id": "clse07:169400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そういや、鼻声だな。ちょっとおでこ貸せ！！」"
+  },
+  {
+   "id": "clse07:169500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっぱ、すごい熱だ……」"
+  },
+  {
+   "id": "clse07:169600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は？ 熱計るときは普通こうするだろ」"
+  },
+  {
+   "id": "clse07:169700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……そうなのか？」"
+  },
+  {
+   "id": "clse07:169800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあでも、今はそんなことはどうだっていい。とにかく、お前の熱、それなんとかしないと」"
+  },
+  {
+   "id": "clse07:169900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そういうわけにはいかないだろ」"
+  },
+  {
+   "id": "clse07:170000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それはそうだけど……」"
+  },
+  {
+   "id": "clse07:170100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代……」"
+  },
+  {
+   "id": "clse07:170200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……宮代……お前、大丈夫か？」"
+  },
+  {
+   "id": "clse07:170300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「寒いのか？」"
+  },
+  {
+   "id": "clse07:170400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clse07:170500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ヤバイな……このままだと、悪化しちまう……」"
+  },
+  {
+   "id": "clse07:170600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よくさ、雪山で遭難したときに温め合うって話、聞くよな？」"
+  },
+  {
+   "id": "clse07:170700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、俺だって、別に好きでやろうってわけじゃねーよ！ ただ……お、お前にはツナサンドの恩があるから……」"
+  },
+  {
+   "id": "clse07:170800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それにこのままだと、お前があまりにも辛そうだろ！ だから……」"
+  },
+  {
+   "id": "clse07:170900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、さ。お前も……な？」"
+  },
+  {
+   "id": "clse07:171000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほら、どう見ても大丈夫じゃないだろ」"
+  },
+  {
+   "id": "clse07:171100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「大丈夫だから……」"
+  },
+  {
+   "id": "clse07:171200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clse07:171300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……わかった」"
+  },
+  {
+   "id": "clse07:171400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代……いいか？」"
+  },
+  {
+   "id": "clse07:171500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clse07:171600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……うん」"
+  },
+  {
+   "id": "clse07:171700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おはよう、宮代……」"
+  },
+  {
+   "id": "clse07:171800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「具合はどうだ？」"
+  },
+  {
+   "id": "clse07:171900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「良かった……もう、大丈夫みたいだな」"
+  },
+  {
+   "id": "clse07:172000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clse07:172100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ほんと、勘弁してほしいよ。なあ、宮代？」"
+  },
+  {
+   "id": "clse07:172200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clse07:172300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「お、おう……」"
+  },
+  {
+   "id": "clse07:172400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:172500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「あ、あのさ！ こんどの休みにさ……」"
+  },
+  {
+   "id": "clse07:172600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「っ……や、やっぱりなんでもない。それじゃあ……また、な……」"
+  },
+  {
+   "id": "clse07:172700",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「おい、宮代」"
+  },
+  {
+   "id": "clse07:172800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「やっぱりここだったか」"
+  },
+  {
+   "id": "clse07:172900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「うん？ 生徒会長がいないな」"
+  },
+  {
+   "id": "clse07:173000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「そうか。会長の前では話しづらいことだったからな。ちょうどいい」"
+  },
+  {
+   "id": "clse07:173100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「実は生徒会の話なんだけどな。今の季節は学校行事も多くて、結構忙しいんだ」"
+  },
+  {
+   "id": "clse07:173200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「当然、生徒会長の負担もかなり大きくなっている。そのせいで来栖は、休みの日まで仕事をしてくれてるんだ」"
+  },
+  {
+   "id": "clse07:173300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「しかも、勉強も欠かさず、テストの成績は常にトップクラスだ。彼女がどれだけ大変な思いをしてるか分かるよな？」"
+  },
+  {
+   "id": "clse07:173400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「今の新聞部は、集まってもただ遊んでいるだけ。何の役にも立ってないじゃないか。そんな活動に、彼女の貴重な時間を浪費させないでくれないか」"
+  },
+  {
+   "id": "clse07:173500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「取材だって？ そもそも、他の学校の、健全な新聞部というものを知っているのか？」"
+  },
+  {
+   "id": "clse07:173600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「彼らは、学校行事の特集をしたり、インターハイを目指している部活や生徒をピックアップしたり……学校にとって有意義な紙面を作ってる」"
+  },
+  {
+   "id": "clse07:173700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それに対して、キミたちは――なんだか分からない都市伝説だの、あやしいウワサの調査だの。そういうのは、学校新聞のやることなのか？」"
+  },
+  {
+   "id": "clse07:173800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「生徒会としては、そんな部に貴重な部費など配分出来ない。そう思わないか？」"
+  },
+  {
+   "id": "clse07:173900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もちろん、すぐに部費を減らすような横暴な真似はしない。キミたち含めて、活動実態の怪しい部の活動を、これからしばらくチェックさせてもらう。そういう話だ」"
+  },
+  {
+   "id": "clse07:174000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふっ。来栖に泣きつこうとしても無駄だ。そもそも俺の言ってることは正論なんだからな、いくら来栖にすがりついても……あー、ダメなものはダメに決まってる」"
+  },
+  {
+   "id": "clse07:174100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう。これは生徒会として正しい行為なんだ。来栖に言いつけるとか、そういう卑怯なことはするな。というか、来栖には絶対に言うなよ。俺と宮代――男と男の勝負なんだからな！」"
+  },
+  {
+   "id": "clse07:174200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあな、宮代！」"
+  },
+  {
+   "id": "clse07:174300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい、宮代。話があるんだが……」"
+  },
+  {
+   "id": "clse07:174400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え……？」"
+  },
+  {
+   "id": "clse07:174500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なるほど。で、和久井先生はなんて？」"
+  },
+  {
+   "id": "clse07:174600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふむ……」"
+  },
+  {
+   "id": "clse07:174700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「先生方がなんと言おうと、生徒会としては学生同士という関係を逸脱する行為、あるいは逸脱する可能性につながる行為を認めるわけにはいかない」"
+  },
+  {
+   "id": "clse07:174800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これ以上、妙な噂が広まって、学内に不純な空気が蔓延しても困る。ダメなものはダメだ」"
+  },
+  {
+   "id": "clse07:174900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ なにか言ったか？」"
+  },
+  {
+   "id": "clse07:175000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「とにかく、有村さんは今日からきちんと家に帰るように。わかったな」"
+  },
+  {
+   "id": "clse07:175100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ま、待て、宮代！！！」"
+  },
+  {
+   "id": "clse07:175200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あー、なんというか、その、だな……」"
+  },
+  {
+   "id": "clse07:175300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「や、やはり生徒会としても、はなから生徒を疑った目で見るのはよくない」"
+  },
+  {
+   "id": "clse07:175400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「男女七歳にして席を同じうせず、なんてのは旧時代的な考え方だ。これからはもっと柔軟に物事を考えなければならないと僕は思う」"
+  },
+  {
+   "id": "clse07:175500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうやって、ともに成長することで、自制心を養うというのも大事な勉強になるかもしれないしな」"
+  },
+  {
+   "id": "clse07:175600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そもそもが、男女というだけで穿った見方をするのは、見る方にも問題があるわけだ」"
+  },
+  {
+   "id": "clse07:175700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それに、男女の付き合いも決して悪いものばかりだとはいえない」"
+  },
+  {
+   "id": "clse07:175800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「中には、互いを高め合う関係性というのもあるだろう」"
+  },
+  {
+   "id": "clse07:175900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「つまりだ、我々生徒会は君たちの同居生活を認めようじゃないか。いや、むしろ積極的に応援してもいい」"
+  },
+  {
+   "id": "clse07:176000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「君たちふたりが本校の新たなモデルケースになって、男女間の新たな愛情の形を謳ってくれることを期待しているよ」"
+  },
+  {
+   "id": "clse07:176100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そういうことだ。有村さんもわかったね」"
+  },
+  {
+   "id": "clse07:176200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「何をしていたんだ、来栖。遅かったじゃない――」"
+  },
+  {
+   "id": "clse07:176300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代……なんでお前がここに？」"
+  },
+  {
+   "id": "clse07:176400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……もしかして、宮代……お前、話したのか！？」"
+  },
+  {
+   "id": "clse07:176500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあ、なんで来栖が知ってるんだ！」"
+  },
+  {
+   "id": "clse07:176600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「い、いや、別にそういうわけじゃ……」"
+  },
+  {
+   "id": "clse07:176700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ…………」"
+  },
+  {
+   "id": "clse07:176800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、ああ……」"
+  },
+  {
+   "id": "clse07:176900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……知ってる」"
+  },
+  {
+   "id": "clse07:177000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「で、でも新聞部はこれまでロクな活動をしてない。だから――！」"
+  },
+  {
+   "id": "clse07:177100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う……」"
+  },
+  {
+   "id": "clse07:177200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わ、わかったよ」"
+  },
+  {
+   "id": "clse07:177300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「来栖？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「あれ？ もしかして生徒会室？ 今日、何かあったっけ？」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「……？？？」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「今から購買に。さっきの授業が思ったより長引いちまってな。今さら行っても、ろくなの残ってないだろうけど……」"
+  }
+ ]
+}

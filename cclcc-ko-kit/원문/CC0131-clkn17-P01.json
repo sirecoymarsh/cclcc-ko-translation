@@ -1,0 +1,941 @@
+{
+ "packet_id": "CC0131-clkn17-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn17.msb",
+ "speakers_in_packet": [
+  "남학생",
+  "미야시로 타쿠루",
+  "사쿠마 와타루",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "여학생",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠노사토 미오",
+  "쿠루스 노노",
+  "타치바나 유이",
+  "타치바나 유토",
+  "히카리 엄마"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn17:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "히카리 엄마",
+   "jp": "冬の寒さもいよいよ本格的になろうかという、ある日。"
+  },
+  {
+   "id": "clkn17:100",
+   "type": "dialogue",
+   "speaker": "ひかりの母",
+   "speaker_ko": "히카리 엄마",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「本当にすみませんでした……」"
+  },
+  {
+   "id": "clkn17:200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": "히카리 엄마",
+   "jp": "「その、すまないという気持ちを、これからはお子さんに向けてやりなさい」"
+  },
+  {
+   "id": "clkn17:300",
+   "type": "dialogue",
+   "speaker": "ひかりの母",
+   "speaker_ko": "히카리 엄마",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "타치바나 유토",
+   "jp": "「はい」"
+  },
+  {
+   "id": "clkn17:400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ほんとにいっちゃうんだね……」"
+  },
+  {
+   "id": "clkn17:500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「まだ言ってる。それがベストだって、ユウもわかってるでしょ」"
+  },
+  {
+   "id": "clkn17:600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「うん……でも……」"
+  },
+  {
+   "id": "clkn17:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "青葉寮を尋ねてきたひかりの母親は、赤ん坊を預けていったことを心から後悔しているようだった。"
+  },
+  {
+   "id": "clkn17:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "その心に偽りはないと判断した父さんは、本来の母親である彼女にひかりを委ねることにした。"
+  },
+  {
+   "id": "clkn17:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "それがひかりにとって一番だということは僕たちにもわかっていたが、それでも名残惜しさは尽きなかった。"
+  },
+  {
+   "id": "clkn17:1000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ほら、みんなで笑って見送ってやれ」"
+  },
+  {
+   "id": "clkn17:1100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "타치바나 유이",
+   "jp": "「うん。元気でね、ひかり」"
+  },
+  {
+   "id": "clkn17:1200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "야마조에 우키",
+   "jp": "「お姉ちゃんのこと、覚えてるんだゾ」"
+  },
+  {
+   "id": "clkn17:1300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「また、遊びにきてね。待ってますから……」"
+  },
+  {
+   "id": "clkn17:1400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほら、お前らも」"
+  },
+  {
+   "id": "clkn17:1500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「またな、ひかり。幸せになれよ」"
+  },
+  {
+   "id": "clkn17:1600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn17:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "最初は冗談じゃないと思ったけれど、それでもしばらく過ごしているうちに情はうつるものだ。"
+  },
+  {
+   "id": "clkn17:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕でさえそうなんだから、乃々はよっぽどだろう。"
+  },
+  {
+   "id": "clkn17:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それでも別れなきゃならないのは、彼女だって良く分かっているはずだ。"
+  },
+  {
+   "id": "clkn17:2000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ひかり……」"
+  },
+  {
+   "id": "clkn17:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕たちの気持ちは⟦rb⟧余所⟦rt⟧よそ⟦/r⟧に、ひかりは嬉しそうに笑った。"
+  },
+  {
+   "id": "clkn17:2200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「元気でね……」"
+  },
+  {
+   "id": "clkn17:2300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clkn17:2400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いま……」"
+  },
+  {
+   "id": "clkn17:2500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ひかり……」"
+  },
+  {
+   "id": "clkn17:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "僕たちは、その姿が見えなくなるまで、ひかりと母親の姿を見送った。"
+  },
+  {
+   "id": "clkn17:2700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「行ってしまったか……」"
+  },
+  {
+   "id": "clkn17:2800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さん！？ なんで……」"
+  },
+  {
+   "id": "clkn17:2900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんでとは随分なご挨拶だな。人がわざわざ例の騒動について説明してやろうと思ったのに」"
+  },
+  {
+   "id": "clkn17:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "だったら学校でもどこでも構わないだろうに、本当は赤ん坊が見たかったに違いない。"
+  },
+  {
+   "id": "clkn17:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そういやこの人、結人にもどこか甘いし、実は見かけによらず子ども好きなのかもしれない……。"
+  },
+  {
+   "id": "clkn17:3200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「で、例の件だが、やはり何らかの⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧の能力が発動していただろうというのが私の見解だ」"
+  },
+  {
+   "id": "clkn17:3300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でなければ、いくらゆとり世代のお前たちとはいえ、あんな稚拙な⟦rb⟧扇動⟦rt⟧アジテート⟦/r⟧に乗るとも思えんからな」"
+  },
+  {
+   "id": "clkn17:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "自分だってゆとり世代のくせに。"
+  },
+  {
+   "id": "clkn17:3500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「それじゃあ、川原くんにも能力が……？」"
+  },
+  {
+   "id": "clkn17:3600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「潜在的に持っていた能力が、⟦col:280aa02d1400⟧心的ストレス⟦col:800000⟧により飽和、漏えいしたものではないかと思う」"
+  },
+  {
+   "id": "clkn17:3700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そんなことがあるんですか？」"
+  },
+  {
+   "id": "clkn17:3800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ストレスによって能力の制御が効かなくなることだってあるんだ。その逆もまた然りさ」"
+  },
+  {
+   "id": "clkn17:3900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「それじゃあ、川原くんは……」"
+  },
+  {
+   "id": "clkn17:4000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「能力の発現はあくまでも一時的なものだろうな。まあ、しっかり調べて見ないことにはわからないが……」"
+  },
+  {
+   "id": "clkn17:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "残念ながらあれ以来ずっと、川原くんは学校を休んでいる。"
+  },
+  {
+   "id": "clkn17:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "乃々が泉理だったという事実が、彼にとってはそれほどショックなことだったのだろう。"
+  },
+  {
+   "id": "clkn17:4300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「話は以上だ。それじゃあな」"
+  },
+  {
+   "id": "clkn17:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠루스 노노",
+   "jp": "久野里さんは未練がましく、ひかりが消えて行った先を見つめた後、帰っていった。"
+  },
+  {
+   "id": "clkn17:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠루스 노노",
+   "jp": "よほど赤ん坊に会いたかったんだろうな……。"
+  },
+  {
+   "id": "clkn17:4600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「久野里さん、なんて？」"
+  },
+  {
+   "id": "clkn17:4700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ん。別に……」"
+  },
+  {
+   "id": "clkn17:4800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう……」"
+  },
+  {
+   "id": "clkn17:4900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「さあ、そろそろ入ろう。いつまでもここにいても寒いだけだ」"
+  },
+  {
+   "id": "clkn17:5000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "「……そうね。ひかりのママが持ってきてくれたお菓子もあるし。あったかいココアでも淹れましょうか」"
+  },
+  {
+   "id": "clkn17:5100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유이",
+   "jp": "「やったー、お菓子ー！」"
+  },
+  {
+   "id": "clkn17:5200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "야마조에 우키",
+   "jp": "「行こっ、うきちゃん」"
+  },
+  {
+   "id": "clkn17:5300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うんっ」"
+  },
+  {
+   "id": "clkn17:5400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さあ、拓留も」"
+  },
+  {
+   "id": "clkn17:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여학생",
+   "jp": "「ああ……」"
+  },
+  {
+   "id": "clkn17:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여학생",
+   "jp": "ひかりが去った今も、僕は青葉寮に残ることにした。"
+  },
+  {
+   "id": "clkn17:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여학생",
+   "jp": "そして彼女も……。"
+  },
+  {
+   "id": "clkn17:5800",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、会長。おはようございまーす」"
+  },
+  {
+   "id": "clkn17:5900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "여학생",
+   "next_speaker": "남학생",
+   "jp": "「ええ、おはよう」"
+  },
+  {
+   "id": "clkn17:6000",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「おっ、⟦col:280aa02d1400⟧女帝⟦col:800000⟧さまのお通りだぞ」"
+  },
+  {
+   "id": "clkn17:6100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "남학생",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「もう、その呼び方やめてって言ってるでしょ」"
+  },
+  {
+   "id": "clkn17:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "彼女は残りの学園生活を、今までと同じ、来栖乃々として過ごすことにした。"
+  },
+  {
+   "id": "clkn17:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "あの後、ほんの少しだけ泉理の姿で登校したはしたのだが、やはり周りがどうにも慣れなかったらしい。"
+  },
+  {
+   "id": "clkn17:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "本人としては本意ではなかったようだが、結局そのまま来栖乃々の姿で過ごすことを、彼女は決めた。"
+  },
+  {
+   "id": "clkn17:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "それから後どうするかは、僕たちにもまだわからない。"
+  },
+  {
+   "id": "clkn17:6600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あー、やってらんねー。やってらんねー」"
+  },
+  {
+   "id": "clkn17:6700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「う？ やってらんないって、なにが？」"
+  },
+  {
+   "id": "clkn17:6800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「だってさー、こないだまで⟦col:280aa02d1400⟧ハロウィン⟦col:800000⟧で騒いでたと思ったら、もう⟦col:280aa02e1400⟧クリスマス⟦col:800000⟧ですってよー。やってらんないよねー」"
+  },
+  {
+   "id": "clkn17:6900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「まったくだ。ついに、俺の一番嫌いな季節がやってきやがった！」"
+  },
+  {
+   "id": "clkn17:7000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ひなちゃんと真ちゃんって、何気によく似てるよねー」"
+  },
+  {
+   "id": "clkn17:7100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「おい、せり！ 私を⟦rb⟧伊藤先輩⟦rt⟧コレ⟦/r⟧と一緒の扱いとは、それはいくらなんでも酷すぎるっしょ！」"
+  },
+  {
+   "id": "clkn17:7200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「待て待て待て！ 誰がコレだ、誰が！ モノ扱いすんな！」"
+  },
+  {
+   "id": "clkn17:7300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うわー、モノが喋ったー。誰かー、誰かー」"
+  },
+  {
+   "id": "clkn17:7400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「やっぱ似てるよねー」"
+  },
+  {
+   "id": "clkn17:7500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clkn17:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "相変わらず賑やかな連中だ。"
+  },
+  {
+   "id": "clkn17:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "とはいえ、学園中がなんだか浮ついた空気になっているのも確かだ。"
+  },
+  {
+   "id": "clkn17:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "恋愛禁止なんて既に遠い過去のもの。"
+  },
+  {
+   "id": "clkn17:7900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "騒ぎが終わった途端、まるですべてが無かったも同然となり、今では新たに出来たカップルも結構な数らしい。"
+  },
+  {
+   "id": "clkn17:8000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「はぁあ……いいよなー、決まった相手がいる奴は」"
+  },
+  {
+   "id": "clkn17:8100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「余裕っすもんねー」"
+  },
+  {
+   "id": "clkn17:8200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「んー……」"
+  },
+  {
+   "id": "clkn17:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "伊藤たちの視線にさらされて、思わず目を逸らしてしまう。"
+  },
+  {
+   "id": "clkn17:8400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「で？ で？ クリスマスイヴはどうするんだい、おふたりさんよー？」"
+  },
+  {
+   "id": "clkn17:8500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「どうって……別に……家族みんなで家で……」"
+  },
+  {
+   "id": "clkn17:8600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「は！？ クリスマスだぞ？ 一年でいっちゃんロマンチックな日だぞ？ 家族みんなで？ なんだよそりゃ？」"
+  },
+  {
+   "id": "clkn17:8700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、あのね、拓留。それなんだけど、その……結衣と結人は友達のところでパーティーだって……」"
+  },
+  {
+   "id": "clkn17:8800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「！？」"
+  },
+  {
+   "id": "clkn17:8900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そうなのか？」"
+  },
+  {
+   "id": "clkn17:9000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うん。父さんも学会だって……」"
+  },
+  {
+   "id": "clkn17:9100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「それじゃあ、家には僕たちとうきだけ……」"
+  },
+  {
+   "id": "clkn17:9200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あー、うきっちは私たちとお泊り会っす。ねー、せり？」"
+  },
+  {
+   "id": "clkn17:9300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「う？ そうなの？ 私聞いてな――むぐぐっ」"
+  },
+  {
+   "id": "clkn17:9400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あー、もー、こういう時こそ、その能力を使えっての！」"
+  },
+  {
+   "id": "clkn17:9500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「んむー、むうー！」"
+  },
+  {
+   "id": "clkn17:9600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「つーわけで、今からうきっちんとこ行ってきまーす！ 行くよ、せり、華！」"
+  },
+  {
+   "id": "clkn17:9700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clkn17:9800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「ほら、そこのデカブツも！」"
+  },
+  {
+   "id": "clkn17:9900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、モノ扱いすんじゃねー！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "騒ぐだけ騒いでみんな行ってしまった。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「なんなんだ、あれ……」"
+  }
+ ]
+}

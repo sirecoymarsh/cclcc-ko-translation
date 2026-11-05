@@ -1,0 +1,637 @@
+{
+ "packet_id": "CC0314-clzz05-P02",
+ "kit_version": "1.0",
+ "source_file": "clzz05.msb",
+ "speakers_in_packet": [
+  "신조 타케시",
+  "와쿠이 슈이치",
+  "쿠노사토 미오"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "⟦top:76⟧――が。"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「……？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "彼女は、持ってきた楽器ケースをしまうどころか、逆にケースの中からゆっくりとレプリカのディソードを引き抜いて、右手に持った。"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「……久野里、さん？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "彼女の意図をはかりかねた神成は、思わず数歩あとずさる。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "トレーラーハウスから降りてきた澪を、激しい雨風が包み込んでいく。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clzz05:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "長い黒髪は濡れそぼり、額から目元、鼻筋、頬、顎、首筋、そして白衣まで、まるで暗い色の滝が流れ落ちているかのように見えた。"
+  },
+  {
+   "id": "clzz05:7300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「お、おい……どうしたんだ？ 何か怒ってるのか？」"
+  },
+  {
+   "id": "clzz05:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そう問いかける神成を、いつしか澪は、ひどく冷酷な目で見つめていた。"
+  },
+  {
+   "id": "clzz05:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "それは、“怒り”というよりも、“軽蔑”に近い視線だった。"
+  },
+  {
+   "id": "clzz05:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "一方の神成は、まだ怪訝そうな表情のままだったが……何かおかしいと感じて、全身に少しずつ緊張感をまとわせ始める。"
+  },
+  {
+   "id": "clzz05:7700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「彼が私に家庭教師を頼んだ理由――なんだと思う？」"
+  },
+  {
+   "id": "clzz05:7800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「何？」"
+  },
+  {
+   "id": "clzz05:7900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「橘結人だよ。なぜ急に、猛勉強なんかを始めたのか」"
+  },
+  {
+   "id": "clzz05:8000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「さぁ？」"
+  },
+  {
+   "id": "clzz05:8100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「将来、弁護士になって、⟦rb⟧ある人⟦rt⟧⟦rbc⟧●●●⟦/r⟧を法廷で護りたいんだそうだ」"
+  },
+  {
+   "id": "clzz05:8200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………」"
+  },
+  {
+   "id": "clzz05:8300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「その⟦rb⟧ある人⟦rt⟧⟦rbc⟧●●●⟦/r⟧は、今、拘置所の塀の中にいるんでな」"
+  },
+  {
+   "id": "clzz05:8400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪が、ガチャリと音を立てて、レプリカのディソードを構えた。刃こそついていないが、街灯の光を受けて、そのシャープな刀身がギラリと光った。"
+  },
+  {
+   "id": "clzz05:8500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「なのに、⟦rb⟧その人⟦rt⟧⟦rbc⟧●●●⟦/r⟧が私を見舞いに来ただって？ しかも、ＰＣを私の部屋に置きに来た？ 脱獄でもしたというのか？」"
+  },
+  {
+   "id": "clzz05:8600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さん？ 君はいったい何を言って……？」"
+  },
+  {
+   "id": "clzz05:8700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「さっきＰＣを調べたが……今週はまだ、ネット配信用のプログラムが起動した形跡がないんだよ」"
+  },
+  {
+   "id": "clzz05:8800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「なのに……なぜか私には、“ケイさん”として配信をした⟦rb⟧記憶⟦rt⟧⟦rbc⟧●●⟦/r⟧だけが残っている」"
+  },
+  {
+   "id": "clzz05:8900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「貧血で倒れたせいで、記憶が混乱してるだけじゃないのか？」"
+  },
+  {
+   "id": "clzz05:9000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「いいや。お前もさっき口にしたじゃないか。『ゆうべ、ケイさんが配信を行った』と」"
+  },
+  {
+   "id": "clzz05:9100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………」"
+  },
+  {
+   "id": "clzz05:9200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「詳しく調べれば、こういった⟦rb⟧齟齬⟦rt⟧そご⟦/r⟧はもっと見つかるだろう。つまり私は、少なくとも⟦rb⟧昨日⟦rt⟧きのう⟦/r⟧……“現実世界”とは違う場所にいた。そう疑っている」"
+  },
+  {
+   "id": "clzz05:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は、自分のみみたぶを指で弾いてみせた。"
+  },
+  {
+   "id": "clzz05:9400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「実はな、例の事件が終わった後、私はピアスホールを開けたんだ。ピアスをする趣味はないんだが。その代わり――」"
+  },
+  {
+   "id": "clzz05:9500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「？？？」"
+  },
+  {
+   "id": "clzz05:9600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「ピアスホールの中に、非常用のマイクロマシンを埋め込んである」"
+  },
+  {
+   "id": "clzz05:9700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「これはな、睡眠時以外の一定時間、私の意識レベルが低下すると、覚醒用の電気パルスおよび、宮代の脳から作り出した“例の画像”を側頭葉へ向かって発振する仕組みになっている」"
+  },
+  {
+   "id": "clzz05:9800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「例の画像……“１２番目のロールシャッハ”か」"
+  },
+  {
+   "id": "clzz05:9900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そう。さぞかし驚いたろうな、お前は？ 宮代をはじめ、新聞部の連中たちと一緒に『⟦col:280aa02d1400⟧妄想シンクロ⟦col:800000⟧の檻』へ閉じ込めたはずの私が……自力で⟦rb⟧現実⟦rt⟧⟦rbc⟧●●⟦/r⟧へ帰還して来たのだから」"
+  },
+  {
+   "id": "clzz05:10000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clzz05:10100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そうだろう？ ⟦rb⟧和久井⟦rt⟧わくい⟦/r⟧⟦rb⟧修一⟦rt⟧しゅういち⟦/r⟧」"
+  },
+  {
+   "id": "clzz05:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "澪が、レプリカのディソードの切っ先を、神成に向かって真っ直ぐに突きつけた。"
+  },
+  {
+   "id": "clzz05:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "冷たい雨が⟦rb⟧剣⟦rt⟧つるぎ⟦/r⟧を叩いて飛び散り、まるで水の装飾ででもあるかのように、しぶきを上げる。"
+  },
+  {
+   "id": "clzz05:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "神成は一瞬だけ驚いた素振りを見せたが、すぐに⟦rb⟧鷹揚⟦rt⟧おうよう⟦/r⟧な態度になって、ゆっくりと口を開く。"
+  },
+  {
+   "id": "clzz05:10500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「なるほど、さすが久野里君だ。耳にそんな物を仕込んでいたとはな。本当に、君と宮代くんにはいつも不意をつかれる」"
+  },
+  {
+   "id": "clzz05:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "ゆらり……ゆらり……と、神成の姿がもやのように揺れ動いた。"
+  },
+  {
+   "id": "clzz05:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "――と、いつの間にかそこには、神成ではなく、不敵な顔で澪を見つめている和久井修一の姿があった。"
+  },
+  {
+   "id": "clzz05:10800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「まぁ、いいさ。『因果の改変』なら何度でも行える。そうすれば、君はこの前と同じように――」"
+  },
+  {
+   "id": "clzz05:10900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「そうやって私を動揺させ、また大脳新皮質や海馬にストレスをかける気か？ 私の脳を再び“妄想シンクロ”に落としやすい状態にするつもりなら、無駄なことだ」"
+  },
+  {
+   "id": "clzz05:11000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ほう……？」"
+  },
+  {
+   "id": "clzz05:11100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「そもそも。『因果の改変』などという馬鹿げた能力など、この世界には⟦rb⟧存在しない⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧」"
+  },
+  {
+   "id": "clzz05:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "澪は和久井をねめつけ、レプリカのディソードを、その首元に向かってさらに突きつけた。"
+  },
+  {
+   "id": "clzz05:11300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「なぜ、そう断言できる？」"
+  },
+  {
+   "id": "clzz05:11400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「この私が、⟦rb⟧二つの⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧世界の⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧出来事⟦rt⟧⟦rbc⟧●●●⟦/r⟧を、両方とも覚えているからだよ」"
+  },
+  {
+   "id": "clzz05:11500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「コペンハーゲン解釈にしろ多世界解釈にしろ……『因果』、すなわち『原因』と『結果』の流れを、私たちは“ひとつ”しか認識することが出来ない」"
+  },
+  {
+   "id": "clzz05:11600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「それが自然の摂理であり、因果のルール……『⟦col:280aa02d1400⟧因果律⟦col:800000⟧』というものだ」"
+  },
+  {
+   "id": "clzz05:11700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「なのに私は、宮代拓留が拘置所に居る時間軸と、⟦rb⟧塀⟦rt⟧へい⟦/r⟧の外で自由に生活している時間軸の二つを、同時に記憶している。これは明らかな矛盾なんだよ」"
+  },
+  {
+   "id": "clzz05:11800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「つまり、お前の言っていることは全てでたらめだ。『因果を改変出来る能力者』も『因果を改変した世界』も、ただのフェイク」"
+  },
+  {
+   "id": "clzz05:11900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………」"
+  },
+  {
+   "id": "clzz05:12000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「おそらく、この世界が『現実』で、もうひとつはお前が妄想シンクロで作り出しただけの幻覚――『妄想の箱庭』に過ぎない。宮代や新聞部の連中は今、その中に閉じ込められている。そうだな？」"
+  },
+  {
+   "id": "clzz05:12100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ふ、ふふ……やはり君の頭脳は⟦rb⟧明晰⟦rt⟧めいせき⟦/r⟧だ。大したものだね」"
+  },
+  {
+   "id": "clzz05:12200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「なぜこんなことをした？ 狙いはやはり宮代か？」"
+  },
+  {
+   "id": "clzz05:12300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そう。彼にね、いい夢をみせてあげているんだ。これから一生、冷たい檻の中にいるよりも、友人たちと楽しく過ごした方がいいだろう？というメッセージを込めてね」"
+  },
+  {
+   "id": "clzz05:12400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「……そうして彼が⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧化するよう、そそのかそうというわけか」"
+  },
+  {
+   "id": "clzz05:12500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そそのかすだなんて、人聞きの悪い。彼がその気になれば、どれだけの⟦rb⟧能力⟦rt⟧ちから⟦/r⟧が発揮できるのか……再三言ってるんだが、聞きわけがないものでね」"
+  },
+  {
+   "id": "clzz05:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "そこで和久井は、まるで生徒を叱る教師のような口ぶりになった。"
+  },
+  {
+   "id": "clzz05:12700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「彼の愚かな選択のせいで、本来あるべき“満ち足りた時”は終わりをむかえてしまった。彼の妹は死に、父親がわりだった人も死んだ」"
+  },
+  {
+   "id": "clzz05:12800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そして、彼自身の人生も滅茶苦茶になってしまった。なんと嘆かわしい。だから、せめて彼は、自分の人生くらい救ってもいいんじゃないか？」"
+  },
+  {
+   "id": "clzz05:12900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「――と、僕はいつもそうアドバイスしているんだが。愚かにも、彼は従おうとしないんだ」"
+  },
+  {
+   "id": "clzz05:13000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「だろうな。あいつはそういうやつだ」"
+  },
+  {
+   "id": "clzz05:13100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "澪がそう言い切ると、和久井は小馬鹿にしたように軽く鼻を鳴らした。"
+  },
+  {
+   "id": "clzz05:13200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「……ふふん。これはまた……」"
+  },
+  {
+   "id": "clzz05:13300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「なんだ？」"
+  },
+  {
+   "id": "clzz05:13400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「たとえば看護師などが、長く世話をしている患者に惚れてしまうということがあるそうだが……まさか君がねぇ」"
+  },
+  {
+   "id": "clzz05:13500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井はそう言って微笑んだが、逆に澪の方は目を細めて、さらに侮蔑の表情になった。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「まぁ、いい。そろそろ君との話も飽きた。いちいち邪魔されて、⟦rb⟧鬱陶⟦rt⟧うっとう⟦/r⟧しくなってきたしね。このあたりで君との関係は終わりにしよう」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "突如、和久井の右腕に、凶悪な⟦rb⟧咢⟦rt⟧あぎと⟦/r⟧を持つ獣のようなものが出現した。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "実際には、それは獣などではなく、まるで牙のような鋭い刃を四本も備えた⟦rb⟧禍々⟦rt⟧まがまが⟦/r⟧しいディソードだった。"
+  }
+ ]
+}

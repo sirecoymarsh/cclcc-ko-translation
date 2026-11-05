@@ -1,0 +1,961 @@
+{
+ "packet_id": "CC0180-clse07-P21",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "카와하라 마사시",
+  "카즈키 하나",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「あ……あぁ……ぁぁぁ……」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「宮代」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「その……来栖から連絡はあったか？」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「そうか。それにしても、来栖も冷たい奴だよな。誰にも何も言わずに、留学しちまうなんて」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「でも、さすがにお前は知ってたんだろ？」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「そうか……。ま、あいつにとって俺は長い付き合いってだけの存在だったってことか……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:194200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、でも言っておくが、落ち込んでるわけじゃないからな。別に、女はあいつだけじゃないし」"
+  },
+  {
+   "id": "clse07:194300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それに、久しぶりに会ってみると、あいつもなかなか……」"
+  },
+  {
+   "id": "clse07:194400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと、な……」"
+  },
+  {
+   "id": "clse07:194500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうだ？ もう学校には慣れたか？」"
+  },
+  {
+   "id": "clse07:194600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう、か……困ったことがあったら、いつでも言ってくれ」"
+  },
+  {
+   "id": "clse07:194700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:194800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あー、待ってくれ！！」"
+  },
+  {
+   "id": "clse07:194900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その……来栖が外国へ行ってしまったのは、残念だが、いつまでも残念がっていても仕方ない」"
+  },
+  {
+   "id": "clse07:195000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「人生は、前向きに生きるべきだ。そうは思わないか？」"
+  },
+  {
+   "id": "clse07:195100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「南沢も久しぶりに帰って来て、寂しいだろう」"
+  },
+  {
+   "id": "clse07:195200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「寂しいよな？ いいや、寂しいに決まってる！！ 絶対にそうだ！」"
+  },
+  {
+   "id": "clse07:195300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「要するにだ。寂しい南沢のために、俺が付き合ってやろうって言ってるんだ」"
+  },
+  {
+   "id": "clse07:195400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「わからない奴だな。俺がお前の彼氏になってやるって言ってるんだ」"
+  },
+  {
+   "id": "clse07:195500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「なんでって……だって、お前、昔から俺のこと好きだったんだろ？ そうだろ？ だって、いつも俺のいるところについて来てたもんな？」"
+  },
+  {
+   "id": "clse07:195600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「だから、寂しいお前のために、俺が付き合ってや――」"
+  },
+  {
+   "id": "clse07:195700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「……え？」"
+  },
+  {
+   "id": "clse07:195800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「な！？」"
+  },
+  {
+   "id": "clse07:195900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「な……あ……ぁ……あぁ……」"
+  },
+  {
+   "id": "clse07:196000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「ぁ……あぁ……ぁ…………」"
+  },
+  {
+   "id": "clse07:196100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": null,
+   "jp": "「んーー！」"
+  },
+  {
+   "id": "clse07:196200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": null,
+   "jp": "「んー。全滅とかありえない、かも！」"
+  },
+  {
+   "id": "clse07:196300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": null,
+   "jp": "「んんー！ 黙ってて欲しい、かも！」"
+  },
+  {
+   "id": "clse07:196400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": null,
+   "jp": "「ぐあーーーーーー！」"
+  },
+  {
+   "id": "clse07:196500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": null,
+   "jp": "「んぐっ！ んぐうっ！ んぐふうっ！」"
+  },
+  {
+   "id": "clse07:196600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": null,
+   "jp": "「んむふ〜〜、はぁはぁはぁ……」"
+  },
+  {
+   "id": "clse07:196700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "？？？",
+   "jp": "「んーん！」"
+  },
+  {
+   "id": "clse07:196800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "？？？",
+   "jp": "「今はダメ、かも！」"
+  },
+  {
+   "id": "clse07:196900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「んーっ！？」"
+  },
+  {
+   "id": "clse07:197000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:197100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ん、ん〜……」"
+  },
+  {
+   "id": "clse07:197200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ん」"
+  },
+  {
+   "id": "clse07:197300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:197400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ん、ん……んんっ……」"
+  },
+  {
+   "id": "clse07:197500",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ん、んんっ……やめて欲しい、かも……」"
+  },
+  {
+   "id": "clse07:197600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「だ、ダメ。そんなの、恥ずかし……あ、ん、ん……」"
+  },
+  {
+   "id": "clse07:197700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ん、あ、んん……」"
+  },
+  {
+   "id": "clse07:197800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「あ、あん……そ、そんなの違う、かも……」"
+  },
+  {
+   "id": "clse07:197900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「だから、違……」"
+  },
+  {
+   "id": "clse07:198000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「うう、そんなこと……私……してな……」"
+  },
+  {
+   "id": "clse07:198100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「う、くっ、ううう……」"
+  },
+  {
+   "id": "clse07:198200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「……あ、あの……もうやめたい、かも」"
+  },
+  {
+   "id": "clse07:198300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「な、なんか、身の危険を感じてきた。ひなさん……本気っぽい、かもだから」"
+  },
+  {
+   "id": "clse07:198400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう怒りつつ、私の胸を凝視するのはやめて欲しい、かも」"
+  },
+  {
+   "id": "clse07:198500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clse07:198600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……拓留先輩」"
+  },
+  {
+   "id": "clse07:198700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んーっ？」"
+  },
+  {
+   "id": "clse07:198800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ！ マズイ、かも！」"
+  },
+  {
+   "id": "clse07:198900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「イベント。大事な。もう時間」"
+  },
+  {
+   "id": "clse07:199000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ん。してた。約束」"
+  },
+  {
+   "id": "clse07:199100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ んー？ んー」"
+  },
+  {
+   "id": "clse07:199200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留先輩にバトンタッチすればいい、かも」"
+  },
+  {
+   "id": "clse07:199300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:199400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う……」"
+  },
+  {
+   "id": "clse07:199500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん〜。幻滅、かも」"
+  },
+  {
+   "id": "clse07:199600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……んーーー」"
+  },
+  {
+   "id": "clse07:199700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん」"
+  },
+  {
+   "id": "clse07:199800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひなさんなら……今日は来てない、かも……」"
+  },
+  {
+   "id": "clse07:199900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その可能性もある……かも……？」"
+  },
+  {
+   "id": "clse07:200000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ドッキリ……かも」"
+  },
+  {
+   "id": "clse07:200100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、台本書いたのはひなさん……かも……」"
+  },
+  {
+   "id": "clse07:200200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:200300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「昨日も来なかった……かも……」"
+  },
+  {
+   "id": "clse07:200400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え……？」"
+  },
+  {
+   "id": "clse07:200500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「２年の……石田萌って人が見たって言ってる……かも」"
+  },
+  {
+   "id": "clse07:200600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「無理……かも……」"
+  },
+  {
+   "id": "clse07:200700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……かも」"
+  },
+  {
+   "id": "clse07:200800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:200900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「誰って、いとうせ……」"
+  },
+  {
+   "id": "clse07:201000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それは言わない約束……かも」"
+  },
+  {
+   "id": "clse07:201100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「昼間は大丈夫……かも……」"
+  },
+  {
+   "id": "clse07:201200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やれやれ……かも……」"
+  },
+  {
+   "id": "clse07:201300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぷっ」"
+  },
+  {
+   "id": "clse07:201400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んー！」"
+  },
+  {
+   "id": "clse07:201500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わかった……かも」"
+  },
+  {
+   "id": "clse07:201600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひなさんの居場所……わかった、かも……」"
+  },
+  {
+   "id": "clse07:201700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:201800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひなさんの……スマホの位置……かも……」"
+  },
+  {
+   "id": "clse07:201900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「知り合いのエンスー仲間に……相談してみた……かも」"
+  },
+  {
+   "id": "clse07:202000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んっ……」"
+  },
+  {
+   "id": "clse07:202100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:202200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「この動画……海外のサイトで話題になってる……かも……」"
+  },
+  {
+   "id": "clse07:202300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clse07:202400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん！？」"
+  },
+  {
+   "id": "clse07:202500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んー？」"
+  },
+  {
+   "id": "clse07:202600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んん？」"
+  },
+  {
+   "id": "clse07:202700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ ん？」"
+  },
+  {
+   "id": "clse07:202800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん！？」"
+  },
+  {
+   "id": "clse07:202900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んー」"
+  },
+  {
+   "id": "clse07:203000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん！？」"
+  },
+  {
+   "id": "clse07:203100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んーん」"
+  },
+  {
+   "id": "clse07:203200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん」"
+  },
+  {
+   "id": "clse07:203300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん」"
+  },
+  {
+   "id": "clse07:203400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん」"
+  },
+  {
+   "id": "clse07:203500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んー」"
+  },
+  {
+   "id": "clse07:203600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん」"
+  },
+  {
+   "id": "clse07:203700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん」"
+  },
+  {
+   "id": "clse07:203800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clse07:203900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん」"
+  },
+  {
+   "id": "clse07:204000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clse07:204100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……た」"
+  }
+ ]
+}

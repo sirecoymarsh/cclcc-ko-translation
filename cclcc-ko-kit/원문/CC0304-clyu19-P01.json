@@ -1,0 +1,382 @@
+{
+ "packet_id": "CC0304-clyu19-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu19.msb",
+ "speakers_in_packet": [
+  "오타니 유마",
+  "유이"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu19:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "大谷悠馬は気に入らなかった。"
+  },
+  {
+   "id": "clyu19:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦top:76⟧どうして人気⟦col:280aa02d1400⟧生主⟦col:800000⟧であった自分が、視聴者からあんな風に笑いものにならなければいけないのか。"
+  },
+  {
+   "id": "clyu19:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ほんの少し、ミスっただけ。"
+  },
+  {
+   "id": "clyu19:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "実況中にかじったチーズがいたんでいたおかげで、画面の前で嘔吐してしまっただけだ。"
+  },
+  {
+   "id": "clyu19:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦top:38⟧たったそれだけのことで、人気生主だったはずの大谷は、一気に笑いものになってしまった。"
+  },
+  {
+   "id": "clyu19:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "それまで『未来が見える』とチヤホヤしていた連中も、『ほんとに未来が見えるなら自分がリバースすることだってわかっただろ』と散々馬鹿にする始末。"
+  },
+  {
+   "id": "clyu19:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "長い時間をかけ、コツコツと増やしてきた視聴者も、あっという間に離れていってしまった。"
+  },
+  {
+   "id": "clyu19:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦top:38⟧その日から、大谷悠馬の頭の中は鬱憤でいっぱいだった。"
+  },
+  {
+   "id": "clyu19:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오타니 유마",
+   "jp": "ある日、大谷はとある配信を目にした。"
+  },
+  {
+   "id": "clyu19:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오타니 유마",
+   "jp": "『⟦col:280aa02d1400⟧ミルフィーユ⟦col:800000⟧』なる、いかにも素人くさいアイドルの動画だった。"
+  },
+  {
+   "id": "clyu19:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오타니 유마",
+   "jp": "たいして可愛くもないのに、ちょっと際どいことをしただけで皆がチヤホヤする。"
+  },
+  {
+   "id": "clyu19:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오타니 유마",
+   "jp": "それほど面白いこともしていないのに、女の子だというだけで、彼女たちはあっという間にランキングの上位に上り詰めた。"
+  },
+  {
+   "id": "clyu19:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오타니 유마",
+   "jp": "気に入らなかった。"
+  },
+  {
+   "id": "clyu19:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오타니 유마",
+   "jp": "⟦top:38⟧持ち上げられていい気になっている彼女たちも、持ちあげる側の視聴者たちも。"
+  },
+  {
+   "id": "clyu19:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오타니 유마",
+   "jp": "⟦top:38⟧大谷悠馬は、何もかもが気に入らなかった。"
+  },
+  {
+   "id": "clyu19:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오타니 유마",
+   "jp": "そんな中、大谷は彼女たちが碧朋学園の中等部にいる可能性が高いことを知った。"
+  },
+  {
+   "id": "clyu19:1600",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなに皆に見られたいなら、協力してやるよ……」"
+  },
+  {
+   "id": "clyu19:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "もう一度、注目されたい。"
+  },
+  {
+   "id": "clyu19:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "そのためには、手段などどうでもよかった。"
+  },
+  {
+   "id": "clyu19:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "大谷は『ミルフィーユ』のふたりの身元について調べ……そして重大な秘密を手に入れた。"
+  },
+  {
+   "id": "clyu19:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "⟦top:76⟧『ミルフィーユ』のユウが、実は男の子だという事実だ。"
+  },
+  {
+   "id": "clyu19:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "あとは簡単だった。"
+  },
+  {
+   "id": "clyu19:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "“その秘密をバラす”――そんな魔法の呪文を唱えるだけで、“ユイ”は大人しく大谷に従った。"
+  },
+  {
+   "id": "clyu19:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "⟦top:38⟧そして――。"
+  },
+  {
+   "id": "clyu19:2400",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "유이",
+   "jp": "「これだよ、これ！」"
+  },
+  {
+   "id": "clyu19:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "久々の視聴数の多さに、大谷の気分は高揚していた。"
+  },
+  {
+   "id": "clyu19:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "山のように送られてくるコメントに、大谷の行動は煽られるように、どんどんとエスカレートしていった。"
+  },
+  {
+   "id": "clyu19:2700",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "유이",
+   "jp": "「それじゃ、そろそろいこうか……」"
+  },
+  {
+   "id": "clyu19:2800",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clyu19:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "오타니 유마",
+   "jp": "ナイフを手に近づくと、ユイは怯えた目で大谷を見た。"
+  },
+  {
+   "id": "clyu19:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "오타니 유마",
+   "jp": "⟦top:38⟧その様が、更に彼を興奮させた。"
+  },
+  {
+   "id": "clyu19:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이",
+   "next_speaker": "오타니 유마",
+   "jp": "⟦top:38⟧今や高揚しきった大谷に、怖いものはなかった。"
+  },
+  {
+   "id": "clyu19:3200",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「大丈夫……別に殺しはしないから。ただ……」"
+  },
+  {
+   "id": "clyu19:3300",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ほら、せっかく見てくれてるんだからアイドルとして、サービスしないと。際どいサービスはお得意だろ？」"
+  },
+  {
+   "id": "clyu19:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "유이",
+   "jp": "破れた布地の下から、まだ成熟しきっていない幼さの残る身体が露出した。"
+  },
+  {
+   "id": "clyu19:3500",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clyu19:3600",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「おかしいな？ 誰かが助けに来てくれるんじゃなかったのか？」"
+  },
+  {
+   "id": "clyu19:3700",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": "오타니 유마",
+   "jp": "「きて……くれるもん……ぜったい……」"
+  },
+  {
+   "id": "clyu19:3800",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": "유이",
+   "next_speaker": null,
+   "jp": "「そう。それじゃあ、その前にいろいろやらないと」"
+  },
+  {
+   "id": "clyu19:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "大谷の手が、結衣の服に伸びた。"
+  },
+  {
+   "id": "clyu19:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "⟦top:114⟧そして――。"
+  }
+ ],
+ "context_after": []
+}

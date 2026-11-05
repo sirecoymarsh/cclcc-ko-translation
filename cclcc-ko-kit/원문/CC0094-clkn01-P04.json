@@ -1,0 +1,964 @@
+{
+ "packet_id": "CC0094-clkn01-P04",
+ "kit_version": "1.0",
+ "source_file": "clkn01.msb",
+ "speakers_in_packet": [
+  "미나미사와 센리",
+  "미야시로 타쿠루",
+  "사쿠마 와타루",
+  "야마조에 우키",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「えっへん！！」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「僕とうき姉ちゃんも手伝ったよ。ね、うき姉ちゃん！」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「はい。お手伝いさせていただきました」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「へぇ、これを結衣がねぇ……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "今度は大きめのジャガイモと一緒に口に運ぶ。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「うん、ほんとに美味いよ。泉理が作るのとそんなに変わらない」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn01:29600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「だって、泉理姉！」"
+  },
+  {
+   "id": "clkn01:29700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「あらあら。じゃあ今度から、夕飯はずっと結衣に任せようかしら」"
+  },
+  {
+   "id": "clkn01:29800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유토",
+   "jp": "「え……それはちょっと……」"
+  },
+  {
+   "id": "clkn01:29900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「そうだよー。結衣姉に任せたら、毎日カレーかシチューになっちゃうよー」"
+  },
+  {
+   "id": "clkn01:30000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「こら、ユウ！！」"
+  },
+  {
+   "id": "clkn01:30100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "야마조에 우키",
+   "jp": "「わぁ、うき姉ちゃん、たすけてー」"
+  },
+  {
+   "id": "clkn01:30200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「ええっ？」"
+  },
+  {
+   "id": "clkn01:30300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "確かに結人の言うとおり、泉理の域に達するには、結衣はまだまだだろう。"
+  },
+  {
+   "id": "clkn01:30400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "たとえば、この付け合わせのらっきょう。"
+  },
+  {
+   "id": "clkn01:30500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "これも泉理が家で漬けた自家製のもののはずだ。"
+  },
+  {
+   "id": "clkn01:30600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "ちゃんと家の家計を考えて、安くて美味いものを作るのは、そうそう簡単に出来ることじゃない。"
+  },
+  {
+   "id": "clkn01:30700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「つーかよ、肉が入ってねぇじゃねぇか、肉がよぉ」"
+  },
+  {
+   "id": "clkn01:30800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「えー、入ってるよ。ほら、そこに」"
+  },
+  {
+   "id": "clkn01:30900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「これっぽっちじゃねぇか。しかもチキンときた。カレーといやぁ、牛だろ牛」"
+  },
+  {
+   "id": "clkn01:31000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「本場のカレーには牛肉は入ってません」"
+  },
+  {
+   "id": "clkn01:31100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ったく、そういうところばっか、泉理に似て来ちまって」"
+  },
+  {
+   "id": "clkn01:31200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「あら。それに何か問題でも？」"
+  },
+  {
+   "id": "clkn01:31300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「え？ あ、いやぁ……そういうわけじゃ……」"
+  },
+  {
+   "id": "clkn01:31400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「って、おい。拓留のカレー、肉がいっぱい入ってるじゃねえか！ 贔屓だ贔屓！ 家族は皆平等に、それが⟦rb⟧青葉寮⟦rt⟧うち⟦/r⟧の決まりだろ」"
+  },
+  {
+   "id": "clkn01:31500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「そんなの聞いたことないわよ」"
+  },
+  {
+   "id": "clkn01:31600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「今決めたんだよ。ほら、拓留！ 肉よこせ、肉！」"
+  },
+  {
+   "id": "clkn01:31700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「チキンはいらないんじゃなかったの？」"
+  },
+  {
+   "id": "clkn01:31800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「チキンでも無いよりゃマシだ！ よこせ！」"
+  },
+  {
+   "id": "clkn01:31900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「あ！！ それ、一番大きいやつ！」"
+  },
+  {
+   "id": "clkn01:32000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あぐっ……へーんだ、もう食っちまったぜ」"
+  },
+  {
+   "id": "clkn01:32100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「くっそ〜……！」"
+  },
+  {
+   "id": "clkn01:32200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "「もう、父さんったら子どもじゃないんだから。拓留も、私のお肉あげるから、相手しない」"
+  },
+  {
+   "id": "clkn01:32300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유토",
+   "jp": "……こういうのも家族団欒って言うんだろうな、きっと。"
+  },
+  {
+   "id": "clkn01:32400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유토",
+   "jp": "でもそれも悪くない――そう思えるようになったのも、しばらく一人暮らしを経験したせいかもしれない。"
+  },
+  {
+   "id": "clkn01:32500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ごちそうさま！ ね、テレビつけていい？」"
+  },
+  {
+   "id": "clkn01:32600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ダメよ。テレビは皆が食べ終わってからっていう決まりでしょ」"
+  },
+  {
+   "id": "clkn01:32700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「でもほら、今日はアレがあるんだよ。結衣姉も見たいって言ってた……」"
+  },
+  {
+   "id": "clkn01:32800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「あ！ あのマジックの！？ 嘘っ、今日だっけ？」"
+  },
+  {
+   "id": "clkn01:32900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "야마조에 우키",
+   "jp": "「なんだ、結衣。お前、まだマジックだのなんだのが好きなのかよ？」"
+  },
+  {
+   "id": "clkn01:33000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「まだ？」"
+  },
+  {
+   "id": "clkn01:33100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「結衣のやつ、昔よく言ってたんだよ。魔法が使えたらなぁ、とかなんとか」"
+  },
+  {
+   "id": "clkn01:33200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "타치바나 유이",
+   "jp": "魔法……。"
+  },
+  {
+   "id": "clkn01:33300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「お父さんったら、またそうやってバカにするんだから」"
+  },
+  {
+   "id": "clkn01:33400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「バカにしてるわけじゃねえって。いつまで経っても子どものままだって思っただけだ」"
+  },
+  {
+   "id": "clkn01:33500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "타치바나 유이",
+   "jp": "そういえば子どものころは、手品が魔法みたいに見えたっけ。"
+  },
+  {
+   "id": "clkn01:33600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "타치바나 유이",
+   "jp": "誰だって、そういうのに憧れる時期というのはあるものだ。"
+  },
+  {
+   "id": "clkn01:33700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "타치바나 유이",
+   "jp": "そういう意味じゃ、ギガロマニアックスの能力だって魔法みたいなものだけど。"
+  },
+  {
+   "id": "clkn01:33800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「それをバカにしてるっていうの。だいたい、私もう子どもじゃないし！」"
+  },
+  {
+   "id": "clkn01:33900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「でも、もしも本当に魔法が使えたら素敵ですよね」"
+  },
+  {
+   "id": "clkn01:34000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「でしょ？ うきちゃんもそう思うよね」"
+  },
+  {
+   "id": "clkn01:34100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "それにしても、結衣にもこんな一面があったんだな。"
+  },
+  {
+   "id": "clkn01:34200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "父さんはいつまで経っても、だなんて言ってたけど、僕から見た結衣はむしろ背伸びをして大人ぶっているように見えていた。"
+  },
+  {
+   "id": "clkn01:34300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "もしかしたら僕は今まで、きちんと結衣のことを見ていなかったのかもしれない。"
+  },
+  {
+   "id": "clkn01:34400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「だいたい私のは、ただの夢じゃないんだから」"
+  },
+  {
+   "id": "clkn01:34500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「夢じゃねえ？ なんだよ、そりゃ。いったいどういう意味だ？」"
+  },
+  {
+   "id": "clkn01:34600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn01:34700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それまで口をとがらしていた結衣が、不意に真剣な表情を見せた。"
+  },
+  {
+   "id": "clkn01:34800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「結衣？」"
+  },
+  {
+   "id": "clkn01:34900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ゴメン。ホントはずっと黙ってようって思ってたんだけど、やっぱりダメだよね。だって私たち家族だもん」"
+  },
+  {
+   "id": "clkn01:35000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「家族は隠し事しない。そうだよね、泉理姉」"
+  },
+  {
+   "id": "clkn01:35100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「……どういうこと？ 結衣、あなた私たちに何か隠しているの？」"
+  },
+  {
+   "id": "clkn01:35200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "結衣は泉理の問いかけには答えず、その代わりに洋服の首元についた小さな飾りを外すと、指先で小さく叩いた。"
+  },
+  {
+   "id": "clkn01:35300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "「えいっ」"
+  },
+  {
+   "id": "clkn01:35400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "ぽむっ。"
+  },
+  {
+   "id": "clkn01:35500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "軽快な音とともに、飾りがステッキに変化した。"
+  },
+  {
+   "id": "clkn01:35600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "いや、一見ステッキに思えたが、それは――。"
+  },
+  {
+   "id": "clkn01:35700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "⟦col:280aa02d1400⟧ディソード⟦col:800000⟧！？"
+  },
+  {
+   "id": "clkn01:35800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "もしかして結衣、お前は――。"
+  },
+  {
+   "id": "clkn01:35900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「パラパラパラリン、パラリリル〜♪」"
+  },
+  {
+   "id": "clkn01:36000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "手にしたステッキで大きくハートを描く。"
+  },
+  {
+   "id": "clkn01:36100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "すると、空中にファンシーな箱がいくつも現れ、結衣を包み込む。"
+  },
+  {
+   "id": "clkn01:36200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "どこからともなく、色とりどりの星やリボンが無数に舞い踊り、やがて箱の中から飛び出したのは――。"
+  },
+  {
+   "id": "clkn01:36300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「魔法のアイドル、⟦col:280aa02d1400⟧マジカル・ユイ⟦col:800000⟧、参上だよ。フフッヒ♪」"
+  },
+  {
+   "id": "clkn01:36400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「マジカル……ユイ……」"
+  },
+  {
+   "id": "clkn01:36500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふふっ、驚いた、拓留兄」"
+  },
+  {
+   "id": "clkn01:36600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「お、驚くに決まってるだろ！ しかもなんだよ、魔法のアイドルって！」"
+  },
+  {
+   "id": "clkn01:36700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ 拓留……知らないの？ 今、テレビで大人気のアイドル、マジカル・ユイのこと」"
+  },
+  {
+   "id": "clkn01:36800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「は？」"
+  },
+  {
+   "id": "clkn01:36900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "マジカル・ユイ？"
+  },
+  {
+   "id": "clkn01:37000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "テレビで有名な？"
+  },
+  {
+   "id": "clkn01:37100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "なにそれ？"
+  },
+  {
+   "id": "clkn01:37200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留……」"
+  },
+  {
+   "id": "clkn01:37300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「も、もちろん知ってたさ！ 僕を誰だと思ってるんだ。そこらの情弱と一緒にしないでくれよ」"
+  },
+  {
+   "id": "clkn01:37400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「そう……よね。でも驚きだわ……」"
+  },
+  {
+   "id": "clkn01:37500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유토",
+   "jp": "「まさか……あのマジカル・ユイが結衣ちゃんだったなんて……」"
+  },
+  {
+   "id": "clkn01:37600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「僕もビックリだよ」"
+  },
+  {
+   "id": "clkn01:37700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「と、当然、僕は知ってたけどな！」"
+  },
+  {
+   "id": "clkn01:37800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「結衣。魔法で肉出してくれ、肉！」"
+  },
+  {
+   "id": "clkn01:37900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "타치바나 유토",
+   "jp": "「あのっ、サインください……」"
+  },
+  {
+   "id": "clkn01:38000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「僕も僕も！！」"
+  },
+  {
+   "id": "clkn01:38100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "ホントに……アイドルなのか？"
+  },
+  {
+   "id": "clkn01:38200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「今まで黙っててゴメンね。私がみんなのアイドル、マジカル・ユイだったってこと……」"
+  },
+  {
+   "id": "clkn01:38300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「結衣……」"
+  },
+  {
+   "id": "clkn01:38400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも……拓留兄が望むなら、貴方だけのアイドルになっても……いいよ？」"
+  },
+  {
+   "id": "clkn01:38500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ゆ……」"
+  },
+  {
+   "id": "clkn01:38600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「結衣ぃぃぃぃぃぃぃぃぃ！！」"
+  },
+  {
+   "id": "clkn01:38700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「な、なによ！？ いきなり？」"
+  },
+  {
+   "id": "clkn01:38800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clkn01:38900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いきなり大声で呼んだりするから、ビックリするじゃない」"
+  },
+  {
+   "id": "clkn01:39000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clkn01:39100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "しまった……また妄想に浸ってしまった。"
+  },
+  {
+   "id": "clkn01:39200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「で、なんなの？」"
+  },
+  {
+   "id": "clkn01:39300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "「い、いや……その……テレビは……後にしなさい……」"
+  },
+  {
+   "id": "clkn01:39400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「えぇぇぇぇ」"
+  },
+  {
+   "id": "clkn01:39500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "유이＆유토",
+   "jp": "「ダメよ、結人。せっかく拓留が帰ってきてるんだもの。今日は皆でお話しましょう。結衣も、ね？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "結衣＆結人",
+   "speaker_ko": "유이＆유토",
+   "jp": "「はぁい」⟦n⟧⟦par⟧「はぁい」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "それにしても、なんだよ、さっきの妄想は。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "マジカル・ユイ？"
+  }
+ ]
+}

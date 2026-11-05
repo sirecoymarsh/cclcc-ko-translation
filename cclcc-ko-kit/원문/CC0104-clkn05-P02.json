@@ -1,0 +1,291 @@
+{
+ "packet_id": "CC0104-clkn05-P02",
+ "kit_version": "1.0",
+ "source_file": "clkn05.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「というわけでだ、こんどの新聞は、生徒会が掲げた『校内恋愛禁止令』への異議を唱えるものにしたいと思うんだが」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ペンは剣よりもなんとやら。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "和久井先生の言葉どおり、僕たちには新聞という手段があった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ただ……伊藤はやけに張り切っているが、正直な話、僕にはどうでも良いことでもあった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "今さら恋愛を禁止されようがされまいが、これから先の学校生活、何か変わるわけでもない。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "わざわざそんなことにかまけるくらいなら、もっと実のあることに時間を使ったほうが有効というものだ。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn05:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "そういう意味では、どちらかといえば僕は川原くん寄りな考え方なのかもしれない。"
+  },
+  {
+   "id": "clkn05:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "だからと言って、別にわざわざ恋愛禁止令なんて出す必要もないとも思う。"
+  },
+  {
+   "id": "clkn05:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "結局のところ、答えは“どうだっていい”だ。"
+  },
+  {
+   "id": "clkn05:9000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「皆の意見はどうだ？」"
+  },
+  {
+   "id": "clkn05:9100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「さんせーい」"
+  },
+  {
+   "id": "clkn05:9200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いい……かも」"
+  },
+  {
+   "id": "clkn05:9300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私は、タクがいいなら……」"
+  },
+  {
+   "id": "clkn05:9400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「あー、僕は……」"
+  },
+  {
+   "id": "clkn05:9500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「宮代は当然賛成だから、全員一致でいいな？」"
+  },
+  {
+   "id": "clkn05:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "積極的に賛成するつもりはないけど、ま、別にいいか。"
+  },
+  {
+   "id": "clkn05:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "記事はやる気のある伊藤に任せておけばいいわけだし。"
+  },
+  {
+   "id": "clkn05:9800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「よし、それじゃあ――」"
+  },
+  {
+   "id": "clkn05:9900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「待って、伊藤くん」"
+  },
+  {
+   "id": "clkn05:10000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「どうした、副部長？ まさか……ダメって言うんじゃないよな？」"
+  },
+  {
+   "id": "clkn05:10100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ごめんなさい。みんなの気持ちはわかるけど、新聞部を名乗るからには、私たちはあくまでも中立の立場でいなきゃいけないと思うの……」"
+  },
+  {
+   "id": "clkn05:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "乃々は疲れた顔で言った。"
+  },
+  {
+   "id": "clkn05:10300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「もちろん私だって、あんな校則には反対よ。それでも、新聞部である私たちが印象を操作するなんて、決してやってはいけないことよ。違う？」"
+  },
+  {
+   "id": "clkn05:10400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「でも、元はと言えば副会長がおかしなことをやってるわけですしー」"
+  },
+  {
+   "id": "clkn05:10500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「相手が悪い手を使ったからって、こちらが同じことをして良い理由にはならないわ」"
+  },
+  {
+   "id": "clkn05:10600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「それは……」"
+  },
+  {
+   "id": "clkn05:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "まったく。真面目な乃々らしい意見だ。"
+  },
+  {
+   "id": "clkn05:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "でもこういう場合、その真面目さは必ずしも良しと出るとは限らない。"
+  },
+  {
+   "id": "clkn05:10900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "「とにかく、反対意見の記事を書くなら、同じように賛成の意見も載せる。それが新聞部としての正しいあり方じゃないかしら」"
+  },
+  {
+   "id": "clkn05:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "結局、乃々の真っ当な意見により、僕たち新聞部は生徒会のやり方を糾弾するでもなく、どっちつかずの記事でごまかすことになった。"
+  },
+  {
+   "id": "clkn05:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "もちろん、そんな無茶苦茶な校則が可決されるはずないと高を括っていたこともある。"
+  },
+  {
+   "id": "clkn05:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "それはたぶん、乃々も同じだったんだと思う。"
+  },
+  {
+   "id": "clkn05:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "その結果――。"
+  }
+ ],
+ "context_after": []
+}

@@ -1,0 +1,859 @@
+{
+ "packet_id": "CC0317-clzz05-P05",
+ "kit_version": "1.0",
+ "source_file": "clzz05.msb",
+ "speakers_in_packet": [
+  "미나미사와 센리",
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "여자들",
+  "카즈키 하나",
+  "쿠노사토 미오",
+  "타치바나 유토",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ややあって、ようやく室内から声が聞こえた。"
+  },
+  {
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "jp": "「他のみんなは？ 大丈夫なんですか？」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「ああ。今日中には退院できるそうだ」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「あと、伊藤だが……脳の肥大もなくなり、脳波も正常に戻った。あとは心理療法で心のケアをしていけば大丈夫だろう」"
+  },
+  {
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "jp": "「そうですか、良かった」"
+  },
+  {
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "jp": "「完治するまで、伊藤のことよろしくお願いします」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clzz05:28800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「ああ。他ならぬお前の頼みだ。責任は持つよ」"
+  },
+  {
+   "id": "clzz05:28900",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あと、その……」"
+  },
+  {
+   "id": "clzz05:29000",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………」"
+  },
+  {
+   "id": "clzz05:29100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「分かってる。そっちは百瀬さんがちゃんとやってくれているよ。心配しなくていい」"
+  },
+  {
+   "id": "clzz05:29200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "伊藤たち以外にもうひとり、気になっている⟦rb⟧女の子⟦rt⟧ヒト⟦/r⟧の事を言いかけた彼を、久野里は制した。"
+  },
+  {
+   "id": "clzz05:29300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「碧朋学園は、⟦col:280aa02d1400⟧カオスチャイルド症候群⟦col:800000⟧だった学生専門の学校になるようだが……彼女はすでに横浜の高校に転校して、新しい人生を送っているそうだ」"
+  },
+  {
+   "id": "clzz05:29400",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………。ありがとうございます」"
+  },
+  {
+   "id": "clzz05:29500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "久野里の相好が少しだけゆるんだ。"
+  },
+  {
+   "id": "clzz05:29600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "こんな状況にあっても、なお、あくまでも親友たちを心配する“彼”に、『このお人好しが』とつぶやく。"
+  },
+  {
+   "id": "clzz05:29700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「――じゃあ、今日は帰る。またな」"
+  },
+  {
+   "id": "clzz05:29800",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「はい。それじゃあ、また」"
+  },
+  {
+   "id": "clzz05:29900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미나미사와 센리",
+   "jp": "久野里は踵を返したが、一瞬、名残惜しそうに部屋の方を見返した。"
+  },
+  {
+   "id": "clzz05:30000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미나미사와 센리",
+   "jp": "が、やがて冷たい廊下を静かに歩き出す。"
+  },
+  {
+   "id": "clzz05:30100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미나미사와 센리",
+   "jp": "そんな彼女のヒールの音だけが、静寂の中に、いつまでもいつまでも響き渡っていた……。"
+  },
+  {
+   "id": "clzz05:30200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미나미사와 센리",
+   "jp": "――それと、ほぼ同時刻。"
+  },
+  {
+   "id": "clzz05:30300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미나미사와 센리",
+   "jp": "総合病院のロビー。"
+  },
+  {
+   "id": "clzz05:30400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미나미사와 센리",
+   "jp": "夜の病院は、昼間の喧噪が嘘のように静まり返っている。"
+  },
+  {
+   "id": "clzz05:30500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미나미사와 센리",
+   "jp": "そんな中、有村雛絵と香月華が、なぜか二人分ほど離れてベンチに座っていた。"
+  },
+  {
+   "id": "clzz05:30600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미나미사와 센리",
+   "jp": "南沢泉理と山添うき、そして橘結人の最終的な検査が終わるのを待っているのだ。"
+  },
+  {
+   "id": "clzz05:30700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「お待たせ。全員、もう帰っていいそうよ」"
+  },
+  {
+   "id": "clzz05:30800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ややあって、エレベーターから見慣れた人影が三つ降りてきた。"
+  },
+  {
+   "id": "clzz05:30900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "아리무라 히나에",
+   "jp": "泉理とうきと結人だ。"
+  },
+  {
+   "id": "clzz05:31000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「じゃ、じゃあ、行きますか！」"
+  },
+  {
+   "id": "clzz05:31100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "なぜかわざとらしいくらい明るい声で言うと、雛絵がポンとベンチから立ち上がった。"
+  },
+  {
+   "id": "clzz05:31200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "ところが、華は何かを一生懸命考えているような顔をして、じっと動かない。"
+  },
+  {
+   "id": "clzz05:31300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……ん？ どうしたの香月？」"
+  },
+  {
+   "id": "clzz05:31400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "しかも、華の頬が赤く染まっていることに気づいた泉理は、熱でもあって気分が悪いのではないかと慌てた。"
+  },
+  {
+   "id": "clzz05:31500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「どこか具合悪いの！？ 先生に診てもらう！？」"
+  },
+  {
+   "id": "clzz05:31600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "카즈키 하나",
+   "jp": "が、額に手を当てようとすると、華はいきなり変な声をあげて跳びすさった。"
+  },
+  {
+   "id": "clzz05:31700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "여자들",
+   "jp": "「ひゃわはぁぁ〜」"
+  },
+  {
+   "id": "clzz05:31800",
+   "type": "dialogue",
+   "speaker": "女子一同",
+   "speaker_ko": "여자들",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「え？」⟦n⟧⟦par⟧「え？」⟦n⟧⟦par⟧「え？」"
+  },
+  {
+   "id": "clzz05:31900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "여자들",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ど、どうしたのっ？」"
+  },
+  {
+   "id": "clzz05:32000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "카즈키 하나",
+   "jp": "泉理たちは目を丸くして華を見た。"
+  },
+  {
+   "id": "clzz05:32100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ！？ え！？ わ、わわわ、私は絶対に違うから！ あんなこと考えてないし！ あんなこともしないし！ ええと、とにかく変な夢だっただけだから……！」"
+  },
+  {
+   "id": "clzz05:32200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "それが何のことを言っているのかは、結人以外の全員にとって、イヤというほど分かった。"
+  },
+  {
+   "id": "clzz05:32300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "だから、その⟦rb⟧恥ずかしい⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧⟦rb⟧夢⟦rt⟧⟦rbc⟧●⟦/r⟧のようなモノについては絶対に触れないようにしよう！と全員が心に固く誓っていたばかりだった、のに。"
+  },
+  {
+   "id": "clzz05:32400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "なのに――。"
+  },
+  {
+   "id": "clzz05:32500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "야마조에 우키",
+   "jp": "「バカ！ 華！ ⟦rb⟧ソレ⟦rt⟧⟦rbc⟧●●⟦/r⟧には触れちゃだめだって、言ったでしょ！」"
+  },
+  {
+   "id": "clzz05:32600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "つい今しがたまで平静だった雛絵の顔が、今は、まるでお風呂にでも入ったかのように真赤になり、額に汗までふき出している。"
+  },
+  {
+   "id": "clzz05:32700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "おまけに、息まで少しだけ荒い。"
+  },
+  {
+   "id": "clzz05:32800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "そして、何かとてつもない恥辱を思い出してしまったのか、頭を抱えて、天をあおいだ。"
+  },
+  {
+   "id": "clzz05:32900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "야마조에 우키",
+   "jp": "「うわぁぁ、ダメだー！ 絶対に思い出さないようにしてたのにぃぃ！ 神様、記憶を消してくださいー！」"
+  },
+  {
+   "id": "clzz05:33000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、有村さんはそんなに照れるようなものだったんですか？」"
+  },
+  {
+   "id": "clzz05:33100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "카즈키 하나",
+   "jp": "「はぁー！？ 照れてなんかいないですけどー！？ 私は大人だから！ ⟦rb⟧あんなの⟦rt⟧⟦rbc⟧●●●●⟦/r⟧たいしたことないしー！」"
+  },
+  {
+   "id": "clzz05:33200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、あんなの！？ って何をしたのっ？ 何をしてもらったのっ？」"
+  },
+  {
+   "id": "clzz05:33300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「だから、そういうエロい言い方はやめろーっ！」"
+  },
+  {
+   "id": "clzz05:33400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "雛絵と華が真赤になってアタフタし始めたのを見て、結人とうきは不思議そうに顔を見合わせた。"
+  },
+  {
+   "id": "clzz05:33500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「はい、みんなストップ！ そこまでー！」"
+  },
+  {
+   "id": "clzz05:33600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "泉理が、自分もかなり赤くなりながら手を軽くパンパンと叩いた。"
+  },
+  {
+   "id": "clzz05:33700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「久野里さんも言っていたでしょう？ 今回のことは悪い夢だったの。だから忘れてしまいなさいって。ね？ だから、この話はもう終わり」"
+  },
+  {
+   "id": "clzz05:33800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "아리무라 히나에",
+   "jp": "とかなんとか言いつつ、泉理先輩の顔が一番真っ赤ですよ――とは雛絵は言わず、"
+  },
+  {
+   "id": "clzz05:33900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「そうっすよね！ ということで、みんな分かった！？ いい！？」"
+  },
+  {
+   "id": "clzz05:34000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "雛絵が念を押すと、華もうきもコクコクとうなずいた。"
+  },
+  {
+   "id": "clzz05:34100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「はい、よろしい。それじゃあ、帰りましょう？」"
+  },
+  {
+   "id": "clzz05:34200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、そうだ。せっかくだし、有村さんも香月も、今日は青葉寮に泊まっていかない？」"
+  },
+  {
+   "id": "clzz05:34300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "카즈키 하나",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clzz05:34400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「いいんですか？」"
+  },
+  {
+   "id": "clzz05:34500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ええ。なんていうのかな……今夜は、なんとなくみんなと一緒にいたい気分っていうか。ね、結人、うき？」"
+  },
+  {
+   "id": "clzz05:34600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "야마조에 우키",
+   "jp": "「うん。そうだね」"
+  },
+  {
+   "id": "clzz05:34700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「私も」"
+  },
+  {
+   "id": "clzz05:34800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "카즈키 하나",
+   "jp": "「そっか……じゃあ、おじゃましちゃおっかな〜、えへへ」"
+  },
+  {
+   "id": "clzz05:34900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、でもひとつだけ条件があります。寝る時は、ひなさんと別の部屋でお願いします」"
+  },
+  {
+   "id": "clzz05:35000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ええ〜っ！？ なんで〜！？」"
+  },
+  {
+   "id": "clzz05:35100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だって、ベタベタくっつかれると眠れないから」"
+  },
+  {
+   "id": "clzz05:35200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「誰もくっついたりせんわ！」"
+  },
+  {
+   "id": "clzz05:35300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ウソ。なんかあちこち触ってくるし。同じ部屋で寝たら、貞操の危機を感じるので」"
+  },
+  {
+   "id": "clzz05:35400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ほー？ 分かった。そこまで言うんなら、本当に貞操を奪ってやるからな。覚悟しとけ」"
+  },
+  {
+   "id": "clzz05:35500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "少しだけむくれた雛絵が、わざと華に抱きつこうとする。"
+  },
+  {
+   "id": "clzz05:35600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "華は楽しそうに笑ってベンチを立つと、ロビーの出口へ向かってタッと逃げ出した。"
+  },
+  {
+   "id": "clzz05:35700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "⟦top:38⟧それを雛絵が追いかける。"
+  },
+  {
+   "id": "clzz05:35800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "⟦top:38⟧そんな二人をニコニコと眺めながら、他のみんなも出口に向かった。"
+  },
+  {
+   "id": "clzz05:35900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "が、その時、泉理だけがひとり、ふっと後ろを振り返った。"
+  },
+  {
+   "id": "clzz05:36000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……？」"
+  },
+  {
+   "id": "clzz05:36100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "暗がりの中、ところどころ明かりが漏れている病院の廊下。"
+  },
+  {
+   "id": "clzz05:36200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "⟦top:38⟧その廊下の一番奥に、誰かが立っているような気がしたのだ。"
+  },
+  {
+   "id": "clzz05:36300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓、留……？」"
+  },
+  {
+   "id": "clzz05:36400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留、なの？」"
+  },
+  {
+   "id": "clzz05:36500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかし、廊下の奥に立っている影は何も答えない。"
+  },
+  {
+   "id": "clzz05:36600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その代わり、泉理に向かって軽く手を振った。"
+  },
+  {
+   "id": "clzz05:36700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「これからもみんなのこと、よろしく頼むな。僕のせいで悲しくなったり、寂しくなったり……そんなことがないように」"
+  },
+  {
+   "id": "clzz05:36800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「あと、僕のことは早く忘れて、楽しく生きて行ってほしい。僕の大好きな、姉さん」"
+  },
+  {
+   "id": "clzz05:36900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "そして、影はもう一度手を振ると――そのまますうっと消えていった。"
+  },
+  {
+   "id": "clzz05:37000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「………ええ。まかせなさい、拓留。青葉寮も、新聞部のみんなも絶対に大丈夫。今はこの姿をしてるけど……私は来栖乃々なのよ？ 元『碧朋学園生徒会の⟦col:280aa02d1400⟧女帝⟦col:800000⟧』を信じて……」"
+  },
+  {
+   "id": "clzz05:37100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……ぐすっ……」"
+  },
+  {
+   "id": "clzz05:37200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "야마조에 우키",
+   "jp": "「あれ〜、どうかしたんすか、先輩！？」"
+  },
+  {
+   "id": "clzz05:37300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「姉さん！？」"
+  },
+  {
+   "id": "clzz05:37400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": null,
+   "jp": "「えっ！？ う、ううん、なんでもないわ！ 忘れ物をしたかもって思っただけ。今、行くわ」"
+  },
+  {
+   "id": "clzz05:37500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "速足で、みんなが待っている出口へと向かう。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "⟦top:38⟧そうしながら、泉理は、最後にもう一度だけ、暗い廊下の先を振り返ってみた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "しかし……そこにはもう誰もいなくて。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ただ、薄暗く遠い闇だけがわだかまっているのみだった。"
+  }
+ ]
+}

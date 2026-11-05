@@ -1,0 +1,341 @@
+{
+ "packet_id": "CC0155-clse05-P07",
+ "kit_version": "1.0",
+ "source_file": "clse05.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카"
+ ],
+ "context_before": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「でも、残念ながら、私はそこまで楽天的には作られていない。むしろ、極限まで懐疑的なんだよ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "黒の尾上は、ベッドから降りると、乱れた服を直した。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "乱雑にはだけられていた僕のワイシャツの前ボタンも、丁寧にしめてくれる。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そんな彼女の手元を見ながら、僕はずっと気になっていたことを聞いた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "たぶん、こいつ――『黒』の尾上なら、答えてくれるだろう。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「……お前、ここへ来てからずっと、自分の事を『作られた』って言ってるよな？ どういう意味なんだ？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse05:41300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そのままの意味だよ。私たちは最初、“無”だった。この世界になど存在しない、ただの空想だったんだ」"
+  },
+  {
+   "id": "clse05:41400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「空想？」"
+  },
+  {
+   "id": "clse05:41500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お前にとって都合のいい女という空想だよ」"
+  },
+  {
+   "id": "clse05:41600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お前のまわりに女どもを集め、その中からお前の好きそうなヤツを選び、仲を取り持って……お前とくっつけてやる」"
+  },
+  {
+   "id": "clse05:41700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「な、なんで、そんな……？ いったい誰が？」"
+  },
+  {
+   "id": "clse05:41800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「信じられないような顔をするな。これは事実なのだから。あと、『誰が』は聞かない方がいいな」"
+  },
+  {
+   "id": "clse05:41900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "『黒』の尾上は、なぜか一瞬だけ僕を恨みがましい眼でにらみつけた。"
+  },
+  {
+   "id": "clse05:42000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "けれど、またすぐいつものクールな彼女に戻って、言葉を⟦rb⟧紡⟦rt⟧つむ⟦/r⟧ぎ始めた。"
+  },
+  {
+   "id": "clse05:42100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「最初のうちは、それなりにうまくいっているように見えた。お前のそばには、誰が選ばれても悪くないような女が集まりはじめ、それなりに楽しくやっていたようだったからな」"
+  },
+  {
+   "id": "clse05:42200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse05:42300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ところが……ここへきて、大きな誤算が起きた」"
+  },
+  {
+   "id": "clse05:42400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ゲームメイカーである『白』のヤツが、よりにもよってお前を愛してしまったんだ。そのせいで自己矛盾の迷路におちいり、それに耐えきれずに、ついにここまでのことをしてしまった」"
+  },
+  {
+   "id": "clse05:42500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから……出来れば憎まずに……せめて、⟦rb⟧憐⟦rt⟧あわ⟦/r⟧れんでやって欲しい」"
+  },
+  {
+   "id": "clse05:42600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「尾上が何をしたって、僕が憎むわけないだろ？」"
+  },
+  {
+   "id": "clse05:42700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「………。ああ。確かにそうだな。私も含めて『尾上世莉架』はある意味、とても幸せ⟦rb⟧だった⟦rt⟧⟦rbc⟧●●●⟦/r⟧」"
+  },
+  {
+   "id": "clse05:42800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "黒の尾上は、静かに、そして嬉しそうに微笑んだ。"
+  },
+  {
+   "id": "clse05:42900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "彼女がこんな表情を見せるのは、初めてだった。"
+  },
+  {
+   "id": "clse05:43000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それが、かえってイヤな予感を僕に与える。"
+  },
+  {
+   "id": "clse05:43100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕の服装を直し終えた彼女は、足元にあるとおぼしき、例の拷問道具の入ったボックスに手を伸ばした。"
+  },
+  {
+   "id": "clse05:43200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ガシャッ……という金属音とともに、彼女は、３０センチ近くありそうな、長くて太い針を手に取った。"
+  },
+  {
+   "id": "clse05:43300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "何かを縫う針というより、まるで鉄板に穴を開ける工業用ニードルのようなそれ。"
+  },
+  {
+   "id": "clse05:43400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "他のものと同じく、随所に⟦rb⟧錆⟦rt⟧さび⟦/r⟧が浮いていて、時折ザラリと表面が⟦rb⟧剥⟦rt⟧は⟦/r⟧がれ落ちるが、その針が持つ貫通力は全く衰えていないように思えた。"
+  },
+  {
+   "id": "clse05:43500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "（い、いったい、何をするつもりだ？）"
+  },
+  {
+   "id": "clse05:43600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕は背筋が凍る思いで、鈍い光を反射させている巨大な針先を見つめた。"
+  },
+  {
+   "id": "clse05:43700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「最期にひとつだけ聞いておきたいんだが」"
+  },
+  {
+   "id": "clse05:43800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ！？ なんだよ最期って！？ おい！？」"
+  },
+  {
+   "id": "clse05:43900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "手足を縛り付けている拘束具を必死に鳴らしながら、僕は叫んだ。"
+  },
+  {
+   "id": "clse05:44000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "そんな僕を見つめながら……ポロリ、と、尾上の目から水晶玉のようにきれいな涙が、一筋、流れ落ちる。"
+  },
+  {
+   "id": "clse05:44100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "そして彼女は、いつも新聞部で明るく笑っていた頃の口調に戻って、こう、言った。"
+  },
+  {
+   "id": "clse05:44200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タクってば、私がいなくなったら悲しんでくれるかなあ？」"
+  },
+  {
+   "id": "clse05:44300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、次の瞬間――。"
+  },
+  {
+   "id": "clse05:44400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "尾上は、巨大な針を自分の首の動脈めがけて突き立てた。"
+  },
+  {
+   "id": "clse05:44500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「世莉架ーーーーーっ！」"
+  }
+ ],
+ "context_after": []
+}

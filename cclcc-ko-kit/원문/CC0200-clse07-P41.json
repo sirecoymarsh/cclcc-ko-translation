@@ -1,0 +1,961 @@
+{
+ "packet_id": "CC0200-clse07-P41",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "미나미사와 센리",
+  "쿠루스 노노",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「結人ってば、学校から帰るなり、なんだか張り切ってお弁当を作ってるから、何事かと思ってたんですよ。訊いても何も教えてくれないし」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「ね、結人？」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「うん、いい匂い。もうちょっと早く来れば、一緒に食べられたかなぁ？」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「ね、結人？ 今度は、お姉ちゃんにもごちそうしてね？」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「さぁ、困ったわね、結人？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「拓留？ どうか……したの？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:387300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "？？？",
+   "jp": "「別に……ちょっと部屋を片付けていただけよ……」"
+  },
+  {
+   "id": "clse07:387400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "？？？",
+   "jp": "「え？ ちょっと待――」"
+  },
+  {
+   "id": "clse07:387500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "？？？",
+   "jp": "「あ――！」"
+  },
+  {
+   "id": "clse07:387600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "？？？",
+   "jp": "「えっと……」"
+  },
+  {
+   "id": "clse07:387700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "？？？",
+   "jp": "「それはそうだけど……」"
+  },
+  {
+   "id": "clse07:387800",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「拓留……」"
+  },
+  {
+   "id": "clse07:387900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:388000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「それは……無理よ」"
+  },
+  {
+   "id": "clse07:388100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「だって、皆は“来栖乃々”としての私を、生徒会長として支持してくれているんだもの」"
+  },
+  {
+   "id": "clse07:388200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「それが実は、こんな地味でなんの取り柄もない“南沢泉理”だなんてわかったら、きっと幻滅する」"
+  },
+  {
+   "id": "clse07:388300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ううん、幻滅するだけならまだいいわ。今まで騙していたことに、怒りすら覚えるに違いないわ」"
+  },
+  {
+   "id": "clse07:388400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「そんなことあるもん。拓留にはわからないのよ……こんな、辛気臭い姿の私が、周りからどんな風に思われるか……」"
+  },
+  {
+   "id": "clse07:388500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「うん。それはわかってるつもり。ただ、その……久しぶりにこの姿で拓留の前に出ると思うと、急に不安になって……」"
+  },
+  {
+   "id": "clse07:388600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「……うん、ありがと、拓留」"
+  },
+  {
+   "id": "clse07:388700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いただきます」"
+  },
+  {
+   "id": "clse07:388800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「このカレー、結衣が作ったのよ」"
+  },
+  {
+   "id": "clse07:388900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あらあら。じゃあ今度から、夕飯はずっと結衣に任せようかしら」"
+  },
+  {
+   "id": "clse07:389000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら。それに何か問題でも？」"
+  },
+  {
+   "id": "clse07:389100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もう、父さんったら子どもじゃないんだから。拓留も、私のお肉あげるから、相手しない」"
+  },
+  {
+   "id": "clse07:389200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「……どういうこと？ 結衣、あなた私たちに何か隠しているの？」"
+  },
+  {
+   "id": "clse07:389300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「え？ 拓留……知らないの？ 今、テレビで大人気のアイドル、マジカル・ユイのこと」"
+  },
+  {
+   "id": "clse07:389400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「拓留……」"
+  },
+  {
+   "id": "clse07:389500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「そう……よね。でも驚きだわ……」"
+  },
+  {
+   "id": "clse07:389600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ダメよ、結人。せっかく拓留が帰ってきてるんだもの。今日は皆でお話しましょう。結衣も、ね？」"
+  },
+  {
+   "id": "clse07:389700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「大丈夫よ。だってマジックでしょ？」"
+  },
+  {
+   "id": "clse07:389800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ダメよ、結人。せっかく拓留が帰ってきてるんだもの。今日は皆でお話しましょう。結衣も、ね？」"
+  },
+  {
+   "id": "clse07:389900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「でもテレビはダメよ、結衣。せっかく拓留が帰って来てるんだから、今日はみんなでお話しましょう」"
+  },
+  {
+   "id": "clse07:390000",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「拓留……拓留ってば……」"
+  },
+  {
+   "id": "clse07:390100",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ほら、拓留……起きないと、遅れるわよ……」"
+  },
+  {
+   "id": "clse07:390200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「昨日、久しぶりに帰って来たんでしょう？」"
+  },
+  {
+   "id": "clse07:390300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「学校まではいつもより時間がかかるの。いつまでも寝ていると遅刻しちゃうわよ」"
+  },
+  {
+   "id": "clse07:390400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「おはよ、拓留。ご飯、出来てるからね」"
+  },
+  {
+   "id": "clse07:390500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「なあに？」"
+  },
+  {
+   "id": "clse07:390600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「それくらいわかるわ……だって、私たち、姉弟じゃない」"
+  },
+  {
+   "id": "clse07:390700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「はい、お粗末さまでした」"
+  },
+  {
+   "id": "clse07:390800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ダメよ、結人。遊ぶのは宿題終わらせてから」"
+  },
+  {
+   "id": "clse07:390900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「結衣。洗い物、手伝ってくれる？」"
+  },
+  {
+   "id": "clse07:391000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お願い、助かるわ」"
+  },
+  {
+   "id": "clse07:391100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、父さんはお酒の前にお風呂の掃除お願いね」"
+  },
+  {
+   "id": "clse07:391200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら、拓留が自分から言ってくれるなんて珍しいわね」"
+  },
+  {
+   "id": "clse07:391300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ、洗った食器を拭いてもらえる？」"
+  },
+  {
+   "id": "clse07:391400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ええ、まあ……」"
+  },
+  {
+   "id": "clse07:391500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら。結衣には拓留がいるじゃない」"
+  },
+  {
+   "id": "clse07:391600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ど、どうして私が拓留なんかと……」"
+  },
+  {
+   "id": "clse07:391700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もう、父さんまでからかわないで」"
+  },
+  {
+   "id": "clse07:391800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もう、父さん、そんなこと改めて言われなくても知ってるし」"
+  },
+  {
+   "id": "clse07:391900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それより拓留。お風呂、入ってらっしゃい」"
+  },
+  {
+   "id": "clse07:392000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留の言うとおりよ」"
+  },
+  {
+   "id": "clse07:392100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「自分だけ拓留とお風呂なんてズルい。だったら私も……」"
+  },
+  {
+   "id": "clse07:392200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留。絶対に目を開けちゃダメよ」"
+  },
+  {
+   "id": "clse07:392300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、私たちふたりとも、拓留のお姉さんだから」"
+  },
+  {
+   "id": "clse07:392400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら、私のほうが気持ちいいわよね？」"
+  },
+  {
+   "id": "clse07:392500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら、それなら私なんてこんなところ洗っちゃうもん、それっ」"
+  },
+  {
+   "id": "clse07:392600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もちろん、私のほうが気持ちいいわよね？」"
+  },
+  {
+   "id": "clse07:392700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私よね？」"
+  },
+  {
+   "id": "clse07:392800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうなっちゃうの？」"
+  },
+  {
+   "id": "clse07:392900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留。先、お風呂入っちゃいなさい」"
+  },
+  {
+   "id": "clse07:393000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう？ それじゃあ父さん、さっさと入っちゃって」"
+  },
+  {
+   "id": "clse07:393100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええ、おやすみなさい」"
+  },
+  {
+   "id": "clse07:393200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留……」"
+  },
+  {
+   "id": "clse07:393300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「バカっ。そんなわけないでしょ」"
+  },
+  {
+   "id": "clse07:393400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もちろん、しばらく家で世話することにします」"
+  },
+  {
+   "id": "clse07:393500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「というわけで、父さん。しばらくお酒代減らすわね」"
+  },
+  {
+   "id": "clse07:393600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、ミルク代がいるもの。少しは我慢してもらわないと」"
+  },
+  {
+   "id": "clse07:393700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それから拓留。できれば、今日から少しの間でいいの。⟦rb⟧青葉寮⟦rt⟧ここ⟦/r⟧で暮らしてもらえないかな？」"
+  },
+  {
+   "id": "clse07:393800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「何かと物入りになるし、できれば男手が欲しいの」"
+  },
+  {
+   "id": "clse07:393900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そういうわけだから、お願い。ね？」"
+  },
+  {
+   "id": "clse07:394000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん。ありがとう、拓留」"
+  },
+  {
+   "id": "clse07:394100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふっ……可愛いわね」"
+  },
+  {
+   "id": "clse07:394200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ 私！？」"
+  },
+  {
+   "id": "clse07:394300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よしよし、はーい、いい子だから泣かないでー」"
+  },
+  {
+   "id": "clse07:394400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「困ったわ……泣きやんでくれない……」"
+  },
+  {
+   "id": "clse07:394500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……そうかもしれないわね。でもどうしよう。おむつ、無い……」"
+  },
+  {
+   "id": "clse07:394600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ありがとう。助かるわ」"
+  },
+  {
+   "id": "clse07:394700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はーい、おむちゅ替えまちょうねぇ。良い子だからじっとしててくだちゃいねぇ」"
+  },
+  {
+   "id": "clse07:394800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おしっこ、いっぱいでてまちゅねぇ。気持ち悪かったでちゅよねぇ」"
+  },
+  {
+   "id": "clse07:394900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら」"
+  },
+  {
+   "id": "clse07:395000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「この子……男の子……」"
+  },
+  {
+   "id": "clse07:395100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほら、そんなことで盛り上がってないで、そこのウェットティッシュ取ってちょうだい」"
+  },
+  {
+   "id": "clse07:395200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私はほら……それこそ拓留ので見慣れてるし……」"
+  },
+  {
+   "id": "clse07:395300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ ち、違う！ そういうことじゃないの！ 拓留がここに来てすぐの頃、ひとりで動けない時期があったでしょう？ あの時に、その……」"
+  },
+  {
+   "id": "clse07:395400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留……もしかして……羨ましいと思ってる？」"
+  },
+  {
+   "id": "clse07:395500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって拓留、こういうの……好きでしょ？」"
+  },
+  {
+   "id": "clse07:395600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「好き……でしょ？」"
+  },
+  {
+   "id": "clse07:395700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふっ……わかったわ。それじゃあ、拓留ちゃん。良い子だから、そこに寝転んでくだちゃいねー」"
+  },
+  {
+   "id": "clse07:395800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ、おむつ、替えまちょうねぇ」"
+  },
+  {
+   "id": "clse07:395900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『します』じゃなくて『ちまちゅ』でしょ？」"
+  },
+  {
+   "id": "clse07:396000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁい、よくできまちた」"
+  },
+  {
+   "id": "clse07:396100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clse07:396200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もうっ……拓留ったら、ダメな子でちゅね……」"
+  },
+  {
+   "id": "clse07:396300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、しょうがないわよね……だって、男の子だもん……」"
+  },
+  {
+   "id": "clse07:396400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留……もしかして……羨ましいと思ってる？」"
+  },
+  {
+   "id": "clse07:396500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって拓留、こういうの……好きでしょ？」"
+  },
+  {
+   "id": "clse07:396600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「好き……でしょ？」"
+  },
+  {
+   "id": "clse07:396700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふっ……しょうがない子ね……それじゃあ……」"
+  },
+  {
+   "id": "clse07:396800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁい、できまちたよ〜。もう気持ち悪くないでちゅよ〜」"
+  },
+  {
+   "id": "clse07:396900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お腹が空いたんじゃないかしら……」"
+  },
+  {
+   "id": "clse07:397000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ、拓留。お願いがあるんだけど……」"
+  },
+  {
+   "id": "clse07:397100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ミルクと哺乳瓶、買ってきてくれない？」"
+  },
+  {
+   "id": "clse07:397200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ありがとう」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「ねえ、拓留。ちょっとこの子、抱いててもらえる？」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「結衣たちは、赤ちゃんのお布団、用意しにいってるの」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「大丈夫よ。頭だけちゃんと支えてあげてれば」"
+  }
+ ]
+}

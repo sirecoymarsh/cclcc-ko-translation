@@ -1,0 +1,645 @@
+{
+ "packet_id": "CC0249-clse07-P90",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "와쿠이 슈이치",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「さて。いまさら訊くまでもないが、当然、＜因果律＞というものをキミは知っているね？ 全ての事象には＜原因＞があり、それによって＜結果＞が生じる」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「今回のカオスチャイルド症候群の事件も、もちろん因果律の輪の中にあった」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「ところが、この少女の能力はね……その因果律をねじ曲げてしまえるんだ」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「正確に言うなら、自分が求める＜結果＞になるよう、＜その原因となった事象＞を改変してしまう能力と言った方が正しいな」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「そして、その＜因果律改変＞のせいで、世界は大きく変化してしまうんだ。すごい能力だと思わないか？」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「とはいえ、これは同時に危険すぎる能力でもある。佐久間たちが、この子を眠らせたままずっと拘束していた理由も分かるというものだ」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:854600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でもね、僕はこの子の素敵な使い方を思いついたよ。ほら、キミや宮代くんのせいで僕はひどい目にあっただろう？ だからもう一度、２００９年の渋谷地震の時点から因果の改変を――」"
+  },
+  {
+   "id": "clse07:854700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ようこそ、僕たちの世界へ！」"
+  },
+  {
+   "id": "clse07:854800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「僕たちはね。同じ趣味を持つものとして、この世界に新しい王国をつくる――そんな志を持つ同志だよ」"
+  },
+  {
+   "id": "clse07:854900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「何を言ってるんだい。たった今、君はその身で行動して僕たちに示したじゃないか」"
+  },
+  {
+   "id": "clse07:855000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ、我らが国王を呼ぼうじゃないか」"
+  },
+  {
+   "id": "clse07:855100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代くん」"
+  },
+  {
+   "id": "clse07:855200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ようこそ、我ら、オトコ王国へ」"
+  },
+  {
+   "id": "clse07:855300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ、いたいた」"
+  },
+  {
+   "id": "clse07:855400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「探したよ、宮代くん、有村くん。ちょっと来てもらえるかな？」"
+  },
+  {
+   "id": "clse07:855500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なるほど。つまり有村くんがお母さんとケンカして、宮代くんの部屋に転がり込んだ、と」"
+  },
+  {
+   "id": "clse07:855600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「で、不純な行為はまったく無い、と」"
+  },
+  {
+   "id": "clse07:855700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふむ……」"
+  },
+  {
+   "id": "clse07:855800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「そうか。だったらいいよ。オッケー」"
+  },
+  {
+   "id": "clse07:855900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「だって、学生としての節度を持ってお付き合いしてるんだろう？」"
+  },
+  {
+   "id": "clse07:856000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「学校側としても、不純な行為にふけってもらうのは困るけど、そうじゃないのならとやかく言うことでもないしね」"
+  },
+  {
+   "id": "clse07:856100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「あるのかい？」"
+  },
+  {
+   "id": "clse07:856200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「うん。だったら問題ない」"
+  },
+  {
+   "id": "clse07:856300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「それに、有村さんのお母さんとも、さっき電話で話をしてある。彼女のやりたいようにやらせてくれ、ということだ」"
+  },
+  {
+   "id": "clse07:856400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「親御さんが良いと言うなら、僕たちがとやかく言うことじゃないよ」"
+  },
+  {
+   "id": "clse07:856500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ま、ふたりとも、くれぐれも節度ある付き合いを頼むよ」"
+  },
+  {
+   "id": "clse07:856600",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:856700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「あいたたたたた……」"
+  },
+  {
+   "id": "clse07:856800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「おいおい、宮代くん。廊下は走っちゃいけないって、子供の頃言われなかったかい？」"
+  },
+  {
+   "id": "clse07:856900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「あ、あれ？ 僕、なにか悪いことしたかい？」"
+  },
+  {
+   "id": "clse07:857000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「まあ、うちの学校は生徒の自主性を重んじているからねぇ」"
+  },
+  {
+   "id": "clse07:857100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「そういう意味では、認めるも認めないも君たち次第という、川原くんの言葉は確かに間違ってはいないし……」"
+  },
+  {
+   "id": "clse07:857200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「まあまあ……僕も君たちと同じく、おかしいとは思うよ。でも、みんながそう思うなら、可決されることもないんじゃないのかな？」"
+  },
+  {
+   "id": "clse07:857300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「そうなるのが嫌なら、君たちも君たちで訴えかければいい」"
+  },
+  {
+   "id": "clse07:857400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「君たち新聞部には、言論という大きな武器があるだろう？」"
+  },
+  {
+   "id": "clse07:857500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ。いたいた」"
+  },
+  {
+   "id": "clse07:857600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代くん。悪いんだけど、ちょっといいかな？」"
+  },
+  {
+   "id": "clse07:857700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「僕も努力はしたんだけどね、如何せん問題が問題でね。このままだと何らかの対策をしなきゃいけない……」"
+  },
+  {
+   "id": "clse07:857800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやいやいや、まだそこまでのことじゃない」"
+  },
+  {
+   "id": "clse07:857900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ただ……これ以上話が大きくなると、学校側としてもそれなりの措置をとらざるを得なくなるかもしれない……ということだよ」"
+  },
+  {
+   "id": "clse07:858000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いくら生徒たちの自主性に任せるとはいえ、こう事が大きくなってくるといろいろあってねぇ」"
+  },
+  {
+   "id": "clse07:858100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「生徒たちからの声はもちろんだが、教育委員会とか保護者の声とか、ね」"
+  },
+  {
+   "id": "clse07:858200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「風紀が乱れているという噂が流れると、これから入学してくる生徒にも影響を及ぼすかもしれない……」"
+  },
+  {
+   "id": "clse07:858300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「実際、他の先生方からは、厳しく対処すべきだという声もあがりつつある……」"
+  },
+  {
+   "id": "clse07:858400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも宮代くん。僕の方で一応、佐久間さんに電話して確認してみたんだが、その赤ちゃんは君たちの言うように預けられた子だっていうじゃないか」"
+  },
+  {
+   "id": "clse07:858500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だったら、その例の写真の女の子に来てもらって、本当のことを言ってもらえば、それで済むことなんじゃないのかい？」"
+  },
+  {
+   "id": "clse07:858600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあ、とにかく考えてみておくれ」"
+  },
+  {
+   "id": "clse07:858700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おいおい、久野里くん。キミもずいぶんと酷なことを言うね。渋谷地震の時、宮代くんはもっと素晴らしいことを願うべきだったんだ。そうすれば、その後の悲劇は何も起こらなかった」"
+  },
+  {
+   "id": "clse07:858800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キミにだけ、特別に見せてあげよう。渋谷地震の時、彼が本当は何を望むべきだったのか。そしてそのことが、キミたちをどんなに素晴らしい世界へといざなうのか」"
+  },
+  {
+   "id": "clse07:858900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう怖い顔で怒鳴ることはないだろう。それともなにかい？ 彼には⟦rb⟧悲惨な運命⟦rt⟧レ・ミゼラブル⟦/r⟧こそふさわしいと？」"
+  },
+  {
+   "id": "clse07:859000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代くんは未来ある若者なんだよ？ 彼が正しい道へ進むように導くのは、大人の責任じゃないか」"
+  },
+  {
+   "id": "clse07:859100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やれやれ。確かに僕の失策をリカバーしようという意図を隠すつもりはないけどね……でも、宮代くんの未来だって救ってあげたいと、本気で思ってるんだよ？」"
+  },
+  {
+   "id": "clse07:859200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ははは、ずいぶんと肩入れしてるんだねぇ、キミ。まさか、恋でもしちゃったのかい？」"
+  },
+  {
+   "id": "clse07:859300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まぁいい。これ以上キミと話をしていても無意味なようだ。僕の好きにやらせてもらうさ」"
+  },
+  {
+   "id": "clse07:859400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あきらめるんだね。どのみち、もう止められはしないよ――ほら、因果はすでに書き換えられようとしている」"
+  },
+  {
+   "id": "clse07:859500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くく、くくく……ははは！ かくして、因果は書き換えられた。はははは！」"
+  },
+  {
+   "id": "clse07:859600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まぁ、いいさ。『因果の改変』なら何度でも行える。そうすれば、君はこの前と同じように――」"
+  },
+  {
+   "id": "clse07:859700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほう……？」"
+  },
+  {
+   "id": "clse07:859800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なぜ、そう断言できる？」"
+  },
+  {
+   "id": "clse07:859900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:860000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふ、ふふ……やはり君の頭脳は⟦rb⟧明晰⟦rt⟧めいせき⟦/r⟧だ。大したものだね」"
+  },
+  {
+   "id": "clse07:860100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう。彼にね、いい夢をみせてあげているんだ。これから一生、冷たい檻の中にいるよりも、友人たちと楽しく過ごした方がいいだろう？というメッセージを込めてね」"
+  },
+  {
+   "id": "clse07:860200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そそのかすだなんて、人聞きの悪い。彼がその気になれば、どれだけの⟦rb⟧能力⟦rt⟧ちから⟦/r⟧が発揮できるのか……再三言ってるんだが、聞きわけがないものでね」"
+  },
+  {
+   "id": "clse07:860300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「彼の愚かな選択のせいで、本来あるべき“満ち足りた時”は終わりをむかえてしまった。彼の妹は死んだ。姉も死んだ。父親がわりだった人も死んだ」"
+  },
+  {
+   "id": "clse07:860400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そして、彼自身の人生も滅茶苦茶になってしまった。なんと嘆かわしい。だから、せめて彼は、自分の人生くらい救ってもいいんじゃないか？」"
+  },
+  {
+   "id": "clse07:860500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――と、僕はいつもそうアドバイスしているんだが。愚かにも、彼は従おうとしないんだ」"
+  },
+  {
+   "id": "clse07:860600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ふふん。これはまた……」"
+  },
+  {
+   "id": "clse07:860700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「たとえば看護師などが、長く世話をしている患者に惚れてしまうということがあるそうだが……まさか君がねぇ」"
+  },
+  {
+   "id": "clse07:860800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まぁ、いい。そろそろ君との話も飽きた。いちいち邪魔されて、⟦rb⟧鬱陶⟦rt⟧うっとう⟦/r⟧しくなってきたしね。このあたりで君との関係は終わりにしよう」"
+  },
+  {
+   "id": "clse07:860900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「一瞬で終わらせてあげよう。痛みも感じる間もないことを感謝してもらいたいね」"
+  },
+  {
+   "id": "clse07:861000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「く、ははは！ ハハハハハハ、これは傑作だ！ 何をするかと思えば、そんな⟦rb⟧玩具⟦rt⟧おもちゃ⟦/r⟧で僕のディソードをどうにかできるとでも！？ ハハハハハハハ！！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「久野里君。さっき、さんざんほめてやったのに……いきなりがっかりさせないでくれ」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「なっ！？ なにぃ！？」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「そ、そんな、バカなっ！？」"
+  }
+ ]
+}

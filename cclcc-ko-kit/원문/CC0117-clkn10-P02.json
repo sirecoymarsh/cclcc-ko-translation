@@ -1,0 +1,458 @@
+{
+ "packet_id": "CC0117-clkn10-P02",
+ "kit_version": "1.0",
+ "source_file": "clkn10.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕は自分でも思っていない間に、そんなことを……？"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「『宮代先輩の本心は、そうは言ってないみたいですけどー？』」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "夜になっても、有村が言った言葉が頭を離れなかった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "仮に――あくまでも仮に、だ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕が乃々とそういうことになったとしよう。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn10:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そうするとどうなる？"
+  },
+  {
+   "id": "clkn10:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕は乃々とひとつ屋根の下で家族として暮らすことになるだろう。"
+  },
+  {
+   "id": "clkn10:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そこには父さんがいて、結衣と結人がいて、うきがいて、もしかしたらひかりがいて。"
+  },
+  {
+   "id": "clkn10:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それで、賑やかな毎日が繰り返される……。"
+  },
+  {
+   "id": "clkn10:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "なんだ。"
+  },
+  {
+   "id": "clkn10:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "それじゃあ今と同じじゃないか。"
+  },
+  {
+   "id": "clkn10:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "変わるのは僕と乃々の関係だけだ。"
+  },
+  {
+   "id": "clkn10:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "それはそれで、悪くないのかもしれない……。"
+  },
+  {
+   "id": "clkn10:10800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「結衣ー？」"
+  },
+  {
+   "id": "clkn10:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "乃々の声。"
+  },
+  {
+   "id": "clkn10:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "乃々は今、ひかりと一緒にお風呂に入ってたはずだけど……。"
+  },
+  {
+   "id": "clkn10:11100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「結衣ー、いないのー？」"
+  },
+  {
+   "id": "clkn10:11200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「結衣なら部屋で宿題してる。いっぱいあったの忘れてたんだって」"
+  },
+  {
+   "id": "clkn10:11300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃあ、うきは？」"
+  },
+  {
+   "id": "clkn10:11400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「同じく……」"
+  },
+  {
+   "id": "clkn10:11500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう……困ったわね……」"
+  },
+  {
+   "id": "clkn10:11600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "どうしたんだろう？"
+  },
+  {
+   "id": "clkn10:11700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えっと……それじゃあ、拓留。悪いんだけど、ひかりをお願いできる？」"
+  },
+  {
+   "id": "clkn10:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "え……？"
+  },
+  {
+   "id": "clkn10:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それってつまりは……。"
+  },
+  {
+   "id": "clkn10:12000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「絶対にこっち見ちゃ、ダメだからね。絶対だからね」"
+  },
+  {
+   "id": "clkn10:12100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それはバラエティ番組なんかで言う、フリってやつ……じゃないよな？"
+  },
+  {
+   "id": "clkn10:12200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「目をつむっておいてね、わかった？」"
+  },
+  {
+   "id": "clkn10:12300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そ、そう何度も言わなくてもわかってるってば」"
+  },
+  {
+   "id": "clkn10:12400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃあ、そのまま腕を伸ばしてもらえる？」"
+  },
+  {
+   "id": "clkn10:12500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「う、うん……」"
+  },
+  {
+   "id": "clkn10:12600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "（あれ？）"
+  },
+  {
+   "id": "clkn10:12700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ひかりって、こんなにぷにぷにしてたっけ？"
+  },
+  {
+   "id": "clkn10:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "いや、ぷにぷにしてるはしてるけど、質が違うっていうか。"
+  },
+  {
+   "id": "clkn10:12900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「た、拓留っ！ そこ、違う……！」"
+  },
+  {
+   "id": "clkn10:13000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「違うって何が？」"
+  },
+  {
+   "id": "clkn10:13100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だ、だから、そのっ……ひかりじゃなくて……」"
+  },
+  {
+   "id": "clkn10:13200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "じゃなくて……？"
+  },
+  {
+   "id": "clkn10:13300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うわああああああっ！！！ ご、ゴメン！！」"
+  },
+  {
+   "id": "clkn10:13400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え……ええ。その……いいから、ひかりをお願い……」"
+  },
+  {
+   "id": "clkn10:13500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "「わ、わかった！」"
+  },
+  {
+   "id": "clkn10:13600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn10:13700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さっきのは……どこだったんだろう？"
+  },
+  {
+   "id": "clkn10:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それにしても……凄く……柔らかかった……。"
+  },
+  {
+   "id": "clkn10:13900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いやいやいや、待て、宮代拓留。"
+  },
+  {
+   "id": "clkn10:14000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さすがにそれ以上は、変な想像するな。"
+  },
+  {
+   "id": "clkn10:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それ以上は……。"
+  },
+  {
+   "id": "clkn10:14200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "「あ……ごめんごめん、寒かったよな」"
+  },
+  {
+   "id": "clkn10:14300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "危ない危ない。"
+  },
+  {
+   "id": "clkn10:14400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "また変な妄想しちゃうところだった。"
+  },
+  {
+   "id": "clkn10:14500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "自重しろ、宮代拓留。"
+  }
+ ],
+ "context_after": []
+}

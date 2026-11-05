@@ -1,0 +1,960 @@
+{
+ "packet_id": "CC0087-clka11-P03",
+ "kit_version": "1.0",
+ "source_file": "clka11.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "카즈키 하나"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "今回の騒動は、そもそも自分の気持ちを無理矢理おさえこんだから起きたことなのだ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その決着を付けるためには、自分の気持ちをまっすぐに見つめ、答えを出す必要がある。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そして、今、それをすべきなのだ。"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……ん」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「拓留先輩は、わたしに居場所をくれたの」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka11:20000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「先輩は、突然新聞部に居ついたわたしを、事情を聞くこともなく受け入れてくれた」"
+  },
+  {
+   "id": "clka11:20100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「黙ってエンスーやり続けても、文句言わずにいてくれた」"
+  },
+  {
+   "id": "clka11:20200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わたしが喋りたがらない理由も聞かずにいてくれた」"
+  },
+  {
+   "id": "clka11:20300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「きっと、それは、先輩にとってはなんでもないことなの」"
+  },
+  {
+   "id": "clka11:20400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「きっと、わたしは部員の数合わせにすぎないの」"
+  },
+  {
+   "id": "clka11:20500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、嬉しかった」"
+  },
+  {
+   "id": "clka11:20600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わたしを必要としてくれて、わたしがしたいことを尊重してくれることが嬉しかった」"
+  },
+  {
+   "id": "clka11:20700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それに、拓留先輩は、優しい人なの」"
+  },
+  {
+   "id": "clka11:20800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「普段はすっごく偉そうだし、みんなをバカにするような言い方しかしないけど、本当は凄く優しい人なの」"
+  },
+  {
+   "id": "clka11:20900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「きっと、今も、わたしを探して走り回ってる筈」"
+  },
+  {
+   "id": "clka11:21000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、わたしは……」"
+  },
+  {
+   "id": "clka11:21100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わたし、は……」"
+  },
+  {
+   "id": "clka11:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "声が尻すぼみになっていって、喋れなくなる。"
+  },
+  {
+   "id": "clka11:21300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "顔もうつむき、視線が床を彷徨ってしまう。"
+  },
+  {
+   "id": "clka11:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』が一歩近づき、目の前に立つ。"
+  },
+  {
+   "id": "clka11:21500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わたし、は？」"
+  },
+  {
+   "id": "clka11:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "優しく手を握り、聞いて来る。"
+  },
+  {
+   "id": "clka11:21700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「大丈夫、あたしがついてるから。言ってごらん」"
+  },
+  {
+   "id": "clka11:21800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka11:21900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ん」"
+  },
+  {
+   "id": "clka11:22000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わたしは……」"
+  },
+  {
+   "id": "clka11:22100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留先輩が……」"
+  },
+  {
+   "id": "clka11:22200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「好き……」"
+  },
+  {
+   "id": "clka11:22300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……かも」"
+  },
+  {
+   "id": "clka11:22400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "顔を上げる。"
+  },
+  {
+   "id": "clka11:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "⟦top:38⟧『華』は目尻に涙を浮かべながら、微笑んでいた。"
+  },
+  {
+   "id": "clka11:22600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka11:22700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ん」"
+  },
+  {
+   "id": "clka11:22800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ようやく、自分の気持ちを言えたね」"
+  },
+  {
+   "id": "clka11:22900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ん」"
+  },
+  {
+   "id": "clka11:23000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……うん……！」"
+  },
+  {
+   "id": "clka11:23100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "その途端、景色がぐにゃりと歪んだ。"
+  },
+  {
+   "id": "clka11:23200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え、なに……？」"
+  },
+  {
+   "id": "clka11:23300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もう脳内会話は終わり。現実に戻りな」"
+  },
+  {
+   "id": "clka11:23400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え、どこ？ どこにいるの？」"
+  },
+  {
+   "id": "clka11:23500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どこにもいないよ」"
+  },
+  {
+   "id": "clka11:23600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あたしは、最初からどこにもいない」"
+  },
+  {
+   "id": "clka11:23700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「今は、あんたの心の中に戻った所。そしてもうすぐ消える」"
+  },
+  {
+   "id": "clka11:23800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あんたが素直に自分の気持ちを話せる間は、もう出て来たりしない」"
+  },
+  {
+   "id": "clka11:23900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、あたしが出てこなくていいように、がんばんな」"
+  },
+  {
+   "id": "clka11:24000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ん」"
+  },
+  {
+   "id": "clka11:24100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「頑張る」"
+  },
+  {
+   "id": "clka11:24200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よろしい！」"
+  },
+  {
+   "id": "clka11:24300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どう？ 今の気持ちは」"
+  },
+  {
+   "id": "clka11:24400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……正直に言うと」"
+  },
+  {
+   "id": "clka11:24500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……滅茶苦茶、恥ずかしい……！」"
+  },
+  {
+   "id": "clka11:24600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あはっ！」"
+  },
+  {
+   "id": "clka11:24700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』が噴き出した。目尻から零れた涙を拭っているのが想像できた。"
+  },
+  {
+   "id": "clka11:24800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだよね。わかるよ」"
+  },
+  {
+   "id": "clka11:24900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でもね、このあともっと恥ずかしいことになるから、気絶しないようにね」"
+  },
+  {
+   "id": "clka11:25000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clka11:25100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ごめんね、あたし、あんたに嘘をついてたの」"
+  },
+  {
+   "id": "clka11:25200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clka11:25300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ここには誰もいないって言ったでしょ」"
+  },
+  {
+   "id": "clka11:25400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あれ、嘘なの」"
+  },
+  {
+   "id": "clka11:25500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……え？」"
+  },
+  {
+   "id": "clka11:25600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「奥の方、見てごらん」"
+  },
+  {
+   "id": "clka11:25700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "言われて、視線を巡らせる。"
+  },
+  {
+   "id": "clka11:25800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "無人のエントランスの奥。シアターに向かう階段よりも更に奥。"
+  },
+  {
+   "id": "clka11:25900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "⟦top:38⟧そこには非常用の連絡路への扉があった。半分開いている状態で。"
+  },
+  {
+   "id": "clka11:26000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clka11:26100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "扉が開いているのは、誰かが今開けたばかりだったからだ。"
+  },
+  {
+   "id": "clka11:26200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ え？」"
+  },
+  {
+   "id": "clka11:26300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "⟦rb⟧その人⟦rt⟧⟦rbc⟧●●●⟦/r⟧は、開けた扉のドアノブを掴んだまま、呆然とした顔でこちらを見つめていた。"
+  },
+  {
+   "id": "clka11:26400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ え？ え？」"
+  },
+  {
+   "id": "clka11:26500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "その人は――"
+  },
+  {
+   "id": "clka11:26600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "――宮代、拓留だった。"
+  },
+  {
+   "id": "clka11:26700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "月明かりしかないのに、宮代拓留の顔が真っ赤になっているのが分かる。"
+  },
+  {
+   "id": "clka11:26800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "華の一世一代の『告白』を聞かれていたのは明白だった。"
+  },
+  {
+   "id": "clka11:26900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えええええええええええええ！！！！！！！？？？？？？」"
+  },
+  {
+   "id": "clka11:27000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ななななな、なんで！？」"
+  },
+  {
+   "id": "clka11:27100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやー、こうでもしないと、告るとか無理っぽいからさー」"
+  },
+  {
+   "id": "clka11:27200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でででで、でもでもでも！」"
+  },
+  {
+   "id": "clka11:27300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、自分自身には嘘をつけないって……！！？？」"
+  },
+  {
+   "id": "clka11:27400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えー？ あたしそんなこと言ってないよ？」"
+  },
+  {
+   "id": "clka11:27500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『自分自身に嘘をつく必要は無い』って言っただけ」"
+  },
+  {
+   "id": "clka11:27600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「嘘をついちゃいけないわけじゃない」"
+  },
+  {
+   "id": "clka11:27700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなあーーー！！！」"
+  },
+  {
+   "id": "clka11:27800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあ、丸一日つき合ってもらったことへの、あたしからのプレゼントだね」"
+  },
+  {
+   "id": "clka11:27900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あとはあんたが上手くやんな」"
+  },
+  {
+   "id": "clka11:28000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃあね」"
+  },
+  {
+   "id": "clka11:28100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "胸の奥から、すっとなにかがいなくなった。"
+  },
+  {
+   "id": "clka11:28200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clka11:28300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "体が少しだけ軽くなった気がした。"
+  },
+  {
+   "id": "clka11:28400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "それは、嬉しいことでも、悲しいことでもあるような気がした。"
+  },
+  {
+   "id": "clka11:28500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "胸に手を押さえて、呟く。"
+  },
+  {
+   "id": "clka11:28600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ありがとう」"
+  },
+  {
+   "id": "clka11:28700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして顔をあげ、宮代拓留の方に歩いて行った。"
+  },
+  {
+   "id": "clka11:28800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……か、香月？」"
+  },
+  {
+   "id": "clka11:28900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん」"
+  },
+  {
+   "id": "clka11:29000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "手に持っていたクールキャットプレスを持ち上げて示す。"
+  },
+  {
+   "id": "clka11:29100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「取り返して、くれたんだな」"
+  },
+  {
+   "id": "clka11:29200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ん」"
+  },
+  {
+   "id": "clka11:29300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka11:29400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ええと……」"
+  },
+  {
+   "id": "clka11:29500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「さっきの言葉……」"
+  },
+  {
+   "id": "clka11:29600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ！ ……」"
+  },
+  {
+   "id": "clka11:29700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ええと、あれは」"
+  },
+  {
+   "id": "clka11:29800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「なんていうのかな、」"
+  },
+  {
+   "id": "clka11:29900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「お前の、本心なのか？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「つまり、香月は」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「僕が、好き、なのか？」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「っ！！？？」"
+  }
+ ]
+}

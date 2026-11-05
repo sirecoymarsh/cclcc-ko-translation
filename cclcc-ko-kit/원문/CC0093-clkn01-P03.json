@@ -1,0 +1,967 @@
+{
+ "packet_id": "CC0093-clkn01-P03",
+ "kit_version": "1.0",
+ "source_file": "clkn01.msb",
+ "speakers_in_packet": [
+  "모두",
+  "미나미사와 센리",
+  "미야시로 타쿠루",
+  "사쿠마 와타루",
+  "야마조에 우키",
+  "쿠루스 노노",
+  "타치바나 유이",
+  "타치바나 유토",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「の、乃々はどうしたんだ？」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「乃々姉なら、さっき着替えてくるってお部屋に戻ったわよ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ヨシヨシとでも言いたげに頷きながら結衣は言った。"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「拓留兄も着替えて来たら？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ん……ああ、そうだな。じゃあそうするよ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "久しぶりに入った僕の部屋は、うきの言ったとおり、出て行った時と変わらずそのままだった。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn01:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "机の上も本棚もなにもかも。"
+  },
+  {
+   "id": "clkn01:19700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は整頓されたクローゼットの中から、綺麗にたたまれた服を取り出し着替えると、洋服から漂う柔軟剤の匂いに懐かしさを覚えながら再びリビングへ戻った。"
+  },
+  {
+   "id": "clkn01:19800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「あれ？ 来栖……じゃなくて、乃々は、まだ戻ってないのか？」"
+  },
+  {
+   "id": "clkn01:19900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うん。乃々姉に何か用？」"
+  },
+  {
+   "id": "clkn01:20000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "야마조에 우키",
+   "jp": "「用ってわけじゃないけど……」"
+  },
+  {
+   "id": "clkn01:20100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "帰って来いってせっついたくせに、戻ったら戻ったで部屋に籠って出てこないってのも、なんか釈然としない。"
+  },
+  {
+   "id": "clkn01:20200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「乃々さん、もしかしたら、出て来づらいのかも……」"
+  },
+  {
+   "id": "clkn01:20300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "うきがポソリと言った。"
+  },
+  {
+   "id": "clkn01:20400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だって、ほら……乃々さん家では……」"
+  },
+  {
+   "id": "clkn01:20500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clkn01:20600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうか。"
+  },
+  {
+   "id": "clkn01:20700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも、だからっていつまでも部屋に籠ってるわけにもいかないだろうに。"
+  },
+  {
+   "id": "clkn01:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しょうがない。"
+  },
+  {
+   "id": "clkn01:20900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ちょっと行ってくる」"
+  },
+  {
+   "id": "clkn01:21000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はい」"
+  },
+  {
+   "id": "clkn01:21100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "うきの笑顔に見送られ、僕は乃々の部屋に向かった。"
+  },
+  {
+   "id": "clkn01:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ドアをノックすると、部屋の中からは確かに人の気配がした。"
+  },
+  {
+   "id": "clkn01:21300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「僕だ。いるんだろ？」"
+  },
+  {
+   "id": "clkn01:21400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留？ どうか……したの？」"
+  },
+  {
+   "id": "clkn01:21500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「なかなか戻ってこないからさ。どうしたのかと思って」"
+  },
+  {
+   "id": "clkn01:21600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「別に……ちょっと部屋を片付けていただけよ……」"
+  },
+  {
+   "id": "clkn01:21700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あの乃々が？"
+  },
+  {
+   "id": "clkn01:21800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "わざわざこのタイミングで？"
+  },
+  {
+   "id": "clkn01:21900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「入っていいか？」"
+  },
+  {
+   "id": "clkn01:22000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ ちょっと待――」"
+  },
+  {
+   "id": "clkn01:22100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「開けるぞ」"
+  },
+  {
+   "id": "clkn01:22200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ――！」"
+  },
+  {
+   "id": "clkn01:22300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "返事も待たずドアをあけ、そのまま部屋に足を踏み入れる。"
+  },
+  {
+   "id": "clkn01:22400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えっと……」"
+  },
+  {
+   "id": "clkn01:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "部屋に入ると、彼女は少し後ろめたそうに目を伏せた。"
+  },
+  {
+   "id": "clkn01:22600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「今さら何を気にしてるんだよ？」"
+  },
+  {
+   "id": "clkn01:22700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "「それはそうだけど……」"
+  },
+  {
+   "id": "clkn01:22800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "？？？",
+   "jp": "か細い声で言う。"
+  },
+  {
+   "id": "clkn01:22900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "？？？",
+   "jp": "女帝と呼ばれたさっきまでの姿は今はもうそこには無い。"
+  },
+  {
+   "id": "clkn01:23000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "？？？",
+   "jp": "いや、文字通り、乃々の姿はそこには無かった。"
+  },
+  {
+   "id": "clkn01:23100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "？？？",
+   "jp": "今、僕の目の前にあるのは来栖乃々とは別の少女――。"
+  },
+  {
+   "id": "clkn01:23200",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留……」"
+  },
+  {
+   "id": "clkn01:23300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「だから、そんな顔するなって、乃々……じゃなくて、今は泉理か」"
+  },
+  {
+   "id": "clkn01:23400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn01:23500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "そう、彼女の名は南沢泉理。"
+  },
+  {
+   "id": "clkn01:23600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "信じがたいことではあるが、この南沢泉理こそ、さっきまで来栖乃々だった少女であり、そして彼女の本来の姿でもある。"
+  },
+  {
+   "id": "clkn01:23700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "外見の『⟦rb⟧複写⟦rt⟧コピー⟦/r⟧』"
+  },
+  {
+   "id": "clkn01:23800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "それこそが彼女の⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧としての能力なのだ。"
+  },
+  {
+   "id": "clkn01:23900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "複写と言っても、誰にでもなれるわけではない。"
+  },
+  {
+   "id": "clkn01:24000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "彼女がなれるのは、その能力の発動時に複写した姿――つまりあくまでも来栖乃々という少女の姿だけで、それ以外の人間になることはできない。"
+  },
+  {
+   "id": "clkn01:24100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "では来栖乃々とは何者か？"
+  },
+  {
+   "id": "clkn01:24200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それは南沢泉理の友人であり、憧れでもあった少女だ。"
+  },
+  {
+   "id": "clkn01:24300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "能力の発動時、南沢泉理という少女は、自分の憧れだった来栖乃々という少女に成りたいと、そう願った。"
+  },
+  {
+   "id": "clkn01:24400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その結果、彼女は自らの理想とする少女の姿、来栖乃々になったんだ。"
+  },
+  {
+   "id": "clkn01:24500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ちなみに、本物の来栖乃々という少女は、泉理がギガロマニアックスに覚醒したとほぼ時を同じくして、海外に留学してしまったそうだ。"
+  },
+  {
+   "id": "clkn01:24600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして南沢泉理は来栖乃々に成り代わった。"
+  },
+  {
+   "id": "clkn01:24700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今現在、本物の来栖乃々は海外留学中だが、彼女たちの古くからの友達は、南沢泉理が留学していると思い込んでいる――という、なんだかややこしい現象が起きているというわけだ。"
+  },
+  {
+   "id": "clkn01:24800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「そんなに後ろめたいなら、いっそのことその姿に戻ればいいのに」"
+  },
+  {
+   "id": "clkn01:24900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それは……無理よ」"
+  },
+  {
+   "id": "clkn01:25000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「どうして？」"
+  },
+  {
+   "id": "clkn01:25100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だって、皆は“来栖乃々”としての私を、生徒会長として支持してくれているんだもの」"
+  },
+  {
+   "id": "clkn01:25200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それが実は、こんな地味でなんの取り柄もない“南沢泉理”だなんてわかったら、きっと幻滅する」"
+  },
+  {
+   "id": "clkn01:25300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ううん、幻滅するだけならまだいいわ。今まで騙していたことに、怒りすら覚えるに違いないわ」"
+  },
+  {
+   "id": "clkn01:25400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「そんなこと――」"
+  },
+  {
+   "id": "clkn01:25500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「そんなことあるもん。拓留にはわからないのよ……こんな、辛気臭い姿の私が、周りからどんな風に思われるか……」"
+  },
+  {
+   "id": "clkn01:25600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "泉理はそう言うと、哀しそうに肩を落とした。"
+  },
+  {
+   "id": "clkn01:25700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに来栖乃々は、人を惹きつける外見の持ち主なのかもしれない。"
+  },
+  {
+   "id": "clkn01:25800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それに比べて、本当の彼女である南沢泉理は地味だ。"
+  },
+  {
+   "id": "clkn01:25900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど彼女の能力は、あくまでも外見の複写であって、その中身は変わらない。"
+  },
+  {
+   "id": "clkn01:26000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "つまり、学園での頭の良さも乃々でいるときの性格も、すべては彼女が本来持っていたものに他ならない。"
+  },
+  {
+   "id": "clkn01:26100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど、こうして本当の姿に戻ったとたん、彼女は途端に自信を無くしてしまう。"
+  },
+  {
+   "id": "clkn01:26200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それはおそらく、子どもの頃に植え付けられた、外見に対する極度のコンプレックスの表れでもあるのだろう。"
+  },
+  {
+   "id": "clkn01:26300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "困ったもんだ。"
+  },
+  {
+   "id": "clkn01:26400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "どうにかならないものか……。"
+  },
+  {
+   "id": "clkn01:26500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「とにかく、家にいる時はその姿に戻るって約束なんだ。今さらそうやって、引きこもったってはじまらないだろ」"
+  },
+  {
+   "id": "clkn01:26600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うん。それはわかってるつもり。ただ、その……久しぶりにこの姿で拓留の前に出ると思うと、急に不安になって……」"
+  },
+  {
+   "id": "clkn01:26700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "“家族同士隠しごとはしない”――それがこの青葉寮でのルールだ。"
+  },
+  {
+   "id": "clkn01:26800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そのルールに従って、彼女は⟦rb⟧青葉寮⟦rt⟧うち⟦/r⟧にいる時だけは本来の自分――南沢泉理でいるよう努めている。"
+  },
+  {
+   "id": "clkn01:26900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それでもやはり、自分に自信が持てないでいるのは変わらずらしい。"
+  },
+  {
+   "id": "clkn01:27000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "何かキッカケでもあれば、本来の自分の姿にも、自信が持てるのかもしれないんだが。"
+  },
+  {
+   "id": "clkn01:27100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「とにかく、僕は気にしてないからさ」"
+  },
+  {
+   "id": "clkn01:27200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「……うん、ありがと、拓留」"
+  },
+  {
+   "id": "clkn01:27300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "ようやく泉理の顔に、晴れ間がさした。"
+  },
+  {
+   "id": "clkn01:27400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "모두",
+   "jp": "「よし。久しぶりに家族全員揃ったな。そんじゃあ、いただきます！」"
+  },
+  {
+   "id": "clkn01:27500",
+   "type": "dialogue",
+   "speaker": "全員",
+   "speaker_ko": "모두",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "타치바나 유이",
+   "jp": "「「「「「いただきます」」」」」"
+  },
+  {
+   "id": "clkn01:27600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "모두",
+   "next_speaker": "타치바나 유이",
+   "jp": "久しぶりの青葉寮での夕飯は、カレーライスだった。"
+  },
+  {
+   "id": "clkn01:27700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "모두",
+   "next_speaker": "타치바나 유이",
+   "jp": "こんなに野菜がゴロゴロ入ってるカレーも、久しぶりだ。"
+  },
+  {
+   "id": "clkn01:27800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "모두",
+   "next_speaker": "타치바나 유이",
+   "jp": "その辺のカレーショップだと、具は入ってないもんな。"
+  },
+  {
+   "id": "clkn01:27900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "모두",
+   "next_speaker": "타치바나 유이",
+   "jp": "スプーンで掬ってひと口含む。"
+  },
+  {
+   "id": "clkn01:28000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "모두",
+   "next_speaker": "타치바나 유이",
+   "jp": "その時、じっと僕を見つめる視線に気づいた。"
+  },
+  {
+   "id": "clkn01:28100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "모두",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn01:28200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「……ど、どうした、結衣？」"
+  },
+  {
+   "id": "clkn01:28300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う、家で食べるカレーはどう？」"
+  },
+  {
+   "id": "clkn01:28400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「うん、美味いよ」"
+  },
+  {
+   "id": "clkn01:28500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほんと！？」"
+  },
+  {
+   "id": "clkn01:28600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「こんなことで嘘言ってもしょうがないだろ」"
+  },
+  {
+   "id": "clkn01:28700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「へへへ〜」"
+  },
+  {
+   "id": "clkn01:28800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「このカレー、結衣が作ったのよ」"
+  },
+  {
+   "id": "clkn01:28900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「そうなのか？」"
+  },
+  {
+   "id": "clkn01:29000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "「えっへん！！」"
+  },
+  {
+   "id": "clkn01:29100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "야마조에 우키",
+   "jp": "「僕とうき姉ちゃんも手伝ったよ。ね、うき姉ちゃん！」"
+  },
+  {
+   "id": "clkn01:29200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はい。お手伝いさせていただきました」"
+  },
+  {
+   "id": "clkn01:29300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「へぇ、これを結衣がねぇ……」"
+  },
+  {
+   "id": "clkn01:29400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今度は大きめのジャガイモと一緒に口に運ぶ。"
+  },
+  {
+   "id": "clkn01:29500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「うん、ほんとに美味いよ。泉理が作るのとそんなに変わらない」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「だって、泉理姉！」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「あらあら。じゃあ今度から、夕飯はずっと結衣に任せようかしら」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「え……それはちょっと……」"
+  }
+ ]
+}

@@ -1,0 +1,440 @@
+{
+ "packet_id": "CC0063-clka02-P02",
+ "kit_version": "1.0",
+ "source_file": "clka02.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "카즈키 하나"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "まったく落ち着いていなかった。"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「んーん」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "唇を閉じたまま首を横に振る。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ちっ、違う、のか？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕は心臓がバクバクしたまま聞くと、今度はこくりと頷いた。"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ん」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka02:10000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「僕が入った時、誰もいなかったと思うけど」"
+  },
+  {
+   "id": "clka02:10100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん」"
+  },
+  {
+   "id": "clka02:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月は首を僅かに動かし、口にくわえている棒付きキャンディー、ロリポップの棒で窓際を示した。"
+  },
+  {
+   "id": "clka02:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "窓際の隅の席には、ほぼ香月専用となっているパソコンが一台置かれている。"
+  },
+  {
+   "id": "clka02:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "衝立に隠れてディスプレイの画面はこちらからは見えないが、ぼんやりと点灯していることは分かった。"
+  },
+  {
+   "id": "clka02:10500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ずっと⟦col:280aa02d1400⟧エンスー⟦col:800000⟧してたのか？」"
+  },
+  {
+   "id": "clka02:10600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん」"
+  },
+  {
+   "id": "clka02:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "謎は全て解けた。"
+  },
+  {
+   "id": "clka02:10800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「悪い。気付かなかった」"
+  },
+  {
+   "id": "clka02:10900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んー」"
+  },
+  {
+   "id": "clka02:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "無言のジト目で睨んでくる。"
+  },
+  {
+   "id": "clka02:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "とはいえ、どちらかというと僕の方が被害者だ。変な独り言を聞かれてしまったではないか。"
+  },
+  {
+   "id": "clka02:11200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「みんなは？ 来てないのか？」"
+  },
+  {
+   "id": "clka02:11300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん」"
+  },
+  {
+   "id": "clka02:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月は作業机を指さす。学生鞄が幾つも置かれていた。"
+  },
+  {
+   "id": "clka02:11500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ああ、出かけてるのか」"
+  },
+  {
+   "id": "clka02:11600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん」"
+  },
+  {
+   "id": "clka02:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかし、そうなると、困った事になる。"
+  },
+  {
+   "id": "clka02:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "実は僕は、ここで一人で考え事をしたかったのだ。"
+  },
+  {
+   "id": "clka02:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月がいるとなると、ここでは無理だ。"
+  },
+  {
+   "id": "clka02:12000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ええと、うん」"
+  },
+  {
+   "id": "clka02:12100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clka02:12200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「伊藤に用があるんだ。探してくるよ」"
+  },
+  {
+   "id": "clka02:12300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "適当に嘘をつく。"
+  },
+  {
+   "id": "clka02:12400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん」"
+  },
+  {
+   "id": "clka02:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月は特に気にもせず、そのままいつもの席に戻った。"
+  },
+  {
+   "id": "clka02:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして黙々と⟦col:280aa02d1400⟧エンスー⟦col:800000⟧を始めた。"
+  },
+  {
+   "id": "clka02:12700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は邪魔をしないようにそっと部室を出た。"
+  },
+  {
+   "id": "clka02:12800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「……ふう」"
+  },
+  {
+   "id": "clka02:12900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "心臓に手を当てる。"
+  },
+  {
+   "id": "clka02:13000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「……まだ、ドキドキしてるな」"
+  },
+  {
+   "id": "clka02:13100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さすがに、目を開けた目の前に香月が立っているのは焦った。"
+  },
+  {
+   "id": "clka02:13200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかも、普段はほぼ会話のない香月と、触れ合わんばかりに接近したのだ。"
+  },
+  {
+   "id": "clka02:13300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "存在感が薄いから見過ごされがちだが、香月のスタイルは新聞部随一と言っても過言無いくらいなのだ。"
+  },
+  {
+   "id": "clka02:13400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "健全な男子高校生として、ドキドキしない方がおかしいだろう。"
+  },
+  {
+   "id": "clka02:13500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka02:13600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……さて」"
+  },
+  {
+   "id": "clka02:13700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「一人になれる場所を探そう」"
+  },
+  {
+   "id": "clka02:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "後で怪しまれても困るから、伊藤を捜しつつ丁度良い場所を探そう。"
+  },
+  {
+   "id": "clka02:13900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じっくり考えなければいけない」"
+  },
+  {
+   "id": "clka02:14000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は歩き出しながら、ポケットからスマホを取り出した。"
+  },
+  {
+   "id": "clka02:14100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「冷静に、かつ論理的に、結論を出さなければならない」"
+  },
+  {
+   "id": "clka02:14200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、今朝捨てアカから送られてきた『あの画像』を表示させる。"
+  },
+  {
+   "id": "clka02:14300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――この自撮りに映っているのが、一体、誰なのかということを」"
+  }
+ ],
+ "context_after": []
+}

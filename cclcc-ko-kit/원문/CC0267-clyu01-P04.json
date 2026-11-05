@@ -1,0 +1,966 @@
+{
+ "packet_id": "CC0267-clyu01-P04",
+ "kit_version": "1.0",
+ "source_file": "clyu01.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "사쿠마 와타루",
+  "야마조에 우키",
+  "여자",
+  "오노에 세리카",
+  "쿠루스 노노",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "結衣が悩み、ね……。"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ほら、拓留が出ていく前は、父さんの手伝いとかやってくれてたのは知ってるでしょ？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「まあ……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "あまり進んで、という感じではなかったけど、それでも青葉寮の一員として一生懸命手伝おうとしている姿勢は見えた。"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「でも、今はうきがいるじゃない？ 父さんの手伝いも、家の手伝いもあの子が進んでやってくれるようになって……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「居場所がとられちゃったってわけか……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu01:30000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "乃々は小さく頷いた。"
+  },
+  {
+   "id": "clyu01:30100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "確かに、うきは他人のために尽くすことが生きがいみたいなところがある。"
+  },
+  {
+   "id": "clyu01:30200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "今まで結衣がやっていたようなことも、本人が気づくよりも先にやってしまうのだそうだ。"
+  },
+  {
+   "id": "clyu01:30300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "しかも、非のつけようのないクオリティで……。"
+  },
+  {
+   "id": "clyu01:30400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そんな状況だから、自然と⟦col:280aa02d1400⟧青葉医院⟦col:800000⟧に来る患者さんの覚えも良くなる。"
+  },
+  {
+   "id": "clyu01:30500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "となると――。"
+  },
+  {
+   "id": "clyu01:30600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「自分でもダメってわかってても、どうしても比較しちゃうみたいなの……」"
+  },
+  {
+   "id": "clyu01:30700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それで最近、いろいろと悩むようになって……」"
+  },
+  {
+   "id": "clyu01:30800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なるほどね。"
+  },
+  {
+   "id": "clyu01:30900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣は以前、大人になったら看護師さんになって、父さんの手伝いをしようかな……なんて言っていたこともある。"
+  },
+  {
+   "id": "clyu01:31000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もちろん、それは会話の中でふと出てきた言葉だったし、父さんを喜ばせるためでもあったとは思うけど……。"
+  },
+  {
+   "id": "clyu01:31100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それでも、あの年頃の女の子を悩ませるには充分な状況であるのかもしれない。"
+  },
+  {
+   "id": "clyu01:31200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「話はわかったよ。でもなんで僕なんだ？ 相談なら来栖が乗ってやればいいだろ？」"
+  },
+  {
+   "id": "clyu01:31300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……私もそれとなく訊いてみようとしたことはあったの。でも、はぐらかされちゃって……」"
+  },
+  {
+   "id": "clyu01:31400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "となると、家にいて話が聞けるのは、父さんと結人とうきくらいか。"
+  },
+  {
+   "id": "clyu01:31500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "その中でうきは原因でもあるわけで、結人も相談できる年でもない。"
+  },
+  {
+   "id": "clyu01:31600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "父さんは……あのとおりの人だから。"
+  },
+  {
+   "id": "clyu01:31700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私ってほら、少し口うるさいところがあるでしょ？ だから言いにくいのかもしれないし、その点、拓留ならって……」"
+  },
+  {
+   "id": "clyu01:31800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「⟦rb⟧結衣⟦rt⟧あのこ⟦/r⟧、拓留に懐いてるところもあるし……」"
+  },
+  {
+   "id": "clyu01:31900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なんだよ。そんなこと言ってるけど、結局は消去法じゃないか。"
+  },
+  {
+   "id": "clyu01:32000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「でも、そういう悩みなら誰だってあるもんじゃないのか」"
+  },
+  {
+   "id": "clyu01:32100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それはそうだけど……」"
+  },
+  {
+   "id": "clyu01:32200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だいいち、悩みが深刻なら、そのうち自分から言ってくるだろ。それに僕にあの年頃の女の子の相談に乗れるとも思えないし、そもそも僕には関係な――」"
+  },
+  {
+   "id": "clyu01:32300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留〜……？」"
+  },
+  {
+   "id": "clyu01:32400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clyu01:32500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ヤバイ。乃々の声のトーンが上がった。"
+  },
+  {
+   "id": "clyu01:32600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "これはまた……踏んじゃったか？"
+  },
+  {
+   "id": "clyu01:32700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「関係ない？ 今、関係ないって言ったわよね？」"
+  },
+  {
+   "id": "clyu01:32800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、いや、今のはそれこそ、言葉のあやというやつで……」"
+  },
+  {
+   "id": "clyu01:32900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「家族の将来の話をしているのに関係ないですって？ まさか、本気で言ったんじゃないでしょうね！」"
+  },
+  {
+   "id": "clyu01:33000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あー！ そういや、ちょうど久しぶりに家に顔出そうかと思ってたんだよな！」"
+  },
+  {
+   "id": "clyu01:33100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「せっかくだからしばらくの間、家で結衣の様子でもみてみようかと思うんだけど、どうだろ？」"
+  },
+  {
+   "id": "clyu01:33200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……そう。だったらいいんだけど」"
+  },
+  {
+   "id": "clyu01:33300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu01:33400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "頭の中で尾上の声が聞こえた。"
+  },
+  {
+   "id": "clyu01:33500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『ほんと、タクはのんちゃんには弱いねぇ……』"
+  },
+  {
+   "id": "clyu01:33600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "大きなお世話だ。自分でもわかってるよ。"
+  },
+  {
+   "id": "clyu01:33700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ただいま」"
+  },
+  {
+   "id": "clyu01:33800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれぇ？ 拓留兄ちゃん！？」"
+  },
+  {
+   "id": "clyu01:33900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伺うように家に上がると、僕の姿を見た結人が目を丸くした。"
+  },
+  {
+   "id": "clyu01:34000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「久しぶり」"
+  },
+  {
+   "id": "clyu01:34100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうしたの？ 帰って来たの？」"
+  },
+  {
+   "id": "clyu01:34200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「まあ、しばらく……」"
+  },
+  {
+   "id": "clyu01:34300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうして？」"
+  },
+  {
+   "id": "clyu01:34400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「たまには結人たちの顔が見たくなってさ」"
+  },
+  {
+   "id": "clyu01:34500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ほんと！？ やった！ 僕も拓留兄ちゃんに会いたかったよ」"
+  },
+  {
+   "id": "clyu01:34600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "乃々に脅されて、なんて本当のことは言えない。"
+  },
+  {
+   "id": "clyu01:34700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それに、帰る道すがら、僕の中では少しだけ思考に変化があった。"
+  },
+  {
+   "id": "clyu01:34800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "もしも――ここで僕が結衣の悩みとやらを見事に解決してやれば……そうすれば、乃々も少しは僕を見直すことだろう。"
+  },
+  {
+   "id": "clyu01:34900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "今までみたいに、頼りない弟扱いしなくなるかもしれないし、そうなれば僕のやることなすこと、いちいち口出ししなくなるかもしれない。"
+  },
+  {
+   "id": "clyu01:35000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それは、これからの僕の人生において、大変なプラスになるんじゃないだろうか――。"
+  },
+  {
+   "id": "clyu01:35100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「あら？ 結人だけ？ うきや結衣は？」"
+  },
+  {
+   "id": "clyu01:35200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふたりとも、お父さんのところでお手伝いしてるんじゃないかな」"
+  },
+  {
+   "id": "clyu01:35300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "父さんのところってことは、病院のほうか。"
+  },
+  {
+   "id": "clyu01:35400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「ちょっと見てくる」"
+  },
+  {
+   "id": "clyu01:35500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "僕はこっそりと自宅に併設している、⟦col:280aa02d1400⟧青葉医院⟦col:800000⟧を覗いてみることにした。"
+  },
+  {
+   "id": "clyu01:35600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「うき。これ、頼む」"
+  },
+  {
+   "id": "clyu01:35700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "여자",
+   "jp": "「はい」"
+  },
+  {
+   "id": "clyu01:35800",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「うきちゃんはいつもお手伝いして、小さいのに偉いねぇ」"
+  },
+  {
+   "id": "clyu01:35900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": "여자",
+   "jp": "「いえ。好きでやってることですから」"
+  },
+  {
+   "id": "clyu01:36000",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ほら、飴ちゃんあげる。あとでお食べ」"
+  },
+  {
+   "id": "clyu01:36100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「……ありがとうございます」"
+  },
+  {
+   "id": "clyu01:36200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「おーい、うき。アレ、どこやったっけな？ えーっと、ほら、アレだ！」"
+  },
+  {
+   "id": "clyu01:36300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「聴診器なら首にかかってます」"
+  },
+  {
+   "id": "clyu01:36400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ん？ ああ、ほんとだ。年取ると、すぐこれだ。イヤんなるぜ」"
+  },
+  {
+   "id": "clyu01:36500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「それにしても、うき。お前、よくわかったな」"
+  },
+  {
+   "id": "clyu01:36600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「お父さんの様子を見てたらなんとなく」"
+  },
+  {
+   "id": "clyu01:36700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ははっ、さすがだな」"
+  },
+  {
+   "id": "clyu01:36800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうだった？」"
+  },
+  {
+   "id": "clyu01:36900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "青葉寮に戻ると、夕飯の準備に取り掛かろうとしていた乃々が訊いてきた。"
+  },
+  {
+   "id": "clyu01:37000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유토",
+   "jp": "「うきしかいなかったよ」"
+  },
+  {
+   "id": "clyu01:37100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "少し見ただけだけど、あの調子だと確かに、うきひとりで事足りてるように見えた。"
+  },
+  {
+   "id": "clyu01:37200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "となると、結衣が所在なく感じてしまうのも無理はない。"
+  },
+  {
+   "id": "clyu01:37300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃあ、お姉ちゃんは部屋かも」"
+  },
+  {
+   "id": "clyu01:37400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「部屋ね……」"
+  },
+  {
+   "id": "clyu01:37500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は結衣の部屋へと足を運ぼうとして、その前にふと思い立ち、結人のそばに近寄った。"
+  },
+  {
+   "id": "clyu01:37600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「なあ、結人。最近、結衣に変わったことはないか？」"
+  },
+  {
+   "id": "clyu01:37700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「変わったことって？」"
+  },
+  {
+   "id": "clyu01:37800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「そうだな……何か悩んでるとか……」"
+  },
+  {
+   "id": "clyu01:37900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うーん……悩んでるかどうかはわかんないけど……最近、いっつもノートに一生懸命なにか書いてるみたい」"
+  },
+  {
+   "id": "clyu01:38000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ノートに？ なにを？」"
+  },
+  {
+   "id": "clyu01:38100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "「さあ。お姉ちゃん、見ようとしたら怒るし」"
+  },
+  {
+   "id": "clyu01:38200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "……それが、結衣の悩みに関係あることだろうか？"
+  },
+  {
+   "id": "clyu01:38300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "結衣の部屋の前でノックをすると、中から何やら慌てたような音が聞こえた。"
+  },
+  {
+   "id": "clyu01:38400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「誰！？」"
+  },
+  {
+   "id": "clyu01:38500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「僕だ。開けていいか？」"
+  },
+  {
+   "id": "clyu01:38600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留兄！？ ちょっと待って！！」"
+  },
+  {
+   "id": "clyu01:38700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "再びゴソゴソと音がしていたが、やがて――。"
+  },
+  {
+   "id": "clyu01:38800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いいよ。どうぞ」"
+  },
+  {
+   "id": "clyu01:38900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "声に従って扉を開けると、勉強机を背に結衣が立っていた。"
+  },
+  {
+   "id": "clyu01:39000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「た、拓留兄……帰ってたんだ」"
+  },
+  {
+   "id": "clyu01:39100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ん、まあ……ちょっとな」"
+  },
+  {
+   "id": "clyu01:39200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃ、これからずっと家にいるの？」"
+  },
+  {
+   "id": "clyu01:39300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「いや、とりあえず今日だけで、明日になればまた帰るよ」"
+  },
+  {
+   "id": "clyu01:39400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なぁんだ。残念。またみんなで暮らせるかと思ったのにな」"
+  },
+  {
+   "id": "clyu01:39500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣は口を尖らせて言った。"
+  },
+  {
+   "id": "clyu01:39600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その口調からは、乃々が言ったような深刻な様子はうかがうことはできない。"
+  },
+  {
+   "id": "clyu01:39700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど――。"
+  },
+  {
+   "id": "clyu01:39800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「そういや、何してたんだ？」"
+  },
+  {
+   "id": "clyu01:39900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「え？ 何って、その……べ、勉強だよ？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "勉強ね……。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その割には、確かに目が泳いでいた……。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ノートに何か書いてるらしいって、結人が言ってたけど、やはりそれも何か関係があるのかもしれない。"
+  }
+ ]
+}

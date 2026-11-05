@@ -1,0 +1,762 @@
+{
+ "packet_id": "CC0150-clse05-P02",
+ "kit_version": "1.0",
+ "source_file": "clse05.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카"
+ ],
+ "context_before": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「う？ もちろんだよ。だからここに来たんだもん」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「部活は？」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「もちろん中止。みんなでタクを探してるから。あと、とうとう警察まで来てね、なんかすごいんだよ。でも、絶対に見つけさせないもんね」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "まだ少しむくれている尾上は、それでも僕の世話をかいがいしくしてくれながら、そう答えた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（よし。警察ってことは、神成さんも来てるはずだ。これで、脱出できる可能性が上がった）"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「はい、終わり。どう？ すっきりした？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse05:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「え？ あ、ありがとう。でも、『すっきりした？』って言い方、なんかちょっとエロいな……」"
+  },
+  {
+   "id": "clse05:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "照れ隠しに、僕はちょっと軽口を叩いた。"
+  },
+  {
+   "id": "clse05:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――だけのつもりだったのだが。それが良くなかった。"
+  },
+  {
+   "id": "clse05:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "尾上は、こんな大胆な犯行に及んでいながら、実は⟦rb⟧初心⟦rt⟧うぶ⟦/r⟧もいいところで、まるでコミックかなにかのヒロインみたいに顔を真っ赤に染めた。"
+  },
+  {
+   "id": "clse05:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、（ここからはコミックのヒロインと全く違うところだが）ベッドの下の箱らしきものから、巨大な⟦rb⟧鉄鋏⟦rt⟧かなばさみ⟦/r⟧を引っ張り出してきたのだ。"
+  },
+  {
+   "id": "clse05:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦rb⟧鉄鋏⟦rt⟧かなばさみ⟦/r⟧というのは、よく刀鍛冶が、灼熱に溶けた⟦rb⟧鋼⟦rt⟧はがね⟦/r⟧をドッカンバッカン打つ時に使う、凶悪な大型ペンチのようなアレだ。"
+  },
+  {
+   "id": "clse05:6100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うわぁぁぁーーーっ！？」"
+  },
+  {
+   "id": "clse05:6200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タ、タ、タクはっ、昔はそんなこと言う子じゃなかった！ やっぱりゲンさんの持ってくる本のせいで変になったんだっ！ そういう子はおしおきなんだからぁ！」"
+  },
+  {
+   "id": "clse05:6300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「違う！ 今のはただの冗談だって！！ それよりお前、何する気だっ！？」"
+  },
+  {
+   "id": "clse05:6400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「これでタクの、い、い、い、⟦col:280aa02d1400⟧いけないモノ⟦col:800000⟧をはさんで！ 泣いて謝るまで、力いっぱいむぎゅーってする！」"
+  },
+  {
+   "id": "clse05:6500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「泣いて謝るどころか１秒で死ぬっ！ もう言わないから、やめてくれーっ！」"
+  },
+  {
+   "id": "clse05:6600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほんと！？」"
+  },
+  {
+   "id": "clse05:6700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ほんとほんと！」"
+  },
+  {
+   "id": "clse05:6800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……誠意が感じられない。やっぱり⟦rb⟧挟⟦rt⟧はさ⟦/r⟧んじゃう」"
+  },
+  {
+   "id": "clse05:6900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ごめん、尾上っ！ 深く反省してるから！」"
+  },
+  {
+   "id": "clse05:7000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん〜……」"
+  },
+  {
+   "id": "clse05:7100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……んもう、分かったよぉ」"
+  },
+  {
+   "id": "clse05:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "尾上は、『まぁ、仕方ないか』という表情になると、⟦rb⟧鉄鋏⟦rt⟧かなばさみ⟦/r⟧を床に放り出した。"
+  },
+  {
+   "id": "clse05:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "鋼鉄製の道具がコンクリートの床とぶつかり、ゴトーンという超重量級の不穏な音を立てた。"
+  },
+  {
+   "id": "clse05:7400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "（お、おい、尾上……？ その音から察するに、今の鉄鋏、かなり重くて硬かったよな？ な？）"
+  },
+  {
+   "id": "clse05:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "あんなものでおしおきされたら、１秒どころか、その半分も持たないに違いない。"
+  },
+  {
+   "id": "clse05:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "これは、脱出するためだけでなく、肉体的な危機を回避する意味でも、絶対に尾上に逆らったらダメだと、完全に思い知らされた。"
+  },
+  {
+   "id": "clse05:7700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おほんおほん。途中、タクのえっちな邪魔が入りましたが、これからお待ちかねのお弁当タイムでーす！」"
+  },
+  {
+   "id": "clse05:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "思考盗撮を使えない尾上は、僕の心中の焦りを知らず、急に機嫌よくなって、通学カバンからお弁当箱を取り出した。"
+  },
+  {
+   "id": "clse05:7900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "そして、パックされたフタを、ややじらすように開く。"
+  },
+  {
+   "id": "clse05:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "途端にものすごくいい香りが、殺風景な室内に広がった。"
+  },
+  {
+   "id": "clse05:8100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「今日はなんと、私の手作りハンバーグです。実は、内緒でうきちゃんに教わったんだよ！」"
+  },
+  {
+   "id": "clse05:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "うきに教わった、ということは、うきの料理の師匠……つまり来栖に教わったのと同じことだ。"
+  },
+  {
+   "id": "clse05:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "けれど、やはりここでも、尾上は来栖の名を出そうとはしない。"
+  },
+  {
+   "id": "clse05:8400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「しかもね、とってもおいしく出来たんだ。お昼、クラスのみんなにほめられちゃった。えへへぇ。食べたい？食べたい？」"
+  },
+  {
+   "id": "clse05:8500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ああ！ ほんとにお腹すいてるし、頼む！」"
+  },
+  {
+   "id": "clse05:8600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だよね！ ただ、その……」"
+  },
+  {
+   "id": "clse05:8700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タクはベッドにはりつけになってるから、普通には食べられないよね」"
+  },
+  {
+   "id": "clse05:8800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse05:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "尾上の目が、一瞬、ニコリと笑ったように見えたのは気のせいだろうか？"
+  },
+  {
+   "id": "clse05:9000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うーん、どうやったら食べてもらえるかなあ」"
+  },
+  {
+   "id": "clse05:9100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「どうやってって……両手がこれじゃあ、食べられないし……」"
+  },
+  {
+   "id": "clse05:9200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いつもみたいに、両手の鎖をちょっとだけ緩めてくれれば……」"
+  },
+  {
+   "id": "clse05:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕が戸惑いながらそう答えると、それまで自分のお弁当に対して得意げだった尾上が、なぜか急にモジモジしはじめた。"
+  },
+  {
+   "id": "clse05:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "そして、"
+  },
+  {
+   "id": "clse05:9500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、あのね。せっかく、その……こ、恋人同士になったんだし……ええっと……あれ、やってみたい」"
+  },
+  {
+   "id": "clse05:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「……あれ、って？」"
+  },
+  {
+   "id": "clse05:9700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれは、アレだよ！ ほら、みんなよくやってるでしょ？ 『⟦col:280aa02d1400⟧はい、あ〜ん⟦col:800000⟧』ってやつ」"
+  },
+  {
+   "id": "clse05:9800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「『はい、あ〜ん』……だと？」"
+  },
+  {
+   "id": "clse05:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "あの、僕から見たら呪術的としか思えないアレを、カップル連中はみんなやってるというのか？"
+  },
+  {
+   "id": "clse05:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "経験がないので、さっぱり分からない。"
+  },
+  {
+   "id": "clse05:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "けれど尾上は、"
+  },
+  {
+   "id": "clse05:10200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「わ、私、けっこう⟦rb⟧憧⟦rt⟧あこが⟦/r⟧れてたんだぁ。えへ」"
+  },
+  {
+   "id": "clse05:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "と照れながら、身もだえした。"
+  },
+  {
+   "id": "clse05:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それから彼女は、ベッドのわきに付いている錆びついたクランクを、ギシギシ音を立てながら回しはじめた。"
+  },
+  {
+   "id": "clse05:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ベッドの上半身部分が、今にも壊れてしまいそうに振動しつつも起き上がり、僕が物を食べたり飲んだり出来る程度の角度になる。"
+  },
+  {
+   "id": "clse05:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして彼女は、『はい、あ〜ん』を期待する目で、僕の顔をじっと見つめた。"
+  },
+  {
+   "id": "clse05:10700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「…………。あ、ああ。うん、分かった。せ、せっかくだし。食べさせてもらおうか、な」"
+  },
+  {
+   "id": "clse05:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕は、気恥ずかしくて仕方なかったが、素直に従っておくことにした。"
+  },
+  {
+   "id": "clse05:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "とにかく、彼女に逆らわないようにすることが第一だ。"
+  },
+  {
+   "id": "clse05:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "さらに言うと、ここで彼女を怒らせて、夕食まで抜きになってしまったら……逃げ出す時の体力がもたないかも知れない。"
+  },
+  {
+   "id": "clse05:11100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えっ！？ いいのっ！？」"
+  },
+  {
+   "id": "clse05:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "尾上のやつ、自分で言い出しておいて自分で仰天している。"
+  },
+  {
+   "id": "clse05:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それが面白くて、こんな場合なのに、つい吹き出してしまった。"
+  },
+  {
+   "id": "clse05:11400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「おいおい。やりたいって言い出したのはそっちだろう？」"
+  },
+  {
+   "id": "clse05:11500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「で、でもさぁ、うう……」"
+  },
+  {
+   "id": "clse05:11600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「って！ 私とタクは、今は恋人同士になったんだもんね。やっちゃっていいよね！」"
+  },
+  {
+   "id": "clse05:11700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「だから、『やっちゃう』とか誤解されそうなこと言うなよ……」"
+  },
+  {
+   "id": "clse05:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "やがて尾上は、おそるおそる、お弁当箱の中のハンバーグをフォークで小さく切り分けた。"
+  },
+  {
+   "id": "clse05:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "そして、ついに。"
+  },
+  {
+   "id": "clse05:12000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「は、はい……あ〜〜ん……」"
+  },
+  {
+   "id": "clse05:12100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ、あ、あ〜〜ん……」"
+  },
+  {
+   "id": "clse05:12200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "ええい、クソ。笑いたければ笑え！"
+  },
+  {
+   "id": "clse05:12300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕も尾上も、こんなの初めてなんだ！ 慣れてないんだ！"
+  },
+  {
+   "id": "clse05:12400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "尾上の突き出したハンバーグが僕の口じゃなくて鼻に突っ込まれそうになった事とか、そんなのは許容範囲！"
+  },
+  {
+   "id": "clse05:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "やがて……というか、ようやく僕の口元にちゃんと差し出された香りのいいハンバーグ。そこからしたたり落ちそうになっている肉汁が、食欲をそそってくる。"
+  },
+  {
+   "id": "clse05:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕がそれに向かって大きく口を開くと、彼女は、なんとか僕にそれを食べさせることに成功した。"
+  },
+  {
+   "id": "clse05:12700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "その慣れていないおずおずとした仕草が、これまでの尾上とは少し違っていて、妙に可愛かった。"
+  },
+  {
+   "id": "clse05:12800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ど、どう……？」"
+  },
+  {
+   "id": "clse05:12900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うん！ すごく、おいしい！」"
+  },
+  {
+   "id": "clse05:13000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "お世辞ぬきで、それは美味だった。"
+  },
+  {
+   "id": "clse05:13100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もちろん、拘束されてから何も食べていないということもあるけれど、それを差し引いても――。"
+  },
+  {
+   "id": "clse05:13200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「お前、本当に料理、うまくなったな！ 驚いたよ！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「や、やだぁ。そんなにほめないでよー」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "彼女はさらに真っ赤になると、ハンバーグだけでなく、付けあわせの野菜なども小さく切っては、何度も僕の口に入れてくれた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "気が付くと、僕は尾上の手作りのお弁当を全て食べ終えていた。"
+  }
+ ]
+}

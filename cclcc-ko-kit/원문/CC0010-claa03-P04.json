@@ -1,0 +1,795 @@
+{
+ "packet_id": "CC0010-claa03-P04",
+ "kit_version": "1.0",
+ "source_file": "claa03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신문부원들",
+  "야마조에 우키",
+  "에린",
+  "오노에 세리카",
+  "이토 신지",
+  "카와하라 마사시",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "驚いて振り返ると、そこにいたのは――"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「あ、川原くん……」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「やっぱりここだったか」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "生徒会の副会長が、文字通り“上から目線”で立っていた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「……えと……何か？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕は、彼が少し……いや、かなり苦手だ。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "claa03:24200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "生徒会の会長である来栖のサポートを完璧にこなす優等生。また、彼女の幼馴染でもある。"
+  },
+  {
+   "id": "claa03:24300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そんな彼にしてみれば、来栖の生徒会活動の時間を削る僕ら新聞部は邪魔以外の何者でもなくて、なにかというと、目のかたきにしてくるのだ。"
+  },
+  {
+   "id": "claa03:24400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "에린",
+   "jp": "「何か用、ですか？」"
+  },
+  {
+   "id": "claa03:24500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "僕はもう一回、おずおずと尋ねた。"
+  },
+  {
+   "id": "claa03:24600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "彼がこういう態度とともに現われる時は、ロクな話じゃないことが多い。"
+  },
+  {
+   "id": "claa03:24700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "しかも、"
+  },
+  {
+   "id": "claa03:24800",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「よく来たな。まぁ、ゆっくりとしていくがよい」"
+  },
+  {
+   "id": "claa03:24900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "에린",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "店員さんが厨房から顔を出し、いつもの調子で言ったのに対し、よりにもよって彼は『いや、結構。彼に用件だけ伝えてすぐに帰りますから』と言い放ちやがった。"
+  },
+  {
+   "id": "claa03:25000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "에린",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "途端に店員さんは、明らかにムスッとした顔になる。"
+  },
+  {
+   "id": "claa03:25100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "에린",
+   "next_speaker": "카와하라 마사시",
+   "jp": "（バカ川原！ 今のは、『そんな所に突っ立ってないで、さっさと座って注文しろ』って意味だから！）"
+  },
+  {
+   "id": "claa03:25200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "こんなことで店員さんの機嫌を損ねて、僕らまで出入り禁止になったらどうすんだよ？"
+  },
+  {
+   "id": "claa03:25300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "しかし、僕の目線だけでの抗議など気づかない様子で、川原くんは店内をジロジロと見回した。"
+  },
+  {
+   "id": "claa03:25400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うん？ 生徒会長がいないな」"
+  },
+  {
+   "id": "claa03:25500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「来栖なら、先に帰りましたよ。今日は、青葉寮の食事当番だとか……」"
+  },
+  {
+   "id": "claa03:25600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうか。会長の前では話しづらいことだったからな。ちょうどいい」"
+  },
+  {
+   "id": "claa03:25700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:25800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "うわあ！ なんて白々しい！"
+  },
+  {
+   "id": "claa03:25900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "今日ここに来栖がいないのを知ってて――それで来たくせに！"
+  },
+  {
+   "id": "claa03:26000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "僕ら全員、思いっきり冷めた目をしたが、彼は全く意に介することもなく話し始めた。このふてぶてしさだけは、ちょっとうらやましい。"
+  },
+  {
+   "id": "claa03:26100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「実は生徒会の話なんだけどな。今の季節は学校行事も多くて、結構忙しいんだ」"
+  },
+  {
+   "id": "claa03:26200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「はぁ……」"
+  },
+  {
+   "id": "claa03:26300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「当然、生徒会長の負担もかなり大きくなっている。そのせいで来栖は、休みの日まで仕事をしてくれてるんだ」"
+  },
+  {
+   "id": "claa03:26400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "それは、確かにその通りだった。"
+  },
+  {
+   "id": "claa03:26500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "休日に青葉寮を訪ねていくと、来栖が、生徒会主催の行事の計画表やら、予算の計算やら、道具の手配やらをしているのを見かける。"
+  },
+  {
+   "id": "claa03:26600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「しかも、勉強も欠かさず、テストの成績は常にトップクラスだ。彼女がどれだけ大変な思いをしてるか分かるよな？」"
+  },
+  {
+   "id": "claa03:26700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:26800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "あー、なるほど。"
+  },
+  {
+   "id": "claa03:26900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "その後に続く言葉が分かった。"
+  },
+  {
+   "id": "claa03:27000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "『だから、新聞部なんかの活動で、来栖を引っ張り回すな』だ。"
+  },
+  {
+   "id": "claa03:27100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「今の新聞部は、集まってもただ遊んでいるだけ。何の役にも立ってないじゃないか。そんな活動に、彼女の貴重な時間を浪費させないでくれないか」"
+  },
+  {
+   "id": "claa03:27200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "이토 신지",
+   "jp": "「待ってよ、川原くん。僕らは別に遊んでるわけじゃない……」"
+  },
+  {
+   "id": "claa03:27300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「全くだ。色々と取材したり、結構ハードなんだからな」"
+  },
+  {
+   "id": "claa03:27400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「取材だって？ そもそも、他の学校の、健全な新聞部というものを知っているのか？」"
+  },
+  {
+   "id": "claa03:27500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「彼らは、学校行事の特集をしたり、インターハイを目指している部活や生徒をピックアップしたり……学校にとって有意義な紙面を作ってる」"
+  },
+  {
+   "id": "claa03:27600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それに対して、キミたちは――なんだか分からない⟦col:280aa02d1400⟧都市伝説⟦col:800000⟧だの、あやしいウワサの調査だの。そういうのは、学校新聞のやることなのか？」"
+  },
+  {
+   "id": "claa03:27700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「う……」"
+  },
+  {
+   "id": "claa03:27800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "痛い所を、ストレートに突かれてしまった。"
+  },
+  {
+   "id": "claa03:27900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "これは確かに言い返せない。"
+  },
+  {
+   "id": "claa03:28000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신문부원들",
+   "jp": "「生徒会としては、そんな部に貴重な部費など配分出来ない。そう思わないか？」"
+  },
+  {
+   "id": "claa03:28100",
+   "type": "dialogue",
+   "speaker": "新聞部員たち",
+   "speaker_ko": "신문부원들",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「「「「ええっ？」」」」"
+  },
+  {
+   "id": "claa03:28200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "카와하라 마사시",
+   "jp": "ちょ、ちょっと待て。"
+  },
+  {
+   "id": "claa03:28300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "카와하라 마사시",
+   "jp": "もしかして部費を削減するって話か？"
+  },
+  {
+   "id": "claa03:28400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "카와하라 마사시",
+   "jp": "それは困る。今でも少なくて困ってるのに。"
+  },
+  {
+   "id": "claa03:28500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "카와하라 마사시",
+   "jp": "川原くんは、生徒会の意図を僕が察したとみて、さらに偉そうにひとつうなずいた。"
+  },
+  {
+   "id": "claa03:28600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "신문부원들",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もちろん、すぐに部費を減らすような横暴な真似はしない。キミたち含めて、活動実態の怪しい部の活動を、これからしばらくチェックさせてもらう。そういう話だ」"
+  },
+  {
+   "id": "claa03:28700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「あ、あの、来栖も――生徒会長も承知してるんですか、そのこと？」"
+  },
+  {
+   "id": "claa03:28800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふっ。来栖に泣きつこうとしても無駄だ。そもそも俺の言ってることは正論なんだからな、いくら来栖にすがりついても……あー、ダメなものはダメに決まってる」"
+  },
+  {
+   "id": "claa03:28900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "……ん？"
+  },
+  {
+   "id": "claa03:29000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "川原くん、なんかいきなり弱腰になったな……。"
+  },
+  {
+   "id": "claa03:29100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう。これは生徒会として正しい行為なんだ。来栖に言いつけるとか、そういう卑怯なことはするな。というか、来栖には絶対に言うなよ。俺と宮代――男と男の勝負なんだからな！」"
+  },
+  {
+   "id": "claa03:29200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "え？ 男と男の勝負って、"
+  },
+  {
+   "id": "claa03:29300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いつからそういう話になったんだ？"
+  },
+  {
+   "id": "claa03:29400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「えと、あの――」"
+  },
+  {
+   "id": "claa03:29500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "에린",
+   "jp": "「それじゃあな、宮代！」"
+  },
+  {
+   "id": "claa03:29600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "에린",
+   "jp": "僕が⟦rb⟧尋⟦rt⟧たず⟦/r⟧ねる間もなく一方的にまくしたてると、川原くんはさっさとカフェを出て行ってしまった。"
+  },
+  {
+   "id": "claa03:29700",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「客ではない者は、もう来るでないぞ」"
+  },
+  {
+   "id": "claa03:29800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "에린",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そんな川原くんの背中を、店員さんのイヤミな声だけが追いかけた。"
+  },
+  {
+   "id": "claa03:29900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "（なるほど、これはつまり……）"
+  },
+  {
+   "id": "claa03:30000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "来栖は、たとえどんな部であろうと、部員が楽しく、そして仲良く活動出来てさえいればいいと、いつも言っている。"
+  },
+  {
+   "id": "claa03:30100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だから、いきなり部費を削るとか、そういう暴挙に出るわけがないんだ。"
+  },
+  {
+   "id": "claa03:30200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "たとえ『女帝』と恐れられていようと、彼女はいきなりそんなことはしない。"
+  },
+  {
+   "id": "claa03:30300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "要するに、今回の件は川原くんが勝手に主導していて、来栖には秘密になってるってわけだ。"
+  },
+  {
+   "id": "claa03:30400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど、川原くんも来栖には頭が上がらない……というより、鬼の女帝様を怖がっている。だから、わざわざ僕に口止めをしたんだ。"
+  },
+  {
+   "id": "claa03:30500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「……よし」"
+  },
+  {
+   "id": "claa03:30600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いいだろうっ。"
+  },
+  {
+   "id": "claa03:30700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "来栖抜きの『男と男の勝負』、受けて立とうじゃないかっ。"
+  },
+  {
+   "id": "claa03:30800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それで、もし負けそうになったら……川原くんとの約束を守る義理なんてないし、来栖に言いつけてやればいいだけだ。ふはははは！"
+  },
+  {
+   "id": "claa03:30900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "（…………。いま尾上に思考盗撮されてたら、『タクってばサイテー』とか言われそうだな）"
+  },
+  {
+   "id": "claa03:31000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だが、まあいい！"
+  },
+  {
+   "id": "claa03:31100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "部費の削減――とにかくそれだけは、なんとしても阻止しなくてはならない！"
+  },
+  {
+   "id": "claa03:31200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、次の日曜日――"
+  },
+  {
+   "id": "claa03:31300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:31400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ねーねー！ タク！ こっちとこっち、どっちの服が可愛いと思うー？」"
+  },
+  {
+   "id": "claa03:31500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「こっちよね、拓留？」"
+  },
+  {
+   "id": "claa03:31600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:31700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「えー？ こっちの方が絶対にいいってー！ でしょ、うきちゃん？」"
+  },
+  {
+   "id": "claa03:31800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、あの、私はえっと……どちらも素敵だと……ですよね、拓留さん？」"
+  },
+  {
+   "id": "claa03:31900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:32000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「拓留？ うき？ 別におねーちゃんに気なんか⟦rb⟧遣⟦rt⟧つか⟦/r⟧わなくていいのよ？ 素直な意見を聞かせて？」"
+  },
+  {
+   "id": "claa03:32100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「えっ？ ええっと、その……」"
+  },
+  {
+   "id": "claa03:32200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うわぁ！ 今のは絶対に⟦rb⟧脅⟦rt⟧おど⟦/r⟧しだー！ 『おねーちゃんの言う事を聞かなかったら、後でものすごいおしおきよ？』って意味だー！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ちょっ！？ そんなことしないわ。私をなんだと思ってるの？ ねえ、拓留？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「………」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「？？？ 拓留？」"
+  }
+ ]
+}

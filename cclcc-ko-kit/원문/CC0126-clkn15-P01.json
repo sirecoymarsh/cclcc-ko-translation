@@ -1,0 +1,689 @@
+{
+ "packet_id": "CC0126-clkn15-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn15.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn15:0",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn15:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "来栖乃々はひとり、冷え冷えとした廊下にいた。"
+  },
+  {
+   "id": "clkn15:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "午後の授業は既に始まっている。"
+  },
+  {
+   "id": "clkn15:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "生徒会長でありながら授業をサボるような真似、これまでの乃々であれば決して行いはしなかっただろう。"
+  },
+  {
+   "id": "clkn15:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧けれどそれも、今の乃々にとってはどうだって良かった。"
+  },
+  {
+   "id": "clkn15:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "午後の授業が始まる直前になって、突然尾上世莉架が教室まで訪ねてきた。"
+  },
+  {
+   "id": "clkn15:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "そして戸惑う乃々の手を引っ張り、世莉架はここ――新聞部の部室の前まで彼女を連れてきた。"
+  },
+  {
+   "id": "clkn15:700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「のんちゃん。ちょっとの間、ここで待っててね」"
+  },
+  {
+   "id": "clkn15:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そう言って、世莉架は乃々をひとりおいて、新聞部室に入っていった。"
+  },
+  {
+   "id": "clkn15:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "こんな時間の部室に何があるんだろう。"
+  },
+  {
+   "id": "clkn15:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "世莉架は何を考えているんだろう。"
+  },
+  {
+   "id": "clkn15:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そう思っていると、中から声が聞こえて来た。"
+  },
+  {
+   "id": "clkn15:1200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "（――世莉架ともうひとり……誰？）"
+  },
+  {
+   "id": "clkn15:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ホントのことって？」"
+  },
+  {
+   "id": "clkn15:1400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "（――拓留？）"
+  },
+  {
+   "id": "clkn15:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "それは紛れもなく、宮代拓留の声だった。"
+  },
+  {
+   "id": "clkn15:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧拓留のことだ。"
+  },
+  {
+   "id": "clkn15:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "教室に居辛くなってここに来ていたのだろう。"
+  },
+  {
+   "id": "clkn15:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧そして、そうなるよう追い詰めてしまったのは、誰あろう自分だ。"
+  },
+  {
+   "id": "clkn15:1900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……のんちゃんのこと」"
+  },
+  {
+   "id": "clkn15:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "世莉架は拓留に、自分が泉理であることを皆に言わないのかと聞いていた。"
+  },
+  {
+   "id": "clkn15:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そう、すべては簡単なことだ。"
+  },
+  {
+   "id": "clkn15:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧来栖乃々は、南沢泉理という自分に自信すら持てない冴えない少女が、周囲を偽るために装った姿。"
+  },
+  {
+   "id": "clkn15:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧虎の皮を被った、ただの狐なのだと周囲に言えばいい。"
+  },
+  {
+   "id": "clkn15:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "確かに今、乃々は泉理の姿に戻ることはできない。"
+  },
+  {
+   "id": "clkn15:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧それでも、証言してくれる人ならたくさんいる。"
+  },
+  {
+   "id": "clkn15:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧拓留が一言いえば、それだけで拓留にかけられた嫌疑が晴らせる可能性は高くなる。"
+  },
+  {
+   "id": "clkn15:2700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "（拓留……）"
+  },
+  {
+   "id": "clkn15:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "聞きたくない。"
+  },
+  {
+   "id": "clkn15:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:76⟧でも聞きたい。"
+  },
+  {
+   "id": "clkn15:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:38⟧世莉架の問いに拓留がどうこたえるのか――。"
+  },
+  {
+   "id": "clkn15:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それはほんの僅かな時間だったが、乃々には何分にも感じた。"
+  },
+  {
+   "id": "clkn15:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:152⟧そして――。"
+  },
+  {
+   "id": "clkn15:3300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「言わないよ、そんなこと……」"
+  },
+  {
+   "id": "clkn15:3400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「――！」"
+  },
+  {
+   "id": "clkn15:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "その答えを聞いた瞬間、乃々の瞳からは大きな涙が流れ落ちていた。"
+  },
+  {
+   "id": "clkn15:3600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ……ぅぅっ……」"
+  },
+  {
+   "id": "clkn15:3700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「僕はもう嫌なんだよ……あいつのあんな哀しい顔を見るのが……」"
+  },
+  {
+   "id": "clkn15:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ドア越しに聴こえる拓留のひと言ひと言が、乃々の不安を溶かしてゆく。"
+  },
+  {
+   "id": "clkn15:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:114⟧恐れと憂いに冷たく固まっていた心が⟦rb⟧解⟦rt⟧ほど⟦/r⟧かれてゆく。"
+  },
+  {
+   "id": "clkn15:4000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ずっと、こんな時間が続けばいいって思ったんだ」"
+  },
+  {
+   "id": "clkn15:4100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いつか、本当の家族になれればって……そう思ったんだ……」"
+  },
+  {
+   "id": "clkn15:4200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "（拓……留……っ……）"
+  },
+  {
+   "id": "clkn15:4300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、タク。それってさ……のんちゃんが好きってことだよね？」"
+  },
+  {
+   "id": "clkn15:4400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ば、バカ！ ストレートに言うなよ！」"
+  },
+  {
+   "id": "clkn15:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "ずっと弟だと言い聞かせてきた。"
+  },
+  {
+   "id": "clkn15:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧そうじゃなければ、自分たちは家族ではなくなってしまうから。"
+  },
+  {
+   "id": "clkn15:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧そうじゃなければ、拓留はきっと帰って来なくなるから。"
+  },
+  {
+   "id": "clkn15:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:114⟧それでもやっぱり……。"
+  },
+  {
+   "id": "clkn15:4900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「へ〜。否定しないってことは……そういうこと？」"
+  },
+  {
+   "id": "clkn15:5000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「っ……それは……ま、まあ……」"
+  },
+  {
+   "id": "clkn15:5100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「っ…………」"
+  },
+  {
+   "id": "clkn15:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "嬉しかった。"
+  },
+  {
+   "id": "clkn15:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:76⟧心の底から嬉しかった。"
+  },
+  {
+   "id": "clkn15:5400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃあ訊くけど、タクが好きなのは、のんちゃん？ それとも泉理ちゃん？」"
+  },
+  {
+   "id": "clkn15:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「どっちだって一緒だよ。乃々だろうが泉理だろうがあいつはあいつだ」"
+  },
+  {
+   "id": "clkn15:5600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「泉理として過ごした時間。乃々として生きた時間。その両方があって、今のあいつがいるんだから……」"
+  },
+  {
+   "id": "clkn15:5700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「学校で⟦col:280aa02d1400⟧女帝⟦col:800000⟧と言われてた乃々も、家でしっかり者の姉だった泉理も、どちらも彼女を形作っているものなら、僕はそれを受け入れるだけだ」"
+  },
+  {
+   "id": "clkn15:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それは――それこそは、彼女が聞きたかった言葉だった。"
+  },
+  {
+   "id": "clkn15:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "たったひとり。"
+  },
+  {
+   "id": "clkn15:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:38⟧ひとりで良かった。"
+  },
+  {
+   "id": "clkn15:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:38⟧自分は自分でいい。"
+  },
+  {
+   "id": "clkn15:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:38⟧そう認めてもらいたい。"
+  },
+  {
+   "id": "clkn15:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦top:38⟧それが自分の求めていたものなのだと、彼女は気づいた。"
+  },
+  {
+   "id": "clkn15:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして今――。"
+  },
+  {
+   "id": "clkn15:6500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だから、彼女の哀しみを僕が代わりに背負ってあげられるなら、僕は喜んで背負おう」"
+  },
+  {
+   "id": "clkn15:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ようやく本当の自分を取り戻せたような気がした。"
+  },
+  {
+   "id": "clkn15:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ドアの開く音に顔を上げると、世莉架が恥ずかしそうな顔で立っていた。"
+  },
+  {
+   "id": "clkn15:6800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「世莉架……」"
+  },
+  {
+   "id": "clkn15:6900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「聞こえた？」"
+  },
+  {
+   "id": "clkn15:7000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うん」"
+  },
+  {
+   "id": "clkn15:7100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だって」"
+  },
+  {
+   "id": "clkn15:7200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うん」"
+  },
+  {
+   "id": "clkn15:7300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いこっか」"
+  },
+  {
+   "id": "clkn15:7400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「うん」"
+  }
+ ],
+ "context_after": []
+}

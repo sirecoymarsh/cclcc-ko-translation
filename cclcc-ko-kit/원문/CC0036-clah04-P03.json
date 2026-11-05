@@ -1,0 +1,964 @@
+{
+ "packet_id": "CC0036-clah04-P03",
+ "kit_version": "1.0",
+ "source_file": "clah04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "와쿠이 슈이치",
+  "이토 신지",
+  "카와하라 마사시"
+ ],
+ "context_before": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「だって、タクとひなちゃんじゃ……」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ふたりのこと知らない人はともかく、ねえ……」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……かも」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「ぐにゅにゅにゅ〜……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "これは、喜ぶべきことなんだろうか。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いや、僕が語らずとも身の潔白を信じてもらえてるんだから、それはそれで悪いことじゃないんだが……。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah04:20000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ああ、いたいた」"
+  },
+  {
+   "id": "clah04:20100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "その時、廊下の奥を通りがかった和久井先生が、僕たちを見て歩み寄ってきた。"
+  },
+  {
+   "id": "clah04:20200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「探したよ、宮代くん、有村くん。ちょっと来てもらえるかな？」"
+  },
+  {
+   "id": "clah04:20300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なるほど。つまり有村くんがお母さんとケンカして、宮代くんの部屋に転がり込んだ、と」"
+  },
+  {
+   "id": "clah04:20400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「まあ、そういうことです」"
+  },
+  {
+   "id": "clah04:20500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "困ったことになった。"
+  },
+  {
+   "id": "clah04:20600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "まさか先生にまで知られてしまうとは。"
+  },
+  {
+   "id": "clah04:20700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「で、不純な行為はまったく無い、と」"
+  },
+  {
+   "id": "clah04:20800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「もちろんです！！！」"
+  },
+  {
+   "id": "clah04:20900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふむ……」"
+  },
+  {
+   "id": "clah04:21000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "……いや、待てよ？"
+  },
+  {
+   "id": "clah04:21100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "ここで問題になると、有村は大人しく家に帰らざるを得なくなるんじゃないか？"
+  },
+  {
+   "id": "clah04:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "僕にも多少のお咎めはあるだろうけど、それで僕の穏やかな生活が戻って来るのなら、万々歳じゃないのか？"
+  },
+  {
+   "id": "clah04:21300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうか。だったらいいよ。オッケー」"
+  },
+  {
+   "id": "clah04:21400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「へ？」"
+  },
+  {
+   "id": "clah04:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だが、和久井先生はあっさりと認めた。"
+  },
+  {
+   "id": "clah04:21600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「ど、どうしてですか！？」"
+  },
+  {
+   "id": "clah04:21700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だって、学生としての節度を持ってお付き合いしてるんだろう？」"
+  },
+  {
+   "id": "clah04:21800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「学校側としても、不純な行為にふけってもらうのは困るけど、そうじゃないのならとやかく言うことでもないしね」"
+  },
+  {
+   "id": "clah04:21900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「で、でももしかしたら何かあったりするかも……」"
+  },
+  {
+   "id": "clah04:22000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あるのかい？」"
+  },
+  {
+   "id": "clah04:22100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「あ、いや……ない……です……」"
+  },
+  {
+   "id": "clah04:22200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うん。だったら問題ない」"
+  },
+  {
+   "id": "clah04:22300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「そうは言ってもですね……！」"
+  },
+  {
+   "id": "clah04:22400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それに、有村くんのお母さんとも、さっき電話で話をしてある。彼女のやりたいようにやらせてくれ、ということだ」"
+  },
+  {
+   "id": "clah04:22500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「親御さんが良いと言うなら、僕たちがとやかく言うことじゃないよ」"
+  },
+  {
+   "id": "clah04:22600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "そんな……。"
+  },
+  {
+   "id": "clah04:22700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、ふたりとも、くれぐれも節度ある付き合いを頼むよ」"
+  },
+  {
+   "id": "clah04:22800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、先生！ 待っ――」"
+  },
+  {
+   "id": "clah04:22900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "だがそんな僕の声は届くことなく、和久井先生はそのまま去っていってしまった。"
+  },
+  {
+   "id": "clah04:23000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「とりあえずお咎めなかったのは良かったけど……」"
+  },
+  {
+   "id": "clah04:23100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "良くない。全然良くない！"
+  },
+  {
+   "id": "clah04:23200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "これで、このバカバカしい家出騒動を有村にあきらめさせる口実が、またひとつ減ってしまったということだ。"
+  },
+  {
+   "id": "clah04:23300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "かくなる上は……。"
+  },
+  {
+   "id": "clah04:23400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おい、宮代。話があるんだが……」"
+  },
+  {
+   "id": "clah04:23500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「か、川原くん！！！ いいところに！」"
+  },
+  {
+   "id": "clah04:23600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え……？」"
+  },
+  {
+   "id": "clah04:23700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なるほど。で、和久井先生はなんて？」"
+  },
+  {
+   "id": "clah04:23800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「それが……特には……」"
+  },
+  {
+   "id": "clah04:23900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふむ……」"
+  },
+  {
+   "id": "clah04:24000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "教職員からも認められたとあっては、もはや頼みの綱は生徒会……いや、彼、川原くんだけだ。"
+  },
+  {
+   "id": "clah04:24100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "僕には当たりの厳しい彼のことだ。"
+  },
+  {
+   "id": "clah04:24200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "こんな騒動があったら、ここぞとばかりに咎めてくるに違いない。"
+  },
+  {
+   "id": "clah04:24300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "そうなったら、こっちのものだ。"
+  },
+  {
+   "id": "clah04:24400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先生方がなんと言おうと、生徒会としては学生同士という関係を逸脱する行為、あるいは逸脱する可能性につながる行為を認めるわけにはいかない」"
+  },
+  {
+   "id": "clah04:24500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そ、そうですよね！！」"
+  },
+  {
+   "id": "clah04:24600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「えー。別にやましいことしてるわけじゃないですしー」"
+  },
+  {
+   "id": "clah04:24700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「これ以上、妙な噂が広まって、学内に不純な空気が蔓延しても困る。ダメなものはダメだ」"
+  },
+  {
+   "id": "clah04:24800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「お固いことで……そんなだから来栖先輩に振り向いてもらえないんすよねぇ」"
+  },
+  {
+   "id": "clah04:24900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ん？ なにか言ったか？」"
+  },
+  {
+   "id": "clah04:25000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「いいえぇ、なんでも♪」"
+  },
+  {
+   "id": "clah04:25100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「とにかく、有村さんは今日からきちんと家に帰るように。わかったな」"
+  },
+  {
+   "id": "clah04:25200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はーい。わっかりましたぁ」"
+  },
+  {
+   "id": "clah04:25300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ん……？"
+  },
+  {
+   "id": "clah04:25400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「しょうがない。宮代先輩、いきましょ」"
+  },
+  {
+   "id": "clah04:25500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村が僕の背中に手をまわして促した。"
+  },
+  {
+   "id": "clah04:25600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なんだ。案外あっさり諦めたじゃないか……。"
+  },
+  {
+   "id": "clah04:25700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さすがの有村も、川原くんは苦手だったのか。"
+  },
+  {
+   "id": "clah04:25800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "とにかくこれで、ようやく平穏な時間が戻って来る。"
+  },
+  {
+   "id": "clah04:25900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今ばかりは川原くんに感謝しようじゃないか！"
+  },
+  {
+   "id": "clah04:26000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「そ、それじゃあ僕たちは……」"
+  },
+  {
+   "id": "clah04:26100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "この手に取り戻されるべき平穏に期待を抱き、僕は生徒会室を後にしようと、扉に手をかけた。"
+  },
+  {
+   "id": "clah04:26200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、待て、宮代！！！」"
+  },
+  {
+   "id": "clah04:26300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clah04:26400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あー、なんというか、その、だな……」"
+  },
+  {
+   "id": "clah04:26500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "なんだ？"
+  },
+  {
+   "id": "clah04:26600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "いつもの川原くんらしくない、やたらとシドロモドロな口調だけど……。"
+  },
+  {
+   "id": "clah04:26700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「や、やはり生徒会としても、はなから生徒を疑った目で見るのはよくない」"
+  },
+  {
+   "id": "clah04:26800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「は……？」"
+  },
+  {
+   "id": "clah04:26900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「⟦col:280aa02d1400⟧男女七歳にして席を同じうせず⟦col:800000⟧、なんてのは旧時代的な考え方だ。これからはもっと柔軟に物事を考えなければならないと僕は思う」"
+  },
+  {
+   "id": "clah04:27000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうやって、ともに成長することで、自制心を養うというのも大事な勉強になるかもしれないしな」"
+  },
+  {
+   "id": "clah04:27100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そもそもが、男女というだけで穿った見方をするのは、見る方にも問題があるわけだ」"
+  },
+  {
+   "id": "clah04:27200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それに、男女の付き合いも決して悪いものばかりだとはいえない」"
+  },
+  {
+   "id": "clah04:27300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「中には、互いを高め合う関係性というのもあるだろう」"
+  },
+  {
+   "id": "clah04:27400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "いったい何が言いたいんだ？"
+  },
+  {
+   "id": "clah04:27500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「つまりだ、我々生徒会は君たちの同居生活を認めようじゃないか。いや、むしろ積極的に応援してもいい」"
+  },
+  {
+   "id": "clah04:27600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「え！？ ちょ、ちょっと待ってください！！」"
+  },
+  {
+   "id": "clah04:27700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「君たちふたりが本校の新たなモデルケースになって、男女間の新たな愛情の形を謳ってくれることを期待しているよ」"
+  },
+  {
+   "id": "clah04:27800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「そんな！ さっきと言ってることが違――」"
+  },
+  {
+   "id": "clah04:27900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そういうことだ。有村さんもわかったね」"
+  },
+  {
+   "id": "clah04:28000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はーい。わっかりましたぁ。そんじゃ、宮代先輩、いきましょ」"
+  },
+  {
+   "id": "clah04:28100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「ちょっと待て！ 僕はまだ話が――」"
+  },
+  {
+   "id": "clah04:28200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、宮代！」"
+  },
+  {
+   "id": "clah04:28300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "半ば無理矢理に生徒会室を追い出されると、そこには伊藤たちがいた。"
+  },
+  {
+   "id": "clah04:28400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "どうやら僕たちを追ってきたらしい。"
+  },
+  {
+   "id": "clah04:28500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「で、どうだった？ 何か言われたか？」"
+  },
+  {
+   "id": "clah04:28600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「それが……」"
+  },
+  {
+   "id": "clah04:28700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "さっきまで僕を糾弾するような勢いだったのに、急に手のひらを返したような川原くんの態度。"
+  },
+  {
+   "id": "clah04:28800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "あれはいったいなんだったんだ。"
+  },
+  {
+   "id": "clah04:28900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "まさしく狐につままれたような気分だ。"
+  },
+  {
+   "id": "clah04:29000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれ、タク。背中に何か貼られてるよ？」"
+  },
+  {
+   "id": "clah04:29100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clah04:29200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なにこれ？ 『来栖先輩と引き離したいなら――』」"
+  },
+  {
+   "id": "clah04:29300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「わああああああああああああああ！！」"
+  },
+  {
+   "id": "clah04:29400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うっわー。背中にデカデカと『バカ』って書かれた紙、貼られてましたよ、先輩」"
+  },
+  {
+   "id": "clah04:29500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「誰でしょうねぇ、いまどきこんなイタズラするなんて。ひっでー」"
+  },
+  {
+   "id": "clah04:29600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「？？？」"
+  },
+  {
+   "id": "clah04:29700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、でも生徒会の人も問題ないって言ってましたし、これで隠すことなく堂々と宮代先輩のところで共同生活できるってことですね」"
+  },
+  {
+   "id": "clah04:29800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "……こいつ、何かしたんじゃないのか？"
+  },
+  {
+   "id": "clah04:29900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なにか？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "くっ……。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「……た、確かに学校や生徒会は良いって言ったけどさ、やっぱり普通に考えてマズいんじゃないのか？」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「なんだ、宮代。有村相手に、マズいことするつもりか？」"
+  }
+ ]
+}

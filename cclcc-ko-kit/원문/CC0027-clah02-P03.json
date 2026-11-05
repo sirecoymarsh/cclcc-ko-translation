@@ -1,0 +1,962 @@
+{
+ "packet_id": "CC0027-clah02-P03",
+ "kit_version": "1.0",
+ "source_file": "clah02.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "와쿠이 슈이치",
+  "이토 신지"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "今すぐに――。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（あぁぁぁぁ！ パンツが！！）"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ここで退いたら有村のパンツが……！"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "どっちに転んでもヤバいことになるんじゃないのか？"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "くっそぉぉぉぉぉ、どうすれば！"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕はどうすればいいんだ！"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah02:20000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、あのさ……宮代……その……退いて……くれないか？」"
+  },
+  {
+   "id": "clah02:20100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤が何故か恥ずかしそうに目を逸らした。"
+  },
+  {
+   "id": "clah02:20200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "待て！"
+  },
+  {
+   "id": "clah02:20300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そっちを向いたら⟦rb⟧パンツ⟦rt⟧あれ⟦/r⟧が！"
+  },
+  {
+   "id": "clah02:20400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや、だとしても、伊藤に⟦rb⟧そっち⟦rt⟧⟦rbc⟧●●●⟦/r⟧だと誤解されるよりはマシだ。"
+  },
+  {
+   "id": "clah02:20500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「わ、悪い」"
+  },
+  {
+   "id": "clah02:20600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "僕はゆっくりとベッドから起き上がり、伊藤の身体を解放した。"
+  },
+  {
+   "id": "clah02:20700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いや……ん？」"
+  },
+  {
+   "id": "clah02:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤の視線が例のブツをとらえた。"
+  },
+  {
+   "id": "clah02:20900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんだ、これ？」"
+  },
+  {
+   "id": "clah02:21000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ああ……もう、終わりだ。"
+  },
+  {
+   "id": "clah02:21100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「パンツ？ しかもこれ、女ものじゃねえか！ おい、宮代！ どうしてこんなところに女もののパンツがあるんだよ！？」"
+  },
+  {
+   "id": "clah02:21200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そ、それは……」"
+  },
+  {
+   "id": "clah02:21300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「！？ そうか……お前、やっぱり……！」"
+  },
+  {
+   "id": "clah02:21400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ち、違うんだ！ それは……そ、そう！ 僕のものなんだ！！！」"
+  },
+  {
+   "id": "clah02:21500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「へ？」"
+  },
+  {
+   "id": "clah02:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しまった。"
+  },
+  {
+   "id": "clah02:21700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "思わず言ってしまった。"
+  },
+  {
+   "id": "clah02:21800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「実はその……僕、家にいる時はいつもそれを履いてて……」"
+  },
+  {
+   "id": "clah02:21900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「そ、それって……このパンティーを、か？」"
+  },
+  {
+   "id": "clah02:22000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "パンティーって言うな。"
+  },
+  {
+   "id": "clah02:22100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "なんて突っ込んでる場合じゃない。"
+  },
+  {
+   "id": "clah02:22200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「このパンティーをお前が？」"
+  },
+  {
+   "id": "clah02:22300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "とにかく、言ってしまったものはしょうがない。"
+  },
+  {
+   "id": "clah02:22400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "こうなったら、もうこのまま押し通すしかない。"
+  },
+  {
+   "id": "clah02:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "僕は伊藤に向かって、ゆっくりと頷いた。"
+  },
+  {
+   "id": "clah02:22600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そ、そうか……その、なんつーか……まあ、趣味はそれぞれだよな、うん……」"
+  },
+  {
+   "id": "clah02:22700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤は緩慢な動きで立ち上がった。"
+  },
+  {
+   "id": "clah02:22800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "心なしか、僕から距離をとったような気がする。"
+  },
+  {
+   "id": "clah02:22900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「お、お願いだ、伊藤！ このこと、誰にも言わないでくれっ！」"
+  },
+  {
+   "id": "clah02:23000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、ああ……言わないよ……誰にも……」"
+  },
+  {
+   "id": "clah02:23100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "僕と一定の距離をおいたまま、伊藤はゆっくりと扉側に回り込み、そのままじりじりと後退りした。"
+  },
+  {
+   "id": "clah02:23200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「わ、悪かったな。邪魔して。俺、そろそろ……」"
+  },
+  {
+   "id": "clah02:23300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「う、うん……」"
+  },
+  {
+   "id": "clah02:23400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃ、じゃあな！！！」"
+  },
+  {
+   "id": "clah02:23500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "言い終わるよりも早く、伊藤は激しくドアを開け、逃げるように去っていった。"
+  },
+  {
+   "id": "clah02:23600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah02:23700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "本当に良かったんだろうか、これで……。"
+  },
+  {
+   "id": "clah02:23800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「パンティー……」"
+  },
+  {
+   "id": "clah02:23900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "咄嗟にあんなこと言ったけど……本当に履いてみたらどんな気分なんだろう。"
+  },
+  {
+   "id": "clah02:24000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや、やめろ宮代拓留！"
+  },
+  {
+   "id": "clah02:24100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その好奇心はお前自身を殺す刃となる！"
+  },
+  {
+   "id": "clah02:24200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも……。"
+  },
+  {
+   "id": "clah02:24300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "何ごとも経験って言うし……。"
+  },
+  {
+   "id": "clah02:24400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clah02:24500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は沸き上がる興味に逆らうことが出来ず、無意識のうちにズボンに手をかけていた。"
+  },
+  {
+   "id": "clah02:24600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして……。"
+  },
+  {
+   "id": "clah02:24700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その禁断の輪の中に片足を通してしまった。"
+  },
+  {
+   "id": "clah02:24800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、なんだこれは――！！」"
+  },
+  {
+   "id": "clah02:24900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それはまさに、衝撃とも言うべき感触だった。"
+  },
+  {
+   "id": "clah02:25000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「このフィット感！ そして滑らかな肌触り！ これが……女子のパンティー！！」"
+  },
+  {
+   "id": "clah02:25100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これを体感してしまった今、もはやこれから先、トランクスやボクサーパンツ、ましてやブリーフなんて履けない！！！"
+  },
+  {
+   "id": "clah02:25200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ありがとう、有村！"
+  },
+  {
+   "id": "clah02:25300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕に新しい悦びを教えてくれて！"
+  },
+  {
+   "id": "clah02:25400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これからも僕は、女性ものの下着を装着しつづけるだろう。"
+  },
+  {
+   "id": "clah02:25500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「待てよ……上はどうなんだろう？」"
+  },
+  {
+   "id": "clah02:25600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "下だけでは不完全な気がする。"
+  },
+  {
+   "id": "clah02:25700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "うん、そうと決まれば、今すぐ買いにいこう！"
+  },
+  {
+   "id": "clah02:25800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はズボンを履くとそのまま、胸の高まりを抱き、外へと飛び出した！"
+  },
+  {
+   "id": "clah02:25900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "「待ってろよ、ブラジャー！！」"
+  },
+  {
+   "id": "clah02:26000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "新たな悦びへの追及はまだ始まったばかりだ！！！"
+  },
+  {
+   "id": "clah02:26100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや、無い！！"
+  },
+  {
+   "id": "clah02:26200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕には決してそんな趣味はない！！！"
+  },
+  {
+   "id": "clah02:26300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "「だ、ダメだ！」"
+  },
+  {
+   "id": "clah02:26400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤の顎をつまんで、半ば強引に僕の方を向かせる。"
+  },
+  {
+   "id": "clah02:26500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clah02:26600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "あれ？"
+  },
+  {
+   "id": "clah02:26700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "なんだ、この胸の高鳴りは。"
+  },
+  {
+   "id": "clah02:26800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ていうか伊藤。"
+  },
+  {
+   "id": "clah02:26900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "お前もなんで、そんな切なそうな顔してるんだよ？"
+  },
+  {
+   "id": "clah02:27000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代……お前……もしかして……」"
+  },
+  {
+   "id": "clah02:27100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「い、伊藤……」"
+  },
+  {
+   "id": "clah02:27200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そっか……ごめんな……今まで気づいてやれなくて……」"
+  },
+  {
+   "id": "clah02:27300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ち、違うんだ……僕は……」"
+  },
+  {
+   "id": "clah02:27400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「実はさ……俺も……」"
+  },
+  {
+   "id": "clah02:27500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「え……？」"
+  },
+  {
+   "id": "clah02:27600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「俺も実はお前と同じでさ……」"
+  },
+  {
+   "id": "clah02:27700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "同じ？"
+  },
+  {
+   "id": "clah02:27800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "どういう意味だ？"
+  },
+  {
+   "id": "clah02:27900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「俺も前からお前のこと……」"
+  },
+  {
+   "id": "clah02:28000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ウソ……だろ？」"
+  },
+  {
+   "id": "clah02:28100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、お前がこっちの人間だってわかって、嬉しいよ。みんなで幸せになろうぜ」"
+  },
+  {
+   "id": "clah02:28200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "신조 타케시",
+   "jp": "「みんな、で？」"
+  },
+  {
+   "id": "clah02:28300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "その時、突然高らかな声とともにドアが開いた。"
+  },
+  {
+   "id": "clah02:28400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ようやく本当の愛に気付いたようだね、宮代くん！」"
+  },
+  {
+   "id": "clah02:28500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「神成さん？ それに……」"
+  },
+  {
+   "id": "clah02:28600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ようこそ、僕たちの世界へ！」"
+  },
+  {
+   "id": "clah02:28700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "和久井先生まで……。"
+  },
+  {
+   "id": "clah02:28800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「ちょ、ちょっと待って。これはどういうことなんだよ！？」"
+  },
+  {
+   "id": "clah02:28900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「僕たちはね。同じ趣味を持つものとして、この世界に新しい王国をつくる――そんな志を持つ同志だよ」"
+  },
+  {
+   "id": "clah02:29000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "이토 신지",
+   "jp": "新しい王国？"
+  },
+  {
+   "id": "clah02:29100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "이토 신지",
+   "jp": "もう何がなんだかわからない。"
+  },
+  {
+   "id": "clah02:29200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "신조 타케시",
+   "jp": "「俺たちに見向きもしない女なんて存在は、この世に不要なんだ。世の中は男だけいればいい！」"
+  },
+  {
+   "id": "clah02:29300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「彼の言うとおりだ、宮代くん。小生意気なツインテールの女も、科学者だかなんだか知らないが人をゴミのように扱う偉そうな女もいらない」"
+  },
+  {
+   "id": "clah02:29400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「俺たちは男だけで⟦rb⟧目眩⟦rt⟧めくるめ⟦/r⟧く愛の世界を紡ごうじゃないか」"
+  },
+  {
+   "id": "clah02:29500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「い、いや！ 僕はそんな趣味じゃ――！」"
+  },
+  {
+   "id": "clah02:29600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "「何を言ってるんだい。たった今、君はその身で行動して僕たちに示したじゃないか」"
+  },
+  {
+   "id": "clah02:29700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうだぞ。せっかく出した勇気を否定しちゃあいけない」"
+  },
+  {
+   "id": "clah02:29800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「違うんです！ あれは――」"
+  },
+  {
+   "id": "clah02:29900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「それじゃあ、我らが国王を呼ぼうじゃないか」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "国王？"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「国王陛下の、おなーりー！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "どこからともなくファンファーレが聞こえ、狭いドアからひとりの男が現れた。"
+  }
+ ]
+}

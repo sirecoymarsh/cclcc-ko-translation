@@ -1,0 +1,563 @@
+{
+ "packet_id": "CC0080-clka09-P04",
+ "kit_version": "1.0",
+ "source_file": "clka09.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신문부원들",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카메라맨",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "この流れを止められるのは、僕しかいなかった。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ちょっと待ってくれ！ ぼ、僕はまだ結婚なんてしないぞ！」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「えええ！？」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「責任とってくれるって言ったじゃないですか！ あれはその場限りの嘘だったんですか！？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「責任もなにも、そもそも僕は、お前と子供を作った覚えもない！」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「そんな！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka09:28900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「最初からあたしの身体だけが目的だったんですね！」"
+  },
+  {
+   "id": "clka09:29000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「自分の性欲を満たしたいがためだけに、純真な乙女の気持ちを弄んだんですね！」"
+  },
+  {
+   "id": "clka09:29100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ひどい、酷すぎます！ いえ、あたしのことはどうでもいいんです」"
+  },
+  {
+   "id": "clka09:29200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』は悲しげにぷっくりと大きくなっているお腹に手を当てた。"
+  },
+  {
+   "id": "clka09:29300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「この、生まれてくる子供が可哀想です。こんな無責任なお父さんだったなんて……」"
+  },
+  {
+   "id": "clka09:29400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう言いながら、芝居がかった仕草でよよよよ……とその場に泣き崩れた。"
+  },
+  {
+   "id": "clka09:29500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あのなあ……！」"
+  },
+  {
+   "id": "clka09:29600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "と、その時。"
+  },
+  {
+   "id": "clka09:29700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……拓留」"
+  },
+  {
+   "id": "clka09:29800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「来栖！ 聞いてくれ！ 僕は無実だ！」"
+  },
+  {
+   "id": "clka09:29900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まだそんな事言ってるの？」"
+  },
+  {
+   "id": "clka09:30000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……え？」"
+  },
+  {
+   "id": "clka09:30100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ヤることだけヤっておいて、あとは知らないフリするなんて」"
+  },
+  {
+   "id": "clka09:30200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留。最っ低ね、あんた」"
+  },
+  {
+   "id": "clka09:30300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「はがあっ！」"
+  },
+  {
+   "id": "clka09:30400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「まったく身に覚えのない話なのに、なぜか良心が痛む！」"
+  },
+  {
+   "id": "clka09:30500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「正直、宮代はいつかこういうことするんじゃねえかなと思ってたけどな。俺は」"
+  },
+  {
+   "id": "clka09:30600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、やっぱお前最低だよ。宮代」"
+  },
+  {
+   "id": "clka09:30700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ひぎゃあっ！」"
+  },
+  {
+   "id": "clka09:30800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「心が、心が痛い！」"
+  },
+  {
+   "id": "clka09:30900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「わかっていた事ではありますが、やっぱり女の敵ですね」"
+  },
+  {
+   "id": "clka09:31000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代先輩。最低です」"
+  },
+  {
+   "id": "clka09:31100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ふぐうっ！」"
+  },
+  {
+   "id": "clka09:31200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka09:31300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タク、最低」"
+  },
+  {
+   "id": "clka09:31400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "신문부원들",
+   "jp": "「ふぉごおっ！」"
+  },
+  {
+   "id": "clka09:31500",
+   "type": "dialogue",
+   "speaker": "新聞部員たち",
+   "speaker_ko": "신문부원들",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「最低！」⟦n⟧⟦par⟧「最低！」⟦n⟧⟦par⟧「最低！」"
+  },
+  {
+   "id": "clka09:31600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신문부원들",
+   "next_speaker": null,
+   "jp": "「うおおおおおおおお！！！！！！！」"
+  },
+  {
+   "id": "clka09:31700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "……我ながら、酷い妄想だった。"
+  },
+  {
+   "id": "clka09:31800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "しかしまあ、本当に在学中に出来ちゃった婚をすることになったら、確実にこういう事態に陥るだろう。"
+  },
+  {
+   "id": "clka09:31900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "注意して懸からねば。"
+  },
+  {
+   "id": "clka09:32000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "ここで香月にキスをしたら、今妄想した展開へ一直線かもしれない。"
+  },
+  {
+   "id": "clka09:32100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "しかし、まだ、キスはしていない。"
+  },
+  {
+   "id": "clka09:32200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "これから、するのだ。"
+  },
+  {
+   "id": "clka09:32300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月の顔が、３０センチ前に迫る。"
+  },
+  {
+   "id": "clka09:32400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "いや、実際には香月は目を閉じたままそこにいるだけだ。迫っているのは僕の方だ。"
+  },
+  {
+   "id": "clka09:32500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "着陸船は既に月の引力に囚われていて、自身の力では軌道に戻ることはできない。"
+  },
+  {
+   "id": "clka09:32600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "ぷるぷるの唇は、ただ、僕の到着を待っていた。"
+  },
+  {
+   "id": "clka09:32700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "――と、その時。"
+  },
+  {
+   "id": "clka09:32800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clka09:32900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "なぜか、香月がゆっくりと目を開けた。"
+  },
+  {
+   "id": "clka09:33000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ ん？」"
+  },
+  {
+   "id": "clka09:33100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "ぼんやりとした瞳でパチパチと瞬きをしている。"
+  },
+  {
+   "id": "clka09:33200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？ ん？ ん？」"
+  },
+  {
+   "id": "clka09:33300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "目の焦点が合っていないようだった。"
+  },
+  {
+   "id": "clka09:33400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？ ん？ ん？ ん？」"
+  },
+  {
+   "id": "clka09:33500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "何度目かの瞬きの後、ようやく目の前に僕の顔が迫っている事に気付いた。"
+  },
+  {
+   "id": "clka09:33600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んんん！！！？？？」"
+  },
+  {
+   "id": "clka09:33700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もちろん、僕は香月のその異変に気づいていた。"
+  },
+  {
+   "id": "clka09:33800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかし、既に着陸態勢に入っている僕の唇は、慣性の法則により急に止める事はできなかった。"
+  },
+  {
+   "id": "clka09:33900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「か、かづきっ！」"
+  },
+  {
+   "id": "clka09:34000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카메라맨",
+   "jp": "「んーーーーーーっ！！！！！！」"
+  },
+  {
+   "id": "clka09:34100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카메라맨",
+   "jp": "香月は反射的に僕の身体を両腕でめいっぱい突き飛ばした。たまらず僕は床に転がる。"
+  },
+  {
+   "id": "clka09:34200",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いいねー！ 予定とはちょっと違ったけど、これはこれで幸せな家庭を感じさせる良い写真になるよ！ あっはっはっは！」"
+  },
+  {
+   "id": "clka09:34300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카메라맨",
+   "next_speaker": null,
+   "jp": "「あ、はは……」"
+  },
+  {
+   "id": "clka09:34400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "なんというか。"
+  },
+  {
+   "id": "clka09:34500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "今日は転んでばかりだな……。"
+  }
+ ],
+ "context_after": []
+}

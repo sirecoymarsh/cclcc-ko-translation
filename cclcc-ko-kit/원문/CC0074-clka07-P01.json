@@ -1,0 +1,831 @@
+{
+ "packet_id": "CC0074-clka07-P01",
+ "kit_version": "1.0",
+ "source_file": "clka07.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clka07:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――あれは、いつものようにゲンさんが持ってきてくれた⟦col:280aa02d1400⟧クールキャットプレス⟦col:800000⟧を読んでいた時だった。"
+  },
+  {
+   "id": "clka07:100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「今回は結構な冊数をまとめて持ってきてくれたから、チェックが大変だな」"
+  },
+  {
+   "id": "clka07:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "同じクールキャットプレスでも、号によって情報の価値は大きく異なる。なので中身を読み込んで確認する必要がある。"
+  },
+  {
+   "id": "clka07:300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さて、次の号はと……」"
+  },
+  {
+   "id": "clka07:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "雑誌の表紙に描かれた特集記事のタイトルや、グラビアアイドルの名前を見れば、大体の内容は推測できる。"
+  },
+  {
+   "id": "clka07:500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うーん、あまり期待できないな。今さらこのアイドルの水着とか出されても……」"
+  },
+  {
+   "id": "clka07:600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあ、ひとまずは目を通そう」"
+  },
+  {
+   "id": "clka07:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もちろん、僕がクールキャットプレスを読むのは大衆の興味レベルの把握が主目的であって、記事の内容自体には興味はない。"
+  },
+  {
+   "id": "clka07:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もちろん、グラビアページなどはパラ見で飛ばす。情報量ゼロだからだ。"
+  },
+  {
+   "id": "clka07:900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ん、グラビアページか」"
+  },
+  {
+   "id": "clka07:1000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:1100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「思ったより、いい、な」"
+  },
+  {
+   "id": "clka07:1200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「このアイドルではもう旬を逃していると思ったが、僕の読み違いか……？」"
+  },
+  {
+   "id": "clka07:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さすがクールキャットプレス、侮れない」"
+  },
+  {
+   "id": "clka07:1400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:1500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ふう」"
+  },
+  {
+   "id": "clka07:1600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……この号は、保存対象にしよう」"
+  },
+  {
+   "id": "clka07:1700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さて、他のページは……」"
+  },
+  {
+   "id": "clka07:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……たまに例外はある。"
+  },
+  {
+   "id": "clka07:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "とはいえ、思春期の少年少女の性的好奇心を刺激することだけが目的の特集記事などは本当にどうでもいい。"
+  },
+  {
+   "id": "clka07:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そういう記事は基本的にタイトルしか見ない。目を通す価値すらないからだ。"
+  },
+  {
+   "id": "clka07:2100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:2200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……『身近な女友達を、自分好みのエロ彼女に変えてしまう方法』だと？」"
+  },
+  {
+   "id": "clka07:2300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「身近な女友達……？」"
+  },
+  {
+   "id": "clka07:2400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これは……！」"
+  },
+  {
+   "id": "clka07:2500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "一瞬、不埒な考えが脳裏をよぎった気がしなくもなくないが、気のせいだ。"
+  },
+  {
+   "id": "clka07:2700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:2800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……う、うん。これは目を通しておいた方がいいかもしれないな」"
+  },
+  {
+   "id": "clka07:2900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こ、これはあくまで、大衆の興味レベルの把握が目的だ」"
+  },
+  {
+   "id": "clka07:3000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぼ、僕自身が、なにか不埒な考えを持っているわけじゃないぞ」"
+  },
+  {
+   "id": "clka07:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "自分自身に言い訳をしながら、内容を読んでいく。"
+  },
+  {
+   "id": "clka07:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "記事自体は特に驚くような事実やテクニックが書いてあるわけではなかった。"
+  },
+  {
+   "id": "clka07:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "単純に女の子をタイプ別に分類して、それぞれの女の子をどう『自分好み』に変えたいかが羅列してあるだけだ。"
+  },
+  {
+   "id": "clka07:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "例えば、『普段真面目な委員長系女の子だったら、実は放課後は制服のままメイクとピアスをしてライブ会場に行ってて欲しい』とか。"
+  },
+  {
+   "id": "clka07:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……ただの願望じゃないか。"
+  },
+  {
+   "id": "clka07:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もっとも重要な『自分好みに変えるためにどうすればいいのか』という部分に触れていない。"
+  },
+  {
+   "id": "clka07:3700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これでは単に記者の萌えポイントを読まされているだけじゃないか……。ああ、拍子抜けだ」"
+  },
+  {
+   "id": "clka07:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "まあ、じゃあどういう記事を期待していたのかと言われると困るが。"
+  },
+  {
+   "id": "clka07:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ただ、一個だけ気になるページがあった。"
+  },
+  {
+   "id": "clka07:4000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……『君の女友達を自分好みに変えてみよう』、か」"
+  },
+  {
+   "id": "clka07:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "特集記事の最後のページは、記事で分類したタイプ別に、女の子の情報を書き込めるようになっていた。"
+  },
+  {
+   "id": "clka07:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ここに実際の女友達の特徴を書き込み、更にどう『自分好み』にしたいかを書いていくわけだ。"
+  },
+  {
+   "id": "clka07:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんなどうでもいいことに貴重な紙面を使っているのを見るに、どうやらこの特集記事は編集部としても苦肉の策だったようだ。"
+  },
+  {
+   "id": "clka07:4400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はあ。くだらない」"
+  },
+  {
+   "id": "clka07:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はすぐに雑誌を閉じようとして――"
+  },
+  {
+   "id": "clka07:4600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:4700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:4800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ふむ」"
+  },
+  {
+   "id": "clka07:4900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……くだらない、が」"
+  },
+  {
+   "id": "clka07:5000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『タイプ１：強気なお姉さん系』……これは来栖だな」"
+  },
+  {
+   "id": "clka07:5100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「来栖はちょっとツンデレが過ぎるからな。もう少し年上のお姉さん的な余裕のあるエロさを醸し出せるといいんだが」"
+  },
+  {
+   "id": "clka07:5200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『タイプ２：天然元気少女系』……尾上かなあ」"
+  },
+  {
+   "id": "clka07:5300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あいつはそもそもそういう知識がなくて、そのせいか男子を相手にしてる時のガードがゆるいんだよな」"
+  },
+  {
+   "id": "clka07:5400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「逆に、そのガードのゆるさにあわせていけば、いつの間にかそういう展開に持ち込むことも可能か……」"
+  },
+  {
+   "id": "clka07:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『タイプ３：好奇心旺盛な後輩系』……まあ、有村だな」"
+  },
+  {
+   "id": "clka07:5600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「有村はそっち方向にオープンすぎるんだよな。わざとああいう態度を取ることで、逆にガードを固めているようにも思えるが」"
+  },
+  {
+   "id": "clka07:5700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ただ、きっと本人だって多少興味があるんだろうから、その場の勢いで持ち込めるかも……」"
+  },
+  {
+   "id": "clka07:5800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『タイプ４：無口不思議系』……うーん」"
+  },
+  {
+   "id": "clka07:5900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……これは、香月かな？」"
+  },
+  {
+   "id": "clka07:6000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「香月は、誰ともコミュニケーション取ろうとしないが、みんな気付いてないだけで、かわいいし、スタイルもいい」"
+  },
+  {
+   "id": "clka07:6100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なによりあのおっぱいの大きさは暴力的とすら言える」"
+  },
+  {
+   "id": "clka07:6200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしあいつが、そういう方面に積極的な肉食系女子だったら、きっと籠絡される男子は沢山いるだろう」"
+  },
+  {
+   "id": "clka07:6300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「僕だって、もしそんな香月に迫られたら、理性を保っていられるかはわからないな」"
+  },
+  {
+   "id": "clka07:6400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……よし、できた！」"
+  },
+  {
+   "id": "clka07:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "うーんと体を伸ばして、天井を見上げる。"
+  },
+  {
+   "id": "clka07:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "長文を書いた後特有の、心地良い達成感が体を包む。"
+  },
+  {
+   "id": "clka07:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "大きく深呼吸してから体勢を戻し、雑誌を手にした。"
+  },
+  {
+   "id": "clka07:6800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと、読み直してみるか」"
+  },
+  {
+   "id": "clka07:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "シャーペンを横に置き、この数十分間の成果を見直す。"
+  },
+  {
+   "id": "clka07:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "白紙だったページは、びっちりと文字で埋まっていた。"
+  },
+  {
+   "id": "clka07:7100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:7200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:7300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……キモい」"
+  },
+  {
+   "id": "clka07:7400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「我ながら、どん引きだ」"
+  },
+  {
+   "id": "clka07:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "急に冷静になってしまい、達成感がかき消されていった。むしろ罪悪感が募っていく。"
+  },
+  {
+   "id": "clka07:7600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「僕はなんでこんなどうしようもないことに時間を費やしてしまったんだ」"
+  },
+  {
+   "id": "clka07:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "先ほどまでは作業成果の証だった、びっちりと書かれた文字も、既に目にするのも恥ずかしい物になりつつある。"
+  },
+  {
+   "id": "clka07:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "たとえ自分的評価Ａ＋のグラビアページがあるとしても、このページをもう一度目にするのはつらい。"
+  },
+  {
+   "id": "clka07:7900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ましてや、なにかしらの事故が起きて、このページを新聞部員の誰かに見られた日には、僕はおしまいだ！"
+  },
+  {
+   "id": "clka07:8000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（どうしよう。捨てるか？）"
+  },
+  {
+   "id": "clka07:8100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（いやダメだ。別の誰かに拾われるリスクはしょいたくない）"
+  },
+  {
+   "id": "clka07:8200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（部屋の奥にしまっておこう。永久封印だ）"
+  },
+  {
+   "id": "clka07:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "普段クールキャットプレスを隠している納戸よりも更に奥、手が届きにくいので普段は使わない引き出しがある。"
+  },
+  {
+   "id": "clka07:8400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「この引き出しを抜いて、っと……」"
+  },
+  {
+   "id": "clka07:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "引き出しを抜いて現れた空間に、雑誌を置き、引き出しを戻す。"
+  },
+  {
+   "id": "clka07:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "引き出しの底と雑誌がこすれて抵抗があったが、無理矢理押し込んだ。"
+  },
+  {
+   "id": "clka07:8700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「誰にも見つかりませんように……。そして僕自身がこの雑誌の存在を早く忘れてしまいますように……」"
+  },
+  {
+   "id": "clka07:8800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka07:8900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よし、寝よう」"
+  },
+  {
+   "id": "clka07:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "こうして、僕はこの雑誌のことを忘れたのだった。"
+  }
+ ],
+ "context_after": []
+}

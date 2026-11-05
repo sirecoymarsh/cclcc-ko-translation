@@ -1,0 +1,965 @@
+{
+ "packet_id": "CC0079-clka09-P03",
+ "kit_version": "1.0",
+ "source_file": "clka09.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신문부원들",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そう言って『華』は、顔に懸かっていたベールをめくり、アゴを少しだけ上げて、静かに瞳を閉じた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「なっ！ えっ！？ はあっ！！？？」"
+  },
+  {
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "jp": "「おお！ 彼女さんは積極的でいいねえ！」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「どもども♪」"
+  },
+  {
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "jp": "「ほら彼氏さん！ バッチリ撮るから、一気にいっちゃえ！」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「そ、そんなこと言われても！？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka09:18900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "目の前に、少しだけ顔を上げ、目を閉じている香月の顔があった。"
+  },
+  {
+   "id": "clka09:19000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "ほんのりピンクがかったぷるぷるの唇は、ただ、僕の到着を待っていた。"
+  },
+  {
+   "id": "clka09:19100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……先輩」"
+  },
+  {
+   "id": "clka09:19200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "目を閉じたまま『華』が呟く。"
+  },
+  {
+   "id": "clka09:19300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あたしの初めて、もらってください」"
+  },
+  {
+   "id": "clka09:19400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "急速に、周りの風景が色あせ、僕の視界から遠ざかって行った。"
+  },
+  {
+   "id": "clka09:19500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月の顔だけが、僕に見える全てだった。"
+  },
+  {
+   "id": "clka09:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その顔に向かって、僕の唇が勝手に近づいて行く。"
+  },
+  {
+   "id": "clka09:19700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "まるで、地球からのコントロールで自動的に操縦される月着陸船のようだ。"
+  },
+  {
+   "id": "clka09:19800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「か……づき……」"
+  },
+  {
+   "id": "clka09:19900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「せん、ぱい……」"
+  },
+  {
+   "id": "clka09:20000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clka09:20100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……んは……」"
+  },
+  {
+   "id": "clka09:20200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "自分がなにをしたのかを脳が理解するより前に、香月の顔が離れていった。"
+  },
+  {
+   "id": "clka09:20300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka09:20400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「か、香月……」"
+  },
+  {
+   "id": "clka09:20500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んふ」"
+  },
+  {
+   "id": "clka09:20600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「幸せにしてくださいね。宮代先輩」"
+  },
+  {
+   "id": "clka09:20700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほら、みんな祝福してくれてますよ♪」"
+  },
+  {
+   "id": "clka09:20800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "신문부원들",
+   "jp": "「……え？ み、みんな？」"
+  },
+  {
+   "id": "clka09:20900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신문부원들",
+   "jp": "と、その時。"
+  },
+  {
+   "id": "clka09:21000",
+   "type": "dialogue",
+   "speaker": "新聞部員たち",
+   "speaker_ko": "신문부원들",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「「「「おめでとー！」」」」"
+  },
+  {
+   "id": "clka09:21100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신문부원들",
+   "next_speaker": "이토 신지",
+   "jp": "「お、お前たち！？ いいいい、いつからそこに！？」"
+  },
+  {
+   "id": "clka09:21200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いつって、結婚式の最初から」"
+  },
+  {
+   "id": "clka09:21300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「け、結婚式！？」"
+  },
+  {
+   "id": "clka09:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "気がつくと、あたりの風景が一変していた。"
+  },
+  {
+   "id": "clka09:21500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「こ、ここは！？ 教会なのか！？」"
+  },
+  {
+   "id": "clka09:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "目の前には木の長椅子が２列に並んでいた。僕と香月は一段高い所に立っていて、壁際には巨大な十字架が掲げられている。"
+  },
+  {
+   "id": "clka09:21700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "どこからどう見ても教会だった。"
+  },
+  {
+   "id": "clka09:21800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「教会ですよ。結婚式なんだから当たり前じゃないですか」"
+  },
+  {
+   "id": "clka09:21900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「結婚式って、誰と、誰のだよ！！」"
+  },
+  {
+   "id": "clka09:22000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タクと華ちゃんに決まってるじゃん」"
+  },
+  {
+   "id": "clka09:22100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いや、ちょっと待ってくれ！」"
+  },
+  {
+   "id": "clka09:22200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "「華ちゃん、よかったねえ」"
+  },
+  {
+   "id": "clka09:22300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ありがとうございます。あたし、拓留さんと幸せになります！」"
+  },
+  {
+   "id": "clka09:22400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕の混乱を無視して話が続いていく。"
+  },
+  {
+   "id": "clka09:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村が、まるでマイクを差し出すみたいに、『華』に向けて拳を伸ばした。"
+  },
+  {
+   "id": "clka09:22600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「『香月華さん！ 結婚を決断された理由を聞かせてください！』」"
+  },
+  {
+   "id": "clka09:22700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「えへへえ。じつはー」"
+  },
+  {
+   "id": "clka09:22800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』はとろけそうな笑顔を浮かべながら、レースの手袋をはめた左手をお腹にあてる。"
+  },
+  {
+   "id": "clka09:22900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "そして、そのお腹を愛おしそうにゆっくりとなでた。"
+  },
+  {
+   "id": "clka09:23000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あたしと、拓留さんの、愛の結晶に導かれたから、かな？」"
+  },
+  {
+   "id": "clka09:23100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「『愛の結晶！ 一体それはどういう意味ですか！？』」"
+  },
+  {
+   "id": "clka09:23200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「えー。恥ずかしいよお」"
+  },
+  {
+   "id": "clka09:23300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「『そこを是非！』」"
+  },
+  {
+   "id": "clka09:23400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えっとお」"
+  },
+  {
+   "id": "clka09:23500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』はゆっくりと視線をお腹に向けた。"
+  },
+  {
+   "id": "clka09:23600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』のお腹はぷっくりと膨らんでいた。"
+  },
+  {
+   "id": "clka09:23700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「赤ちゃんが出来たんです」"
+  },
+  {
+   "id": "clka09:23800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……な」"
+  },
+  {
+   "id": "clka09:23900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「来月生まれるんです」"
+  },
+  {
+   "id": "clka09:24000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「なんだって！？」"
+  },
+  {
+   "id": "clka09:24100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「つまり、出来ちゃった婚って奴か。さすがは⟦col:280aa02d1400⟧むっつりスケベ⟦col:800000⟧」"
+  },
+  {
+   "id": "clka09:24200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「どんな子が生まれてくるのかなー。タクに似てるのかな？ 華ちゃんに似てるのかな？」"
+  },
+  {
+   "id": "clka09:24300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ハイブリッドかもしれません。宮代先輩、黙ってれば整った顔してますし、男の子でも女の子でも、イケメンが生まれそうです」"
+  },
+  {
+   "id": "clka09:24400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「いやあ、宮代先輩若いっすねえ！ ヤる時はヤる男！ しかも的中率半端無い！ それとも、試行回数が多かったとか！？」"
+  },
+  {
+   "id": "clka09:24500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「んふふふ」"
+  },
+  {
+   "id": "clka09:24600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「拓留さんってほんとそういうのが好きでー」"
+  },
+  {
+   "id": "clka09:24700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「ほぼ毎日なんです。ストレスたまってる時は特に激しくて……」"
+  },
+  {
+   "id": "clka09:24800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「でも、拓留さんの体温を感じると愛されてるって思えるから、あたしも受け入れちゃうんですよね」"
+  },
+  {
+   "id": "clka09:24900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「休み時間でも『口唇欲求が募った』とか言いだして、校舎裏に連れて行かれるんです」"
+  },
+  {
+   "id": "clka09:25000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「しょうがないから、そこで満足するまで舐めさせてあげたりして……。ほんと、子犬みたいでかわいいんです」"
+  },
+  {
+   "id": "clka09:25100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「はあ！？ なななな、舐めさせる！？ そ、それは具体的にはどういう！？」"
+  },
+  {
+   "id": "clka09:25200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「童貞は黙っててください」"
+  },
+  {
+   "id": "clka09:25300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ハイ」"
+  },
+  {
+   "id": "clka09:25400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「この前なんか部活の最中に⟦col:280aa02d1400⟧ＲＩＮＥ⟦col:800000⟧でお願いされちゃって」"
+  },
+  {
+   "id": "clka09:25500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「仕方ないからみんなに見えないようにカーテンで隠して、ええと、あの……」"
+  },
+  {
+   "id": "clka09:25600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「その、口で……」"
+  },
+  {
+   "id": "clka09:25700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「く、口で！？ 口でなにをしたんだよ！ おい！」"
+  },
+  {
+   "id": "clka09:25800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「童貞は黙っててください」"
+  },
+  {
+   "id": "clka09:25900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ハイ」"
+  },
+  {
+   "id": "clka09:26000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「でも、その宮代先輩の変態性欲のおかげで、こうしてゴールインできたわけですから、災い転じて福となすですね」"
+  },
+  {
+   "id": "clka09:26100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「華ちゃん、タクがケダモノで良かったね」"
+  },
+  {
+   "id": "clka09:26200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はい。あたしも気持ちいいの大好きですから♪」"
+  },
+  {
+   "id": "clka09:26300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「ちょっと待て！ 今の話を信じるのかお前たち！」"
+  },
+  {
+   "id": "clka09:26400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「どこかおかしな所があったか？」"
+  },
+  {
+   "id": "clka09:26500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「私が想像している宮代先輩の行動そのものです」"
+  },
+  {
+   "id": "clka09:26600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうだねえ」"
+  },
+  {
+   "id": "clka09:26700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「お前たちは普段僕のことをそんな目で見ているのか！」"
+  },
+  {
+   "id": "clka09:26800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留」"
+  },
+  {
+   "id": "clka09:26900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ひっ！ く、来栖！」"
+  },
+  {
+   "id": "clka09:27000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "これまで黙っていた来栖が、ツカツカと僕の前に歩いてきた。"
+  },
+  {
+   "id": "clka09:27100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……拓留」"
+  },
+  {
+   "id": "clka09:27200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ま、待ってくれ来栖！ これはなにかの間違いで――」"
+  },
+  {
+   "id": "clka09:27300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おめでとう」"
+  },
+  {
+   "id": "clka09:27400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……へ？」"
+  },
+  {
+   "id": "clka09:27500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "「拓留の計画性の無さにはちょっと思う所もあるけれど。でも、今日はそういうこと言うのやめとくね」"
+  },
+  {
+   "id": "clka09:27600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "「だって、可愛い弟の門出の日なんだもの」"
+  },
+  {
+   "id": "clka09:27700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "「香月を生まれてくる赤ちゃんともども、絶対に、幸せにするのよ」"
+  },
+  {
+   "id": "clka09:27800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「お姉さん！ ありがとうございます！ 拓留さんと、この子と３人で、絶対に幸せな家庭を築きますから！」"
+  },
+  {
+   "id": "clka09:27900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なんて美しい光景でしょう！」"
+  },
+  {
+   "id": "clka09:28000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「そうだね！」"
+  },
+  {
+   "id": "clka09:28100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おおおおれなんか、か、感動しちゃった……！」"
+  },
+  {
+   "id": "clka09:28200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "来栖の涙につられてみんなが泣き出し、なんかこのまま全ての物語がハッピーに幕を下ろすノリになりつつあった。"
+  },
+  {
+   "id": "clka09:28300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この流れを止められるのは、僕しかいなかった。"
+  },
+  {
+   "id": "clka09:28400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ちょっと待ってくれ！ ぼ、僕はまだ結婚なんてしないぞ！」"
+  },
+  {
+   "id": "clka09:28500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えええ！？」"
+  },
+  {
+   "id": "clka09:28600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「責任とってくれるって言ったじゃないですか！ あれはその場限りの嘘だったんですか！？」"
+  },
+  {
+   "id": "clka09:28700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「責任もなにも、そもそも僕は、お前と子供を作った覚えもない！」"
+  },
+  {
+   "id": "clka09:28800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんな！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「最初からあたしの身体だけが目的だったんですね！」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「自分の性欲を満たしたいがためだけに、純真な乙女の気持ちを弄んだんですね！」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ひどい、酷すぎます！ いえ、あたしのことはどうでもいいんです」"
+  }
+ ]
+}

@@ -1,0 +1,822 @@
+{
+ "packet_id": "CC0339-_tips-P07",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "じょてい"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "女性の皇帝、あるいは天皇のこと。碧朋学園の生徒は、来栖乃々に対する敬意と畏怖を込めてこう呼ぶ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その他"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ディソード"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "でぃそーど"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "でぃそぉど"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:64900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）Ｄｅｌｕｓｉｏｎ　Ｉｄｅａｌ　ｓｗｏｒｄ。ギガロマニアックスだけが持つ、妄想の剣。ディラックの海に繋がっているこの剣は、ギガロマニアックスが妄想を具現化する際に、端末の役割を担う。負の物質で構成されており、無限に崩壊し続けている。妄想状態（剣のガラスラインが青）の場合はギガロマニアックスにしか認識できず、実体もない。リアルブート時（剣のガラスラインが赤）になると剣は現実となり、誰にでも見える“物体としての剣”となる。神話や古い文献にも散見され、その記述によれば“目に見えない剣”とされる。"
+  },
+  {
+   "id": "_tips:65000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作品"
+  },
+  {
+   "id": "_tips:65100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "マジカル・ユイ"
+  },
+  {
+   "id": "_tips:65200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まじかる・ゆい"
+  },
+  {
+   "id": "_tips:65300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まじかるゆい"
+  },
+  {
+   "id": "_tips:65400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その昔、多くのファンを生み出した魔法少女シリーズの復活第二作として作られたテレビアニメ。ヒロインの中学生ユイちゃんが、魔法でマジシャンに変身し、人々の夢と希望を与えていくストーリー。全身が大小の箱に包まれるという、斬新な変身バンクで話題となった……というのは拓留の妄想の中でのお話で、実際にそのようなアニメは放送されていない。"
+  },
+  {
+   "id": "_tips:65500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:65600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ベーグル"
+  },
+  {
+   "id": "_tips:65700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "べーぐる"
+  },
+  {
+   "id": "_tips:65800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "べぇぐる"
+  },
+  {
+   "id": "_tips:65900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "東欧発祥のパンに似た食べ物。パンが生地をそのまま焼いて作るのに対し、ベーグルは一度茹でた後に焼き上げることで、中はもちもち、外はカリッとした食感に仕上がる。その起源はかなり古いと言われるが、今のところ明確にはわかっていない。腹持ちもよく、女子に人気の食べ物。"
+  },
+  {
+   "id": "_tips:66000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:66100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ステキ女子"
+  },
+  {
+   "id": "_tips:66200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すてきじょし"
+  },
+  {
+   "id": "_tips:66300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すてきじょし"
+  },
+  {
+   "id": "_tips:66400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "容姿はもちろんのこと、身だしなみから日常生活、趣味嗜好、仕事に至るまで、誰もが憧れる『できる女性』を体現化したような存在のこと。とあるマンガで使われたことから、一般的に認知されるようになった。なお、反対語は『干物女』"
+  },
+  {
+   "id": "_tips:66500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:66600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "壁ドン"
+  },
+  {
+   "id": "_tips:66700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かべどん"
+  },
+  {
+   "id": "_tips:66800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かべどん"
+  },
+  {
+   "id": "_tips:66900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "女子を壁際に追い詰めるために、壁に向かって手をつく行為のこと。元々はアパートなど隣部屋の騒音に対し、無言の苦情を示す意思表示として壁を殴る行為のことを言ったが、いつからか本来の意味は失われ、女子の理想のシチュエーションを表す言葉となった。ただし、誰がやっても良いわけではなく、イケメンに限られるため、注意が必要である。"
+  },
+  {
+   "id": "_tips:67000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:67100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "バラ色学園生活"
+  },
+  {
+   "id": "_tips:67200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ばらいろがくえんせいかつ"
+  },
+  {
+   "id": "_tips:67300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ばらいろがくえんせいかつ"
+  },
+  {
+   "id": "_tips:67400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "誰もが憧れるような、充実した学園生活のこと。この場合、特定の女子と良い関係となり、毎日イチャイチャラブラブするような学園での生活のことをいう。"
+  },
+  {
+   "id": "_tips:67500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:67600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "厚生労働省"
+  },
+  {
+   "id": "_tips:67700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こうせいろうどうしょう"
+  },
+  {
+   "id": "_tips:67800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こうせいろうどうしょう"
+  },
+  {
+   "id": "_tips:67900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "医療や社会福祉、労働などを所轄する、国の行政機関のひとつ。元々は厚生省と労働省、別々の機関だったが２００１年に再編され、現在の形となった。省略して厚労省とも呼ばれる。"
+  },
+  {
+   "id": "_tips:68000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:68100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "マウンテンビュー"
+  },
+  {
+   "id": "_tips:68200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まうんてんびゅー"
+  },
+  {
+   "id": "_tips:68300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まうんてんびゅぅ"
+  },
+  {
+   "id": "_tips:68400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）拓留の好きな炭酸飲料。元々はウイスキーを割るために商品開発された飲料。鮮やかな緑色をしているのは、人工着色料によるものだったが、現在ではリニューアルされ人工の着色料は使用されていない。あまり販売されておらず、宮代拓留はその稀少さゆえに好んでいるとも思われる。過去にはＣＭに、有名な格闘系ハリウッドスターを多数起用していた。"
+  },
+  {
+   "id": "_tips:68500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:68600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "赤ちゃんプレイ"
+  },
+  {
+   "id": "_tips:68700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あかちゃんぷれい"
+  },
+  {
+   "id": "_tips:68800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あかちゃんぷれい"
+  },
+  {
+   "id": "_tips:68900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "自らが赤ん坊に扮し、母親役の相手から愛でられることを悦ぶ、特殊な性的遊戯のこと。ミルクを飲ませてもらったり、おむつを替えてもらったりすることにたまらなく快感を覚えるもの……らしい。"
+  },
+  {
+   "id": "_tips:69000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:69100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＩＮＥ"
+  },
+  {
+   "id": "_tips:69200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "らいん"
+  },
+  {
+   "id": "_tips:69300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＩＮＥ"
+  },
+  {
+   "id": "_tips:69400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）ＳＮＳの一種。スマートフォン、ＰＣなどで利用できるインスタントメッセンジャーアプリケーション。ユーザーが互いにインストールしていれば、音声通話やテキストチャットが利用出来る。２０１７年現在、ユーザー数は世界でおよそ５億人強。"
+  },
+  {
+   "id": "_tips:69500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:69600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "興信所"
+  },
+  {
+   "id": "_tips:69700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こうしんじょ"
+  },
+  {
+   "id": "_tips:69800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こうしんじょ"
+  },
+  {
+   "id": "_tips:69900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "企業や個人の調査を行う会社の事。結婚相手や取引先の信用調査や、浮気調査などが主な業務である。"
+  },
+  {
+   "id": "_tips:70000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:70100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "乳児期"
+  },
+  {
+   "id": "_tips:70200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にゅうじき"
+  },
+  {
+   "id": "_tips:70300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にゅうじき"
+  },
+  {
+   "id": "_tips:70400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "生後から一歳未満までをさす。母乳で育ち、いまだ自らの足で歩くことが出来る状態にない時期でもあり、他者の庇護を必要とする時期のことをいう。"
+  },
+  {
+   "id": "_tips:70500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:70600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "インフルエンザ"
+  },
+  {
+   "id": "_tips:70700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いんふるえんざ"
+  },
+  {
+   "id": "_tips:70800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いんふるえんざ"
+  },
+  {
+   "id": "_tips:70900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ウィルスが原因で起こる流感。主に冬に流行し、突然の高熱を出し、呼吸器疾患などをともなう。くしゃみや咳などの飛沫により感染する。近年では予防接種などもあるが、主にＡ型Ｂ型Ｃ型とあり、年度によって流行するタイプが変わるため、予想がつきにくい感染症でもある。"
+  },
+  {
+   "id": "_tips:71000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:71100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "バンビーナバンビーノ"
+  },
+  {
+   "id": "_tips:71200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ばんびーなばんびーの"
+  },
+  {
+   "id": "_tips:71300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ばんびぃなばんびぃの"
+  },
+  {
+   "id": "_tips:71400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）主に赤ちゃん用品や子ども用品を製造しているメーカー。国内でも多くのシェアを有している。直訳すると「女の子男の子」となる。"
+  },
+  {
+   "id": "_tips:71500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:71600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "児童福祉施設"
+  },
+  {
+   "id": "_tips:71700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じどうふくししせつ"
+  },
+  {
+   "id": "_tips:71800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じどうふくししせつ"
+  },
+  {
+   "id": "_tips:71900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "法令に基づき、児童の福祉に関する事業をとりおこなう施設の総称。青葉寮などの児童養護施設や、保育所なども、この児童福祉施設に含まれる。"
+  },
+  {
+   "id": "_tips:72000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "科学"
+  },
+  {
+   "id": "_tips:72100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "深層心理"
+  },
+  {
+   "id": "_tips:72200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しんそうしんり"
+  },
+  {
+   "id": "_tips:72300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しんそうしんり"
+  },
+  {
+   "id": "_tips:72400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "意識下において無自覚、無意識的に思考され、行動に影響を与える心理のこと。心理学者、ジークムント・フロイトによって提唱され、カール・グスタフ・ユングなどによって実証が試みられた。夢判断や心理テストなどは、この深層心理を探るためのものともいえる。"
+  },
+  {
+   "id": "_tips:72500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "科学"
+  },
+  {
+   "id": "_tips:72600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "心的ストレス"
+  },
+  {
+   "id": "_tips:72700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しんてきすとれす"
+  },
+  {
+   "id": "_tips:72800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しんてきすとれす"
+  },
+  {
+   "id": "_tips:72900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "心に与えられる大きな負担のこと。精神的ストレスやストレス症状とも呼ばれるが、医学用語ではなくあくまでも一般的な用語として用いられる。ストレスが溜まり過ぎると、身体的にも影響をもたらすと言われ、その症状は乳幼児期にも表れるといわれる。"
+  },
+  {
+   "id": "_tips:73000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:73100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "教育委員会"
+  },
+  {
+   "id": "_tips:73200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きょういくいいんかい"
+  },
+  {
+   "id": "_tips:73300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きょういくいいんかい"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "各地方公共団体に置かれ、教育に関する重要事項や方針を決定し体現させるための行政委員会。基本的には５人の委員からなり、任期は４年。政治的、宗教的に中立的立場が求められる。制度としては、委員長を含む委員の５名をもって『教育委員会』というが、実務組織である『教育委員会事務局』を含めて『教育委員会』と呼ぶことも多い。テレビなどでよく頭を下げている人々のこと。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ネット"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "燃料"
+  }
+ ]
+}

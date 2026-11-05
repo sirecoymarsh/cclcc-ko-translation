@@ -1,0 +1,960 @@
+{
+ "packet_id": "CC0323-clzz99-P03",
+ "kit_version": "1.0",
+ "source_file": "clzz99.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "이토 신지"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "翌日の夜を迎えてしまった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "どういうことか、その間、学校に誰かが来る様子は無かった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "幸いなことに、水はうきがポットの中に並々入れてくれていたため、不足することはなかった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "食料に関しては、来栖や尾上が用意していたお菓子や、香月が机の中に常備しているロリポップなどが見つかり、空腹を満たすとまではいかなかったが、栄養をとることはなんとかできていた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "問題はトイレだが……。"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「聞くなよ！ 絶対聞くなよ」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clzz99:20000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「誰が好き好んで聞くかよ」"
+  },
+  {
+   "id": "clzz99:20100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「言っとくけど、今のはフリじゃないからな」"
+  },
+  {
+   "id": "clzz99:20200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「わかってるから、さっさとやれよ！」"
+  },
+  {
+   "id": "clzz99:20300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "これほどペットボトルと言う存在に感謝したことがあっただろうか。"
+  },
+  {
+   "id": "clzz99:20400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "１１月１５日、日曜日。"
+  },
+  {
+   "id": "clzz99:20500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "僕たちが部室に閉じ込められて、たぶん４８時間くらいが経過した……と思う。"
+  },
+  {
+   "id": "clzz99:20600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "果たして外の世界がどうなっているのか気になるが、時折街宣車の声なんかが聞こえてくるところをみると、おそらく特に変わったことはないんだろう。"
+  },
+  {
+   "id": "clzz99:20700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "つまり、問題なのはこの学校だけで、それについては今のところ誰も何も気づいた様子はない。"
+  },
+  {
+   "id": "clzz99:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "普通の学生なら、⟦col:280aa02d1400⟧ＲＩＮＥ⟦col:800000⟧を送っても返事がないから何かあったんじゃないか――なんて思われるところだろうけど、哀しいかな僕にはマメに連絡を取り合うような友達はほとんどいない。"
+  },
+  {
+   "id": "clzz99:20900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "特に休日にやりとりするのなんて、せいぜい尾上くらいのもので、それも頻繁にというわけじゃないから、たぶん僕たちが置かれた状況に気づいてなんていないだろう。"
+  },
+  {
+   "id": "clzz99:21000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "外の世界が大変なことになっていたら、連絡のひとつもあるだろうけど、変化がなければ連絡なんてない可能性のほうが大きい。"
+  },
+  {
+   "id": "clzz99:21100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ああああああああああああ！！」"
+  },
+  {
+   "id": "clzz99:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤が叫んで、椅子に手をかけた。"
+  },
+  {
+   "id": "clzz99:21300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「やめとけって……もう何回も試しただろ」"
+  },
+  {
+   "id": "clzz99:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "椅子をぶつけて、扉や窓が壊れないか試したものの、両方ともびくともしなかった。"
+  },
+  {
+   "id": "clzz99:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "渋谷地震を経験したことで、窓ガラスも強化ガラスに変えられているのだ。"
+  },
+  {
+   "id": "clzz99:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それがまさか、こんな事態につながるとは……。"
+  },
+  {
+   "id": "clzz99:21700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「とにかく、明日まで待とう。そうすれば、学校が始まって、先生も生徒も来るはずだ……」"
+  },
+  {
+   "id": "clzz99:21800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「その保証はあるのか？」"
+  },
+  {
+   "id": "clzz99:21900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「どういうことだよ？」"
+  },
+  {
+   "id": "clzz99:22000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「普通、休日でも誰か来るだろ、学校なら。それが、丸２日誰も来ねえんだぞ。明日になったら誰か来る保証なんてどこにあるんだよ？」"
+  },
+  {
+   "id": "clzz99:22100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに伊藤の言う通りだ。"
+  },
+  {
+   "id": "clzz99:22200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど、今の僕たちには信じるしか方法がない。"
+  },
+  {
+   "id": "clzz99:22300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それに……。"
+  },
+  {
+   "id": "clzz99:22400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「とにかく……ここで騒いでも、何にもならないんだから……くしゅっ！！」"
+  },
+  {
+   "id": "clzz99:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "どうにも夕方くらいから頭がぼーっとして……。"
+  },
+  {
+   "id": "clzz99:22600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……宮代？ どうしたんだ？」"
+  },
+  {
+   "id": "clzz99:22700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「いや、なんでもない……」"
+  },
+  {
+   "id": "clzz99:22800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そういや、鼻声だな。ちょっとおでこ貸せ！！」"
+  },
+  {
+   "id": "clzz99:22900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clzz99:23000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やっぱ、すごい熱だ……」"
+  },
+  {
+   "id": "clzz99:23100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「お、お前……」"
+  },
+  {
+   "id": "clzz99:23200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は両手を突っ張って、伊藤の身体を引っぺがした。"
+  },
+  {
+   "id": "clzz99:23300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「な、なんでわざわざ熱測るのに、おでこくっつけるんだよ！？」"
+  },
+  {
+   "id": "clzz99:23400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「は？ 熱測るときは普通こうするだろ」"
+  },
+  {
+   "id": "clzz99:23500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「いやいや、親とか兄弟ならまだしも、男同士でやらないだろ！」"
+  },
+  {
+   "id": "clzz99:23600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……そうなのか？」"
+  },
+  {
+   "id": "clzz99:23700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "こいつ……どういう家庭環境で育ったんだよ？"
+  },
+  {
+   "id": "clzz99:23800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まあでも、今はそんなことはどうだっていい。とにかく、お前の熱、それなんとかしないと」"
+  },
+  {
+   "id": "clzz99:23900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「こ、これくらい、なんともない。寝たら治るよ」"
+  },
+  {
+   "id": "clzz99:24000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そういうわけにはいかないだろ」"
+  },
+  {
+   "id": "clzz99:24100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そんなこと言ったって、この状況じゃ、どうすることもできないだろ」"
+  },
+  {
+   "id": "clzz99:24200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それはそうだけど……」"
+  },
+  {
+   "id": "clzz99:24300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "くそ……今騒いだせいで、余計にしんどくなってきた。"
+  },
+  {
+   "id": "clzz99:24400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「っ……とにかく、明日までの辛抱だし、僕はもう寝るよ」"
+  },
+  {
+   "id": "clzz99:24500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代……」"
+  },
+  {
+   "id": "clzz99:24600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「ふぅ……」"
+  },
+  {
+   "id": "clzz99:24700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "とは言ったものの。"
+  },
+  {
+   "id": "clzz99:24800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これは結構マズいかもしれない。"
+  },
+  {
+   "id": "clzz99:24900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さっきから、どんどん悪寒が増している。"
+  },
+  {
+   "id": "clzz99:25000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それに、寒気がヒドい。"
+  },
+  {
+   "id": "clzz99:25100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「うぅ〜……」"
+  },
+  {
+   "id": "clzz99:25200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "あまりの寒さに身体の震えが止まらない。"
+  },
+  {
+   "id": "clzz99:25300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "寒い寒い寒い寒い。"
+  },
+  {
+   "id": "clzz99:25400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "このままじゃ、ほんとにヤバいかもしれない。"
+  },
+  {
+   "id": "clzz99:25500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……宮代……お前、大丈夫か？」"
+  },
+  {
+   "id": "clzz99:25600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ぅ〜……」"
+  },
+  {
+   "id": "clzz99:25700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「寒いのか？」"
+  },
+  {
+   "id": "clzz99:25800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ウぅ〜……」"
+  },
+  {
+   "id": "clzz99:25900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clzz99:26000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "せめて布団でもあればいいんだけど、ダンボールだけじゃ限界がある。"
+  },
+  {
+   "id": "clzz99:26100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ヤバイな……このままだと、悪化しちまう……」"
+  },
+  {
+   "id": "clzz99:26200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤はそう呟くと、しばらくの間黙りこくってしまった。"
+  },
+  {
+   "id": "clzz99:26300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その間も僕は、襲われる寒気に身を抱くように丸まって、ただただ震えていた。"
+  },
+  {
+   "id": "clzz99:26400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "すると、やがて背後からごそごそと音が聞こえてきた。"
+  },
+  {
+   "id": "clzz99:26500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ゆっくりと振り返ると、何故か伊藤が制服を脱ごうとしていた。"
+  },
+  {
+   "id": "clzz99:26600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「伊藤……お前、何やって……」"
+  },
+  {
+   "id": "clzz99:26700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「よくさ、雪山で遭難したときに温め合うって話、聞くよな？」"
+  },
+  {
+   "id": "clzz99:26800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「…………おい、まさか……」"
+  },
+  {
+   "id": "clzz99:26900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お、俺だって、別に好きでやろうってわけじゃねーよ！ ただ……お、お前にはツナサンドの恩があるから……」"
+  },
+  {
+   "id": "clzz99:27000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「伊藤……」"
+  },
+  {
+   "id": "clzz99:27100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "お前……なんて、義理堅い奴なんだ……。"
+  },
+  {
+   "id": "clzz99:27200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それにこのままだと、お前があまりにも辛そうだろ！ だから……」"
+  },
+  {
+   "id": "clzz99:27300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤はズボンのベルトに手をかけた。"
+  },
+  {
+   "id": "clzz99:27400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "その瞬間、僕は正気に返る。"
+  },
+  {
+   "id": "clzz99:27500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、さ。お前も……な？」"
+  },
+  {
+   "id": "clzz99:27600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「いやいやいや！ 冗談じゃない！ 誰が好き好んで男と裸で抱き合わなきゃいけないんだ！ 僕なら大丈夫――ゲホッ、ゲホッ！」"
+  },
+  {
+   "id": "clzz99:27700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "ダメだ。"
+  },
+  {
+   "id": "clzz99:27800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "悪寒がひどくて、目が回りそうだ。"
+  },
+  {
+   "id": "clzz99:27900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほら、どう見ても大丈夫じゃないだろ」"
+  },
+  {
+   "id": "clzz99:28000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤は僕の傍に屈みこむと、そっと一番上のボタンに手を伸ばした。"
+  },
+  {
+   "id": "clzz99:28100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「大丈夫だから……」"
+  },
+  {
+   "id": "clzz99:28200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ま、待って……」"
+  },
+  {
+   "id": "clzz99:28300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "僕はその伊藤の手をそっと止めた。"
+  },
+  {
+   "id": "clzz99:28400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clzz99:28500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「……自分で……脱ぐから……」"
+  },
+  {
+   "id": "clzz99:28600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……わかった」"
+  },
+  {
+   "id": "clzz99:28700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clzz99:28800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "どうしてこんなことになったんだ……。"
+  },
+  {
+   "id": "clzz99:28900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "いや、でも背に腹は代えられない……。"
+  },
+  {
+   "id": "clzz99:29000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "あれ？ 別にパンツは脱がなくてもいいんだよな？"
+  },
+  {
+   "id": "clzz99:29100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代……いいか？」"
+  },
+  {
+   "id": "clzz99:29200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「あ、あぁ……」"
+  },
+  {
+   "id": "clzz99:29300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "外気に冷えてしまった伊藤の肌が僕の肌に触れる。"
+  },
+  {
+   "id": "clzz99:29400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど、冷たいと思ったのは最初だけだった。"
+  },
+  {
+   "id": "clzz99:29500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "布団代わりにかけたふたり分の制服の下で、伊藤の体温が徐々に僕を温めてくれる。"
+  },
+  {
+   "id": "clzz99:29600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "温度の上昇に伴って、さっきまで感じていた悪寒も次第に薄れ、やがて激しい眠気が襲ってきた。"
+  },
+  {
+   "id": "clzz99:29700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ああ、そうか。"
+  },
+  {
+   "id": "clzz99:29800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これはいつもの妄想だ。"
+  },
+  {
+   "id": "clzz99:29900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕のネガティブな妄想に違いない。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "目が覚めればきっと……。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「伊藤……」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「ん？」"
+  }
+ ]
+}

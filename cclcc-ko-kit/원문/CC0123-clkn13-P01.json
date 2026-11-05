@@ -1,0 +1,408 @@
+{
+ "packet_id": "CC0123-clkn13-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn13.msb",
+ "speakers_in_packet": [
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn13:0",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn13:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "――眠れない。"
+  },
+  {
+   "id": "clkn13:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "⟦top:76⟧――どれだけ目を閉じていても眠れない。"
+  },
+  {
+   "id": "clkn13:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "ひかりは隣ですやすやと寝息を立てている。"
+  },
+  {
+   "id": "clkn13:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "仰向けになったまま、乃々は手のひらをそっと天に向かってかざして見た。"
+  },
+  {
+   "id": "clkn13:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "⟦top:76⟧白く滑らかな肌。"
+  },
+  {
+   "id": "clkn13:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "健康そうな色をした爪。"
+  },
+  {
+   "id": "clkn13:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "自分のものであって、自分のものじゃない手――。"
+  },
+  {
+   "id": "clkn13:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "泉理はずっと乃々になりたかった。"
+  },
+  {
+   "id": "clkn13:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だから、乃々になれた時は、純粋に嬉しかった。"
+  },
+  {
+   "id": "clkn13:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "皆から声をかけられるのも、頼られるのも、笑顔を向けられることも、それまでの泉理には無かったもの。"
+  },
+  {
+   "id": "clkn13:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だから、そのすべてがたまらなく嬉しかった。"
+  },
+  {
+   "id": "clkn13:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "けれど、その喜びはやがて罪の意識に代わっていった。"
+  },
+  {
+   "id": "clkn13:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:76⟧大切な人たちを欺き続ける呵責の念。"
+  },
+  {
+   "id": "clkn13:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "思い切って真実を打ち明けた時も、大切な人たちは彼女を責めなかった。"
+  },
+  {
+   "id": "clkn13:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "もちろん、その胸中に複雑なものがあったことは、彼女にもわかってはいた。"
+  },
+  {
+   "id": "clkn13:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "それでも、“家族”は受け入れてくれた。"
+  },
+  {
+   "id": "clkn13:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "再びひかりが繋げてくれた拓留との日々は温かくて眩しくて。"
+  },
+  {
+   "id": "clkn13:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "彼女にもう一度喜びを与えてくれた。"
+  },
+  {
+   "id": "clkn13:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧だけど今、彼女の能力が拓留を苦しめている。"
+  },
+  {
+   "id": "clkn13:2000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「我が儘なんだ……私……」"
+  },
+  {
+   "id": "clkn13:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "自分が真実を告げればすべては収まる。"
+  },
+  {
+   "id": "clkn13:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "⟦top:76⟧わかっている。"
+  },
+  {
+   "id": "clkn13:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "わかってはいるけれど、きっと心のどこかでそれを恐れているのだ。"
+  },
+  {
+   "id": "clkn13:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "⟦top:76⟧再び、冴えない自分に戻り、周囲が幻滅するのを。"
+  },
+  {
+   "id": "clkn13:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "⟦top:76⟧嘘つきだと蔑まれるのを。"
+  },
+  {
+   "id": "clkn13:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "これまで“来栖乃々”という名の鎧で武装していた自分。"
+  },
+  {
+   "id": "clkn13:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "そこにほんの僅かな亀裂が入りそうになっただけで、彼女は何もできなくなってしまった。"
+  },
+  {
+   "id": "clkn13:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "今起きている生徒会の暴走行為。"
+  },
+  {
+   "id": "clkn13:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦top:38⟧いつもの彼女――来栖乃々であれば、あのような横暴は決して認めはしなかっただろう。"
+  },
+  {
+   "id": "clkn13:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦top:38⟧けれど、今は何もできないでいる。"
+  },
+  {
+   "id": "clkn13:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "変わったと思っていた。"
+  },
+  {
+   "id": "clkn13:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "変われたんじゃないかと思い始めていた。"
+  },
+  {
+   "id": "clkn13:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:76⟧けれど、結局“来栖乃々”という皮の下は、南沢泉理という弱い自分でしかないことを思い知らされた。"
+  },
+  {
+   "id": "clkn13:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "川原に怯える自分。"
+  },
+  {
+   "id": "clkn13:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧真実を知られることに恐れを抱く自分。"
+  },
+  {
+   "id": "clkn13:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧怖がりで弱虫で。"
+  },
+  {
+   "id": "clkn13:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧我が儘で欲深くて。"
+  },
+  {
+   "id": "clkn13:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧それが本当の自分。"
+  },
+  {
+   "id": "clkn13:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "結局。"
+  },
+  {
+   "id": "clkn13:4000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私が一番大事なのは私なんだ……」"
+  },
+  {
+   "id": "clkn13:4100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ、ひかり……」"
+  },
+  {
+   "id": "clkn13:4200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私、どうしたらいい？」"
+  },
+  {
+   "id": "clkn13:4300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうしたら……」"
+  }
+ ],
+ "context_after": []
+}

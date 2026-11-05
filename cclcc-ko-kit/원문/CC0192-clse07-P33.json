@@ -1,0 +1,897 @@
+{
+ "packet_id": "CC0192-clse07-P33",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "쿠노사토 미오",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「つまり、お前の言っていることは全てでたらめだ。『因果を改変出来る能力者』も『因果を改変した世界』も、ただのフェイク」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「おそらく、この世界が『現実』で、もうひとつはお前が妄想シンクロで作り出しただけの幻覚――『妄想の箱庭』に過ぎない。宮代や新聞部の連中は今、その中に閉じ込められている。そうだな？」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「なぜこんなことをした？ 狙いはやはり宮代か？」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「……そうして彼がギガロマニアックス化するよう、そそのかそうというわけか」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「だろうな。あいつはそういうやつだ」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「なんだ？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:308800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くぁぁああああああーーーっ！」"
+  },
+  {
+   "id": "clse07:308900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もってくれ！ あとほんの少し！ 少しだけでいい！」"
+  },
+  {
+   "id": "clse07:309000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くうっ！」"
+  },
+  {
+   "id": "clse07:309100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うあああああ！」"
+  },
+  {
+   "id": "clse07:309200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「このっ！」"
+  },
+  {
+   "id": "clse07:309300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「終わりなのはお前だ、和久井ッ！」"
+  },
+  {
+   "id": "clse07:309400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……しばらくその腕は使い物にならないだろう」"
+  },
+  {
+   "id": "clse07:309500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だが、さすが、“思考誘導”に気づいたのは早かったな。おかげでお前の⟦rb⟧生命⟦rt⟧いのち⟦/r⟧を奪いそこなった。残念だよ」"
+  },
+  {
+   "id": "clse07:309600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「本当なら、ここで斬り殺して、二度と宮代に危害を加えられないようにするつもりだったが……まがい物ではこれが限界だったか」"
+  },
+  {
+   "id": "clse07:309700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふん。佐久間というのは最期の最期まで下衆な男だったが……ギガロマニアックスの研究者としては、なかなかだったようだ」"
+  },
+  {
+   "id": "clse07:309800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こいつは今、無線で別の装置に接続されている」"
+  },
+  {
+   "id": "clse07:309900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう。佐久間が使っていたのと同じものだよ」"
+  },
+  {
+   "id": "clse07:310000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「佐久間の装置の設計図やデータなら、宮代たちと地下施設に忍び込んだ時に、一度、見たからな」"
+  },
+  {
+   "id": "clse07:310100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんなら、いまここで、暗唱してみせようか？」"
+  },
+  {
+   "id": "clse07:310200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「残念ながら時間が足りなくてな。もっと完成度を上げることが出来ていれば、お前を⟦rb⟧葬⟦rt⟧ほうむ⟦/r⟧り去ることも出来たろうに」"
+  },
+  {
+   "id": "clse07:310300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さぁ？」"
+  },
+  {
+   "id": "clse07:310400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いいや。もう二度と、私たちの前に現れるな」"
+  },
+  {
+   "id": "clse07:310500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もし次にお前の顔を見ることがあれば……今度こそ、生かしてはおかない」"
+  },
+  {
+   "id": "clse07:310600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふぅーーっ」"
+  },
+  {
+   "id": "clse07:310700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……なぁ、宮代？」"
+  },
+  {
+   "id": "clse07:310800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いいんだよな？ お前の望みは……本当に、これでいいんだよな？」"
+  },
+  {
+   "id": "clse07:310900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こうして、和久井修一が宮代拓留や私たちに対して仕掛けた罠は回避された」"
+  },
+  {
+   "id": "clse07:311000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ただし、はじめにも言ったが……今回の件は私達にとってはただの蛇足に過ぎない」"
+  },
+  {
+   "id": "clse07:311100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「和久井が作り出した『妄想の箱庭』に閉じ込められ、意識を失っていた宮代と新聞部の部員、そして有村雛絵たちは、みな収容先の病院で目を覚ましたという……」"
+  },
+  {
+   "id": "clse07:311200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もちろん、宮代拓留と伊藤真二だけは他の連中とは別の病院にいる」"
+  },
+  {
+   "id": "clse07:311300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうだ、具合は？」"
+  },
+  {
+   "id": "clse07:311400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうか。これであいつも、しばらくは手出ししてこないだろう」"
+  },
+  {
+   "id": "clse07:311500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ？ 誰だ、そんなことを言ったのは？」"
+  },
+  {
+   "id": "clse07:311600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あの男……二度と私たちの前に現れるなと……」"
+  },
+  {
+   "id": "clse07:311700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……。そうか。ならいいが……」"
+  },
+  {
+   "id": "clse07:311800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや。『因果』を改変出来る能力者……本当に存在していたら、君はどの時間から人生をやり直すだろう、と思ってな」"
+  },
+  {
+   "id": "clse07:311900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私か？ 私は、そうだな……」"
+  },
+  {
+   "id": "clse07:312000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ。今日中には退院できるそうだ」"
+  },
+  {
+   "id": "clse07:312100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あと、伊藤だが……脳の肥大もなくなり、脳波も正常に戻った。あとは心理療法で心のケアをしていけば大丈夫だろう」"
+  },
+  {
+   "id": "clse07:312200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ。他ならぬお前の頼みだ。責任は持つよ」"
+  },
+  {
+   "id": "clse07:312300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「分かってる。そっちは百瀬さんがちゃんとやってくれているよ。心配しなくていい」"
+  },
+  {
+   "id": "clse07:312400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「碧朋学園は、カオスチャイルド症候群だった学生専門の学校になるようだが……彼女はすでに横浜の高校に転校して、新しい人生を送っているそうだ」"
+  },
+  {
+   "id": "clse07:312500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「――じゃあ、今日は帰る。またな」"
+  },
+  {
+   "id": "clse07:312600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そういえば、宮代……お前、地震の日に部室に閉じ込められていたそうだな」"
+  },
+  {
+   "id": "clse07:312700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「その時の話を記事にでもしたら、面白い新聞になるんじゃないか？」"
+  },
+  {
+   "id": "clse07:312800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「お前……何をムキになってるんだ？」"
+  },
+  {
+   "id": "clse07:312900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「？？？」"
+  },
+  {
+   "id": "clse07:313000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「アイツと何かあったのか？」"
+  },
+  {
+   "id": "clse07:313100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「ちょっ、ちょっと、やめなさい香月！ 女の子の手でそんなに壁を叩いたら折れちゃう！ うきも止めて！」"
+  },
+  {
+   "id": "clse07:313200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「ほら、すりむいちゃってるわ。保健室、行く？」"
+  },
+  {
+   "id": "clse07:313300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「ダイエット！？ ちょっとうき、ダメよ？ あなた、⟦rb⟧痩⟦rt⟧や⟦/r⟧せすぎてるくらいなんだから」"
+  },
+  {
+   "id": "clse07:313400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「中学時代から不必要なダイエットとか、身体に悪いわ。いけません」"
+  },
+  {
+   "id": "clse07:313500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「オホン。ねぇ、伊藤くん？」"
+  },
+  {
+   "id": "clse07:313600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「そういうのって、完全にセクハラ発言よ？ アウトよ？ 分かってるのかしら？」"
+  },
+  {
+   "id": "clse07:313700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「気にすることないわ、うき。今は育ち盛りなんだから、体重とか増えて当然なのよ。気にしちゃダメ。いい？」"
+  },
+  {
+   "id": "clse07:313800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「ええ。今度、一緒に新しいお洋服、買いに行きましょう？」"
+  },
+  {
+   "id": "clse07:313900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あーあ。ふられちゃったわね、拓留？」"
+  },
+  {
+   "id": "clse07:314000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうね、大目に見ましょう。にぎやかなのはいいことよ」"
+  },
+  {
+   "id": "clse07:314100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:314200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えっと……そうね。どの事件も、その……とっても興味深いわ」"
+  },
+  {
+   "id": "clse07:314300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと、伊藤くんっ」"
+  },
+  {
+   "id": "clse07:314400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんか、ごめんなさい……」"
+  },
+  {
+   "id": "clse07:314500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも……」"
+  },
+  {
+   "id": "clse07:314600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え、ええ。拓留さえよければ、それで構わないけど」"
+  },
+  {
+   "id": "clse07:314700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええ」"
+  },
+  {
+   "id": "clse07:314800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こっちよね、拓留？」"
+  },
+  {
+   "id": "clse07:314900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留？ うき？ 別におねーちゃんに気なんか⟦rb⟧遣⟦rt⟧つか⟦/r⟧わなくていいのよ？ 素直な意見を聞かせて？」"
+  },
+  {
+   "id": "clse07:315000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっ！？ そんなことしないわ。私をなんだと思ってるの？ ねえ、拓留？」"
+  },
+  {
+   "id": "clse07:315100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「？？？ 拓留？」"
+  },
+  {
+   "id": "clse07:315200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「別にいいじゃないの。拓留とお買い物なんて、なかなか出来ないんだし」"
+  },
+  {
+   "id": "clse07:315300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねぇねぇ、拓留ぅ？ どうかしら、これ？」"
+  },
+  {
+   "id": "clse07:315400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほら、これ」"
+  },
+  {
+   "id": "clse07:315500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと？ なに驚いてるの？」"
+  },
+  {
+   "id": "clse07:315600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ただの試着じゃない」"
+  },
+  {
+   "id": "clse07:315700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと拓留？ なんで逃げちゃうの？ もっとよく見て。どっちの水着が似合ってるか、決めて」"
+  },
+  {
+   "id": "clse07:315800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなの卑怯だわ、世莉架！ それなら私もっ！」"
+  },
+  {
+   "id": "clse07:315900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあ、もしかして……拓留は私の身体になんて興味がないってことなの？ ううっ、ひどい。⟦rb⟧ここ⟦rt⟧⟦rbc⟧●●⟦/r⟧も⟦rb⟧あそこ⟦rt⟧⟦rbc⟧●●●⟦/r⟧も、拓留の好きにしていいのにっ」"
+  },
+  {
+   "id": "clse07:316000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ！」"
+  },
+  {
+   "id": "clse07:316100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「すみません。本当にすみません。私からもよく言って聞かせますから、その……なんとか……」"
+  },
+  {
+   "id": "clse07:316200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留！ 世莉架！ とにかく今日はもう帰りましょう！ 久野里さんも、刑事さんの言う事をちゃんと聞いて――」"
+  },
+  {
+   "id": "clse07:316300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひ？」"
+  },
+  {
+   "id": "clse07:316400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あの人、いったい……？」"
+  },
+  {
+   "id": "clse07:316500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留っ、急いでっ……お願いっ」"
+  },
+  {
+   "id": "clse07:316600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「大丈夫ですか〜？」"
+  },
+  {
+   "id": "clse07:316700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふーん、そっか……拓留ってば、まだこういうのを買ってるのね……」"
+  },
+  {
+   "id": "clse07:316800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留って……そういう目で私のこと見てたりするの？」"
+  },
+  {
+   "id": "clse07:316900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「取材が大変だった記事より人気がでちゃうと、なんだか複雑な気分だけど……まぁ、学校のみんなが喜んでくれるなら、それが一番ね」"
+  },
+  {
+   "id": "clse07:317000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええ？」"
+  },
+  {
+   "id": "clse07:317100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「聞いたわ、生徒会の後輩から。でも大丈夫よ。川原くんにはビシッと言っておいたから。新聞部の部費を減らすなんて、とんでもない」"
+  },
+  {
+   "id": "clse07:317200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そういうところ、昔のまま。成長しないわよね、拓留は」"
+  },
+  {
+   "id": "clse07:317300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうよ。拓留ってば前だって……」"
+  },
+  {
+   "id": "clse07:317400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……拓留ったら、誰に言ってるの？」"
+  },
+  {
+   "id": "clse07:317500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふっ、気になる？」"
+  },
+  {
+   "id": "clse07:317600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まだわからないの？」"
+  },
+  {
+   "id": "clse07:317700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それはそうよ。言ってないもの」"
+  },
+  {
+   "id": "clse07:317800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「しかも今回は第一回目ということで、こちらでも見ていただいていまーす！」"
+  },
+  {
+   "id": "clse07:317900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、おかげで、私たち新聞部の評判はうなぎのぼりよ」"
+  },
+  {
+   "id": "clse07:318000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「拓留。もしかして、有村さんとケンカでもしたの？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「そう？ だったらいいんだけど……」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ああ、有村さん。来たのね。良かった」"
+  }
+ ]
+}

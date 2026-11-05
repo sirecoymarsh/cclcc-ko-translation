@@ -1,0 +1,935 @@
+{
+ "packet_id": "CC0054-clah11-P01",
+ "kit_version": "1.0",
+ "source_file": "clah11.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "와쿠이 슈이치",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노",
+  "？？？"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clah11:0",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「教室にはいないみたいだねぇ。どこか行っちゃったのかなぁ」"
+  },
+  {
+   "id": "clah11:100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そうか。それじゃあ、もし見かけたら連絡してくれ」"
+  },
+  {
+   "id": "clah11:200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おっけい」"
+  },
+  {
+   "id": "clah11:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "休憩時間ごとに尋ねてきているというのに、教室に有村の姿はなかった。"
+  },
+  {
+   "id": "clah11:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だが学校に来ていることは、クラスメイトに聞いて確証を得ている。"
+  },
+  {
+   "id": "clah11:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "やっぱり僕のことを避けているんだろうか。"
+  },
+  {
+   "id": "clah11:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "昼休みのチャイムが鳴ると同時に、教室を飛び出した。"
+  },
+  {
+   "id": "clah11:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "一目散に走って、２年の教室が並ぶ階へ――。"
+  },
+  {
+   "id": "clah11:800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「はぁ、はぁ……！」"
+  },
+  {
+   "id": "clah11:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村は……！！"
+  },
+  {
+   "id": "clah11:1000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あっ！！」"
+  },
+  {
+   "id": "clah11:1100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村っ！！」"
+  },
+  {
+   "id": "clah11:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "やっと会えた！"
+  },
+  {
+   "id": "clah11:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "だが――。"
+  },
+  {
+   "id": "clah11:1400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「――っ！！」"
+  },
+  {
+   "id": "clah11:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕の顔を見るなり回れ右をして走り出す有村。"
+  },
+  {
+   "id": "clah11:1600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "？？？",
+   "jp": "「おい、待てって！！」"
+  },
+  {
+   "id": "clah11:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかし、当然待てと言われて待つヤツはいないわけで。"
+  },
+  {
+   "id": "clah11:1800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "？？？",
+   "jp": "「有村っ……！！」"
+  },
+  {
+   "id": "clah11:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "有村の背中が、少しずつ近づいてくる。"
+  },
+  {
+   "id": "clah11:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "よし、この調子なら追いつけ――。"
+  },
+  {
+   "id": "clah11:2100",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clah11:2200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「うわっ！！！」"
+  },
+  {
+   "id": "clah11:2300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あいたたたたた……」"
+  },
+  {
+   "id": "clah11:2400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「っつー……」"
+  },
+  {
+   "id": "clah11:2500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おいおい、宮代くん。廊下は走っちゃいけないって、子供の頃言われなかったかい？」"
+  },
+  {
+   "id": "clah11:2600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「す、すみません……」"
+  },
+  {
+   "id": "clah11:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そんなことより、有村は！？"
+  },
+  {
+   "id": "clah11:2800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah11:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "すでに、廊下の向こうに姿を消してしまっていた。"
+  },
+  {
+   "id": "clah11:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "せっかくのチャンスだったのに……。"
+  },
+  {
+   "id": "clah11:3100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「はぁ……」"
+  },
+  {
+   "id": "clah11:3200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「あ、あれ？ 僕、なにか悪いことしたかい？」"
+  },
+  {
+   "id": "clah11:3300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「その様子じゃ、またいなかったみたいだな」"
+  },
+  {
+   "id": "clah11:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "教室に戻った僕の様子から状況を察したのだろう。伊藤が声をかけてきた。"
+  },
+  {
+   "id": "clah11:3500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それにしても、なーんか有村らしくねえよなぁ。こういう時、当たって砕けろで突っ込んでいきそうなタイプなのに」"
+  },
+  {
+   "id": "clah11:3600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「……いや、有村らしいよ」"
+  },
+  {
+   "id": "clah11:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "確かに、普段のただ明るく騒がしい有村を見ていると、そう思うだろう。"
+  },
+  {
+   "id": "clah11:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "だけど、今の僕にはわかる。"
+  },
+  {
+   "id": "clah11:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "それはすべて有村の仮面でしかないのだと。"
+  },
+  {
+   "id": "clah11:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "望んでもいないのに、他人の嘘にずっと触れてきた有村は、ああして明るい仮面を被ることで、これまでずっと周囲とのバランスをとってきた。"
+  },
+  {
+   "id": "clah11:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "けれど、その奥にいたのはきっと、常に他人の言葉の裏に潜む本心を伺い、びくびくと怯えていたひとりの女の子だったんだ。"
+  },
+  {
+   "id": "clah11:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "それでも彼女は今まで、決して逃げ出すことなく、目を逸らすこともなく過ごしてきた。"
+  },
+  {
+   "id": "clah11:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "それが有村雛絵の強さだった。"
+  },
+  {
+   "id": "clah11:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "じゃあ、今回に限ってなぜ逃げ出したのか。"
+  },
+  {
+   "id": "clah11:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "それはきっと、彼女が本気だからだ……と、僕はそう思いたかった。"
+  },
+  {
+   "id": "clah11:4600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふ〜ん」"
+  },
+  {
+   "id": "clah11:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤は考え込んだ僕の顔を、笑みを浮かべて見ていた。"
+  },
+  {
+   "id": "clah11:4800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「な、なんだよ？」"
+  },
+  {
+   "id": "clah11:4900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いやぁ、お前もちゃんと見るとこ見てんだなって思ってさ」"
+  },
+  {
+   "id": "clah11:5000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「……もっと早くに気づいていれば良かったんだけどな」"
+  },
+  {
+   "id": "clah11:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それよりも今は、とにかく有村に会わなければ。"
+  },
+  {
+   "id": "clah11:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "じゃないと、なにも始まらない。"
+  },
+  {
+   "id": "clah11:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど――。"
+  },
+  {
+   "id": "clah11:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その後も、休憩時間や放課後に至るまで、学園中のどこを探しても、有村を見つけることはできなかった。"
+  },
+  {
+   "id": "clah11:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「はぁ……」"
+  },
+  {
+   "id": "clah11:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "疲れた。"
+  },
+  {
+   "id": "clah11:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "なんだか、僕はいつも有村を探しているような気がする。"
+  },
+  {
+   "id": "clah11:5800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やっぱ、授業終わってすぐ帰ったんじゃねぇの？」"
+  },
+  {
+   "id": "clah11:5900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そう思って下駄箱で張ってたんだけどさ……」"
+  },
+  {
+   "id": "clah11:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "有村は玄関にも姿を見せなかった。"
+  },
+  {
+   "id": "clah11:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "後で確かめると、下駄箱には下履きどころか上履きさえ入っていなかった。"
+  },
+  {
+   "id": "clah11:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "僕の行動を予測し、放課後になる前に下履きを回収しておいて、どこか別のルートから学校を出たに違いない。"
+  },
+  {
+   "id": "clah11:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "そこまでして僕を避けてるってことか？"
+  },
+  {
+   "id": "clah11:6400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「こうなってくると、お前、ちょっとしたストーカーみたいだな、宮代」"
+  },
+  {
+   "id": "clah11:6500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「伊藤くん。そういうデリカシーのない言い方、やめなさい」"
+  },
+  {
+   "id": "clah11:6600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「でも、ひなちゃんもいつまでそうやって逃げ回ってるつもりなんだろねぇ」"
+  },
+  {
+   "id": "clah11:6700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「確かにな。そう、いつまでも会わないってわけにもいかんだろうに」"
+  },
+  {
+   "id": "clah11:6800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「もしかしたら、転校とかしちゃう気かも……」"
+  },
+  {
+   "id": "clah11:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "さすがにそこまではしない、と思いたい。"
+  },
+  {
+   "id": "clah11:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "とはいえ、あの有村のことだ。やらないとも言い切れない。"
+  },
+  {
+   "id": "clah11:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それに僕はとにかく１日でも、いや、１時間でも１分でも早く有村に会いたかった。"
+  },
+  {
+   "id": "clah11:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "有村に会って、僕の気持ちを声にして伝えたかった。"
+  },
+  {
+   "id": "clah11:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "今のままじゃ、僕だって有村だって、ただ無駄に辛い気持ちを増幅させるだけだ。"
+  },
+  {
+   "id": "clah11:7400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「有村さん、まだ渋谷にいる、なんていうことはないのかしら？」"
+  },
+  {
+   "id": "clah11:7500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なぁ宮代。お前、有村が行きそうなところとか、心当たりないのか？」"
+  },
+  {
+   "id": "clah11:7600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「有村の行きそうなところ……」"
+  },
+  {
+   "id": "clah11:7700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ダメだ。考えてみたけど、見当もつかない」"
+  },
+  {
+   "id": "clah11:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "こんなことなら、もっと一緒に出掛けたりしておけば良かった。"
+  },
+  {
+   "id": "clah11:7900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "そうすれば、少しは思い出に残る場所があったかもしれないのに。"
+  },
+  {
+   "id": "clah11:8000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「やっぱ、明日学校に来るのを待つしかないのか」"
+  },
+  {
+   "id": "clah11:8100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「そうね。伊藤くんの言う通り、いつまでも顔あわさずにいるっていうわけにもいかないでしょうし、そのうち必ず会えるわよ……」"
+  },
+  {
+   "id": "clah11:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "そのうち、か……。"
+  },
+  {
+   "id": "clah11:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "ていうか、さっきからドンドン鳴ってるこの音はなんなんだ？"
+  },
+  {
+   "id": "clah11:8400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んー！」"
+  },
+  {
+   "id": "clah11:8500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「なんだ、香月……いたのか……」"
+  },
+  {
+   "id": "clah11:8600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "「香月。いくらゲームが行き詰まったからって、そうやって壁を叩いちゃいけないっていつも言ってるでしょう」"
+  },
+  {
+   "id": "clah11:8700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「わかった……かも」"
+  },
+  {
+   "id": "clah11:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "香月がＰＣのモニターを指さして言った。"
+  },
+  {
+   "id": "clah11:8900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「あ、なんだ？ イベントの攻略法でもわかったのか？」"
+  },
+  {
+   "id": "clah11:9000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ひなさんの居場所……わかった、かも……」"
+  },
+  {
+   "id": "clah11:9100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「なに！？ ホントか！？」"
+  },
+  {
+   "id": "clah11:9200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clah11:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "僕は香月の元に駆け寄ると、身を乗り出してモニターを覗き込んだ。"
+  },
+  {
+   "id": "clah11:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "画面には渋谷の地図が映し出されていた。"
+  },
+  {
+   "id": "clah11:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "そしてその中にひとつ、点滅する赤い印があった。"
+  },
+  {
+   "id": "clah11:9600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ひなさんの……スマホの位置……かも……」"
+  },
+  {
+   "id": "clah11:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ひょっとしてＧＰＳか？"
+  },
+  {
+   "id": "clah11:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "でも、あらかじめ⟦col:280aa02d1400⟧アプリ⟦col:800000⟧を入れてない限り、たとえ電話番号がわかっていたとしても、そんなに簡単に位置情報の取得なんてできないはずだけど……。"
+  },
+  {
+   "id": "clah11:9900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「香月……どうやってこれを……？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「知り合いの⟦col:280aa02d1400⟧エンスー⟦col:800000⟧仲間に……相談してみた……かも」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「お前の知り合いって、いったいどんな奴なんだよ？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "同感だ。"
+  }
+ ]
+}

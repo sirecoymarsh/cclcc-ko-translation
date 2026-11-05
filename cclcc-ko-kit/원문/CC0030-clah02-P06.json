@@ -1,0 +1,50 @@
+{
+ "packet_id": "CC0030-clah02-P06",
+ "kit_version": "1.0",
+ "source_file": "clah02.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "文才なんてまるで無いじゃないか！"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「ま、いいです。とにかく、いつ母が来てもいいように、ちゃんと覚えといてくださいね」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "更にパラパラとページを捲る。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "と、そこには、質問された場合や、僕と有村のやりとりなど、いくつものパターンに渡って会話の例が書かれていた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "バカバカしい。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah02:50000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "付き合ってられるか。"
+  }
+ ],
+ "context_after": []
+}

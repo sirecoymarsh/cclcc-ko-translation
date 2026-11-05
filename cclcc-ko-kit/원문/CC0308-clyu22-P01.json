@@ -1,0 +1,564 @@
+{
+ "packet_id": "CC0308-clyu22-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu22.msb",
+ "speakers_in_packet": [
+  "MOMONE",
+  "미야시로 타쿠루",
+  "케이 씨",
+  "타치바나 유이"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu22:0",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「今日の『⟦col:280aa02d1400⟧ＭＯＭＯＮＥ⟦col:800000⟧のゆっくりしていってね』はどうだったかなぁ？"
+  },
+  {
+   "id": "clyu22:100",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「そうそう、みんな知ってる？ 前にＭＯＭＯＮＥが注目してた『⟦col:280aa02d1400⟧ミルフィーユ⟦col:800000⟧』のふたり、解散しちゃったんだって〜」"
+  },
+  {
+   "id": "clyu22:200",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「まだまだこれからだったのに、ざんねーん。だけど、あんなことがあったから仕方ないよねぇ」"
+  },
+  {
+   "id": "clyu22:300",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "케이 씨",
+   "jp": "「でも、ＭＯＭＯＮＥはいつまでもやめないから、安心してね♪」"
+  },
+  {
+   "id": "clyu22:400",
+   "type": "dialogue",
+   "speaker": "ケイさん",
+   "speaker_ko": "케이 씨",
+   "prev_speaker": "MOMONE",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「犯行に及んだ大谷悠馬は、一部で話題となった『こっち見んなー！事件』以降、⟦col:280aa02d1400⟧生主⟦col:800000⟧としての人気が下降」"
+  },
+  {
+   "id": "clyu22:500",
+   "type": "dialogue",
+   "speaker": "ケイさん",
+   "speaker_ko": "케이 씨",
+   "prev_speaker": "MOMONE",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そのことで、人気上昇中だった『ミルフィーユ』を逆恨みし、卑劣な事件を起こしたと思われます」"
+  },
+  {
+   "id": "clyu22:600",
+   "type": "dialogue",
+   "speaker": "ケイさん",
+   "speaker_ko": "케이 씨",
+   "prev_speaker": "MOMONE",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……なんとも身勝手な理由に、私、⟦col:280aa02d1400⟧ケイさん⟦col:800000⟧も憤りを禁じ得ません」"
+  },
+  {
+   "id": "clyu22:700",
+   "type": "dialogue",
+   "speaker": "ケイさん",
+   "speaker_ko": "케이 씨",
+   "prev_speaker": "MOMONE",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なにより、ひとりの醜い嫉妬によりユニットを引退に追い込み、いたいけな少女たちの夢を絶つに至らしめたことは、万死に値すると言ってもいいでしょう」"
+  },
+  {
+   "id": "clyu22:800",
+   "type": "dialogue",
+   "speaker": "ケイさん",
+   "speaker_ko": "케이 씨",
+   "prev_speaker": "MOMONE",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なによりも、ユウちゃんの可憐な姿がもう見られないという事実は、本っっっっっっ当に残念でなりません」"
+  },
+  {
+   "id": "clyu22:900",
+   "type": "dialogue",
+   "speaker": "ケイさん",
+   "speaker_ko": "케이 씨",
+   "prev_speaker": "MOMONE",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「この⟦col:280aa02d1400⟧渋谷にうず⟦col:800000⟧では、今後も彼の罪を糾弾し――」"
+  },
+  {
+   "id": "clyu22:1000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "케이 씨",
+   "next_speaker": "타치바나 유이",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu22:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "というわけで、あの事件の後、結衣と結人、ふたりのアイドル活動は終わりを迎えることとなった。"
+  },
+  {
+   "id": "clyu22:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "もちろん、結衣と結人、ふたりの意思を尊重してのものだ。"
+  },
+  {
+   "id": "clyu22:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "一歩間違えれば、大きな事件になっていた可能性もあったわけで、その決断については致し方ないものだと僕も思う。"
+  },
+  {
+   "id": "clyu22:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "ただひとり、あの久野里さんに大反対をされたことだけは、辟易させられたが。"
+  },
+  {
+   "id": "clyu22:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "とにもかくにも、突然はじまったアイドル活動は幕を閉じ、そうなると僕が青葉寮に居続ける理由もなくなったんだけど――。"
+  },
+  {
+   "id": "clyu22:1600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だめーっ、拓留兄はもう出てっちゃダメなのーっ」"
+  },
+  {
+   "id": "clyu22:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "という結衣の大きな反対にあい、結局あのまま青葉寮に居続けることになった。"
+  },
+  {
+   "id": "clyu22:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "まあ、今のところ特にそれで不都合も感じてないからいいんだけど。"
+  },
+  {
+   "id": "clyu22:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ただ、問題は――。"
+  },
+  {
+   "id": "clyu22:2000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「な、なあ、ちょっとくっつき過ぎじゃないのか？」"
+  },
+  {
+   "id": "clyu22:2100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんなことないもん。兄妹なんだから普通だよ」"
+  },
+  {
+   "id": "clyu22:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "いや、いくらなんでも普通の兄妹ってのは、こんな風に街を歩いたりはしないだろ。"
+  },
+  {
+   "id": "clyu22:2300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えへへー」"
+  },
+  {
+   "id": "clyu22:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかも、この前の事件で知名度が上がったせいで、時々結衣を振り返る奴もいて、僕としては歩きにくいことこの上ない。"
+  },
+  {
+   "id": "clyu22:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ただ、そう考えると、ちょっともったいない気もして、僕は結衣にあの日以来口にしなかった質問をした。"
+  },
+  {
+   "id": "clyu22:2600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「でもさ、本当に良かったのか？ やめちゃって」"
+  },
+  {
+   "id": "clyu22:2700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれ、なぁに？ 拓留兄は私がアイドルになった方が良かった？」"
+  },
+  {
+   "id": "clyu22:2800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「そういうわけじゃないけど……夢だったんじゃないのかって思って」"
+  },
+  {
+   "id": "clyu22:2900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んー、それはそうだけど、でもいいの。だって、今は別の夢があるし」"
+  },
+  {
+   "id": "clyu22:3000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「別の夢？」"
+  },
+  {
+   "id": "clyu22:3100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そ。その夢も、拓留兄が協力してくれないと叶わないから、よろしくね♪」"
+  },
+  {
+   "id": "clyu22:3200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「なあ、その夢ってどんな――」"
+  },
+  {
+   "id": "clyu22:3300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あー、見て。あれかわいー」"
+  },
+  {
+   "id": "clyu22:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "結衣は僕の質問には答えず、ショーウィンドウを見て目を輝かせた。"
+  },
+  {
+   "id": "clyu22:3500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねー、あれ、私に似合うかな？」"
+  },
+  {
+   "id": "clyu22:3600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「似合うかなって……お前、あれ……ししっ、下着じゃないか」"
+  },
+  {
+   "id": "clyu22:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "しかもかなりセクシーなやつだ。"
+  },
+  {
+   "id": "clyu22:3800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留兄、ああいうの好き？」"
+  },
+  {
+   "id": "clyu22:3900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ぼ、僕はもっと清楚な感じのほうが……ってそうじゃなくて！ そもそも、結衣には似合わないだろ、あんな大人っぽいの」"
+  },
+  {
+   "id": "clyu22:4000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「そんなことないもーん。これでも最近、いろいろ成長して来てるんだよ？ きっとすぐ似合うようになるんだから」"
+  },
+  {
+   "id": "clyu22:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "そう言うと、結衣はさらに身体を密着させてきた。"
+  },
+  {
+   "id": "clyu22:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "あ、当たってる……。"
+  },
+  {
+   "id": "clyu22:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "言われてみれば、ちょっと大きくなったような……。"
+  },
+  {
+   "id": "clyu22:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "待て、考えるな拓留。"
+  },
+  {
+   "id": "clyu22:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "相手は妹だ……。"
+  },
+  {
+   "id": "clyu22:4600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あー、見て、あれ、素敵」"
+  },
+  {
+   "id": "clyu22:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "こ、今度はなんだ？"
+  },
+  {
+   "id": "clyu22:4800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いつか私も、あんなの着たいな……」"
+  },
+  {
+   "id": "clyu22:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣の視線の先にあるのは、商業ビルの入り口に飾られた、華やかなウェディングドレスだった。"
+  },
+  {
+   "id": "clyu22:5000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「へ、へぇ……結衣もああいうのに憧れたりするんだな」"
+  },
+  {
+   "id": "clyu22:5100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そりゃそうだよ。だって女の子の夢だもん」"
+  },
+  {
+   "id": "clyu22:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "夢……。"
+  },
+  {
+   "id": "clyu22:5300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それに……あんな姿見られたんだから、責任とってもらわないとね」"
+  },
+  {
+   "id": "clyu22:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あんな姿？"
+  },
+  {
+   "id": "clyu22:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それは……。"
+  },
+  {
+   "id": "clyu22:5600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ん？ 待て、結衣。もしかしてさっき言ってた夢って……」"
+  },
+  {
+   "id": "clyu22:5700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「あのね、拓留兄……」"
+  },
+  {
+   "id": "clyu22:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "果たして、その時僕はどこに立っているんだろう？"
+  },
+  {
+   "id": "clyu22:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "親族の席なのか、それとも――。"
+  },
+  {
+   "id": "clyu22:6000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「大好きだよ」"
+  }
+ ],
+ "context_after": []
+}

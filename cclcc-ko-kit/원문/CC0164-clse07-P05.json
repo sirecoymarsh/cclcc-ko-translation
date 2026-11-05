@@ -1,0 +1,959 @@
+{
+ "packet_id": "CC0164-clse07-P05",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "아리무라 히나에"
+ ],
+ "context_before": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「言っときますけど、今日のはちょっとオチャメな一面を見せただけですからね」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「ほら、ギャップ萌え？ あれを狙っただけっすから」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「それじゃ、おやすみなさい」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「どうかしました？」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「あー、もしかしてベッド際の警報機ですか？ あれ、壊れちゃってぇ〜」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「だからって、こっちのベッドに入ってきちゃダメですよ」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:39800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「むっ……」"
+  },
+  {
+   "id": "clse07:39900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……そんな余裕でいられるのも今のうちですからっ。おやすみなさいっ」"
+  },
+  {
+   "id": "clse07:40000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んー……」"
+  },
+  {
+   "id": "clse07:40100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代……先輩……」"
+  },
+  {
+   "id": "clse07:40200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「先輩……私……先輩のこと……」"
+  },
+  {
+   "id": "clse07:40300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぐー、ぐー……」"
+  },
+  {
+   "id": "clse07:40400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「チッ――」"
+  },
+  {
+   "id": "clse07:40500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「みっやしっろせっんぱいっ！」"
+  },
+  {
+   "id": "clse07:40600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あれぇ？ カバンなんか持って、どこかへ行くつもりですかぁ？」"
+  },
+  {
+   "id": "clse07:40700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お昼作ったんです♪ 一緒に食べましょっ」"
+  },
+  {
+   "id": "clse07:40800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい、あーん」"
+  },
+  {
+   "id": "clse07:40900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あーん」"
+  },
+  {
+   "id": "clse07:41000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんてこと言うんですか、非モテ先輩！ 失敬なっ！」"
+  },
+  {
+   "id": "clse07:41100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わあわあわあ！！ 来栖先輩！ それ言っちゃダメなやつー！！」"
+  },
+  {
+   "id": "clse07:41200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ち、ちゃいますからね！ べべっ、別に、宮代先輩のために覚えたわけじゃないっすからねっ！」"
+  },
+  {
+   "id": "clse07:41300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「へ？ あ、そ、そっか……」"
+  },
+  {
+   "id": "clse07:41400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え、えっへん！ 実はー、それぜーんぶ、宮代先輩のために覚えたんです。どうですー？ ちょっとは雛絵ちゃんのこと気になり始めました？」"
+  },
+  {
+   "id": "clse07:41500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぐにゅにゅにゅにゅぅ〜！」"
+  },
+  {
+   "id": "clse07:41600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちゃんと逃げずに帰って来てくださいね」"
+  },
+  {
+   "id": "clse07:41700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、おっかえりなさーいっ」"
+  },
+  {
+   "id": "clse07:41800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よしよし、逃げずに帰って来たとは感心感心」"
+  },
+  {
+   "id": "clse07:41900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ご飯にする？ お風呂にする？ それとも、わ・た・し？ なーんて♪」"
+  },
+  {
+   "id": "clse07:42000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んー？ 宮代先輩、どうしちゃったんすかぁ？」"
+  },
+  {
+   "id": "clse07:42100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしかしてぇ、私のオンナとしての魅力にメロメロになっちゃいましたかぁ？」"
+  },
+  {
+   "id": "clse07:42200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なにって……お料理するためにエプロンつけただけですが、何か問題でも？」"
+  },
+  {
+   "id": "clse07:42300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、一応言っておきますけど、下にはちゃーんと水着きてますから」"
+  },
+  {
+   "id": "clse07:42400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃ、もう一回。ご飯にします？ お風呂にします？ それともわ・た・し？」"
+  },
+  {
+   "id": "clse07:42500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あれぇ？ あれれぇ？ 宮代先輩ったら、顔真っ赤ですよぉ？ かーわいい」"
+  },
+  {
+   "id": "clse07:42600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「別に、恥ずかしくないわけじゃないっすよ……」"
+  },
+  {
+   "id": "clse07:42700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、先輩、こういうの好きみたいだから……」"
+  },
+  {
+   "id": "clse07:42800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、ほら……」"
+  },
+  {
+   "id": "clse07:42900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うふっ」"
+  },
+  {
+   "id": "clse07:43000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「というわけでぇ、もうすぐご飯だから待っててくださいね」"
+  },
+  {
+   "id": "clse07:43100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「〜〜〜〜♪」"
+  },
+  {
+   "id": "clse07:43200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふ〜ん」"
+  },
+  {
+   "id": "clse07:43300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい、できましたよ〜」"
+  },
+  {
+   "id": "clse07:43400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うふっ♪」"
+  },
+  {
+   "id": "clse07:43500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうしました？ もしかしてギブアップですか？」"
+  },
+  {
+   "id": "clse07:43600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:43700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……そ、そんなこと言って、誤魔化してもダメっすよ」"
+  },
+  {
+   "id": "clse07:43800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふ〜ん、そうですか。でも、私はこのままでも……くちゅっ！」"
+  },
+  {
+   "id": "clse07:43900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うぅ……じゃ、こうしましょう。先輩が雛絵ちゃんにドキドキラブハートだって言うなら服を着ます」"
+  },
+  {
+   "id": "clse07:44000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う……」"
+  },
+  {
+   "id": "clse07:44100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「タンマタンマ！ やっぱいいです！ わかりました。今日は大人しく服着ます……」"
+  },
+  {
+   "id": "clse07:44200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ！ いっけない。そういえばもう一品温めてたんだ！」"
+  },
+  {
+   "id": "clse07:44300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はいはーい、テーブル空けてくださぁ――うおっ！」"
+  },
+  {
+   "id": "clse07:44400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひぁっ！」"
+  },
+  {
+   "id": "clse07:44500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……！？」"
+  },
+  {
+   "id": "clse07:44600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「い……」"
+  },
+  {
+   "id": "clse07:44700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやああああああああああああっ！」"
+  },
+  {
+   "id": "clse07:44800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「と、とにかく離してください！！」"
+  },
+  {
+   "id": "clse07:44900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、ちょい待った！！」"
+  },
+  {
+   "id": "clse07:45000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ち、違ぁう！ そうじゃなくて……手、離したら丸見えになっちゃう……」"
+  },
+  {
+   "id": "clse07:45100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、落ち着いてなんていられるわけないでしょーが！」"
+  },
+  {
+   "id": "clse07:45200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「せ、先輩。この鍋、放り出していいですか？」"
+  },
+  {
+   "id": "clse07:45300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あっ！」"
+  },
+  {
+   "id": "clse07:45400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっ、っ……も、揉まないでください、よっ……っ」"
+  },
+  {
+   "id": "clse07:45500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だ、だって、さっきから……力入れてるじゃ……ない、ですかぁ……」"
+  },
+  {
+   "id": "clse07:45600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あー！ それですよ！ なんで早く言わないんですか！ 先輩のエロス！」"
+  },
+  {
+   "id": "clse07:45700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなことは良いから、早く目を瞑ってください！」"
+  },
+  {
+   "id": "clse07:45800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほんとですか？」"
+  },
+  {
+   "id": "clse07:45900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……目、開けちゃだめですからね！」"
+  },
+  {
+   "id": "clse07:46000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「きゃっ！！！」"
+  },
+  {
+   "id": "clse07:46100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょ、ちょっと先輩！ 変な悪戯はやめてくださいよ！」"
+  },
+  {
+   "id": "clse07:46200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ま、真っ暗でなんにも見えないんすけど！！！」"
+  },
+  {
+   "id": "clse07:46300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そ、そんなこと言ったっ……あ！」"
+  },
+  {
+   "id": "clse07:46400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひゃあああああっ！！」"
+  },
+  {
+   "id": "clse07:46500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いたぁい……」"
+  },
+  {
+   "id": "clse07:46600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ この感触……もしかして宮代先輩っ！？」"
+  },
+  {
+   "id": "clse07:46700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clse07:46800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、なんにも見えません……ね」"
+  },
+  {
+   "id": "clse07:46900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、あれぇ？ せ、先輩……もしかして……ドキドキしてます？」"
+  },
+  {
+   "id": "clse07:47000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ど、どうしましょう……」"
+  },
+  {
+   "id": "clse07:47100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ど、どうかしました？」"
+  },
+  {
+   "id": "clse07:47200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほんとですか？」"
+  },
+  {
+   "id": "clse07:47300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、待ってください！」"
+  },
+  {
+   "id": "clse07:47400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その……もっかい、目、つむってください」"
+  },
+  {
+   "id": "clse07:47500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「目、つむりました？」"
+  },
+  {
+   "id": "clse07:47600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:47700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:47800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、えと……じゃあ……お願いします」"
+  },
+  {
+   "id": "clse07:47900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clse07:48000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ…………」"
+  },
+  {
+   "id": "clse07:48100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「すとーっぷ！！」"
+  },
+  {
+   "id": "clse07:48200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さっきの一連の出来事は、飼い犬にでも噛まれたと思って忘れましょう」"
+  },
+  {
+   "id": "clse07:48300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よ、よーし。そんじゃ、ご飯、食べましょうか」"
+  },
+  {
+   "id": "clse07:48400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひ、雛絵ちゃんが腕によりをかけて作ったご飯、しっかり味わって食べてくださいよ〜」"
+  },
+  {
+   "id": "clse07:48500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は……うぅんっ……あぁっ……」"
+  },
+  {
+   "id": "clse07:48600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁぁんっ……」"
+  },
+  {
+   "id": "clse07:48700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ、これですか？ ヨガですよ」"
+  },
+  {
+   "id": "clse07:48800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……んんっ……」"
+  },
+  {
+   "id": "clse07:48900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「チラッ」"
+  },
+  {
+   "id": "clse07:49000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そだ。先輩もやってみたらどっすか、ヨガ」"
+  },
+  {
+   "id": "clse07:49100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「即答かよ！」"
+  },
+  {
+   "id": "clse07:49200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んなことないっすよ。他にもいっぱいメリットあるんですから」"
+  },
+  {
+   "id": "clse07:49300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それは……ほら……えっと……」"
+  },
+  {
+   "id": "clse07:49400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうそう！ 火を噴いたり手足が伸びるようになったり！」"
+  },
+  {
+   "id": "clse07:49500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ま、でも確かに、宮代先輩っていかにも不健康そうですもんねぇ。休みの日にどこか行ったりしないんすか？」"
+  },
+  {
+   "id": "clse07:49600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「呆れてんすよ！」"
+  },
+  {
+   "id": "clse07:49700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁあ、情けねー。いい若ぇもんがそんなこと言って。まったく日本の将来が思いやられるってもんよ」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「よし、決めた！ せっかくのお休みだし、今日は遊びに行きましょう！」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「却下だ！」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「はいはい、そうと決まれば準備準備！ 行きますよ、ほらっ！！」"
+  }
+ ]
+}

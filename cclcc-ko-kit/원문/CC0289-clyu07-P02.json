@@ -1,0 +1,505 @@
+{
+ "packet_id": "CC0289-clyu07-P02",
+ "kit_version": "1.0",
+ "source_file": "clyu07.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "이토 신지",
+  "쿠노사토 미오",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "jp": "「あ！ 待って、ユウ！ まだ動かないで……！」"
+  },
+  {
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "jp": "「そ、そんなこと言われても、こんな格好のままじゃ無理だよぉ……」"
+  },
+  {
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "jp": "「あ……！ ダメっ！ それ以上動いちゃ……！」"
+  },
+  {
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "jp": "「え！？ あ、ちょっと待っ――ああああっ！」"
+  },
+  {
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "jp": "「はぁんっ！」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「え……？ 嘘……だろ？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu07:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "僕は画面上部に記された動画の再生カウント数を目にして、思わず声を漏らした。"
+  },
+  {
+   "id": "clyu07:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "まだアップしてそれほど時間も経っていないというのに、既に視聴数が大変な数を叩き出している。"
+  },
+  {
+   "id": "clyu07:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "いくらなんでも早すぎるんじゃないのか？"
+  },
+  {
+   "id": "clyu07:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "いや、これはきっと、流れが来ている証拠だ。"
+  },
+  {
+   "id": "clyu07:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "それだけ多くの人の欲求に、僕たちが作り出した動画が応えた……そういうことに違いない。"
+  },
+  {
+   "id": "clyu07:10500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代！ 見たぞ、動画！ すげーな、結衣ちゃんたち！」"
+  },
+  {
+   "id": "clyu07:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ドアを開けて入って来るなり、開口一番に伊藤が言った。"
+  },
+  {
+   "id": "clyu07:10700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「なんだ……伊藤、お前、見てたのか……」"
+  },
+  {
+   "id": "clyu07:10800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いや、見てたも何も、ニヤ動ランキングの上位に入ってただろ？ あれじゃあ、気づくっつーの」"
+  },
+  {
+   "id": "clyu07:10900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ランキング……？」"
+  },
+  {
+   "id": "clyu07:11000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんだよ、お前、チェックしてないのかよ？」"
+  },
+  {
+   "id": "clyu07:11100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「い、いや……もちろん知ってたに決まってるだろ」"
+  },
+  {
+   "id": "clyu07:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "知らなかった。"
+  },
+  {
+   "id": "clyu07:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "ニヤ動はその時に人気のある動画が、ランキング形式で表示されるシステムになっている。"
+  },
+  {
+   "id": "clyu07:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "そこに載ればより注目も集めることができて、更に視聴数は跳ねあがるというわけだ。"
+  },
+  {
+   "id": "clyu07:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "どおりで、一気にカウント数が伸びたわけだ。"
+  },
+  {
+   "id": "clyu07:11600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「正直さ、あんなこと言って、どうせ口だけだろと思ってたんだよ。でも、ホントに才能あったんだな、プロデューサー」"
+  },
+  {
+   "id": "clyu07:11700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "？？？",
+   "jp": "「ま、まあな！ 僕にかかれば、この程度のこと簡単だ」"
+  },
+  {
+   "id": "clyu07:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "自分でもここまでうまく行くなんて思ってもいなかった。"
+  },
+  {
+   "id": "clyu07:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "まるで、⟦rb⟧裡⟦rt⟧うち⟦/r⟧に眠っていた新たな能力に覚醒したかのようだ。"
+  },
+  {
+   "id": "clyu07:12000",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「おい、宮代拓留」"
+  },
+  {
+   "id": "clyu07:12100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その時、ノックもせずに扉を開けてずかずかと入って来た人物がいた。"
+  },
+  {
+   "id": "clyu07:12200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれは、どういうことだ？」"
+  },
+  {
+   "id": "clyu07:12300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「く、久野里さん……なんですか、藪から棒に」"
+  },
+  {
+   "id": "clyu07:12400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれはどういうことだと聞いているんだ」"
+  },
+  {
+   "id": "clyu07:12500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あれって？」"
+  },
+  {
+   "id": "clyu07:12600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「決まっているだろう……『⟦col:280aa02d1400⟧ミルフィーユ⟦col:800000⟧』のことだ！」"
+  },
+  {
+   "id": "clyu07:12700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「な――」"
+  },
+  {
+   "id": "clyu07:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その言葉に僕が受けた衝撃は計り知れないものがあった。"
+  },
+  {
+   "id": "clyu07:12900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "まさか――あの久野里さんまでが『ミルフィーユ』を知っているとは……！"
+  },
+  {
+   "id": "clyu07:13000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "でも、この形相……何か気に障ることでもあったんだろうか？"
+  },
+  {
+   "id": "clyu07:13100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「結人にあんな格好をさせるなんて、お前は、なんということをしてくれたんだ！」"
+  },
+  {
+   "id": "clyu07:13200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「いや、あれは結衣の夢を叶えるためで、結人だって納得してくれて……」"
+  },
+  {
+   "id": "clyu07:13300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「言い訳はいい！」"
+  },
+  {
+   "id": "clyu07:13400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "久野里さんは僕の弁解をピシャリと遮ると、険しい目を向けた。"
+  },
+  {
+   "id": "clyu07:13500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代拓留」"
+  },
+  {
+   "id": "clyu07:13600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「は、はい……」"
+  },
+  {
+   "id": "clyu07:13700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いいぞ、もっとやれ」"
+  },
+  {
+   "id": "clyu07:13800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「はい？」"
+  },
+  {
+   "id": "clyu07:13900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お前には期待している」"
+  },
+  {
+   "id": "clyu07:14000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "久野里さんは険しい目つきのまま僕の手を両手でしっかりと握ると、そのまま踵を返し部屋を出て行った。"
+  },
+  {
+   "id": "clyu07:14100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "이토 신지",
+   "jp": "「…………な、なんだったんだ、あれ？」"
+  },
+  {
+   "id": "clyu07:14200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さあ……？」"
+  },
+  {
+   "id": "clyu07:14300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ん……？」"
+  },
+  {
+   "id": "clyu07:14400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "その時、ポケットの中でスマホが震えた。"
+  },
+  {
+   "id": "clyu07:14500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "取り出してみると、生放送開始の通知がきていた。"
+  },
+  {
+   "id": "clyu07:14600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "登録しているチャンネルで生放送が始まった場合、通知が来るようになっているようだ。"
+  },
+  {
+   "id": "clyu07:14700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "今まで動画の投稿はすべて僕がやっていたから、こんな通知来たことはなかったけど……どういうことだ？"
+  },
+  {
+   "id": "clyu07:14800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「あ？ なあ、宮代。結衣ちゃんたちのチャンネルで生放送始まったぞ……」"
+  },
+  {
+   "id": "clyu07:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "僕は、伊藤の投げかけた言葉に返事をするのも忘れて、⟦col:280aa02d1400⟧アプリ⟦col:800000⟧からニヤ動を開いた。"
+  },
+  {
+   "id": "clyu07:15000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "画面の中には、紛れもなく、結衣と結人がいた。"
+  }
+ ],
+ "context_after": []
+}

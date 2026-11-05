@@ -1,0 +1,488 @@
+{
+ "packet_id": "CC0067-clka04-P03",
+ "kit_version": "1.0",
+ "source_file": "clka04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「いやだから、その後は？」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「その後って、別になんもねえよ」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「そんなわけないだろ！ あそこには、他にもう一人いた筈だ！」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「タク、何言ってるの？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「まだ寝ぼけてるのかしら。他には誰もいなかったわよ」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「そこまで言う根拠が、なにかあるわけ？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka04:20000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「それはこの――！」"
+  },
+  {
+   "id": "clka04:20100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕はポケットに手を入れ、スマホを握りしめた。"
+  },
+  {
+   "id": "clka04:20200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「この、なんです？」"
+  },
+  {
+   "id": "clka04:20300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「……っ！」"
+  },
+  {
+   "id": "clka04:20400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だ、だめだ。写真を見せるわけにはいかない！"
+  },
+  {
+   "id": "clka04:20500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この中の誰かのあられもない姿なのかもしれないんだから！"
+  },
+  {
+   "id": "clka04:20600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「な、なんでもない」"
+  },
+  {
+   "id": "clka04:20700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「ホントに、他には誰もいなかったんだな？」"
+  },
+  {
+   "id": "clka04:20800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「他に新聞部員はいねーしな。香月はお疲れ様会が終わる前に帰っちまったし」"
+  },
+  {
+   "id": "clka04:20900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「え？ 香月？」"
+  },
+  {
+   "id": "clka04:21000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「香月も来てたのか？」"
+  },
+  {
+   "id": "clka04:21100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "伊藤が言うまで、香月の存在が頭から抜けていた。"
+  },
+  {
+   "id": "clka04:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "あいつは完全インドアだし、常に⟦col:280aa02d1400⟧エンスー⟦col:800000⟧をプレイしている姿しか浮かばないので、日曜の部活動に参加してるイメージがない。"
+  },
+  {
+   "id": "clka04:21300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「華ちゃんにはベースキャンプから後方支援してもらったんだよ」"
+  },
+  {
+   "id": "clka04:21400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「ベースキャンプ？」"
+  },
+  {
+   "id": "clka04:21500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ここだよ。お前のキャンピングカー」"
+  },
+  {
+   "id": "clka04:21600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「香月は体力なさそうだし、歩いている最中にバテられるよりはいいと思ってな」"
+  },
+  {
+   "id": "clka04:21700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ここから指示を飛ばしてもらってたの。取材組も、途中で２班にわかれて別行動になったりもしたしね」"
+  },
+  {
+   "id": "clka04:21800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「中々の統率能力でしたよ」"
+  },
+  {
+   "id": "clka04:21900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに、香月は普段はほとんど喋らないし、この部室にもほぼエンスーをしに来ているだけな所はあるが、パソコンの使いこなし力は僕に匹敵する。"
+  },
+  {
+   "id": "clka04:22000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ＰＣとスマホのメールを活用して、さぞ上手く連絡役を務めたのだろう。"
+  },
+  {
+   "id": "clka04:22100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月の新たな才能が垣間見えたようだ。覚えてないけど。"
+  },
+  {
+   "id": "clka04:22200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「それで、香月はなんでお疲れ様会に参加しなかったんだ？」"
+  },
+  {
+   "id": "clka04:22300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いや、知らない。俺達が車に戻って来たら、入れ替わりに外に出て、そのまま」"
+  },
+  {
+   "id": "clka04:22400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いつものことじゃないっすか」"
+  },
+  {
+   "id": "clka04:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに、香月はドがつくほどの無口で、気配も薄い所がある。"
+  },
+  {
+   "id": "clka04:22600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さっきみたいにいても気付かない事もあるし、いつの間にかいなくなっている事も多い。"
+  },
+  {
+   "id": "clka04:22700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それこそ有村のように、録画予約を忘れていた番組があったのかもしれない。"
+  },
+  {
+   "id": "clka04:22800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "（写真の件とは無関係っぽいけど、一応確認しておくか）"
+  },
+  {
+   "id": "clka04:22900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "窓際に向けて呼びかける。"
+  },
+  {
+   "id": "clka04:23000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「なあ、香月。なんで先に帰ったんだ？」"
+  },
+  {
+   "id": "clka04:23100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……。"
+  },
+  {
+   "id": "clka04:23200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "…………。"
+  },
+  {
+   "id": "clka04:23300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "………………返事が無い。"
+  },
+  {
+   "id": "clka04:23400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "「香月？」"
+  },
+  {
+   "id": "clka04:23500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "窓際のＰＣを見る。エンスーの専用ＰＣであり、香月の指定席でもあるそこには、しかし、誰も座っていなかった。"
+  },
+  {
+   "id": "clka04:23600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "「あれ？」"
+  },
+  {
+   "id": "clka04:23700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「香月なら、宮代が戻るちょっと前に出て行ったぞ」"
+  },
+  {
+   "id": "clka04:23800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「え、そうなのか？」"
+  },
+  {
+   "id": "clka04:23900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ふむ。まあ、いいか。"
+  },
+  {
+   "id": "clka04:24000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "今は写真の送り主を捜す方が先だ。"
+  },
+  {
+   "id": "clka04:24100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「そういえば、部屋を出て行くときの華、いつもとちょっと雰囲気違くなかったですか？」"
+  },
+  {
+   "id": "clka04:24200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そうかあ？ いつもの無口無表情だったぜ？」"
+  },
+  {
+   "id": "clka04:24300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「先輩はほんと鈍いですねえ。乙女の醸し出すオーラを読み取ってくださいよ」"
+  },
+  {
+   "id": "clka04:24400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "「確かに、いつもとはちょっと違ってたかな」"
+  },
+  {
+   "id": "clka04:24500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "「なんていうのかな、楽しそうに見えたわ」"
+  },
+  {
+   "id": "clka04:24600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "と、その時。"
+  },
+  {
+   "id": "clka04:24700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "スマホにメールが着信した。"
+  },
+  {
+   "id": "clka04:24800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "僕はさりげなくポケットからスマホを取り出し、新着メールを確認する。"
+  }
+ ],
+ "context_after": []
+}

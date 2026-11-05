@@ -1,0 +1,495 @@
+{
+ "packet_id": "CC0013-claa03-P07",
+ "kit_version": "1.0",
+ "source_file": "claa03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "카즈키 하나"
+ ],
+ "context_before": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「まぁまぁ、いいじゃないすか。今度、テレビの新人シナリオ大賞に応募しようと思ってるんで、華に、一緒に読んでもらってたんすよー、あはは」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "有村は、手にしていた例の原稿の束をパラパラとめくってみせた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ええっ！？ それ、出すのか！？ テレビのシナリオ賞に！？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「僕はてっきり、『⟦col:280aa02d1400⟧ラフランス書房⟦col:800000⟧』とかに応募するのかと思ったぞ。その……む、胸とかふとももとか……」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「んーっ？」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「や、やだなぁ！ もしかして聞いてたんすか、先輩！？ 恥ずかしー」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "claa03:51200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "二人とも照れて真っ赤になったが、恥ずかしい思いをしたのはこっちだ！"
+  },
+  {
+   "id": "claa03:51300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "おかげで、ものすごい勘違いをしてしまったじゃないか。"
+  },
+  {
+   "id": "claa03:51400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でもですね、今の時代、まずはインパクト勝負なんすよ。で、ただのエロティシズムかと思いきや、思いもよらない展開と内容で審査員を惹きつける、と」"
+  },
+  {
+   "id": "claa03:51500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ホントは、もっと過激でもいいくらいだと思うんですよねー」"
+  },
+  {
+   "id": "claa03:51600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「そ、そんなものなのか？」"
+  },
+  {
+   "id": "claa03:51700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "なんか、インパクトが間違った方向に向かってるんじゃ？"
+  },
+  {
+   "id": "claa03:51800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "これで落選したら――というか、落選間違いなしのような気がする――こいつは更におかしな方向へインパクトを求めそうで、ちょっと怖い。"
+  },
+  {
+   "id": "claa03:51900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ！ マズイ、かも！」"
+  },
+  {
+   "id": "claa03:52000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕が、有村の手にしている原稿の束をうろんな目で眺めていると、突然、香月が時計を見て声を上げた。"
+  },
+  {
+   "id": "claa03:52100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ん？ どしたの？」"
+  },
+  {
+   "id": "claa03:52200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「イベント。大事な。もう時間」"
+  },
+  {
+   "id": "claa03:52300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「イベント？」"
+  },
+  {
+   "id": "claa03:52400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕と有村がポカンとしていると、香月は、ダダダと小走りに部屋の隅のＰＣの前、いつもの定位置に座った。"
+  },
+  {
+   "id": "claa03:52500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、ＰＣのスイッチを入れると、なにやらファンタジー系のネトゲを立ち上げ、慌ててログインする。"
+  },
+  {
+   "id": "claa03:52600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ああ、イベントって……ネトゲのギルドの……」"
+  },
+  {
+   "id": "claa03:52700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……ん。してた。約束」"
+  },
+  {
+   "id": "claa03:52800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ちょ、ちょっと！ 私のシナリオ、まだ途中なんだけど！？」"
+  },
+  {
+   "id": "claa03:52900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？ んー？ んー」"
+  },
+  {
+   "id": "claa03:53000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月は、ものすごいスピードで自分のギルドメンバーに向けたメッセージを打ち込みつつ、ちょっと考えて、"
+  },
+  {
+   "id": "claa03:53100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留先輩にバトンタッチすればいい、かも」"
+  },
+  {
+   "id": "claa03:53200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「うぁー！？」"
+  },
+  {
+   "id": "claa03:53300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕に続きをやれってのか！？ アレの！？"
+  },
+  {
+   "id": "claa03:53400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いやぁ、照れちゃうなぁ」"
+  },
+  {
+   "id": "claa03:53500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「照れちゃうなー、じゃないだろ、お前！ いいのか、アレの相手が僕で！？」"
+  },
+  {
+   "id": "claa03:53600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私をなめないで下さい。作品のためならなんでも出来ますから」"
+  },
+  {
+   "id": "claa03:53700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さぁ先輩、台本のここからです。すみませんが、続き、付き合って下さい。お願いしますっ」"
+  },
+  {
+   "id": "claa03:53800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:53900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "おい本気か？ 本気なのか？"
+  },
+  {
+   "id": "claa03:54000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さっきの続きのセリフって……これだぞ？"
+  },
+  {
+   "id": "claa03:54100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ああ、だめ。私、変になっちゃう。これ以上されたら……本当に気持ちよくなっちゃう〜」"
+  },
+  {
+   "id": "claa03:54200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:54300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa03:54400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「う……」"
+  },
+  {
+   "id": "claa03:54500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おえ……」"
+  },
+  {
+   "id": "claa03:54600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「かかか帰るっ！」"
+  },
+  {
+   "id": "claa03:54700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕は有村に台本を突き返すと、問答無用で立ち上がり、部室を後にした。"
+  },
+  {
+   "id": "claa03:54800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちょっと、先輩！ 冗談ですって！ ちゃんとやりますから！」"
+  },
+  {
+   "id": "claa03:54900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ちゃんとやるって、あと何ページくらい続くんだ、あのシーン！？」"
+  },
+  {
+   "id": "claa03:55000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えーと……３０ページくらいすかね」"
+  },
+  {
+   "id": "claa03:55100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「お前、やっぱりなんか間違ってる！ 絶対！」"
+  },
+  {
+   "id": "claa03:55200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ああっ、だから待ってくださいよー！」"
+  },
+  {
+   "id": "claa03:55300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村がさらに追いすがってきたので、それに向かって、僕はズビシッと言う。"
+  },
+  {
+   "id": "claa03:55400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「悪いこと言わないから、書き直せよっ。あんなの、テレビでオンエアできるわけないだろ！？ 新人賞なんて取れないって！」"
+  },
+  {
+   "id": "claa03:55500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そっかなぁ。インパクトはあると思うんすけど……」"
+  },
+  {
+   "id": "claa03:55600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「どう見ても、インパクトしかないだろ！」"
+  },
+  {
+   "id": "claa03:55700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ううーん……じゃあ、映画賞の方にするか……」"
+  },
+  {
+   "id": "claa03:55800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村は納得がいかない表情のまま、ブツブツ言い始めた。"
+  },
+  {
+   "id": "claa03:55900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はため息をつくと、その場を離れる。"
+  },
+  {
+   "id": "claa03:56000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "「な、なんか……今日は疲れた……」"
+  },
+  {
+   "id": "claa03:56100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "結局、僕は、トレーラーハウスに戻って、ひとりでネタ探しするのが一番だという結論に達した。"
+  }
+ ],
+ "context_after": []
+}

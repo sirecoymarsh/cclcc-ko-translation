@@ -1,0 +1,798 @@
+{
+ "packet_id": "CC0158-clse06-P03",
+ "kit_version": "1.0",
+ "source_file": "clse06.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕が忘れれば、存在が消えてなくなる！？"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "……それって、どういうことだ！？"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「そんなバカなこと、あるかよっ」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「………」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「お前の言ってることは普通じゃない。それに、僕が尾上を忘れることなんて、あるわけないだろ？」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「ふっ。好きな女が出来れば、いずれ忘れてしまうさ」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse06:14100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「だから、そんなわけないって言ってるんだ！」"
+  },
+  {
+   "id": "clse06:14200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さて、それはどうかな。……なぁ？」"
+  },
+  {
+   "id": "clse06:14300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうだろうね。タクは意外と浮気者になる気がする。それに、私としても忘れてくれた方が嬉しい、かなあ」"
+  },
+  {
+   "id": "clse06:14400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "いきなり尾上が、いつもの『白』の口調に戻って優しく言った。"
+  },
+  {
+   "id": "clse06:14500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "そして――"
+  },
+  {
+   "id": "clse06:14600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ね、タク？ さっきは『死ぬ』なんておどかしてゴメンね。私なら、死ななくても、きっと⟦rb⟧綺麗⟦rt⟧きれい⟦/r⟧に消えることが出来ると思う」"
+  },
+  {
+   "id": "clse06:14700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「尾上？ だからお前、何を言って――？」"
+  },
+  {
+   "id": "clse06:14800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「これ以上は秘密でーす。それじゃあね、タク！ ばいばい！」"
+  },
+  {
+   "id": "clse06:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "彼女は、一方的に会話を打ち切った。"
+  },
+  {
+   "id": "clse06:15000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、ドアの方へくるりと背を向けた。"
+  },
+  {
+   "id": "clse06:15100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「待ってくれ、尾上っ！」"
+  },
+  {
+   "id": "clse06:15200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はなんとも名状しがたい激しい感情にとらわれ、彼女の背に向けて思わず手を伸ばした！"
+  },
+  {
+   "id": "clse06:15300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "次の瞬間、金属が千切れる激しい音とともに、四肢がいきなり自由になった。"
+  },
+  {
+   "id": "clse06:15400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "後でいくら試しても、こんなに強い⟦rb⟧念動力⟦rt⟧のうりょく⟦/r⟧が僕から発現することはなかった――そのくらい激しい⟦rb⟧能力⟦rt⟧ちから⟦/r⟧で、僕の手足を拘束していたベルトの金属部分が弾け飛んでいた。"
+  },
+  {
+   "id": "clse06:15500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「行くな、尾上っ！」"
+  },
+  {
+   "id": "clse06:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕は、ふらつく身体などおかまいなしにベッドから飛び降りると、背後から尾上に抱きついていた。"
+  },
+  {
+   "id": "clse06:15700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ひゃあっ！？」"
+  },
+  {
+   "id": "clse06:15800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "突然のことに驚いた尾上は悲鳴を上げ、思わず身をすくめる。"
+  },
+  {
+   "id": "clse06:15900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも僕は、この腕は絶対に離さないという気持ちを込めて、思い切り強く抱いた。"
+  },
+  {
+   "id": "clse06:16000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "（こいつ……こんなに細くて、小さかったのか）"
+  },
+  {
+   "id": "clse06:16100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう。僕は、この時初めて、彼女が女の子だということを意識したのかもしれない。"
+  },
+  {
+   "id": "clse06:16200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いいか、尾上、よく聞け？ 今回の事、確かに僕は大変な目に遭わされた。お前、ちょっとやりすぎだよ」"
+  },
+  {
+   "id": "clse06:16300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「………」"
+  },
+  {
+   "id": "clse06:16400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「今回は、なんとか神成さん達に助けてもらえそうだけどさ……ここでずっと過ごすなんて、絶対無理に決まってるだろ？ もっと頭を使えよ」"
+  },
+  {
+   "id": "clse06:16500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うう……」"
+  },
+  {
+   "id": "clse06:16600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「けど……お前の気持ちはちゃんと聞いたよ」"
+  },
+  {
+   "id": "clse06:16700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「正直、僕は愛とか恋とかそういうの、ぜんぜん分からない。けどさ……お前がいなくなったら、その……きっと寂しいと思う」"
+  },
+  {
+   "id": "clse06:16800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「新聞部の部室で、いつも明るく笑ってくれてる方が嬉しいと……そう思う」"
+  },
+  {
+   "id": "clse06:16900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「………」"
+  },
+  {
+   "id": "clse06:17000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なぁ、世莉架？ 先の事なんて分からないけど……今は、それじゃダメなのか？」"
+  },
+  {
+   "id": "clse06:17100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse06:17200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ダメなのか？」"
+  },
+  {
+   "id": "clse06:17300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……タク」"
+  },
+  {
+   "id": "clse06:17400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "背中越しに、尾上の身体が微かに震えているのが分かる。"
+  },
+  {
+   "id": "clse06:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "それを止めてやりたくて、もう少しだけ力を込めて抱く。"
+  },
+  {
+   "id": "clse06:17600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……けど、もう手遅れだよ。私、取り返しのつかない事、しちゃったもん。きっともう、新聞部にも、学校にもいられない」"
+  },
+  {
+   "id": "clse06:17700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いや、取り返しならつく。というか、無理矢理にでもつけてやるから」"
+  },
+  {
+   "id": "clse06:17800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う？」"
+  },
+  {
+   "id": "clse06:17900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「さっきから考えてたんだ、どうすればいいか」"
+  },
+  {
+   "id": "clse06:18000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「で、結論――全部、僕の新聞の取材が原因だったってことにすればいい」"
+  },
+  {
+   "id": "clse06:18100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ええっ？」"
+  },
+  {
+   "id": "clse06:18200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "背を向けていた世莉架が、その言葉に、思わず振り返った。"
+  },
+  {
+   "id": "clse06:18300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「僕は、新聞のネタ集めのために、廃棄された地下病棟に潜りこんだ。そして、警察が見落としたスクープがないか、夢中になってずっと探索をしてたんだ。いいな？」"
+  },
+  {
+   "id": "clse06:18400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「で、でも……」"
+  },
+  {
+   "id": "clse06:18500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いいから聞け。尾上はそんな僕に、毎日、食料の差し入れをしていた事にする。もちろんこれは不法侵入だから、尾上は僕から、きつく口止めをされていた」"
+  },
+  {
+   "id": "clse06:18600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ところが、素直で隠し事の下手な尾上のことだ。どうしても態度が変になってしまって、結局、来栖に怪しまれてしまった」"
+  },
+  {
+   "id": "clse06:18700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「……とまぁ、そんな感じでいく。この筋書きなら、強引でも押し通せるだろ」"
+  },
+  {
+   "id": "clse06:18800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんな……無理だよ」"
+  },
+  {
+   "id": "clse06:18900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「無理でもなんでも、僕はそれで押し通す」"
+  },
+  {
+   "id": "clse06:19000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は、尾上の身体をそっと放すと、まだ手足に残っていた拘束ベルトを全て取り外し、ベッドの下の血なまぐさい拷問道具箱の中へ放り込んだ。"
+  },
+  {
+   "id": "clse06:19100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「よし、これでいい」"
+  },
+  {
+   "id": "clse06:19200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あとは、ふたりそろって怒られておしまいだ」"
+  },
+  {
+   "id": "clse06:19300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は、まだ戸惑いの表情を隠せないでいる尾上の肩を、わざといつもの調子でポンと叩いた。"
+  },
+  {
+   "id": "clse06:19400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「って、待てよ？ 今、来栖も来てるのか。ううむ……神成さんより、そっちの方が恐ろしいな。どんなお説教をされるかと思うとゾッとする。ははは」"
+  },
+  {
+   "id": "clse06:19500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「………」"
+  },
+  {
+   "id": "clse06:19600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あと、この部屋は、発見されないように妄想シンクロを解かないでおこう。警察に調べられると、僕の証言が嘘だとバレる可能性が高い」"
+  },
+  {
+   "id": "clse06:19700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕の血痕が付着しているシーツはベッドから⟦rb⟧剥⟦rt⟧は⟦/r⟧ぎ取り、血痕部分を踏みつけにして真っ黒に汚した。その後、ベッドとマットレスの間に押し込んで、いちおう隠してはおいた。"
+  },
+  {
+   "id": "clse06:19800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも、そんなのはただの気休めだ。"
+  },
+  {
+   "id": "clse06:19900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その程度では、すぐに見つかってしまうだろう。"
+  },
+  {
+   "id": "clse06:20000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ほら、外へ出よう？」"
+  },
+  {
+   "id": "clse06:20100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕は、まだためらっている尾上の手を取った。"
+  },
+  {
+   "id": "clse06:20200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、タク……」"
+  },
+  {
+   "id": "clse06:20300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「んん？」"
+  },
+  {
+   "id": "clse06:20400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「本当に……いいの？」"
+  },
+  {
+   "id": "clse06:20500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ああ。僕の人生は、⟦rb⟧お前と⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧一緒にある⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧からな」"
+  },
+  {
+   "id": "clse06:20600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "不思議なことに。"
+  },
+  {
+   "id": "clse06:20700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "突然、するりと――そんな言葉が口をついて出た。"
+  },
+  {
+   "id": "clse06:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それを聞いた尾上が、これまで以上にビクリと大きく身体を震わせ、そして凍りついた。"
+  },
+  {
+   "id": "clse06:20900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そのまま、まるで時が止まったように動かなくなる。"
+  },
+  {
+   "id": "clse06:21000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「……！？」"
+  },
+  {
+   "id": "clse06:21100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "尾上？ どうした？"
+  },
+  {
+   "id": "clse06:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "そう言おうとした瞬間、聞き覚えのある声が背後から聞こえて来た。"
+  },
+  {
+   "id": "clse06:21300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「結局、お前はその選択をするんだな、宮代拓留？」"
+  },
+  {
+   "id": "clse06:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "驚いて振り返ると、まるで⟦rb⟧残留思惟⟦rt⟧ざんりゅうしい⟦/r⟧であるかのように、尾上がもうひとり、シーツを⟦rb⟧剥⟦rt⟧は⟦/r⟧ぎ取ったベッドに腰かけていた。"
+  },
+  {
+   "id": "clse06:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "――『黒』の尾上世莉架だった。"
+  },
+  {
+   "id": "clse06:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "これまでとは違い、まるで悲嘆にくれる少女のように、その言葉は⟦rb⟧儚⟦rt⟧はかな⟦/r⟧く、力がない。"
+  },
+  {
+   "id": "clse06:21700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私は、いつも『白』の心の奥底に沈んでいて……毎晩毎晩、悲しい夢を見る。お前のことが恋しくて、切なくて、苦しくて、会いたくて……」"
+  },
+  {
+   "id": "clse06:21800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「………。これまでのお前とは、イメージがずいぶん違うな。もっとクールだと思ってたよ」"
+  },
+  {
+   "id": "clse06:21900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "だが、拓留のその言葉を、『黒』の尾上は無視した。"
+  },
+  {
+   "id": "clse06:22000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代。あの冷たくて暗いコンクリートの世界へ戻る気か？ ずっとここにいれば、⟦rb⟧私たち⟦rt⟧⟦rbc⟧●●●⟦/r⟧と一緒にあたたかな時間を過ごせるというのに？」"
+  },
+  {
+   "id": "clse06:22100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「………」"
+  },
+  {
+   "id": "clse06:22200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お前は、こんなにもお前のことを愛している私たちと一緒にいるべきだ。最初は恋人なんかじゃなくていい。私たちと同じ場所で、同じ時間を過ごし……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「……そして、その……お前さえよければ、いずれ伴侶となって、ともに歳を重ね……やがて、幸福な死を迎えるんだ」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「もしもそれを望まないとしたら……現実のお前を待っているのは、うす汚い檻の中で、殺人者の汚名を着たまま、孤独に朽ち果てていく――そんな悲惨な未来だけなんだぞ」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「どうしてそんな道を選ぶんだ、宮代！？ お前自身はそれで満足なのかもしれないが……この私はどうなる！？ 私には、そんな未来、とても耐えられない！」"
+  }
+ ]
+}

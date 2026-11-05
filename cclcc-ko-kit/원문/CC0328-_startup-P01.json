@@ -1,0 +1,568 @@
+{
+ "packet_id": "CC0328-_startup-P01",
+ "kit_version": "1.0",
+ "source_file": "_startup.msb",
+ "speakers_in_packet": [],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "_startup:0",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "タイトルメニューへ戻りますか？"
+  },
+  {
+   "id": "_startup:100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セーブされていない現在プレイ中のデータは失われます。"
+  },
+  {
+   "id": "_startup:200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ゲームを終了しますか？"
+  },
+  {
+   "id": "_startup:300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "保存していないデータはすべて破棄されます。"
+  },
+  {
+   "id": "_startup:400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "システムデータをチェックしています。"
+  },
+  {
+   "id": "_startup:500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "システムデータが見つかりませんでした。"
+  },
+  {
+   "id": "_startup:600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "システムデータを作成します。"
+  },
+  {
+   "id": "_startup:700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "システムデータを作成しています。"
+  },
+  {
+   "id": "_startup:800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "システムデータのロードに失敗しました。"
+  },
+  {
+   "id": "_startup:900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "システムデータの作成に失敗しました。"
+  },
+  {
+   "id": "_startup:1000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "システムデータが破損しています。"
+  },
+  {
+   "id": "_startup:1300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "次回システムデータ保存時に上書きされます。"
+  },
+  {
+   "id": "_startup:1400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（以前のセーブファイルは消滅します。）"
+  },
+  {
+   "id": "_startup:1500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "このソフトを終了してからやりなおしてください。"
+  },
+  {
+   "id": "_startup:1600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "このデータを読み込みますか？"
+  },
+  {
+   "id": "_startup:1700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "現在プレイ中のデータは失われます。"
+  },
+  {
+   "id": "_startup:1800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すでにセーブファイルが存在します。"
+  },
+  {
+   "id": "_startup:1900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "上書きすると以前のセーブファイルは消滅します。"
+  },
+  {
+   "id": "_startup:2000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "このセーブファイルに上書きしますか？"
+  },
+  {
+   "id": "_startup:2100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "破損したセーブファイルが存在します。"
+  },
+  {
+   "id": "_startup:2200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "この破損したセーブファイルに上書きしますか？"
+  },
+  {
+   "id": "_startup:2300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "保存しています。"
+  },
+  {
+   "id": "_startup:2400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "プレイデータの保存に失敗しました。"
+  },
+  {
+   "id": "_startup:2500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "もう一度保存しますか？"
+  },
+  {
+   "id": "_startup:2600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "クイックセーブファイルが全てロックされています。"
+  },
+  {
+   "id": "_startup:2700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "クイックセーブ機能を利用したい場合は、不要な"
+  },
+  {
+   "id": "_startup:2800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "クイックセーブファイルのロックを解除してください。"
+  },
+  {
+   "id": "_startup:3100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "このセーブファイルはロックされています。"
+  },
+  {
+   "id": "_startup:3200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "上書きする場合は、ロックを解除してください。"
+  },
+  {
+   "id": "_startup:3600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "このページの設定をデフォルトに戻しますか？"
+  },
+  {
+   "id": "_startup:3700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "このページの設定をデフォルトに戻しました。"
+  },
+  {
+   "id": "_startup:3800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "シーン回想を中断しますか？"
+  },
+  {
+   "id": "_startup:4000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はい"
+  },
+  {
+   "id": "_startup:4010",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いいえ"
+  },
+  {
+   "id": "_startup:4020",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セーブする"
+  },
+  {
+   "id": "_startup:4030",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ロードする"
+  },
+  {
+   "id": "_startup:4040",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "キャンセル"
+  },
+  {
+   "id": "_startup:4050",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "了解"
+  },
+  {
+   "id": "_startup:4060",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "確認"
+  },
+  {
+   "id": "_startup:4070",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "上書きする"
+  },
+  {
+   "id": "_startup:5000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "トロフィーをチェックしています。"
+  },
+  {
+   "id": "_startup:5100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "トロフィーデータの読み込みに失敗しました。"
+  },
+  {
+   "id": "_startup:5200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "このコンテンツはインストールが完了するまで"
+  },
+  {
+   "id": "_startup:5300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "このシナリオはインストールが完了するまで"
+  },
+  {
+   "id": "_startup:5400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "このセーブデータはインストールが完了するまで"
+  },
+  {
+   "id": "_startup:5500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "開始することができません。"
+  },
+  {
+   "id": "_startup:5600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "インストールが完了するまでお待ちください。"
+  },
+  {
+   "id": "_startup:6000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "体験版のセーブデータがある場合、続きからプレイすることが出来ます。"
+  },
+  {
+   "id": "_startup:6100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "システムデータを作成してからは体験版のセーブデータを"
+  },
+  {
+   "id": "_startup:6200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "引き継げませんのでご注意ください。"
+  },
+  {
+   "id": "_startup:6300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『いいえ』を選択すると体験版のデータは引き継ぎません。"
+  },
+  {
+   "id": "_startup:6400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "体験版のデータを引き継ぎますか？"
+  },
+  {
+   "id": "_startup:6500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "体験版のセーブデータをチェックしています。"
+  },
+  {
+   "id": "_startup:6600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "体験版のセーブデータが見つかりません。"
+  },
+  {
+   "id": "_startup:6700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "体験版のセーブデータが破損しています。"
+  },
+  {
+   "id": "_startup:6800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セーブデータの引き継ぎは行えません。"
+  },
+  {
+   "id": "_startup:6900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "体験版のセーブデータが見つかりました。"
+  },
+  {
+   "id": "_startup:7000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セーブデータを引き継げます。"
+  },
+  {
+   "id": "_startup:7100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "体験版のセーブデータの引き継ぎを行っています。 "
+  },
+  {
+   "id": "_startup:7200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セーブデータの引き継ぎに失敗しました。"
+  },
+  {
+   "id": "_startup:7300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セーブデータの引き継ぎが完了しました。"
+  },
+  {
+   "id": "_startup:10000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ゲーム選択へ戻りますか？"
+  }
+ ],
+ "context_after": []
+}

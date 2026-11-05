@@ -1,0 +1,68 @@
+{
+ "packet_id": "CC0318-clzz05-P06",
+ "kit_version": "1.0",
+ "source_file": "clzz05.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「………ええ。まかせなさい、拓留。青葉寮も、新聞部のみんなも絶対に大丈夫。今はこの姿をしてるけど……私は来栖乃々なのよ？ 元『碧朋学園生徒会の⟦col:280aa02d1400⟧女帝⟦col:800000⟧』を信じて……」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「……ぐすっ……」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「あれ〜、どうかしたんすか、先輩！？」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「姉さん！？」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「えっ！？ う、ううん、なんでもないわ！ 忘れ物をしたかもって思っただけ。今、行くわ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "速足で、みんなが待っている出口へと向かう。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clzz05:37600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "⟦top:38⟧そうしながら、泉理は、最後にもう一度だけ、暗い廊下の先を振り返ってみた。"
+  },
+  {
+   "id": "clzz05:37700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "しかし……そこにはもう誰もいなくて。"
+  },
+  {
+   "id": "clzz05:37800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "ただ、薄暗く遠い闇だけがわだかまっているのみだった。"
+  }
+ ],
+ "context_after": []
+}

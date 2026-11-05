@@ -1,0 +1,772 @@
+{
+ "packet_id": "CC0316-clzz05-P04",
+ "kit_version": "1.0",
+ "source_file": "clzz05.msb",
+ "speakers_in_packet": [
+  "와쿠이 슈이치",
+  "쿠노사토 미오",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "和久井のディソードは消滅し、あとに残ったのは、あたり一面に飛び散った鮮血と、澪の剣が深々と彼の右腕に突き立てられている姿だけになった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "和久井が、初めて憎悪の目で澪を見た。"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「………」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「……しばらくその腕は使い物にならないだろう」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「だが、さすが、“思考誘導”に気づいたのは早かったな。おかげでお前の⟦rb⟧生命⟦rt⟧いのち⟦/r⟧を奪いそこなった。残念だよ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "澪は、和久井の腹部の傷を指さして冷たく言い放った。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clzz05:20900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「本当なら、ここで斬り殺して、二度と宮代に危害を加えられないようにするつもりだったが……まがい物ではこれが限界だったか」"
+  },
+  {
+   "id": "clzz05:21000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "澪が手にしている剣はすでにヒビだらけで、折れる寸前だった。"
+  },
+  {
+   "id": "clzz05:21100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "ただし、その刀身にはまだ淡い光が宿っていて、それがまぎれもなく本当のディソードであることを示していた。"
+  },
+  {
+   "id": "clzz05:21200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「貴様……なぜ、それを……？」"
+  },
+  {
+   "id": "clzz05:21300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「ふん。佐久間というのは最期の最期まで下衆な男だったが……ギガロマニアックスの研究者としては、なかなかだったようだ」"
+  },
+  {
+   "id": "clzz05:21400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「佐久間……？」"
+  },
+  {
+   "id": "clzz05:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そこで、ようやく和久井は気づいた。"
+  },
+  {
+   "id": "clzz05:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪の持っているディソードの⟦rb⟧柄⟦rt⟧え⟦/r⟧の部分から、ケーブルが伸びていることに。"
+  },
+  {
+   "id": "clzz05:21700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は、砕けかけのディソードを和久井の腕から引き抜くと、片手で構えつつ、慎重に下がった。"
+  },
+  {
+   "id": "clzz05:21800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そして、ポケットからスマホを取り出すと、冷徹な表情のまま和久井にかざして見せた。"
+  },
+  {
+   "id": "clzz05:21900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ディソードのケーブルは、そのスマホにつながっていた。"
+  },
+  {
+   "id": "clzz05:22000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「こいつは今、無線で別の装置に接続されている」"
+  },
+  {
+   "id": "clzz05:22100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "澪は、宮代のトレーラーハウスの中まで下がると、クローゼットを開いてみせた。"
+  },
+  {
+   "id": "clzz05:22200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "そこに、見覚えのある装置の一部が見えた。"
+  },
+  {
+   "id": "clzz05:22300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "低いうなりをあげ、レプリカのディソード同様、わずかに光を放っている。"
+  },
+  {
+   "id": "clzz05:22400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "それがいったいなんなのか――すぐに察して、和久井の顔色が変わった。"
+  },
+  {
+   "id": "clzz05:22500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「『人工ギガロマニアックス発生装置』！？」"
+  },
+  {
+   "id": "clzz05:22600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「そう。佐久間が使っていたのと同じものだよ」"
+  },
+  {
+   "id": "clzz05:22700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「しかしっ！ あの装置は、私が確かに回収した！ 設計図もデータファイルも全て消去したんだ！ コピーする時間など、絶対になかったはずだ」"
+  },
+  {
+   "id": "clzz05:22800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "それに対し澪は、ようやく顔に貼り付けていた冷たい表情を崩し、嘲笑を浮かべた。"
+  },
+  {
+   "id": "clzz05:22900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「佐久間の装置の設計図やデータなら、宮代たちと地下施設に忍び込んだ時に、一度、見たからな」"
+  },
+  {
+   "id": "clzz05:23000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「！？ まさか……記憶した、というのか！？ 一度見ただけで、あれを！？」"
+  },
+  {
+   "id": "clzz05:23100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「なんなら、いまここで、暗唱してみせようか？」"
+  },
+  {
+   "id": "clzz05:23200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "澪は、レプリカのディソードからケーブルを抜いた。"
+  },
+  {
+   "id": "clzz05:23300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "途端に装置本体の方の電源も落ち、あたりは風雨の音が響くだけになった。"
+  },
+  {
+   "id": "clzz05:23400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「君には充分警戒していたつもりだったが……それでも甘かったようだ。ただの⟦rb⟧玩具⟦rt⟧おもちゃ⟦/r⟧をいじっているものだとばかり思っていたが……まさかそう来るとは」"
+  },
+  {
+   "id": "clzz05:23500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「残念ながら時間が足りなくてな。もっと完成度を上げることが出来ていれば、お前を⟦rb⟧葬⟦rt⟧ほうむ⟦/r⟧り去ることも出来たろうに」"
+  },
+  {
+   "id": "clzz05:23600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「……僕は、君をそれなりに評価しているつもりだったが、それでもまだ過小評価だったんだな……」"
+  },
+  {
+   "id": "clzz05:23700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「さぁ？」"
+  },
+  {
+   "id": "clzz05:23800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「今回は僕の完敗だ。この傷では、しばらく宮代くんや君たちにちょっかいを出すことは出来そうにない」"
+  },
+  {
+   "id": "clzz05:23900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「いいや。もう二度と、私たちの前に現れるな」"
+  },
+  {
+   "id": "clzz05:24000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「もし次にお前の顔を見ることがあれば……今度こそ、生かしてはおかない」"
+  },
+  {
+   "id": "clzz05:24100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ああ。せいぜい気をつけることにするよ」"
+  },
+  {
+   "id": "clzz05:24200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ゆらり……と、和久井の姿を構成している輪郭が揺らぎ始めた。"
+  },
+  {
+   "id": "clzz05:24300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "同時に、まるで映画の特殊効果のように身体全体が色を失い始めた。彼の身体から大量に⟦rb⟧滴⟦rt⟧したた⟦/r⟧り落ちていた血液すらだんだんと色を失っていく。"
+  },
+  {
+   "id": "clzz05:24400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そうして、澪が睨みつけている中、和久井は透明で形のない⟦rb⟧靄⟦rt⟧もや⟦/r⟧のような存在になり……。"
+  },
+  {
+   "id": "clzz05:24500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧やがて、スウッと消え去った。"
+  },
+  {
+   "id": "clzz05:24600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "あとには――どこまでも不安を誘うような雨天だけが残った。"
+  },
+  {
+   "id": "clzz05:24700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "「ふぅーーっ」"
+  },
+  {
+   "id": "clzz05:24800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は、ようやく全身を覆っていた緊張を解くと、手にしているぼろぼろの剣をトレーラーハウスの床に放った。"
+  },
+  {
+   "id": "clzz05:24900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "和久井のディソードと、ゾッとするようなギリギリの斬り合いをしたせいか、手のしびれと震えがまだ消えない。"
+  },
+  {
+   "id": "clzz05:25000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……なぁ、宮代？」"
+  },
+  {
+   "id": "clzz05:25100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "だが……最後に彼女は、どこか悲しそうにポツリとつぶやいた。"
+  },
+  {
+   "id": "clzz05:25200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いいんだよな？ お前の望みは……本当に、これでいいんだよな？」"
+  },
+  {
+   "id": "clzz05:25300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "こうして、和久井修一が宮代拓留や私たちに対して仕掛けた罠は回避された。"
+  },
+  {
+   "id": "clzz05:25400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ただし、はじめにも言ったが……今回の件は私達にとってはただの蛇足に過ぎない。"
+  },
+  {
+   "id": "clzz05:25500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "和久井が作り出した『妄想の箱庭』に閉じ込められ、意識を失っていた宮代と新聞部の部員、そして有村雛絵たちは、みな収容先の病院で目を覚ましたという……。"
+  },
+  {
+   "id": "clzz05:25600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "もちろん、宮代拓留と伊藤真二だけは他の連中とは別の病院にいる。"
+  },
+  {
+   "id": "clzz05:25700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "鉄格子のはまった真っ白なドアのひとつ。その前で、澪は足を止めた。"
+  },
+  {
+   "id": "clzz05:25800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "扉には番号だけが刻印され、収容者の氏名などは一切ない。"
+  },
+  {
+   "id": "clzz05:25900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「どうだ、具合は？」"
+  },
+  {
+   "id": "clzz05:26000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "？？？",
+   "jp": "そう声をかけながら鉄格子ごしに中を覗くと、薄暗い部屋の中、ベッドの上に座ってじっとしている人影が見えた。"
+  },
+  {
+   "id": "clzz05:26100",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ええ……目覚めた直後は何度も幻覚に悩まされましたが、もう大丈夫そうです」"
+  },
+  {
+   "id": "clzz05:26200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「そうか。これであいつも、しばらくは手出ししてこないだろう」"
+  },
+  {
+   "id": "clzz05:26300",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「相当ひどい目にあわせたらしいですね」"
+  },
+  {
+   "id": "clzz05:26400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「あ？ 誰だ、そんなことを言ったのは？」"
+  },
+  {
+   "id": "clzz05:26500",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「彼自身ですよ」"
+  },
+  {
+   "id": "clzz05:26600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪の眉がピクリとはねた。"
+  },
+  {
+   "id": "clzz05:26700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「あの男……二度と私たちの前に現れるなと……」"
+  },
+  {
+   "id": "clzz05:26800",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「大丈夫です。何をされようと、僕はあいつに屈したりはしません。今回だって、彼になかなか楽しい夢をみせてもらった――それだけのことです」"
+  },
+  {
+   "id": "clzz05:26900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「……。そうか。ならいいが……」"
+  },
+  {
+   "id": "clzz05:27000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "？？？",
+   "jp": "そう言って口を閉じたきり、澪はしばらくじっと人影をみつめていた。"
+  },
+  {
+   "id": "clzz05:27100",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さん？」"
+  },
+  {
+   "id": "clzz05:27200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "室内から、いぶかし気な声が聞こえた。"
+  },
+  {
+   "id": "clzz05:27300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は一瞬だけ躊躇した後、静かな声で応える。"
+  },
+  {
+   "id": "clzz05:27400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「いや。『因果』を改変出来る能力者……本当に存在していたら、君はどの時間から人生をやり直すだろう、と思ってな」"
+  },
+  {
+   "id": "clzz05:27500",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「……。さぁ、どうでしょうね？」"
+  },
+  {
+   "id": "clzz05:27600",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………」"
+  },
+  {
+   "id": "clzz05:27700",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「もしも久野里さんだったら？」"
+  },
+  {
+   "id": "clzz05:27800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「私か？ 私は、そうだな……」"
+  },
+  {
+   "id": "clzz05:27900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "？？？",
+   "jp": "しかし、それきり澪は何も答えることが出来ず、背後の壁にもたれると、じっと鉄格子だけを見つめ続けた。"
+  },
+  {
+   "id": "clzz05:28000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "？？？",
+   "jp": "暗い室内からも、何の音も聞こえなくなった。"
+  },
+  {
+   "id": "clzz05:28100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "？？？",
+   "jp": "ふたりの間にあるものは、ただただ冷たい空気と、それに冷やされた鉄格子付きの扉だけになった……。"
+  },
+  {
+   "id": "clzz05:28200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "？？？",
+   "jp": "ややあって、ようやく室内から声が聞こえた。"
+  },
+  {
+   "id": "clzz05:28300",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「他のみんなは？ 大丈夫なんですか？」"
+  },
+  {
+   "id": "clzz05:28400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「ああ。今日中には退院できるそうだ」"
+  },
+  {
+   "id": "clzz05:28500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「あと、伊藤だが……脳の肥大もなくなり、脳波も正常に戻った。あとは心理療法で心のケアをしていけば大丈夫だろう」"
+  },
+  {
+   "id": "clzz05:28600",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そうですか、良かった」"
+  },
+  {
+   "id": "clzz05:28700",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「完治するまで、伊藤のことよろしくお願いします」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「ああ。他ならぬお前の頼みだ。責任は持つよ」"
+  },
+  {
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "jp": "「あと、その……」"
+  },
+  {
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "jp": "「………」"
+  }
+ ]
+}

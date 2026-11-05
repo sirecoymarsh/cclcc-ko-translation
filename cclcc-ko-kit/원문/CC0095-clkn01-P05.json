@@ -1,0 +1,965 @@
+{
+ "packet_id": "CC0095-clkn01-P05",
+ "kit_version": "1.0",
+ "source_file": "clkn01.msb",
+ "speakers_in_packet": [
+  "미나미사와 센리",
+  "미야시로 타쿠루",
+  "사쿠마 와타루",
+  "야마조에 우키",
+  "유이＆유토",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「あ……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "しまった……また妄想に浸ってしまった。"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「で、なんなの？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「い、いや……その……テレビは……後にしなさい……」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「えぇぇぇぇ」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「ダメよ、結人。せっかく拓留が帰ってきてるんだもの。今日は皆でお話しましょう。結衣も、ね？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn01:39600",
+   "type": "dialogue",
+   "speaker": "結衣＆結人",
+   "speaker_ko": "유이＆유토",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유토",
+   "jp": "「はぁい」⟦n⟧⟦par⟧「はぁい」"
+  },
+  {
+   "id": "clkn01:39700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "それにしても、なんだよ、さっきの妄想は。"
+  },
+  {
+   "id": "clkn01:39800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "マジカル・ユイ？"
+  },
+  {
+   "id": "clkn01:39900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "しかも、なんで変身に箱？"
+  },
+  {
+   "id": "clkn01:40000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "悪趣味にもほどがある。"
+  },
+  {
+   "id": "clkn01:40100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「あのね、実は僕もマジックできるんだよ」"
+  },
+  {
+   "id": "clkn01:40200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "結人が唐突に言った。"
+  },
+  {
+   "id": "clkn01:40300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ユウがマジック？」"
+  },
+  {
+   "id": "clkn01:40400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "「どんなマジックですか？」"
+  },
+  {
+   "id": "clkn01:40500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「うーんと……説明するよりも見てもらったほうが早いかな？」"
+  },
+  {
+   "id": "clkn01:40600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "嬉しそうに笑う結人の笑顔は無垢そのものだった。"
+  },
+  {
+   "id": "clkn01:40700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "マジックとは言ってもトランプマジックとかコインマジックとか、そういう、子どもでもできそうなものだろう。"
+  },
+  {
+   "id": "clkn01:40800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「えへへ、きっとみんな驚くと思うよ」"
+  },
+  {
+   "id": "clkn01:40900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "それに結人のことだから、きっとタネも見え見えだろう。"
+  },
+  {
+   "id": "clkn01:41000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "でもそこは大人として、素直に騙されたフリをしてやるべきだな。"
+  },
+  {
+   "id": "clkn01:41100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「結衣姉、手伝ってくれる？」"
+  },
+  {
+   "id": "clkn01:41200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「私？ 別にいいけど……」"
+  },
+  {
+   "id": "clkn01:41300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「それじゃあこっち来て」"
+  },
+  {
+   "id": "clkn01:41400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "結人は結衣を立たせると、ふらっと廊下に出て行った。"
+  },
+  {
+   "id": "clkn01:41500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「んっしょ……」"
+  },
+  {
+   "id": "clkn01:41600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "しばらくして戻ってきた結人は、何やら奇妙なものを抱えていた。"
+  },
+  {
+   "id": "clkn01:41700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "それは――箱だった。"
+  },
+  {
+   "id": "clkn01:41800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "大小合わせ、色とりどり、様々な形の箱が組み合わせて、ある⟦rb⟧もの⟦rt⟧⟦rbc⟧●●⟦/r⟧をかたどっているように見える。"
+  },
+  {
+   "id": "clkn01:41900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "――人だ。"
+  },
+  {
+   "id": "clkn01:42000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "箱は明らかに人の形をしていた。"
+  },
+  {
+   "id": "clkn01:42100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "結人は手際よく箱の蓋をすべて開け、にっこり笑って言った。"
+  },
+  {
+   "id": "clkn01:42200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「それじゃあ、お姉ちゃん。この中にどうぞ」"
+  },
+  {
+   "id": "clkn01:42300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「え……ここに入ればいいの？」"
+  },
+  {
+   "id": "clkn01:42400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「うん」"
+  },
+  {
+   "id": "clkn01:42500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "何度も首をかしげながらも、言われたとおりに箱に収まる結衣。"
+  },
+  {
+   "id": "clkn01:42600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "やがて結衣の身体がすべて箱の中に納まると、結人はすべての蓋を閉めた。"
+  },
+  {
+   "id": "clkn01:42700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "今やそこに横たわっているのは、人型に並べられた箱――。"
+  },
+  {
+   "id": "clkn01:42800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "何故だろう。"
+  },
+  {
+   "id": "clkn01:42900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "僕は厭な予感がした。"
+  },
+  {
+   "id": "clkn01:43000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さて皆さん。ご覧のように、この箱の中には今、結衣姉ちゃんが入っています。そして――」"
+  },
+  {
+   "id": "clkn01:43100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結人が小さな指で、パチンと音を鳴らすと、そこに妙な形の剣が出現した。"
+  },
+  {
+   "id": "clkn01:43200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それは――。"
+  },
+  {
+   "id": "clkn01:43300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ディソード……！」"
+  },
+  {
+   "id": "clkn01:43400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "嘘だろ？"
+  },
+  {
+   "id": "clkn01:43500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "結人がギガロマニアックスとして覚醒していた？"
+  },
+  {
+   "id": "clkn01:43600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "そんな……。"
+  },
+  {
+   "id": "clkn01:43700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "じゃあ、結人の能力はなんだ？"
+  },
+  {
+   "id": "clkn01:43800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「今から、この箱をバラバラにしたいと思いまーす」"
+  },
+  {
+   "id": "clkn01:43900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「は……？」"
+  },
+  {
+   "id": "clkn01:44000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃあ、いっきまーす。せーのっ」"
+  },
+  {
+   "id": "clkn01:44100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ま、待て、結人！ それは――！」"
+  },
+  {
+   "id": "clkn01:44200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "止める間もなく、結人はその小さな身体のどこにそんな力があるのかと思うほど大きくディソードを振りかぶり、一息に振り下ろした。"
+  },
+  {
+   "id": "clkn01:44300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "と同時に。"
+  },
+  {
+   "id": "clkn01:44400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ゃああああああああああああああ！！！」"
+  },
+  {
+   "id": "clkn01:44500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "耳を⟦rb⟧劈⟦rt⟧つんざ⟦/r⟧くような悲鳴が上がった。"
+  },
+  {
+   "id": "clkn01:44600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "「結人！ お前、何してんだよ！」"
+  },
+  {
+   "id": "clkn01:44700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「何って、だからマジックだよ？」"
+  },
+  {
+   "id": "clkn01:44800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「マジックって……お前、今の声……」"
+  },
+  {
+   "id": "clkn01:44900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "「それじゃあ、こっちも行くね。それっ」"
+  },
+  {
+   "id": "clkn01:45000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ぎゃあああああああああああああっ！！！」"
+  },
+  {
+   "id": "clkn01:45100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "再び断末魔のような悲鳴。"
+  },
+  {
+   "id": "clkn01:45200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "「やめろっ！！！」"
+  },
+  {
+   "id": "clkn01:45300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「どうして？」"
+  },
+  {
+   "id": "clkn01:45400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "どうしてだって？"
+  },
+  {
+   "id": "clkn01:45500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "だって……これは。"
+  },
+  {
+   "id": "clkn01:45600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "こんなのは……。"
+  },
+  {
+   "id": "clkn01:45700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おいおい、拓留。なに必死になってるんだ」"
+  },
+  {
+   "id": "clkn01:45800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「と、父さんこそ、なに冷静に見てるんだ！ 切られてるんだぞ、結衣が！」"
+  },
+  {
+   "id": "clkn01:45900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「大丈夫よ。だってマジックでしょ？」"
+  },
+  {
+   "id": "clkn01:46000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "「ふふっ、拓留さんったら、そんなに驚くなんて」"
+  },
+  {
+   "id": "clkn01:46100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": null,
+   "jp": "マジック？"
+  },
+  {
+   "id": "clkn01:46200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "馬鹿な。"
+  },
+  {
+   "id": "clkn01:46300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "あの声がマジックの産物だっていうのか？"
+  },
+  {
+   "id": "clkn01:46400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "あの音も声も――。"
+  },
+  {
+   "id": "clkn01:46500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "それにこの匂いも？"
+  },
+  {
+   "id": "clkn01:46600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "匂い？"
+  },
+  {
+   "id": "clkn01:46700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "そう……この匂い。"
+  },
+  {
+   "id": "clkn01:46800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "――血だ。"
+  },
+  {
+   "id": "clkn01:46900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유토",
+   "jp": "切断された箱の隅から、真っ赤な鮮血が滴り落ちてきていた。"
+  },
+  {
+   "id": "clkn01:47000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さあ、このバラバラになった箱が、なんとビックリ。元通りに――」"
+  },
+  {
+   "id": "clkn01:47100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "いつもどおり無垢そのものの結人の言葉が、不意に止まった。"
+  },
+  {
+   "id": "clkn01:47200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あれ？ おかしいな……元通りにならないよ？」"
+  },
+  {
+   "id": "clkn01:47300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "当たり前だ。"
+  },
+  {
+   "id": "clkn01:47400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "だって、それは……。"
+  },
+  {
+   "id": "clkn01:47500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうして？ どうして元通りにならないの？」"
+  },
+  {
+   "id": "clkn01:47600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "こんなのはマジックでもなんでもない。"
+  },
+  {
+   "id": "clkn01:47700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、拓留兄！ どうして！？ なんでもとに戻らないの！？ ねえ！！」"
+  },
+  {
+   "id": "clkn01:47800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "無理だ。"
+  },
+  {
+   "id": "clkn01:47900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もう、元になんて戻らない。"
+  },
+  {
+   "id": "clkn01:48000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣は……。"
+  },
+  {
+   "id": "clkn01:48100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣はもう……。"
+  },
+  {
+   "id": "clkn01:48200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ゆ……結衣いぃぃぃぃぃぃぃぃ！！」"
+  },
+  {
+   "id": "clkn01:48300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「な、なによ！？ いきなり？」"
+  },
+  {
+   "id": "clkn01:48400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clkn01:48500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いきなり大声で呼んだりするから、ビックリするじゃない」"
+  },
+  {
+   "id": "clkn01:48600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clkn01:48700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "しまった……また妄想に浸ってしまった。"
+  },
+  {
+   "id": "clkn01:48800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「で、なんなの？」"
+  },
+  {
+   "id": "clkn01:48900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "「い、いや……その……テレビは……後にしなさい……」"
+  },
+  {
+   "id": "clkn01:49000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「えぇぇぇぇ」"
+  },
+  {
+   "id": "clkn01:49100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "유이＆유토",
+   "jp": "「ダメよ、結人。せっかく拓留が帰ってきてるんだもの。今日は皆でお話しましょう。結衣も、ね？」"
+  },
+  {
+   "id": "clkn01:49200",
+   "type": "dialogue",
+   "speaker": "結衣＆結人",
+   "speaker_ko": "유이＆유토",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「はぁい」⟦n⟧⟦par⟧「はぁい」"
+  },
+  {
+   "id": "clkn01:49300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "미나미사와 센리",
+   "jp": "それにしても、なんだよ、さっきの妄想は。"
+  },
+  {
+   "id": "clkn01:49400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "미나미사와 센리",
+   "jp": "いくらなんでも結人が突然、あんなマジック披露するなんて言い出すはずないだろ。"
+  },
+  {
+   "id": "clkn01:49500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유이＆유토",
+   "next_speaker": "미나미사와 센리",
+   "jp": "しかも箱？"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "なんだよ、それ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "悪趣味にもほどがある。"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「でもテレビはダメよ、結衣。せっかく拓留が帰って来てるんだから、今日はみんなでお話しましょう」"
+  }
+ ]
+}

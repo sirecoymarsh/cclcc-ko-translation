@@ -1,0 +1,676 @@
+{
+ "packet_id": "CC0098-clkn02-P02",
+ "kit_version": "1.0",
+ "source_file": "clkn02.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ちょっといらない言葉がついてたぞ……。"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「ほら、ひなちゃんの焼いたベーグル、おいしそうなんだよ〜」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「ちょっと、せり……今の会話聞いてた？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "と言いながらも、有村は手に提げた袋から、まんまるなベーグルを取り出した。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「へぇ。見た目は悪くないじゃないか」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「そりゃあ、この雛絵ちゃんが作ったんですから」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn02:10000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「問題は味だよな……」"
+  },
+  {
+   "id": "clkn02:10100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「む！」"
+  },
+  {
+   "id": "clkn02:10200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「尾上のは？」"
+  },
+  {
+   "id": "clkn02:10300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う？ 私のはねぇ……これ」"
+  },
+  {
+   "id": "clkn02:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "と言って取り出したベーグルはというと――。"
+  },
+  {
+   "id": "clkn02:10500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「まあ、なんというか……うん、味も問題だよな……」"
+  },
+  {
+   "id": "clkn02:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "尾上のは言わずもがなだが、もう一方も作ったのはあの有村だ。"
+  },
+  {
+   "id": "clkn02:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "見た目は悪くないとして、果たして食べられる代物なのか。"
+  },
+  {
+   "id": "clkn02:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ここはやはり、何とかして食べずに済む方法はないものだろうか……。"
+  },
+  {
+   "id": "clkn02:10900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「せり」"
+  },
+  {
+   "id": "clkn02:11000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おっけい」"
+  },
+  {
+   "id": "clkn02:11100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clkn02:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ふたり目くばせしたかと思うと、突然尾上が僕の背後に回った。"
+  },
+  {
+   "id": "clkn02:11300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「おい、尾上……いったい何を……っ！」"
+  },
+  {
+   "id": "clkn02:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "有無を言わさず羽交い絞めにされた。"
+  },
+  {
+   "id": "clkn02:11500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あのね、タク。女の子の厚意は素直に受け取らなきゃいけないんだよ？ というわけで……」"
+  },
+  {
+   "id": "clkn02:11600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「や、やめ――」"
+  },
+  {
+   "id": "clkn02:11700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「つべこべ言わずに食わんかーい！！ どりゃー！」"
+  },
+  {
+   "id": "clkn02:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "口の中いっぱいに、ベーグルを詰められる。"
+  },
+  {
+   "id": "clkn02:11900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「むぐぐぐ！！」"
+  },
+  {
+   "id": "clkn02:12000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "こ、これは――味がどうのこうの言う以前に、口の中の水分を全部持っていかれるやつ！！！"
+  },
+  {
+   "id": "clkn02:12100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「たくさんあるから、いっぱい食べてね、タク」"
+  },
+  {
+   "id": "clkn02:12200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほーれほーれ、いっぱい召し上がっていただけますよねー？」"
+  },
+  {
+   "id": "clkn02:12300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「み、みじゅ……みじゅを……」"
+  },
+  {
+   "id": "clkn02:12400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「水で流し込もうなんてダメダメ。ちゃんと味わって食べないと」"
+  },
+  {
+   "id": "clkn02:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうじゃない！"
+  },
+  {
+   "id": "clkn02:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうじゃなくて、誰か僕に水分を……！！"
+  },
+  {
+   "id": "clkn02:12700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ぶふぉっ！ がはっ、が……！」"
+  },
+  {
+   "id": "clkn02:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いかん！"
+  },
+  {
+   "id": "clkn02:12900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "このままでは本当に意識が……。"
+  },
+  {
+   "id": "clkn02:13000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ぅ……うぅ……」"
+  },
+  {
+   "id": "clkn02:13100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あれ？ ねえ、ひなちゃん。タクの様子が……」"
+  },
+  {
+   "id": "clkn02:13200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あー、こんなのウソウソ……ん？ ウソじゃ……ないみたいね……」"
+  },
+  {
+   "id": "clkn02:13300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タク！ しっかりして、タク！！ タクってばーっ！！」"
+  },
+  {
+   "id": "clkn02:13400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ぷ、はぁ……、ひどい目にあった……」"
+  },
+  {
+   "id": "clkn02:13500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "有村が持っていたフルーツ牛乳を一気に飲み干して、ようやく生き返った気分になった。"
+  },
+  {
+   "id": "clkn02:13600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "危なかった……川の向こうにやたらと綺麗なお花畑が見えたぞ。"
+  },
+  {
+   "id": "clkn02:13700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「危なかったねぇ、タク」"
+  },
+  {
+   "id": "clkn02:13800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やれやれ、世話が焼けますねぇ。私たちがいなかったら、どうなっていたことか」"
+  },
+  {
+   "id": "clkn02:13900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「あのな！ 誰のせいでこんな目に――」"
+  },
+  {
+   "id": "clkn02:14000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代ぉぉ……」"
+  },
+  {
+   "id": "clkn02:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "恨めしそうな声に顔を上げると、いつの間にか伊藤が立っていた。"
+  },
+  {
+   "id": "clkn02:14200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「人がせっかく気をきかせてお前の分のパンも買ってきてやったってのに、そんな俺を差し置いて、ひとりで女子お手製のベーグルだとぉ？」"
+  },
+  {
+   "id": "clkn02:14300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「い、いや、そのお陰でたった今、命を落とすところだったんだぞ？」"
+  },
+  {
+   "id": "clkn02:14400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「女子の料理で死ねるなら本望だろ！」"
+  },
+  {
+   "id": "clkn02:14500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「女子って言っても、尾上と有村だぞ」"
+  },
+  {
+   "id": "clkn02:14600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いいんだよ！ 一応とはいえ、尾上も有村も女子は女子だ！」"
+  },
+  {
+   "id": "clkn02:14700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほっほう。どうやらおふたりとも、命が惜しくないとみえますねぇ……」"
+  },
+  {
+   "id": "clkn02:14800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「ひっ！ ご、ゴメンなさい！ ベーグルはもう勘弁してください！」"
+  },
+  {
+   "id": "clkn02:14900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「じゃあ、俺にっ！ 宮代の分のベーグルもこの卑しい私めにいただけますでしょうか！？」"
+  },
+  {
+   "id": "clkn02:15000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え……あー、やっぱそういう風に言われると、ちょっと引きますね……」"
+  },
+  {
+   "id": "clkn02:15100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「伊藤……」"
+  },
+  {
+   "id": "clkn02:15200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「あ、ゴメン、真ちゃん。ベーグル、もうないや」"
+  },
+  {
+   "id": "clkn02:15300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ノオオオオオオオオオオ！！！」"
+  },
+  {
+   "id": "clkn02:15400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "そんなに悔しがることか？"
+  },
+  {
+   "id": "clkn02:15500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「こうなったら、買ってきたパン全部食っちゃる！ ハムサンドもたまごサンドも、全部食っちゃうんだからな！！」"
+  },
+  {
+   "id": "clkn02:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "宣言するや否や、伊藤はものすごい勢いでパンを⟦rb⟧貪⟦rt⟧むさぼ⟦/r⟧りはじめた。"
+  },
+  {
+   "id": "clkn02:15700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ていうか僕ももうお腹いっぱいだし、全然食べてくれて構わないんだけど。"
+  },
+  {
+   "id": "clkn02:15800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「っぷ……やべぇ……苦しい。動けねぇ……」"
+  },
+  {
+   "id": "clkn02:15900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「あんなにいっぱい食べるからだよぉ」"
+  },
+  {
+   "id": "clkn02:16000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……あ、そういやさっき、教室の外に副部長いたけど、あれ、なんだったんだろな……」"
+  },
+  {
+   "id": "clkn02:16100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「来栖が？」"
+  },
+  {
+   "id": "clkn02:16200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ああ。なんか袋みたいなの持ってたけど……」"
+  },
+  {
+   "id": "clkn02:16300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「袋？ ま、まさか来栖もベーグルを……」"
+  },
+  {
+   "id": "clkn02:16400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「それは２年の授業だから、３年の来栖先輩は作ってないと思いますけど」"
+  },
+  {
+   "id": "clkn02:16500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "良かった。"
+  },
+  {
+   "id": "clkn02:16600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "ベーグルはもう当分の間いらない。"
+  },
+  {
+   "id": "clkn02:16700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んー。それじゃあ、のんちゃんは何しにきたのかな？」"
+  },
+  {
+   "id": "clkn02:16800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「さあな……まあ、でも来なかったってことは、たいした用じゃないんじゃないか？」"
+  },
+  {
+   "id": "clkn02:16900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "来栖のことだ、何か大事なことなら話しかけてくるはずだし、そうじゃないってことは、単にたまたま通りかかっただけってところだろう。"
+  }
+ ],
+ "context_after": []
+}

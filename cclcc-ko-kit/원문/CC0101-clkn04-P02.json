@@ -1,0 +1,966 @@
+{
+ "packet_id": "CC0101-clkn04-P02",
+ "kit_version": "1.0",
+ "source_file": "clkn04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신문부원들",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카와하라 마사시",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "尾上の言葉に思わず声を上げると、それを目ざとく見ていた人間がいた。"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「あれ？ せんぱい。もしかして……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "しまった！ 今のひと言で、気づかれてしまった！"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「あ、やっぱり！」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「あ、いや、これは――！」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「先輩……盗み聞きですか？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn04:10000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「違うんだ！ そうじゃなくて……」"
+  },
+  {
+   "id": "clkn04:10100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ひとりで楽しむなんてずるーい！」"
+  },
+  {
+   "id": "clkn04:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "は？"
+  },
+  {
+   "id": "clkn04:10300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ちょっと貸してください！ えいっ！」"
+  },
+  {
+   "id": "clkn04:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "呆気にとられている間に、僕のスマホは有村に奪われ、やがてそのスピーカーから声が漏れてきた。"
+  },
+  {
+   "id": "clkn04:10500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「遅刻。自分から呼び出して遅れるなんて、なってないわ」"
+  },
+  {
+   "id": "clkn04:10600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……すまん」"
+  },
+  {
+   "id": "clkn04:10700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いや、さすがに盗み聞きは悪いだろ」"
+  },
+  {
+   "id": "clkn04:10800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なに言ってんすか。ひとりで盗み聞きしてたくせに」"
+  },
+  {
+   "id": "clkn04:10900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「いや、だからそれは……」"
+  },
+  {
+   "id": "clkn04:11000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうだぞ、宮代。それにこれは盗み聞きじゃない。調査だ」"
+  },
+  {
+   "id": "clkn04:11100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「調査……」"
+  },
+  {
+   "id": "clkn04:11200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あの川原のこと。また俺たちに何か当てつけでもしてくるつもりかもしれない。だからこれはれっきとした調査なんだ」"
+  },
+  {
+   "id": "clkn04:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……そう言われると……確かに何を話すつもりなのか気になるな。"
+  },
+  {
+   "id": "clkn04:11400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ま、まあ、調査なら仕方ない……な」"
+  },
+  {
+   "id": "clkn04:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "伊藤の都合の良い言葉で自らを正当化させると、僕たちは壁際に身をひそめながら、再びスピーカーからの声に耳を澄ませた。"
+  },
+  {
+   "id": "clkn04:11600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「それで……どうしたの？ お弁当箱を返すだけなら、なにもわざわざこんなところじゃなくても良かったんじゃない？」"
+  },
+  {
+   "id": "clkn04:11700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「ん……まあ、それだけじゃないから呼んだわけだが」"
+  },
+  {
+   "id": "clkn04:11800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「副部長が川原に弁当？ どういうことだ？」"
+  },
+  {
+   "id": "clkn04:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카와하라 마사시",
+   "jp": "伊藤の疑問に答える者は誰もおらず、皆、ただスピーカーから聞こえるやりとりに耳を澄ませていた。"
+  },
+  {
+   "id": "clkn04:12000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「まずは、これ。弁当、すっごい美味かった。しかもあんな凝った弁当作って来てくれるなんて感激だよ」"
+  },
+  {
+   "id": "clkn04:12100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「あ、うん……でもあれは――」"
+  },
+  {
+   "id": "clkn04:12200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「わかってる。あれだけの手の込んだ弁当、どうでも良い奴には作れないって言うんだろ？」"
+  },
+  {
+   "id": "clkn04:12300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clkn04:12400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「悪かった、来栖。本当なら、俺の方からもっと早く言っておくべきだったんだ」"
+  },
+  {
+   "id": "clkn04:12500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あの、川原くん……？」"
+  },
+  {
+   "id": "clkn04:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "ま、待ってくれ。この展開は……。"
+  },
+  {
+   "id": "clkn04:12700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ねぇねぇ、タク！ これってもしかしてぇ……」"
+  },
+  {
+   "id": "clkn04:12800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「しっ！ せり！ 今いいところだから黙って！！」"
+  },
+  {
+   "id": "clkn04:12900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ずっと俺の気持ちは伝わってると思ってた。でも、そうだよな？ きちんと言われないとわからないよな？」"
+  },
+  {
+   "id": "clkn04:13000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「特に女はそういう生き物だって言うし……」"
+  },
+  {
+   "id": "clkn04:13100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「待って、さっきから何を――」"
+  },
+  {
+   "id": "clkn04:13200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「大丈夫！ 怖がらなくていい。不安になんてならなくていいから……」"
+  },
+  {
+   "id": "clkn04:13300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………！」"
+  },
+  {
+   "id": "clkn04:13400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "川原くんが距離を詰めた。"
+  },
+  {
+   "id": "clkn04:13500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "そして――。"
+  },
+  {
+   "id": "clkn04:13600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「デター！ ⟦col:280aa02d1400⟧壁ドン⟦col:800000⟧！！」"
+  },
+  {
+   "id": "clkn04:13700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "というか、この場合フェンスドンと言うべきか。"
+  },
+  {
+   "id": "clkn04:13800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「君の気持ちを受け入れよう。俺の女になれ、来栖……」"
+  },
+  {
+   "id": "clkn04:13900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うぇぇ……最悪……」"
+  },
+  {
+   "id": "clkn04:14000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn04:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "川原くんの言葉に、乃々はただ黙ったまま。"
+  },
+  {
+   "id": "clkn04:14200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "その沈黙が、決して感激のあまり言葉を失ったものでないということは、僕たちにはすぐにわかった。"
+  },
+  {
+   "id": "clkn04:14300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "しかし、どうやら川原くんは違ったようだ。"
+  },
+  {
+   "id": "clkn04:14400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えっ？」"
+  },
+  {
+   "id": "clkn04:14500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "真っ直ぐに乃々を見つめる川原くん。"
+  },
+  {
+   "id": "clkn04:14600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして――。"
+  },
+  {
+   "id": "clkn04:14700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "「なっ！」"
+  },
+  {
+   "id": "clkn04:14800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「んんんーっ！！？」"
+  },
+  {
+   "id": "clkn04:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카와하라 마사시",
+   "jp": "ゆっくりと顔を近づけてゆく。"
+  },
+  {
+   "id": "clkn04:15000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「来栖……」"
+  },
+  {
+   "id": "clkn04:15100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「待――！！」"
+  },
+  {
+   "id": "clkn04:15200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ちょっ、ちょっと待っ――っ！！」"
+  },
+  {
+   "id": "clkn04:15300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕が思わず叫び出しそうになったその時、乃々が両手で強く川原くんの身体を突き飛ばした。"
+  },
+  {
+   "id": "clkn04:15400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「よっし！！」"
+  },
+  {
+   "id": "clkn04:15500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "有村が隣で小さくガッツポーズを決めた。"
+  },
+  {
+   "id": "clkn04:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "僕は何故か、自分が拳を握りしめていたことに気づいた。"
+  },
+  {
+   "id": "clkn04:15700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카와하라 마사시",
+   "jp": "突き飛ばされた川原くんは、何が起きたのかわからないとでもいう様子で、呆然と乃々を見ている。"
+  },
+  {
+   "id": "clkn04:15800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「来栖……」"
+  },
+  {
+   "id": "clkn04:15900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「い、いきなり何をするの！？」"
+  },
+  {
+   "id": "clkn04:16000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……あ、ああ、そうか……いくらなんでも急だったか。心の準備ってのも必要だもんな」"
+  },
+  {
+   "id": "clkn04:16100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「そうじゃないっ。私が言いたいのはそういうことじゃなくて――」"
+  },
+  {
+   "id": "clkn04:16200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「？？？」"
+  },
+  {
+   "id": "clkn04:16300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「川原くん。あなた色々と勘違いしてる」"
+  },
+  {
+   "id": "clkn04:16400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「勘違い？ どういうことだ？」"
+  },
+  {
+   "id": "clkn04:16500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「あのお弁当は別にあなたのために作ったものじゃないわ」"
+  },
+  {
+   "id": "clkn04:16600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……なにも今さら照れなくったっていいだろう」"
+  },
+  {
+   "id": "clkn04:16700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「別に照れてなんかない。あれは、元々その……家族のために作ったものよ。でも、たまたま必要なくなって、そしたらあなたがお腹空いてるみたいだったから」"
+  },
+  {
+   "id": "clkn04:16800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "その言葉で僕は理解した。"
+  },
+  {
+   "id": "clkn04:16900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "家族と濁してはいるが、あれはきっと僕のためのものだったんだ。"
+  },
+  {
+   "id": "clkn04:17000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "でも僕は昼休み、尾上や有村たちの⟦col:280aa02d1400⟧ベーグル⟦col:800000⟧を食べてしまっていた。"
+  },
+  {
+   "id": "clkn04:17100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "だから乃々は……つまりはそういうことだったんだ。"
+  },
+  {
+   "id": "clkn04:17200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「待ってくれ！ でも、君は――」"
+  },
+  {
+   "id": "clkn04:17300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「それに悪いけど、私、あなたのこと、ただのお友達としてしか見られない」"
+  },
+  {
+   "id": "clkn04:17400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「なっ……な、な……」"
+  },
+  {
+   "id": "clkn04:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "川原くんは、その言葉が心底意外だとでもいうように、口をぱくぱくさせた。"
+  },
+  {
+   "id": "clkn04:17600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ど、どど、どうして？ 自慢じゃないが俺は成績だって良い方だし、運動神経も悪くない。人望もあるし、なにより副会長としてずっと君を支えてきたじゃないか！？」"
+  },
+  {
+   "id": "clkn04:17700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「どこに文句があるって言うんだ！」"
+  },
+  {
+   "id": "clkn04:17800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「誤解させたのならごめんなさい……」"
+  },
+  {
+   "id": "clkn04:17900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「どうしてだ？ もしかして誰か好きな奴が……」"
+  },
+  {
+   "id": "clkn04:18000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「！！ ま、まさか宮……」⟦avs⟧⟦n⟧⟦n⟧"
+  },
+  {
+   "id": "clkn04:18100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「違うわ。そうじゃないの。今は私、誰とも付き合うつもりはないの……」"
+  },
+  {
+   "id": "clkn04:18200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「誰とも……」"
+  },
+  {
+   "id": "clkn04:18300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「え、ええ……」"
+  },
+  {
+   "id": "clkn04:18400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そ、そう、か……」"
+  },
+  {
+   "id": "clkn04:18500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「ごめん……なさい……」"
+  },
+  {
+   "id": "clkn04:18600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「はは……ははは……なんだ、なんだよ……そういうことは、早く言えよな……」"
+  },
+  {
+   "id": "clkn04:18700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「これじゃあ俺がバカみたいじゃないか……」"
+  },
+  {
+   "id": "clkn04:18800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "川原くんは乃々に背中を向け、ふらふらとした足取りで歩きだしたかと思うと、ふと振り返り――。"
+  },
+  {
+   "id": "clkn04:18900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「く、来栖！ 言っとくけど、このことは誰にも言うなよ！ 絶対に言うな！！」"
+  },
+  {
+   "id": "clkn04:19000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "と念を押して、走り去ってしまった。"
+  },
+  {
+   "id": "clkn04:19100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "신문부원들",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn04:19200",
+   "type": "dialogue",
+   "speaker": "新聞部員たち",
+   "speaker_ko": "신문부원들",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「「「「「はぁ〜っ……」」」」」"
+  },
+  {
+   "id": "clkn04:19300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "오노에 세리카",
+   "jp": "残されていた乃々が去り、ふたりが居なくなったと同時、僕たちは大きく息を吐いた。"
+  },
+  {
+   "id": "clkn04:19400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "신문부원들",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それにしても驚いたねぇ」"
+  },
+  {
+   "id": "clkn04:19500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「あ、ああ……」"
+  },
+  {
+   "id": "clkn04:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "他人の告白とはいえ、あんなに息が詰まるものだとは思わなかった。"
+  },
+  {
+   "id": "clkn04:19700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「しっかし、川原も度胸あるよなー。あの⟦col:280aa02d1400⟧女帝⟦col:800000⟧に、だぜ？」"
+  },
+  {
+   "id": "clkn04:19800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「なんで？ のんちゃん、カワイイし性格もいいし家事だって何でもこなす⟦col:280aa02d1400⟧ステキ女子⟦col:800000⟧だよ？」"
+  },
+  {
+   "id": "clkn04:19900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そうかもしんねえけどさ……でも普通に考えりゃ無理だって、最初からわかってるようなもんじゃん」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そう……なのか？"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「ま、本人は全然わかってなかったみたいだけどな」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「それにしても無いわー。あの告白は無いわー」"
+  }
+ ]
+}

@@ -1,0 +1,959 @@
+{
+ "packet_id": "CC0262-clse07-P103",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「お願いします」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「えっと……これは？」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「う、うん」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「えっと……こんな感じで大丈夫かな？」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「えっと……こう？」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「だ、大好きだよー」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:979500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だいすき……だよぉ……？」"
+  },
+  {
+   "id": "clse07:979600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……だいすきだよーっ！」"
+  },
+  {
+   "id": "clse07:979700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぼ、僕たちはどうすればいいのかな？」"
+  },
+  {
+   "id": "clse07:979800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「僕も拓留兄ちゃんがいいな……」"
+  },
+  {
+   "id": "clse07:979900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「踊ってみた？」"
+  },
+  {
+   "id": "clse07:980000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:980100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、これって女子が見るアニメでしょ？」"
+  },
+  {
+   "id": "clse07:980200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも拓留兄……どうして今から、この格好しなきゃいけないの？」"
+  },
+  {
+   "id": "clse07:980300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふーん、そっか」"
+  },
+  {
+   "id": "clse07:980400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ダンス……僕やったことない……」"
+  },
+  {
+   "id": "clse07:980500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いち、に、さん、し、ごー、ろく、しち、はち」"
+  },
+  {
+   "id": "clse07:980600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えっと。ここでターンで……」"
+  },
+  {
+   "id": "clse07:980700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だ、大丈夫、お姉ちゃん！？」"
+  },
+  {
+   "id": "clse07:980800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃん！」"
+  },
+  {
+   "id": "clse07:980900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ、お姉ちゃん。疲れてるみたいだし、今日はこれで終わりにしようよ？ ね？」"
+  },
+  {
+   "id": "clse07:981000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そこのリズムは、タン、タタン、タンだよ！」"
+  },
+  {
+   "id": "clse07:981100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、タン、タタン、タン、だってばー」"
+  },
+  {
+   "id": "clse07:981200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それから、ここでステップだよ！」"
+  },
+  {
+   "id": "clse07:981300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい、ターン！」"
+  },
+  {
+   "id": "clse07:981400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う、うん……」"
+  },
+  {
+   "id": "clse07:981500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「最後にここでポーズ！」"
+  },
+  {
+   "id": "clse07:981600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:981700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん！ ちゃんとできてたよ！」"
+  },
+  {
+   "id": "clse07:981800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ううん、お姉ちゃんが頑張ったからだよ」"
+  },
+  {
+   "id": "clse07:981900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「見せたい……もの？」"
+  },
+  {
+   "id": "clse07:982000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほら、見てよ、お姉ちゃん……カウント……こんなにたくさんの人が見てるよ？」"
+  },
+  {
+   "id": "clse07:982100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、拓留兄ちゃん、いつの間に……」"
+  },
+  {
+   "id": "clse07:982200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うんっ！」"
+  },
+  {
+   "id": "clse07:982300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あはは。拓留兄ちゃん、照れてる照れてる」"
+  },
+  {
+   "id": "clse07:982400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:982500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぼ、僕は大丈夫」"
+  },
+  {
+   "id": "clse07:982600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:982700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やめてっ！！！」"
+  },
+  {
+   "id": "clse07:982800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やめてよ……ダメだよ、こんなの……」"
+  },
+  {
+   "id": "clse07:982900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって……僕だって、拓留兄ちゃんのこと欲しいんだよ？ ふたりだけで奪い合うなんてズルいよ……」"
+  },
+  {
+   "id": "clse07:983000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だからね、僕、思うんだ。みんなで分け合えばいいんだって」"
+  },
+  {
+   "id": "clse07:983100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「みんな拓留兄ちゃんが欲しいんでしょ？ だから、それぞれ好きなパーツをもらえばいいんだよ。ほら。そ・れ・で」"
+  },
+  {
+   "id": "clse07:983200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ、僕は手かな……」"
+  },
+  {
+   "id": "clse07:983300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それなら、それぞれ片方ずつの手と足で分けようよ」"
+  },
+  {
+   "id": "clse07:983400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いただきます！」"
+  },
+  {
+   "id": "clse07:983500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もぐもぐもぐ……」"
+  },
+  {
+   "id": "clse07:983600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うんっ」"
+  },
+  {
+   "id": "clse07:983700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う……」"
+  },
+  {
+   "id": "clse07:983800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これを食べるだけでいいの？」"
+  },
+  {
+   "id": "clse07:983900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあ、僕はこっちから……」"
+  },
+  {
+   "id": "clse07:984000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……れろっ……」"
+  },
+  {
+   "id": "clse07:984100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん」"
+  },
+  {
+   "id": "clse07:984200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぺろぺろぺろ」"
+  },
+  {
+   "id": "clse07:984300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ あ、ほんとだ……じゅるっ……ん……っ……」"
+  },
+  {
+   "id": "clse07:984400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「舐めてるばかりじゃダメかも……」"
+  },
+  {
+   "id": "clse07:984500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゅるるっ……」"
+  },
+  {
+   "id": "clse07:984600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……んっ、ちゅっ、ちゅる……」"
+  },
+  {
+   "id": "clse07:984700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……こんな感じれ、大丈夫なのかな……？」"
+  },
+  {
+   "id": "clse07:984800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「つ、次は何色？」"
+  },
+  {
+   "id": "clse07:984900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「み、右手を……赤……んっ……」"
+  },
+  {
+   "id": "clse07:985000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「も、もうちょっとで……届く……」"
+  },
+  {
+   "id": "clse07:985100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……と、届いたっ……！」"
+  },
+  {
+   "id": "clse07:985200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「つ、次は……左足を、緑……だって……」"
+  },
+  {
+   "id": "clse07:985300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こ、こっちから足を通せばいけそう……だよ？」"
+  },
+  {
+   "id": "clse07:985400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だ、だから、こっち……」"
+  },
+  {
+   "id": "clse07:985500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ど、どうしたの？」"
+  },
+  {
+   "id": "clse07:985600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わわっ、そんなに動いたら危な――！」"
+  },
+  {
+   "id": "clse07:985700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ 拓留兄ちゃん……何か言った？」"
+  },
+  {
+   "id": "clse07:985800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う、うん。えっと……次は……」"
+  },
+  {
+   "id": "clse07:985900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そ、そんなこと言われても、こんな格好のままじゃ無理だよぉ……」"
+  },
+  {
+   "id": "clse07:986000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え！？ あ、ちょっと待っ――ああああっ！」"
+  },
+  {
+   "id": "clse07:986100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ニヤ生？」"
+  },
+  {
+   "id": "clse07:986200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃんががやりたいならいいよ」"
+  },
+  {
+   "id": "clse07:986300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ゆ、ユウです」"
+  },
+  {
+   "id": "clse07:986400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぼ、僕は、お姉ちゃんさえいいなら」"
+  },
+  {
+   "id": "clse07:986500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「僕は、別にいいよ？」"
+  },
+  {
+   "id": "clse07:986600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『ひゃっ！』」"
+  },
+  {
+   "id": "clse07:986700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『もう……お返しだよっ！！ えいっ！」"
+  },
+  {
+   "id": "clse07:986800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『っっぷ！！』」"
+  },
+  {
+   "id": "clse07:986900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『そういうユイちゃんこそ……』」"
+  },
+  {
+   "id": "clse07:987000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『わわわ！』」"
+  },
+  {
+   "id": "clse07:987100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うぅ……」"
+  },
+  {
+   "id": "clse07:987200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:987300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ミルフィーユ、ユウだよ」"
+  },
+  {
+   "id": "clse07:987400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、この前、学校から帰り道るとき、もうクリスマスの飾りつけしてたよね。ほら、ヒカ――」"
+  },
+  {
+   "id": "clse07:987500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃん、家にはいなかったよ」"
+  },
+  {
+   "id": "clse07:987600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:987700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ……僕が喋っちゃったから？ 僕が喋ったせいで、お姉ちゃん、危険な目にあってるの？」"
+  },
+  {
+   "id": "clse07:987800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃん！」"
+  },
+  {
+   "id": "clse07:987900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ……お姉ちゃん、どうなっちゃうの？」"
+  },
+  {
+   "id": "clse07:988000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「僕のこと……かも……」"
+  },
+  {
+   "id": "clse07:988100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「僕が……『ミルフィーユ』のユウが本当は男だってことを知られちゃったのかも……」"
+  },
+  {
+   "id": "clse07:988200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃん……」"
+  },
+  {
+   "id": "clse07:988300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃん……教えて。どこにいるの？」"
+  },
+  {
+   "id": "clse07:988400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……え！？」"
+  },
+  {
+   "id": "clse07:988500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉……ちゃん……？」"
+  },
+  {
+   "id": "clse07:988600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「聞こえる……お姉ちゃんの声……」"
+  },
+  {
+   "id": "clse07:988700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃん！ 僕だよ！ 結人だよ！ ねえ、返事して！ 今どこにいるの！？」"
+  },
+  {
+   "id": "clse07:988800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……そんな」"
+  },
+  {
+   "id": "clse07:988900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どこかの建物の３階か４階……それくらいしかわかんないって……」"
+  },
+  {
+   "id": "clse07:989000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ う、うん！」"
+  },
+  {
+   "id": "clse07:989100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お姉ちゃん！ そこまで歩いてどれくらいかかったのかって、拓留兄ちゃんが！」"
+  },
+  {
+   "id": "clse07:989200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……１５分？ 車には？ うん、わかった」"
+  },
+  {
+   "id": "clse07:989300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「「……大きな丸いベッド。それ以外は、暗くてよくわからないって」"
+  },
+  {
+   "id": "clse07:989400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "오노에 일행",
+   "jp": "「窓の外に顔が見えたって……壁のところに浮かんで……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「あ……お姉ちゃん！？ お姉ちゃんってば！」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「お姉ちゃんっ！！」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「ゴメンね、お姉ちゃん！ 僕のせいで……」"
+  }
+ ]
+}

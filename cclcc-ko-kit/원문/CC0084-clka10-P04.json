@@ -1,0 +1,801 @@
+{
+ "packet_id": "CC0084-clka10-P04",
+ "kit_version": "1.0",
+ "source_file": "clka10.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "카즈키 하나",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "頭の中がもやが懸かっているみたいになってて、自分が今どこにいるのかが一瞬分からなかった。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「……いてっ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "後頭部に小さな痛みが走り、そのおかげで頭の中のもやが晴れた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（風呂場で頭をぶつけて気を失っていたのか。情けない話だな……）"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "どうやらベッドに横たわっているらしい。まだ後頭部は少し痛むけど、それ以外は正常だ。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（よいしょ、と……）"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka10:30000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ベッドの上で身体を起こす。部屋は薄暗く、周囲に人の気配は無い。"
+  },
+  {
+   "id": "clka10:30100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "（……バスローブを着ている。香月が着せてくれたのか？）"
+  },
+  {
+   "id": "clka10:30200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "その状況を想像すると今すぐ自殺したくなるので、必死に意識から外す。"
+  },
+  {
+   "id": "clka10:30300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "と、その時。"
+  },
+  {
+   "id": "clka10:30400",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ここまで来たんだから、最後までやろうよ」"
+  },
+  {
+   "id": "clka10:30500",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……んんん。でも……」"
+  },
+  {
+   "id": "clka10:30600",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「こんなのよくない、かも」"
+  },
+  {
+   "id": "clka10:30700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "洗面所の方から声が聞こえた。ドアは開いていたが、僕のいる場所からは洗面所の中が見えなかった。"
+  },
+  {
+   "id": "clka10:30800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "（香月か？ でも、誰かと話しているような……？）"
+  },
+  {
+   "id": "clka10:30900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "香月の声に少し思い詰めた物を感じ、声をかけるのがためらわれた。"
+  },
+  {
+   "id": "clka10:31000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "僕はなんとなく音を立てないようにベッドから下りて、ゆっくりと洗面所に向かう。"
+  },
+  {
+   "id": "clka10:31100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "その間も会話は続いていた。"
+  },
+  {
+   "id": "clka10:31200",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「よくないって、なにが？」"
+  },
+  {
+   "id": "clka10:31300",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なにが、って……」"
+  },
+  {
+   "id": "clka10:31400",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んんん……」"
+  },
+  {
+   "id": "clka10:31500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "洗面所に辿り着き、そっと中を覗き込む。"
+  },
+  {
+   "id": "clka10:31600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月がいた。洗面所の隅っこにうずくまり、うつむいて膝を抱え、縮こまっていた。"
+  },
+  {
+   "id": "clka10:31700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "他には、誰もいなかった。"
+  },
+  {
+   "id": "clka10:31800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "카즈키 하나",
+   "jp": "（どういう、事だ？）"
+  },
+  {
+   "id": "clka10:31900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "「だって、こんなのズルい、かも」"
+  },
+  {
+   "id": "clka10:32000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月が呟く。すると――"
+  },
+  {
+   "id": "clka10:32100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka10:32200",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ズルい？ どこがズルいの？」"
+  },
+  {
+   "id": "clka10:32300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "카즈키 하나",
+   "jp": "（なっ！？）"
+  },
+  {
+   "id": "clka10:32400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "瞬時に香月が『華』に変わり、⟦rb⟧自分自身に⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧⟦rb⟧答えて⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧いた⟦rt⟧⟦rbc⟧●●⟦/r⟧⟦rb⟧のだ⟦rt⟧⟦rbc⟧●●⟦/r⟧。"
+  },
+  {
+   "id": "clka10:32500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "카즈키 하나",
+   "jp": "（二人で会話してるって事か？）"
+  },
+  {
+   "id": "clka10:32600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んんん……」"
+  },
+  {
+   "id": "clka10:32700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ダメよ。ちゃんと言葉にして」"
+  },
+  {
+   "id": "clka10:32800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clka10:32900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "盗み聞きはよくないと思ったが、⟦rb⟧二人⟦rt⟧⟦rbc⟧●●⟦/r⟧の会話が途切れず進んでしまい、中に入る機を逸してしまった。"
+  },
+  {
+   "id": "clka10:33000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だって……」"
+  },
+  {
+   "id": "clka10:33100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留先輩の気持ちを、利用してる、かも」"
+  },
+  {
+   "id": "clka10:33200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "（利用してる？ どういうことだ？）"
+  },
+  {
+   "id": "clka10:33300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「先輩は、あなたのワガママに振り回されてると思ってる、かも」"
+  },
+  {
+   "id": "clka10:33400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「その通りじゃない。だからあんたが気にすることなんかなんにもないのよ」"
+  },
+  {
+   "id": "clka10:33500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「んんん！」"
+  },
+  {
+   "id": "clka10:33600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月は大きく首を振った。"
+  },
+  {
+   "id": "clka10:33700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「それが、利用してる、かも」"
+  },
+  {
+   "id": "clka10:33800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「わかんないわね。利用してるって、誰が？」"
+  },
+  {
+   "id": "clka10:33900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clka10:34000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月は一度言葉を詰まらせ、そして言った。"
+  },
+  {
+   "id": "clka10:34100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私、達、かも」"
+  },
+  {
+   "id": "clka10:34200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あたし達？」"
+  },
+  {
+   "id": "clka10:34300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ううん、違う、かも」"
+  },
+  {
+   "id": "clka10:34400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留先輩の気持ちを利用しているのは――」"
+  },
+  {
+   "id": "clka10:34500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月の言葉はどんどん小さくなっていき、最後には消え入りそうだった。"
+  },
+  {
+   "id": "clka10:34600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――わたし、かも」"
+  },
+  {
+   "id": "clka10:34700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka10:34800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ふう」"
+  },
+  {
+   "id": "clka10:34900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうね。その通り」"
+  },
+  {
+   "id": "clka10:35000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代先輩の気持ちを利用しているのは、あたし達じゃなくて、あんた。あんただけよ」"
+  },
+  {
+   "id": "clka10:35100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「確かにあたしは宮代先輩とできるだけ長くデートがしたい。キスがしたい。できるんだったら処女だって捧げたい」"
+  },
+  {
+   "id": "clka10:35200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でもね、分かってるんでしょう？ あたしがどうしてそんなに宮代先輩が好きなのか」"
+  },
+  {
+   "id": "clka10:35300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka10:35400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ん」"
+  },
+  {
+   "id": "clka10:35500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……それ、は。わたしが望んでいるから、かも」"
+  },
+  {
+   "id": "clka10:35600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "（……え？）"
+  },
+  {
+   "id": "clka10:35700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』の行動を、香月が望んでいるっていうのか？"
+  },
+  {
+   "id": "clka10:35800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月は、突然自分の中に生まれた『華』という人格に振り回されて、大迷惑なんじゃないのか？"
+  },
+  {
+   "id": "clka10:35900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうよ、あんたが望んでるから、あたしはここにいる」"
+  },
+  {
+   "id": "clka10:36000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「引っ込み思案で、コミュ障で、おまけに厄介な能力のおかげで喋ることもママならないあんたの代わりにここにいるの」"
+  },
+  {
+   "id": "clka10:36100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「⟦rb⟧あんたが⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧宮代先輩と⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧⟦rb⟧デートを⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧したいと⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧思ってるから⟦rt⟧⟦rbc⟧●●●●●●⟦/r⟧、⟦rb⟧あたしは⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧ここに⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧いるのよ⟦rt⟧⟦rbc⟧●●●●⟦/r⟧」"
+  },
+  {
+   "id": "clka10:36200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "（……はあっ！？）"
+  },
+  {
+   "id": "clka10:36300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "あまりに予想外の展開に、僕は一瞬、ほんの一瞬、身体のバランスを崩し、小さくよろけた。"
+  },
+  {
+   "id": "clka10:36400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "体勢を保つために、壁に向かって自然に手が伸びた。"
+  },
+  {
+   "id": "clka10:36500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "そこに、たまたま、洗面所の電灯のスイッチがあった。"
+  },
+  {
+   "id": "clka10:36600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "ぱっと洗面所が明るくなり、香月がハッと首を跳ね上げ、僕と視線を合わせる。"
+  },
+  {
+   "id": "clka10:36700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……っ！？」"
+  },
+  {
+   "id": "clka10:36800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「あ、いや、香月、これは――」"
+  },
+  {
+   "id": "clka10:36900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んんんん！！！！」"
+  },
+  {
+   "id": "clka10:37000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "華は真っ青な顔で立ち上がり、こちらに向かって来る。"
+  },
+  {
+   "id": "clka10:37100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「か、香月、立ち聞きしたのは悪かった。でもな――」"
+  },
+  {
+   "id": "clka10:37200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka10:37300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「は、話を――」"
+  },
+  {
+   "id": "clka10:37400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "僕を無視して洗面所から出ようとするので、思わず香月の肩を掴んだ。"
+  },
+  {
+   "id": "clka10:37500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んっ！！」"
+  },
+  {
+   "id": "clka10:37600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月は大きく身体を振って、僕の手をほどいた。"
+  },
+  {
+   "id": "clka10:37700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そのまま玄関に出て、扉に手をかける。"
+  },
+  {
+   "id": "clka10:37800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「香月！ 待ってくれ！」"
+  },
+  {
+   "id": "clka10:37900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月は一瞬立ち止まり、こちらに振り返った。"
+  },
+  {
+   "id": "clka10:38000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月は、泣いていた。"
+  },
+  {
+   "id": "clka10:38100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka10:38200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ごめん、なさい」"
+  },
+  {
+   "id": "clka10:38300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「香月！」"
+  }
+ ],
+ "context_after": []
+}

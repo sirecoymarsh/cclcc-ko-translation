@@ -1,0 +1,677 @@
+{
+ "packet_id": "CC0313-clzz05-P01",
+ "kit_version": "1.0",
+ "source_file": "clzz05.msb",
+ "speakers_in_packet": [
+  "신조 타케시",
+  "쿠노사토 미오"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clzz05:0",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「今日は特別だ。捜査令状がなくても入っていい。ただし、なんのもてなしも出来ないが」"
+  },
+  {
+   "id": "clzz05:100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「君にそういったものは期待してないから、気にするな」"
+  },
+  {
+   "id": "clzz05:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "天井からぶら下がっている古めかしい電灯をつけると、すすけたような黄色い光に室内が満たされた。"
+  },
+  {
+   "id": "clzz05:300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ただ……掃除は、もう少しだけした方がいいな」"
+  },
+  {
+   "id": "clzz05:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "畳の上にうず高く積まれた学術書や、プリントアウトされた書類が散らばる室内を見回しながら神成は苦笑した。"
+  },
+  {
+   "id": "clzz05:500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「ふん、どいつもこいつも同じことを言う。これでも時々、私の優秀な教え子が掃除をしてくれてるんだ」"
+  },
+  {
+   "id": "clzz05:600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ほー？」"
+  },
+  {
+   "id": "clzz05:700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「それに、私にしてみれば、掃除などをする時間があれば、レポートのひとつでも書き上げる方がよほど有意義だ」"
+  },
+  {
+   "id": "clzz05:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は、キッチンに転がっているゴミ袋の中に、デリバリーピザの空箱らしきものが２つ放り込まれているのをチラリと見てから、続けた。"
+  },
+  {
+   "id": "clzz05:900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「あと、散らかっているように見えるかもしれないが、私にとっては、必要な本や資料が最も効率よく置いてあるんだ。目を閉じていても、何がどこにあるか分かるくらいにな」"
+  },
+  {
+   "id": "clzz05:1000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そうかそうか」"
+  },
+  {
+   "id": "clzz05:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成の経験上、部屋が汚い人間の８割はだいたいこれと同じいいわけをする。"
+  },
+  {
+   "id": "clzz05:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦rb⟧堅物⟦rt⟧かたぶつ⟦/r⟧で手ごわいと思っていた久野里澪が、存外、俗物だったことを知って、神成は笑顔になった。"
+  },
+  {
+   "id": "clzz05:1300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「なんだ？ 何を笑っている」"
+  },
+  {
+   "id": "clzz05:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪はムッとしながら、テーブルの上にきちんと置かれたノートＰＣを開いた。が……。"
+  },
+  {
+   "id": "clzz05:1500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「…………。このＰＣ、確か私は『フリージア』に持って行って……床に落としたまま、気絶してしまったハズだが」"
+  },
+  {
+   "id": "clzz05:1600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ん？ ああ、宮代くんたちが見舞いに来た時に、百瀬さんが手渡していたよ」"
+  },
+  {
+   "id": "clzz05:1700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「たぶん、彼がそこへ戻しておいたんだろう。彼の能力なら、この部屋の鍵くらい簡単に開けられる」"
+  },
+  {
+   "id": "clzz05:1800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そうか……住居不法侵入で一発くらい殴らせてもらうとするかな」"
+  },
+  {
+   "id": "clzz05:1900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「おいおい。彼だって厚意でやったんだろう。いくらなんでも、ひどくないか？」"
+  },
+  {
+   "id": "clzz05:2000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「ふん……」"
+  },
+  {
+   "id": "clzz05:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪はＰＣが⟦rb⟧全く⟦rt⟧⟦rbc⟧●●⟦/r⟧⟦rb⟧無傷⟦rt⟧⟦rbc⟧●●⟦/r⟧であることを確認すると、何か納得したような表情でうなずいた。"
+  },
+  {
+   "id": "clzz05:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "が、すぐにポーカーフェイスに戻って、ＰＣの電源を入れる。"
+  },
+  {
+   "id": "clzz05:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ほどなくしてＯＳが立ち上がると、コマンドラインを起動させて、直接コマンドを打ち込んだ。"
+  },
+  {
+   "id": "clzz05:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "まるで一昔前のＰＣのように、真っ暗な画面の中、味気も何もない白い文字が数行表示され、止まった。"
+  },
+  {
+   "id": "clzz05:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その後は、『＞』というコマンド入力を促すプロンプトが点滅しているだけである。"
+  },
+  {
+   "id": "clzz05:2600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「………」"
+  },
+  {
+   "id": "clzz05:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "それをしばらく眺めていた澪は、ふっと小さな息をついた。"
+  },
+  {
+   "id": "clzz05:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:76⟧ただしその息は、ため息や笑いをふくむ息などではなかった。"
+  },
+  {
+   "id": "clzz05:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "むしろ、獰猛な獣が獲物に襲い掛かるための呼吸を、短く整えるような感じすらした。"
+  },
+  {
+   "id": "clzz05:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "彼女はポケットからスマホを取り出すと、⟦col:280aa02d1400⟧アプリをひとつ起動させ、それをまたポケットに戻す。"
+  },
+  {
+   "id": "clzz05:3100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「……？」"
+  },
+  {
+   "id": "clzz05:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "不思議そうな顔の神成を横目に立ち上がった澪は、いつも部屋の隅に無造作に立てかけてある剣――レプリカの“⟦col:280aa02d1400⟧ディソード⟦col:800000⟧”のそばに立つと、その⟦rb⟧柄⟦rt⟧え⟦/r⟧を、手でもてあそぶようにした。"
+  },
+  {
+   "id": "clzz05:3300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「……なぜだろうな？ ついさっきまで⟦rb⟧忘れていた⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧んだが、私は最近、家庭教師などというものを始めたんだ。結構、見どころのある生徒で、教えがいがある」"
+  },
+  {
+   "id": "clzz05:3400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「へぇ、珍しいな。君が誰かを気に入るなんて」"
+  },
+  {
+   "id": "clzz05:3500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「確かに。この私が、ピザのデリバリーを頼んでやるくらいだ。私自身が驚いているよ」"
+  },
+  {
+   "id": "clzz05:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "澪は、もう一度、キッチンのゴミ袋の中のピザの空箱を見た。"
+  },
+  {
+   "id": "clzz05:3700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「けど、君の生徒は大変そうだ。間違えたら何を言われるか分かったもんじゃない」"
+  },
+  {
+   "id": "clzz05:3800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そんなことはないさ」"
+  },
+  {
+   "id": "clzz05:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は、神成の、冗談とも本気とも取れる言葉を受け流しつつ、窓の外の闇を見た。"
+  },
+  {
+   "id": "clzz05:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "雨だけでなく風も強くなってきたのか、⟦rb⟧安普請⟦rt⟧やすぶしん⟦/r⟧なアパートのあちらこちらから、雨音に混じってミシミシと⟦rb⟧軋⟦rt⟧きし⟦/r⟧むような不快な音が響いてくる。"
+  },
+  {
+   "id": "clzz05:4100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「なぁ、神成さん」"
+  },
+  {
+   "id": "clzz05:4200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「んん？」"
+  },
+  {
+   "id": "clzz05:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は、模造のディソードの柄をまだもてあそびながら静かに言った。"
+  },
+  {
+   "id": "clzz05:4400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「済まないが、もう一か所、私を車で送ってくれないか？」"
+  },
+  {
+   "id": "clzz05:4500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「今から？ どこへ？」"
+  },
+  {
+   "id": "clzz05:4600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「宮代のトレーラーハウスだ。しばらくこれを預けておこうと思っていたんだが、すっかり失念していた」"
+  },
+  {
+   "id": "clzz05:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "澪がディソードのレプリカを指したので、神成は不思議そうに眉を寄せた。"
+  },
+  {
+   "id": "clzz05:4800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「なんでまた？ 大事な研究モデルなんだろう？」"
+  },
+  {
+   "id": "clzz05:4900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「結人がな――ああ、私が教えてる生徒は橘結人なんだが――どうやらこれに興味を持ったようなんだ。時々、触ってみたりするようになった」"
+  },
+  {
+   "id": "clzz05:5000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「しかも、有村のバカまでその遊びに乗るから始末に悪い。振り回して、ケガでもされたらたまらないからな」"
+  },
+  {
+   "id": "clzz05:5100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ふふ。久野里さんは、やっぱり子供には甘いんだな」"
+  },
+  {
+   "id": "clzz05:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "穏やかに笑った神成に対して、しかし澪は全く相好をくずすこともなく、レプリカのディソードを、楽器ケースに偽装したバッグの中に納める。"
+  },
+  {
+   "id": "clzz05:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:114⟧そして、外へ出るよう、神成を促した。"
+  },
+  {
+   "id": "clzz05:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "澪と神成が宮代のトレーラーハウスに到着した頃には、風雨の勢いはさらに増してきているように思われた。"
+  },
+  {
+   "id": "clzz05:5500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ん？ 宮代くんはいないのか？」"
+  },
+  {
+   "id": "clzz05:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "トレーラーハウスの中は、灯りが消えて真っ暗だった。"
+  },
+  {
+   "id": "clzz05:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "ドアをノックしてみたが、中に誰かがいる気配もない。"
+  },
+  {
+   "id": "clzz05:5800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「困ったね。青葉寮かな。そっちへ行ってみるか？」"
+  },
+  {
+   "id": "clzz05:5900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「いや、ここでいい」"
+  },
+  {
+   "id": "clzz05:6000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「？？？」"
+  },
+  {
+   "id": "clzz05:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "怪訝な表情の神成がさらに何か言う前に、澪はいきなりトレーラーハウスのドアを開いた。"
+  },
+  {
+   "id": "clzz05:6200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「お、おい！？ そんな勝手に――」"
+  },
+  {
+   "id": "clzz05:6300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「宮代の許可なら得ている。最近、私の部屋が何かと⟦rb⟧手狭⟦rt⟧てぜま⟦/r⟧でな、時々、物置代わりに使わせてもらっている」"
+  },
+  {
+   "id": "clzz05:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "澪の部屋が手狭なのは、掃除をしないからだろう……神成はそう言いかけたが、何を言い返されるか分からないので、半ば開きかけていた口を閉じた。"
+  },
+  {
+   "id": "clzz05:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "澪は慣れた様子でトレーラーハウスの中へと足を踏み入れた。"
+  },
+  {
+   "id": "clzz05:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:76⟧――が。"
+  },
+  {
+   "id": "clzz05:6700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「……？」"
+  },
+  {
+   "id": "clzz05:6800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "彼女は、持ってきた楽器ケースをしまうどころか、逆にケースの中からゆっくりとレプリカのディソードを引き抜いて、右手に持った。"
+  },
+  {
+   "id": "clzz05:6900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「……久野里、さん？」"
+  },
+  {
+   "id": "clzz05:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "彼女の意図をはかりかねた神成は、思わず数歩あとずさる。"
+  },
+  {
+   "id": "clzz05:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "トレーラーハウスから降りてきた澪を、激しい雨風が包み込んでいく。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "長い黒髪は濡れそぼり、額から目元、鼻筋、頬、顎、首筋、そして白衣まで、まるで暗い色の滝が流れ落ちているかのように見えた。"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「お、おい……どうしたんだ？ 何か怒ってるのか？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そう問いかける神成を、いつしか澪は、ひどく冷酷な目で見つめていた。"
+  }
+ ]
+}

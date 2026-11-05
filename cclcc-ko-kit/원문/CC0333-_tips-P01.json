@@ -1,0 +1,926 @@
+{
+ "packet_id": "CC0333-_tips-P01",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "_tips:0",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｔｉｐｓキーワード追加"
+  },
+  {
+   "id": "_tips:100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:800000⟧『⟦col:820000⟧"
+  },
+  {
+   "id": "_tips:200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:800000⟧』がＴｉｐｓに追加されました。"
+  },
+  {
+   "id": "_tips:300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "‘"
+  },
+  {
+   "id": "_tips:400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "’"
+  },
+  {
+   "id": "_tips:500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ０１２３４５６７８９＠β"
+  },
+  {
+   "id": "_tips:600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｎｏ Ｄａｔａ"
+  },
+  {
+   "id": "_tips:700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "？？？"
+  },
+  {
+   "id": "_tips:800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｎｏ．"
+  },
+  {
+   "id": "_tips:900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "／"
+  },
+  {
+   "id": "_tips:1000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろわをんａＡｂＢｃＣｄＤｅＥｆＦｇＧｈＨｉＩｊＪｋＫｌＬｍＭｎＮｏＯｐＰｑＱｒＲｓＳｔＴｕＵｖＶｗＷｘＸｙＹｚＺ０１２３４５６７８９＠β"
+  },
+  {
+   "id": "_tips:1100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "新規"
+  },
+  {
+   "id": "_tips:1200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "未読"
+  },
+  {
+   "id": "_tips:1400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "アプリ"
+  },
+  {
+   "id": "_tips:1500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あぷり"
+  },
+  {
+   "id": "_tips:1600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あぷり"
+  },
+  {
+   "id": "_tips:1700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『アプリケーション』の略。"
+  },
+  {
+   "id": "_tips:1900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "淡藤"
+  },
+  {
+   "id": "_tips:2000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あわふじ"
+  },
+  {
+   "id": "_tips:2100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あわふじ"
+  },
+  {
+   "id": "_tips:2200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）都立淡藤学院。公立校。"
+  },
+  {
+   "id": "_tips:2400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "安西先生"
+  },
+  {
+   "id": "_tips:2500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あんざいせんせい"
+  },
+  {
+   "id": "_tips:2600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あんざいせんせい"
+  },
+  {
+   "id": "_tips:2700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "某マンガに登場する顧問の先生。ネット上では、なにかにすがりたい気持ちになったときなどに、そのマンガ内でのセリフをパロディとして「安西先生、○○がしたいです……」というような使われ方をする。"
+  },
+  {
+   "id": "_tips:2900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "イクナイ"
+  },
+  {
+   "id": "_tips:3000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いくない"
+  },
+  {
+   "id": "_tips:3100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いくない"
+  },
+  {
+   "id": "_tips:3200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『よくない』という意味。ネットスラング。(・A・)という顔文字がセットになることが多い。"
+  },
+  {
+   "id": "_tips:3400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "イミフ"
+  },
+  {
+   "id": "_tips:3500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いみふ"
+  },
+  {
+   "id": "_tips:3600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いみふ"
+  },
+  {
+   "id": "_tips:3700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『意味不明』の略。"
+  },
+  {
+   "id": "_tips:3900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "インスコ"
+  },
+  {
+   "id": "_tips:4000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いんすこ"
+  },
+  {
+   "id": "_tips:4100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いんすこ"
+  },
+  {
+   "id": "_tips:4200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。ソフト等をインストールすること。"
+  },
+  {
+   "id": "_tips:4400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "エンスー"
+  },
+  {
+   "id": "_tips:4500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えんすー"
+  },
+  {
+   "id": "_tips:4600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えんすぅ"
+  },
+  {
+   "id": "_tips:4700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）日本最多のオンラインユーザー数を誇るオンラインＲＰＧ（ＭＭＯＲＰＧ）『エンパイア・スウィーパー・オンライン』の略称。中世ヨーロッパ風のファンタジー世界『バゼラード』を舞台に冒険を繰り広げる。"
+  },
+  {
+   "id": "_tips:4900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おｋ"
+  },
+  {
+   "id": "_tips:5000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おけ"
+  },
+  {
+   "id": "_tips:5100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おけ"
+  },
+  {
+   "id": "_tips:5200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『おｋ』は『ＯＫ』のこと。"
+  },
+  {
+   "id": "_tips:5400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オサレ"
+  },
+  {
+   "id": "_tips:5500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おされ"
+  },
+  {
+   "id": "_tips:5600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おされ"
+  },
+  {
+   "id": "_tips:5700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『おしゃれ』『おしゃれな』という意味。"
+  },
+  {
+   "id": "_tips:5900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オチムシャ☆コンパイラ"
+  },
+  {
+   "id": "_tips:6000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おちむしゃ☆こんぱいら"
+  },
+  {
+   "id": "_tips:6100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おちむしゃこんぱいら"
+  },
+  {
+   "id": "_tips:6200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）エリンフレイ・オルジェルの持つ魔法のステッキ☆ 鎖の先端にたくさんのトゲが付いた鉄球が付いており、どう見てもモーニングスターだが、あくまでも魔法のステッキ☆である。星来が持つ金棒のようなステッキ☆である『サムライ☆コンデンサ』や、その進化版である『ブシドー☆トランジスタ』とは姉妹品である。"
+  },
+  {
+   "id": "_tips:6400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おっぱいマウスパッド"
+  },
+  {
+   "id": "_tips:6500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おっぱいまうすぱっど"
+  },
+  {
+   "id": "_tips:6600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おっぱいまうすぱっど"
+  },
+  {
+   "id": "_tips:6700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "手首を添える部分に、ゲル等を注入した柔らかいハンドレストのある立体マウスパッド。その中でも、アニメやゲームの女性キャラクターが表面にプリントされ、ハンドレストの部分をちょうど胸に見立てているものは、おっぱいマウスパッドという名称で呼ばれる。"
+  },
+  {
+   "id": "_tips:6900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "乙"
+  },
+  {
+   "id": "_tips:7000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おつ"
+  },
+  {
+   "id": "_tips:7100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おつ"
+  },
+  {
+   "id": "_tips:7200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『おつかれさま』の意。ネットスラング。"
+  },
+  {
+   "id": "_tips:7400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "借りパク"
+  },
+  {
+   "id": "_tips:7500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かりぱく"
+  },
+  {
+   "id": "_tips:7600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かりぱく"
+  },
+  {
+   "id": "_tips:7700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『借りたままパクる』の略。他人のものを、借りたまま返さず自分のものにしてしまうこと。"
+  },
+  {
+   "id": "_tips:7900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ガルガリ君"
+  },
+  {
+   "id": "_tips:8000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "がるがりくん"
+  },
+  {
+   "id": "_tips:8100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "がるがりくん"
+  },
+  {
+   "id": "_tips:8200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）棒アイスの商品名。氷菓の中では国民的知名度を誇り、コンビニなどで買うことができる。スタンダードなソーダ味の他、コーラ味やグレープ味など、期間限定のものも含めて５０種類以上が発売された。棒の部分には稀に“あたり”と書かれている場合があり、それが出るともう１本サービスとなる。当たる確率は２％ほどという噂がある。"
+  },
+  {
+   "id": "_tips:8400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ギガロマニアックス"
+  },
+  {
+   "id": "_tips:8500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぎがろまにあっくす"
+  },
+  {
+   "id": "_tips:8600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぎがろまにあっくす"
+  },
+  {
+   "id": "_tips:8700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）超誇大妄想能力者。妄想を具現化する能力を持つ。ギガロマニアックスは必ずディソードと呼ばれる妄想の剣を持ち、その剣を用いてディラックの海に干渉、対生成を起こして粒子と反粒子を取り出す。その粒子を人間の目に必ず存在している死角『デッドスポット』へ飛ばすことにより、妄想を『周囲共通認識』として成立させ、エラー（妄想）を現実にしてしまうのである。この行為を『リアルブート』と呼ぶ。覚醒するためには、想像を絶するような精神的負荷を与えられることが必要である。"
+  },
+  {
+   "id": "_tips:8900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きっちょむさん"
+  },
+  {
+   "id": "_tips:9000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きっちょむさん"
+  },
+  {
+   "id": "_tips:9100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きっちょむさん"
+  },
+  {
+   "id": "_tips:9200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "日本の民話、とんち話に登場する人物。漢字では「吉四六」。現在の大分県に実在した人物だと言われている。きっちょむさんが登場する民話やとんち話は実に２００以上に及ぶ。"
+  },
+  {
+   "id": "_tips:9400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "キモオタ"
+  },
+  {
+   "id": "_tips:9500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きもおた"
+  },
+  {
+   "id": "_tips:9600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きもおた"
+  },
+  {
+   "id": "_tips:9700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『気持ち悪いオタク』の略。"
+  },
+  {
+   "id": "_tips:9900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "キャストオフ"
+  },
+  {
+   "id": "_tips:10000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きゃすとおふ"
+  },
+  {
+   "id": "_tips:10100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きゃすとおふ"
+  },
+  {
+   "id": "_tips:10200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "２００６年頃から、美少女フィギュアにおいて増えてきた仕様で、服などのパーツをあらかじめ簡易に取り外しできるように作ることで、ヌード（あるいはそれに近い状態）にできること。"
+  },
+  {
+   "id": "_tips:10400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "キャットストリート"
+  },
+  {
+   "id": "_tips:10500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きゃっとすとりーと"
+  },
+  {
+   "id": "_tips:10600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きゃっとすとりぃと"
+  },
+  {
+   "id": "_tips:10700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "渋谷から原宿へ向かう明治通りの一本隣を走る、曲がりくねった道と、その道沿いに軒を連ねるブティックを含めた通称。もともとは渋谷川だった場所を埋め立てて道にしたという歴史がある。名前の由来は諸説あるが、主なものとしては『野良猫がたくさんいるから』『猫の額のように狭いから』など。"
+  },
+  {
+   "id": "_tips:10900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "空気嫁"
+  },
+  {
+   "id": "_tips:11000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くうきよめ"
+  },
+  {
+   "id": "_tips:11100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くうきよめ"
+  },
+  {
+   "id": "_tips:11200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。その場の空気を読むことを強制する発言。罵倒に近い意味で用いられることが多い。『空気を読め』"
+  },
+  {
+   "id": "_tips:11400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "グラジオール"
+  },
+  {
+   "id": "_tips:11500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぐらじおーる"
+  },
+  {
+   "id": "_tips:11600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぐらじおぉる"
+  },
+  {
+   "id": "_tips:11700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）東欧に伝わる神話を元にした小説、グラジオール・サーガに登場する『邪心王』。グラジオール・サーガは、７人の黒騎士とグラジオールとの戦いを描いた全２３巻のハイ・ファンタジー小説シリーズである。著者はＲ・Ｃ・Ｏ・ツィーグラー。１９２９年〜１９５１年に渡って書かれ、いくつかの言語に翻訳されたが、その難解な文章のせいで一般にはあまり浸透しなかった。『グラジオール黙示録詩編』『グラジオール列王記邪心編』『使徒からの手紙』など、各巻にそれぞれ個別のタイトルが付けられている。"
+  },
+  {
+   "id": "_tips:11900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "グラジオラス"
+  },
+  {
+   "id": "_tips:12000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぐらじおらす"
+  },
+  {
+   "id": "_tips:12100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぐらじおらす"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "Ｇｌａｄｉｏｌｕｓ。６〜８月に開花。アヤメ科グラジオラス属。花の色は白、ピンク、オレンジ、紫、赤など。花言葉は『愛の祈り』『情熱的な恋』『思い出』『用心深い』『努力』など。海外では、葉の形が剣に似ていることからソード・リリー（ｓｗｏｒｄ　ｌｉｌｙ）やグラディウス（ｇｌａｄｉｕｓ）などの別名で呼ばれることもある。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "黒ミサ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "くろみさ"
+  }
+ ]
+}

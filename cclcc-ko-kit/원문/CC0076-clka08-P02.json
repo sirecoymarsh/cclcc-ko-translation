@@ -1,0 +1,237 @@
+{
+ "packet_id": "CC0076-clka08-P02",
+ "kit_version": "1.0",
+ "source_file": "clka08.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「………………わかっ、た」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「え、タク、デートするの！？ タクが！？ 女の子と！？」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「まさか宮代先輩にそんな勇気があったなんて！ 見直しました！」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「拓留……、立派になったのね……。嬉しい……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「お前たち、いい加減にしないと僕だって傷つくぞ！」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「宮代、悪かった」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka08:10000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お前にまだそんな自尊心が残っていたって、気付いてやれなくて」"
+  },
+  {
+   "id": "clka08:10100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「黙れ伊藤！」"
+  },
+  {
+   "id": "clka08:10200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「勝負は受ける」"
+  },
+  {
+   "id": "clka08:10300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「だが、僕は、ハニートラップに負けてキキキキキキ、キスしてしまうなんて意志の弱い人間じゃないからな！」"
+  },
+  {
+   "id": "clka08:10400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なあ、宮代がどれくらい持つと思う？」"
+  },
+  {
+   "id": "clka08:10500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「デート開始から５分くらいじゃないですかね」"
+  },
+  {
+   "id": "clka08:10600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「華が目を閉じてアゴをちょっと上げれば、すぐ吸い付きますよ」"
+  },
+  {
+   "id": "clka08:10700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ひなちゃんそれは言い過ぎだよー。いくらタクでもそんな簡単にはキスしないと思うなー」"
+  },
+  {
+   "id": "clka08:10800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「じゃあせりはどれくらい持つと思う？」"
+  },
+  {
+   "id": "clka08:10900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うーん、３０分くらいかな？」"
+  },
+  {
+   "id": "clka08:11000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「華ちゃんが腕組んであげてー、一緒に歩いてー、おっぱい押しつけられたりしてー」"
+  },
+  {
+   "id": "clka08:11100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いつの間にか身体が熱くなってきたりしてー、流れでしちゃうんじゃないかな、キス」"
+  },
+  {
+   "id": "clka08:11200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「悔しいけど、私も世莉架に同意見よ」"
+  },
+  {
+   "id": "clka08:11300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留、あれで興奮すると見境なくすタイプだから」"
+  },
+  {
+   "id": "clka08:11400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "「お前たちは僕の味方なのか！？ 敵なのか！？ はっきりしてくれ！！」"
+  },
+  {
+   "id": "clka08:11500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「ままま、皆さんのご期待に見事応えてあげようじゃないですか」"
+  },
+  {
+   "id": "clka08:11600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「あ、でも、皆さんは付いて来ちゃダメですよ？ これも条件の内です」"
+  },
+  {
+   "id": "clka08:11700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「さあ、宮代先輩。行きましょうか」"
+  },
+  {
+   "id": "clka08:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "香月、いや違う。目の前にいるのは、香月ではないもう一人の人格、『華』だ。"
+  },
+  {
+   "id": "clka08:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』は、まるで目の前に美味しい食べ物でも並んでいるかのように舌なめずりをして、僕に言った。"
+  },
+  {
+   "id": "clka08:12000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「楽しいデートの始まりです！」"
+  }
+ ],
+ "context_after": []
+}

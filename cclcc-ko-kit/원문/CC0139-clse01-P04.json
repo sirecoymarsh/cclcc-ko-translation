@@ -1,0 +1,853 @@
+{
+ "packet_id": "CC0139-clse01-P04",
+ "kit_version": "1.0",
+ "source_file": "clse01.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카",
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「くっ。調子に乗りやがって……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "こいつ、いつの間にこんなに生意気に……？"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「あ〜、そう？ そういうこと言うんだ？ ふぅ〜ん」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「きゃぁぁあ、助けて乃々姉ぇ〜！ 部屋に拓留兄ぃが――！」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「わー、嘘です冗談です！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕はすぐさま、屈辱的な土下座を妹に向かってするハメになった。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse01:25900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふふん、最初から素直にそうすればいいのよ」"
+  },
+  {
+   "id": "clse01:26000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "そして、鼻で笑った結衣は――"
+  },
+  {
+   "id": "clse01:26100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "次の瞬間、いつもの彼女からは考えられないような恐ろしい行動に出た。"
+  },
+  {
+   "id": "clse01:26200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留兄ぃ、土下座の仕方がなってないなあ？ もっとこう、頭を床にこすりつけるの。こうやって、グリグリグリって」"
+  },
+  {
+   "id": "clse01:26300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「いでででで！ や、やめろ！ 誰に教わったんだ、こんなこと！」"
+  },
+  {
+   "id": "clse01:26400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「乃々姉ぇに決まってるでしょ？」"
+  },
+  {
+   "id": "clse01:26500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「なにぃぃぃ！？」"
+  },
+  {
+   "id": "clse01:26600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "あ、あいつ！？ まさかと思っていたが……やっぱりこんなに⟦col:280aa02d1400⟧ドＳ⟦col:800000⟧要素満載だったのか！"
+  },
+  {
+   "id": "clse01:26700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "しかも、すでに義理の妹にまで、いけない課外授業をしているなんて！"
+  },
+  {
+   "id": "clse01:26800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほらぁ？ もっとキチンとお願いしなさいよ！ 乃々姉ぇ、呼んじゃうよ？」"
+  },
+  {
+   "id": "clse01:26900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「う、ぐ……ど、ど、ど、どうか僕をこの部屋に！ その代わり、好きなだけ踏んでいいです、から」"
+  },
+  {
+   "id": "clse01:27000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "うう……まだなにもかも未経験で、純情だとばかり思っていた妹を相手に、僕はなんということを……。"
+  },
+  {
+   "id": "clse01:27100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふふふ、しょうがないなあ。確かに拓留兄ぃは、私が助けてあげないとなんにも出来ないダメ人間だもんね〜」"
+  },
+  {
+   "id": "clse01:27200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうでしょ？ ね？ ぐりぐりぐり……」"
+  },
+  {
+   "id": "clse01:27300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「いででででで！ つぶれるつぶれる！ って！ ちょっとは手加減しろよ、結衣っ」"
+  },
+  {
+   "id": "clse01:27400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あっれぇ！？ 自分で『踏んで』ってお願いしたくせに、そういうこと言うの？ あと『結衣』じゃなくって、『結衣さま』でしょ？」"
+  },
+  {
+   "id": "clse01:27500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ぐぬぬ。す、すみません、結衣⟦rb⟧さま⟦rt⟧⟦rbc⟧●●⟦/r⟧」"
+  },
+  {
+   "id": "clse01:27600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "僕は、上目づかいに結衣を睨みつけながら言った。"
+  },
+  {
+   "id": "clse01:27700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "が、そこでギクリと固まった。"
+  },
+  {
+   "id": "clse01:27800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "こ、こいつ、なんかうっとりしてるぞ、おい！？"
+  },
+  {
+   "id": "clse01:27900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "しかも、舌なめずりまでしてるし！"
+  },
+  {
+   "id": "clse01:28000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "ま、まさか！？ ドＳレベルは来栖以上だと！？"
+  },
+  {
+   "id": "clse01:28100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "僕が、そんな結衣の禁断の扉を開けてしまったというのか！？"
+  },
+  {
+   "id": "clse01:28200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「って、ねぇ！？ なに、見てるわけ！？」"
+  },
+  {
+   "id": "clse01:28300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「えっ？ 別に何も」"
+  },
+  {
+   "id": "clse01:28400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ウソ！ 拓留兄ぃってば、下から私のパンツ、見まくりじゃない！ このえっち！ ヘンタイ！」"
+  },
+  {
+   "id": "clse01:28500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「いやいや待てって！ 確かになんか見えてるけどさ！ 妹のパンツなんか見たって、特に何も――」"
+  },
+  {
+   "id": "clse01:28600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんですってー？」"
+  },
+  {
+   "id": "clse01:28700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「いててててて！」"
+  },
+  {
+   "id": "clse01:28800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "さらにゴリゴリと頭を踏みつけられた。"
+  },
+  {
+   "id": "clse01:28900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ホントの事、言いなさい！ 嬉しいんでしょ！？」"
+  },
+  {
+   "id": "clse01:29000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「いや、だから妹の下着なんて――」"
+  },
+  {
+   "id": "clse01:29100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちょっと、乃々姉ぇ〜！？ ここに不審者が隠れてるよー！？」"
+  },
+  {
+   "id": "clse01:29200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「うわぁ、ごめんなさいごめんなさい！ 私は、結衣様のパンツを拝むコトが出来た幸せ者ですーっ。だから、静かにしろってんだよ！ 頼むから！」"
+  },
+  {
+   "id": "clse01:29300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「む〜。いまいち、本気が感じられないなあ！」"
+  },
+  {
+   "id": "clse01:29400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "いや、本気もなにも！"
+  },
+  {
+   "id": "clse01:29500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "一部のマニアを除いて、妹の下着にそんなありがたみなんて感じるかっ！？"
+  },
+  {
+   "id": "clse01:29600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "しかも、結衣のヤツ！ いくら地味系中学生とはいえ、なんでイチゴ柄プリントの木綿パンツなんだよ？ 色気ゼロだよ？ お兄ちゃん、逆に哀しいよ！"
+  },
+  {
+   "id": "clse01:29700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "こういうところ、ほんと小学生のままだな、こいつは！"
+  },
+  {
+   "id": "clse01:29800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "少しだけでいいから、有村あたりに下着のオシャレでも教わっとけ。"
+  },
+  {
+   "id": "clse01:29900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "――と、危うく口をすべらせそうになったが、これ以上機嫌を損ねると本当に来栖を呼ばれてしまいそうなので、ギリギリで自重した。"
+  },
+  {
+   "id": "clse01:30000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふんっ、まぁ、いいわ。とにかく、今、拓留兄ぃは、私の奴隷ってことでいいのよね？」"
+  },
+  {
+   "id": "clse01:30100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「えっ？ 奴隷って、いくらなんでもお前……」"
+  },
+  {
+   "id": "clse01:30200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "そうツッコもうと思った瞬間、さらに思いもかけぬ言葉が頭上から投げつけられた。"
+  },
+  {
+   "id": "clse01:30300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃあ、命令。拓留兄ぃは、今日から私の『犬』になりなさい」"
+  },
+  {
+   "id": "clse01:30400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「……はい？」"
+  },
+  {
+   "id": "clse01:30500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "……犬？"
+  },
+  {
+   "id": "clse01:30600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "って、ＤＯＧ？"
+  },
+  {
+   "id": "clse01:30700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "いったい何を言ってるんだ、こいつは。"
+  },
+  {
+   "id": "clse01:30800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "意味が分からない僕が目を白黒させていると、その間に、結衣は押入れをガラリと開いて――。"
+  },
+  {
+   "id": "clse01:30900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "いきなりとんでもないものを引っ張り出してきた。"
+  },
+  {
+   "id": "clse01:31000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私ね、ずっと犬が飼いたかったの。でも、青葉寮はペット禁止でしょう？」"
+  },
+  {
+   "id": "clse01:31100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それでも、いつかこっそり飼っちゃおうと思って、用意しといたんだよね。うふふ」"
+  },
+  {
+   "id": "clse01:31200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「お、お前、それ……！」"
+  },
+  {
+   "id": "clse01:31300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "恍惚とした表情で結衣が手にしているのは……大型犬用の鍵付きの首輪と、ジャラジャラと鎖の音を立てているリードだった。"
+  },
+  {
+   "id": "clse01:31400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "しかも押入れの奥には、古い毛布に隠すようにして、犬用の⟦rb⟧檻⟦rt⟧ケージ⟦/r⟧までもが置かれている。"
+  },
+  {
+   "id": "clse01:31500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "こいつ、まさか？"
+  },
+  {
+   "id": "clse01:31600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "本気、なのか……！？"
+  },
+  {
+   "id": "clse01:31700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さぁ、可愛いワンちゃん？ これからず〜っと可愛がってあげるからね〜」"
+  },
+  {
+   "id": "clse01:31800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ちょ、ちょ、ちょっと待ってくれ結衣！？」"
+  },
+  {
+   "id": "clse01:31900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「こら、ダメでしょう！？ 乃々姉ぇに見つかりたくなかったら、私の命令には絶対服従よ。しかも、『ワンワン！』とだけ答えなさい」"
+  },
+  {
+   "id": "clse01:32000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうして結衣は……ゆっくりと僕の首をしめつけるようにして、犬用の首輪を通した。鍵がガチャリとかけられる。"
+  },
+  {
+   "id": "clse01:32100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "初めての首輪の感触と恐怖に、思わずゾワリとなった。"
+  },
+  {
+   "id": "clse01:32200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……こ、こいつ、冗談でやってるんじゃない。本気だ。"
+  },
+  {
+   "id": "clse01:32300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかも結衣は、楽しそうに鼻歌を歌いながら、鉄鎖で出来たリードを首輪の輪っかにはめて――それを思い切り引っ張った。"
+  },
+  {
+   "id": "clse01:32400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ぐえ……」"
+  },
+  {
+   "id": "clse01:32500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さぁ、タクちゃん？ お散歩に連れて行ってあげるわ！ 準備なさい？」"
+  },
+  {
+   "id": "clse01:32600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「……準備……？」"
+  },
+  {
+   "id": "clse01:32700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「犬が人間の服を着てたらおかしいでしょう？ 犬は犬らしく――裸に決まってるじゃない」"
+  },
+  {
+   "id": "clse01:32800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「なに言ってんだ、お前はーーっ！」"
+  },
+  {
+   "id": "clse01:32900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "そんなの絶対に無理だーーっ！"
+  },
+  {
+   "id": "clse01:33000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "そんなことしたら、一発で警察のご厄介になってしまう。"
+  },
+  {
+   "id": "clse01:33100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "いくら衝撃的なニュースを探してる我が新聞部とはいえ、そんなことになったら、僕自身がトップニュースになりかねない！"
+  },
+  {
+   "id": "clse01:33200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうだ。せっかくだし、うきちゃんも散歩に誘っちゃおうかな〜？」"
+  },
+  {
+   "id": "clse01:33300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "오노에 세리카",
+   "jp": "「や・め・ろーーっ！」"
+  },
+  {
+   "id": "clse01:33400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕はついに堪忍袋の緒が切れて、結衣に飛びかかった。"
+  },
+  {
+   "id": "clse01:33500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "次の瞬間、ドカーンというものすごい音が耳元で鳴った。"
+  },
+  {
+   "id": "clse01:33600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "続けて、激痛が僕の全身を襲う。"
+  },
+  {
+   "id": "clse01:33700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うわっ！？ ちょっとタク！？ なにしてんの！？」"
+  },
+  {
+   "id": "clse01:33800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "世莉架の仰天する声が頭上で聞こえた。"
+  },
+  {
+   "id": "clse01:33900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "我に返ると、僕は自分のトレーラーハウスの入口に思いっきりダイブし、そして、激突の反動で地面にひっくり返っていた。"
+  },
+  {
+   "id": "clse01:34000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse01:34100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なに……してんの？」"
+  },
+  {
+   "id": "clse01:34200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「えと……なにをした？ 僕？」"
+  },
+  {
+   "id": "clse01:34300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いきなりわけ分からないこと叫びながら、トレーラーハウスに向けて走ったよ」"
+  },
+  {
+   "id": "clse01:34400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「お、おう……」"
+  },
+  {
+   "id": "clse01:34500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんでもって、全力で絶叫ダイブして、ドアにどかーんってぶつかって」"
+  },
+  {
+   "id": "clse01:34600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「お、おう……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「で、今は鼻血吹いて倒れてる」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「なるほど。分かりやすい説明、感謝する」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「勝手に納得しないでよー！ さっぱり分からないよー！」"
+  }
+ ]
+}

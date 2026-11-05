@@ -1,0 +1,185 @@
+{
+ "packet_id": "CC0344-_tips-P12",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "みばれ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "インターネット巨大掲示板やＳＮＳで、匿名ユーザーの本名や住所などが他のユーザーによって特定されてしまうこと。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ネット"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "粘着"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ねんちゃく"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ねんちゃく"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:109400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "この場合には、インターネット巨大掲示板やブログ、ＳＮＳにおいて、特定のスレやコメント欄などに執拗に張り付き、大量の偏執的な書き込みを行う人物のこと。"
+  },
+  {
+   "id": "_tips:109500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:109600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＵＲＬ"
+  },
+  {
+   "id": "_tips:109700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ゆーあーるえる"
+  },
+  {
+   "id": "_tips:109800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＵＲＬ"
+  },
+  {
+   "id": "_tips:109900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｕｎｉｆｏｒｍ　Ｒｅｓｏｕｒｃｅ　Ｌｏｃａｔｏｒ。インターネットにおけるウェブサイトのアドレスのこと。住所のようなもの。代表的なものとしては『ｈｔｔｐ：／／』から始まるものがある。"
+  },
+  {
+   "id": "_tips:110000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:110100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "生主"
+  },
+  {
+   "id": "_tips:110200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "なまぬし"
+  },
+  {
+   "id": "_tips:110300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "なまぬし"
+  },
+  {
+   "id": "_tips:110400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ニコニヤ生放送を個人で配信する人のこと。"
+  },
+  {
+   "id": "_tips:110500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:110600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "リアルブート"
+  },
+  {
+   "id": "_tips:110700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りあるぶーと"
+  },
+  {
+   "id": "_tips:110800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りあるぶぅと"
+  },
+  {
+   "id": "_tips:110900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）周囲共通認識を作り出すことで可能となる、妄想の具現化。ギガロマニアックスだけが使える能力。"
+  }
+ ],
+ "context_after": []
+}

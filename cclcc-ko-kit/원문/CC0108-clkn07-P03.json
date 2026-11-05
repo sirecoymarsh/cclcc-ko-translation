@@ -1,0 +1,297 @@
+{
+ "packet_id": "CC0108-clkn07-P03",
+ "kit_version": "1.0",
+ "source_file": "clkn07.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "사쿠마 와타루",
+  "야마조에 우키"
+ ],
+ "context_before": [
+  {
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "jp": "「拓留。一緒にいい夢見ましょう……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "踵を返して逃げるよりも早く、僕は父さんの逞しい腕に抱きすくめられてしまった！"
+  },
+  {
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "jp": "「んふ……拓留、カワイイ……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「た、助けてぇ！ 誰か！ 泉理！ 結衣！ うき！ 結人！ 誰でもいい！ 頼む、助けてくれええええええええええ！！！」"
+  },
+  {
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "jp": "「おい、どうした拓留？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「うわああああああああっ！！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn07:20000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「な、なんだよ。人を化け物みたいに」"
+  },
+  {
+   "id": "clkn07:20100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「あ……い、いや……」"
+  },
+  {
+   "id": "clkn07:20200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうした？ 息があがってるぞ。風邪か？」"
+  },
+  {
+   "id": "clkn07:20300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "額に差し伸べられた父さんのゴツゴツした手を、僕は慌てて払いのけた。"
+  },
+  {
+   "id": "clkn07:20400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「だ、大丈夫！ 大丈夫だから……！」"
+  },
+  {
+   "id": "clkn07:20500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「そ……そうか？ ならいいんだけどよ」"
+  },
+  {
+   "id": "clkn07:20600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留さん。お風呂湧きましたよ。お先にどうぞ」"
+  },
+  {
+   "id": "clkn07:20700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": null,
+   "jp": "「あ、ああ……」"
+  },
+  {
+   "id": "clkn07:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "……今の夢は忘れて、早いところ風呂入ってさっさと寝よう。"
+  },
+  {
+   "id": "clkn07:20900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "いやいや、どうもこうもない。"
+  },
+  {
+   "id": "clkn07:21000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "僕たちは家族だ。"
+  },
+  {
+   "id": "clkn07:21100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "そんなことあるわけが……ない、よな……たぶん……。"
+  },
+  {
+   "id": "clkn07:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "その夜。"
+  },
+  {
+   "id": "clkn07:21300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "僕は妙な夢を見た。"
+  },
+  {
+   "id": "clkn07:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "耳の奥で、ずっと何かが鳴っていた。"
+  },
+  {
+   "id": "clkn07:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "これはなんだ？"
+  },
+  {
+   "id": "clkn07:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "泣いてる？"
+  },
+  {
+   "id": "clkn07:21700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "誰かが泣いている。"
+  },
+  {
+   "id": "clkn07:21800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その⟦rb⟧誰か⟦rt⟧⟦rbc⟧●●⟦/r⟧はずっと背を向けていた。"
+  },
+  {
+   "id": "clkn07:21900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "誰だ？"
+  },
+  {
+   "id": "clkn07:22000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "乃々か？"
+  },
+  {
+   "id": "clkn07:22100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それとも泉理か？"
+  },
+  {
+   "id": "clkn07:22200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "違う……。"
+  },
+  {
+   "id": "clkn07:22300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この泣き声は……。"
+  },
+  {
+   "id": "clkn07:22400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "赤ん坊？"
+  },
+  {
+   "id": "clkn07:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その瞬間、背を向けていた“誰か”が振り向いた。"
+  },
+  {
+   "id": "clkn07:22600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ…………！」"
+  },
+  {
+   "id": "clkn07:22700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぅ……ああああああああああああっ！！」"
+  }
+ ],
+ "context_after": []
+}

@@ -1,0 +1,823 @@
+{
+ "packet_id": "CC0113-clkn09-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn09.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "쿠노사토 미오",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn09:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "うちに赤ん坊がやってきて二日目。"
+  },
+  {
+   "id": "clkn09:100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なるほどね。話はわかったが……」"
+  },
+  {
+   "id": "clkn09:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "神成さんに連絡してみると、すぐ近くにいるということだったので、青葉寮まで来てもらった。"
+  },
+  {
+   "id": "clkn09:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "もちろん用件はひかりの母親捜しについてだ。"
+  },
+  {
+   "id": "clkn09:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "だが、反応は⟦rb⟧芳⟦rt⟧かんば⟦/r⟧しいものではなかった。"
+  },
+  {
+   "id": "clkn09:500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「一応、担当の部署に訊いてはみる。でも、あまり期待しないでくれ」"
+  },
+  {
+   "id": "clkn09:600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そう……ですか」"
+  },
+  {
+   "id": "clkn09:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "母親が何かの犯罪に巻き込まれた、あるいは、赤ん坊がどこかの病院から連れ去られたというならまだしも、自発的に子どもを置いていったとなれば事件性は乏しい。"
+  },
+  {
+   "id": "clkn09:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "母親の名前なり、あるいは姿格好なり、何らかの手掛かりがあれば話も違うのかもしれないが、一切の手掛かりは無いのだから当然と言えば当然だ。"
+  },
+  {
+   "id": "clkn09:900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、そういうのはどちらかといえば警察よりも、百瀬さんの案件だからな」"
+  },
+  {
+   "id": "clkn09:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "百瀬さんというのは、僕や神成さんの共通の知り合いで、⟦col:280aa02d1400⟧興信所⟦col:800000⟧を経営している百瀬克子さんのことだ。"
+  },
+  {
+   "id": "clkn09:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "本来なら相談してみたいところだが、あの人も仕事だ。"
+  },
+  {
+   "id": "clkn09:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "タダで頼むというわけにはいかないだろう。"
+  },
+  {
+   "id": "clkn09:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "となると、うちの家計的に依頼するのは厳しい。"
+  },
+  {
+   "id": "clkn09:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "他の方法を考えるしかなさそうだ。"
+  },
+  {
+   "id": "clkn09:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それにそんなことよりも――。"
+  },
+  {
+   "id": "clkn09:1600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「どうして、あなたまでが来てるんですか、久野里さん」"
+  },
+  {
+   "id": "clkn09:1700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんだ、客に向かって失礼だな、君は」"
+  },
+  {
+   "id": "clkn09:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "客もなにも、呼んだ覚えすらないんだけど。"
+  },
+  {
+   "id": "clkn09:1900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なに。ちょうどそこの刑事と一緒にいる時に、面白そうな話が入ってきたものでな」"
+  },
+  {
+   "id": "clkn09:2000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「せっかくだから、子育てに悪戦苦闘する男子学生の姿を見てやろうと思ったんだよ」"
+  },
+  {
+   "id": "clkn09:2100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「やめてくださいよ、見世物じゃないんだから」"
+  },
+  {
+   "id": "clkn09:2200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それにしても、この子はさっきから寝てばかりじゃないか。ちっともお前が悪戦苦闘する様を見られやしない」"
+  },
+  {
+   "id": "clkn09:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "今は乃々が買い物に出かけている最中だ。"
+  },
+  {
+   "id": "clkn09:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "赤ん坊用品はあらかた買い集めたと思っていたけど、後から後から“あれがあるといい”とか”あんなのがあると助かる”とかが出てくる。"
+  },
+  {
+   "id": "clkn09:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "それに、僕たちの日々のご飯の材料なんかも買わなきゃいけない。"
+  },
+  {
+   "id": "clkn09:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ひかりが大人しく眠っているタイミングを見計らって、乃々が買い物に出たところに、入れ替わりで神成さんたちが来たというわけだ。"
+  },
+  {
+   "id": "clkn09:2700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふむ……しかし、赤ん坊と言うのは興味深い生き物だな。それに……」"
+  },
+  {
+   "id": "clkn09:2800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんだ、この柔らかさは？ 自然界において、これだけ柔らかくて滑らかなものはそうそう無いぞ」"
+  },
+  {
+   "id": "clkn09:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう言いながら、久野里さんはひかりの頬っぺたをつんつんと突いている。"
+  },
+  {
+   "id": "clkn09:3000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ああ、ちょっと、そんな風に触ったら――」"
+  },
+  {
+   "id": "clkn09:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ほら、言わんこっちゃない。"
+  },
+  {
+   "id": "clkn09:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "せっかく気持ちよさそうに寝ていたのに。"
+  },
+  {
+   "id": "clkn09:3300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お、おい！ 宮代！ 泣き出してしまったぞ。どうにかしてくれ」"
+  },
+  {
+   "id": "clkn09:3400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さんが泣かせたんだから、久野里さんが何とかしてくださいよ」"
+  },
+  {
+   "id": "clkn09:3500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "「な、何とかって……どうすればいいんだ？」"
+  },
+  {
+   "id": "clkn09:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "久野里さんにしては珍しく、縋るような目で僕と神成さんを交互に見た。"
+  },
+  {
+   "id": "clkn09:3700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そ、そうだ。ちょっと署に電話しないといけないんだった、失礼」"
+  },
+  {
+   "id": "clkn09:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成さんはそう言い残して、早々に逃げ出してしまった。"
+  },
+  {
+   "id": "clkn09:3900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ……卑怯だぞ！ おい、宮代っ……ど、どうすれば……」"
+  },
+  {
+   "id": "clkn09:4000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「抱っこしてあげたら泣きやむんじゃないですか」"
+  },
+  {
+   "id": "clkn09:4100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「抱っこ！？ この赤ん坊を、私が、か？」"
+  },
+  {
+   "id": "clkn09:4200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「それ以外に誰がいるんですか」"
+  },
+  {
+   "id": "clkn09:4300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お、お前がやってくれ、宮代っ」"
+  },
+  {
+   "id": "clkn09:4400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「だから、久野里さんが泣かしたんでしょう」"
+  },
+  {
+   "id": "clkn09:4500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clkn09:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "恐る恐る、手を伸ばす久野里さん。"
+  },
+  {
+   "id": "clkn09:4700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だ、ダメだ！ 無理だ！ 私に出来るはずがないっ！」"
+  },
+  {
+   "id": "clkn09:4800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「へぇ。久野里さんともあろう人が、僕にだって出来ることができないなんて……」"
+  },
+  {
+   "id": "clkn09:4900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「くっ……」"
+  },
+  {
+   "id": "clkn09:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "負けん気に火が付いたのか、久野里さんは再びひかりに手を伸ばした。"
+  },
+  {
+   "id": "clkn09:5100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ちゃんと首の後ろ、支えてあげてくださいよ」"
+  },
+  {
+   "id": "clkn09:5200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「こ、こうか……？ これでいいのか？」"
+  },
+  {
+   "id": "clkn09:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "まるでロボットのようなギコチない動きで、ゆっくりゆっくりとひかりを抱き上げる。"
+  },
+  {
+   "id": "clkn09:5400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「な、泣き止まないじゃないか！ むしろ泣き声が激しくなったぞ！ おい、宮代ぉ〜っ！」"
+  },
+  {
+   "id": "clkn09:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そんなカチカチになってたらダメですよ。あと、優しく揺らしてやるとか」"
+  },
+  {
+   "id": "clkn09:5600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「揺らす……難しい注文を……！」"
+  },
+  {
+   "id": "clkn09:5700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あとは笑顔ですよ、笑顔」"
+  },
+  {
+   "id": "clkn09:5800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お前……楽しんでるな……」"
+  },
+  {
+   "id": "clkn09:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そりゃあ、こんな面白い機会そうそうあるもんでもないし、できることならスマホで映像として残したいくらいだ。"
+  },
+  {
+   "id": "clkn09:6000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「笑顔……笑顔、笑顔……」"
+  },
+  {
+   "id": "clkn09:6100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほ、ほうら、もう怖くないぞ？ な？ だから泣きやめ。頼むから」"
+  },
+  {
+   "id": "clkn09:6200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「もっと笑顔」"
+  },
+  {
+   "id": "clkn09:6300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「にぃぃぃ〜」"
+  },
+  {
+   "id": "clkn09:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ただ頬を引きつらせているだけのように見えるが、あれが久野里さんの精一杯なんだろう。"
+  },
+  {
+   "id": "clkn09:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "それでも、その気持ちが通じたのか。"
+  },
+  {
+   "id": "clkn09:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "さっきまで涙をぽろぽろ零していたひかりは、声を上げて笑った。"
+  },
+  {
+   "id": "clkn09:6700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「笑った！ ほら、笑ったぞ！！ ははっ、どうだ、参ったか！」"
+  },
+  {
+   "id": "clkn09:6800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "いったい何と戦ってるというんだろう、彼女は。"
+  },
+  {
+   "id": "clkn09:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "とはいえ、赤ん坊相手に一喜一憂する姿は、見ていて面白い。"
+  },
+  {
+   "id": "clkn09:7000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「おい、お前。今のうちにたくさんの事を見聞きするんだぞ」"
+  },
+  {
+   "id": "clkn09:7100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「人間の脳の８割は、⟦col:280aa02d1400⟧乳児期⟦col:800000⟧に出来上がるというからな」"
+  },
+  {
+   "id": "clkn09:7200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「優秀な脳に育つがいい。そうすれば私の研究材料くらいにはしてやる」"
+  },
+  {
+   "id": "clkn09:7300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「お、また笑ったな。なかなか聞き分けの良い奴だ」"
+  },
+  {
+   "id": "clkn09:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠루스 노노",
+   "jp": "最初こそ戦々恐々という感じだったが、そんな様子も既にどこかへ消えてしまっていた。"
+  },
+  {
+   "id": "clkn09:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠루스 노노",
+   "jp": "久野里さんって、意外と子ども好きだったりするのかもしれない。"
+  },
+  {
+   "id": "clkn09:7600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「へぇ。そんなことがあったの」"
+  },
+  {
+   "id": "clkn09:7700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ああ、なかなか見物だったよ」"
+  },
+  {
+   "id": "clkn09:7800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あの久野里さんに、そんな一面があるなんて。私も見てみたかったな」"
+  },
+  {
+   "id": "clkn09:7900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "神成さんと久野里さんが帰った後戻ってきた乃々に、僕は一部始終を話して聞かせた。"
+  },
+  {
+   "id": "clkn09:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ちなみに、どうして彼女が乃々の姿でいるかというと、別に外に出かけていたからじゃない。"
+  },
+  {
+   "id": "clkn09:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "泉理の姿でいる時と乃々の姿でいる時、その時々でひかりの機嫌が変わるということがわかったからだ。"
+  },
+  {
+   "id": "clkn09:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "つまり、いまは乃々タイムというわけ。"
+  },
+  {
+   "id": "clkn09:8300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふふっ。でも、留守にしてる間もちゃあんと良い子にしてたんでちゅね〜。いいこいいこ〜」"
+  },
+  {
+   "id": "clkn09:8400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "久野里さんも頑張ってはいたとはいえ、やはりひかりの相手は、久野里さんよりも乃々に分があるようだ。"
+  },
+  {
+   "id": "clkn09:8500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留も、きちんと面倒みてくれてたんでちゅね〜。えらいえらい」"
+  },
+  {
+   "id": "clkn09:8600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「⟦rb⟧揶揄⟦rt⟧からか⟦/r⟧うなよ。僕だってそれくらいできる」"
+  },
+  {
+   "id": "clkn09:8700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうなんだ。それじゃあ、いつ赤ちゃんができても大丈夫ね」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「え？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「あ……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「の、乃々……お前、なに言ってんだよ？」"
+  }
+ ]
+}

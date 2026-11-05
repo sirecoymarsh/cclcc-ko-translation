@@ -1,0 +1,935 @@
+{
+ "packet_id": "CC0264-clyu01-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu01.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "여자들",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu01:0",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "「それで、だ。次の新聞の特集をどうするか、だが……」"
+  },
+  {
+   "id": "clyu01:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "川原くんとの男と男の勝負が霧消したはいいものの、となると今後の活動の指針を決めなきゃいけないわけで。"
+  },
+  {
+   "id": "clyu01:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "とはいえ、切り出したはいいものの、僕にもこれといったアイデアはなく、結果再び皆の意見を聞いてるわけだけど。"
+  },
+  {
+   "id": "clyu01:300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ミスコンってのはどうだ？」"
+  },
+  {
+   "id": "clyu01:400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「……ミスコンって、あのミスコンか？」"
+  },
+  {
+   "id": "clyu01:500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「他にどのミスコンがあるんだよ？」"
+  },
+  {
+   "id": "clyu01:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤が何故か胸を張って言った。"
+  },
+  {
+   "id": "clyu01:700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ほら、この前のＹＥＳ－ＮＯ判定が結構評判だっただろ？ やっぱさ、民衆はああいうノリを求めてるんだと思うんだよな」"
+  },
+  {
+   "id": "clyu01:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤の言うとおり、甚だ不本意ではあるが、あのお茶を濁したような馬鹿馬鹿しい企画は、これまでの記事に比べても何故か上々の反応だった。"
+  },
+  {
+   "id": "clyu01:900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だからさ。学内で美人だと思う人に投票してもらって――」"
+  },
+  {
+   "id": "clyu01:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "でも、だからと言ってそんな企画はきっと……。"
+  },
+  {
+   "id": "clyu01:1100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「却下です」"
+  },
+  {
+   "id": "clyu01:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "こうなるに決まってるんだ。"
+  },
+  {
+   "id": "clyu01:1300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「えー、なんでだよ？」"
+  },
+  {
+   "id": "clyu01:1400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「知ってますか、伊藤先輩。そういうの、最近では⟦col:280aa02d1400⟧セクハラ⟦col:800000⟧に該当するんすよ」"
+  },
+  {
+   "id": "clyu01:1500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「出た！ 優勝できない奴の⟦rb⟧僻⟦rt⟧ひが⟦/r⟧み。そんな狭い了見だから、選ばれない――」⟦avs⟧⟦n⟧⟦n⟧"
+  },
+  {
+   "id": "clyu01:1600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu01:1700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うわああああああ！ 冗談だよ、冗談！ 見てないで止めてくれよ、宮代ぉ！」"
+  },
+  {
+   "id": "clyu01:1800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「自業自得だろ」"
+  },
+  {
+   "id": "clyu01:1900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そんなぁ」"
+  },
+  {
+   "id": "clyu01:2000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「さあて、どうして差し上げようかしら、おほほほほ」"
+  },
+  {
+   "id": "clyu01:2100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ひぃぃ！」"
+  },
+  {
+   "id": "clyu01:2200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「まあまあ、ひなちゃんも、そのくらいにしておきなよー」"
+  },
+  {
+   "id": "clyu01:2300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「……ちぇっ、しゃーない。せりがそういうなら……」"
+  },
+  {
+   "id": "clyu01:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "有村が両手を下ろすと、それまで見えていた巨大な⟦col:280aa02d1400⟧ディソード⟦col:800000⟧が瞬時に消えた。"
+  },
+  {
+   "id": "clyu01:2500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ほっ……」"
+  },
+  {
+   "id": "clyu01:2600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「その代わり、華に呪いの言葉でも吐いてもらいましょうか」"
+  },
+  {
+   "id": "clyu01:2700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「ん、わかった……かも」"
+  },
+  {
+   "id": "clyu01:2800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "야마조에 우키",
+   "jp": "「いやいや！ それ、シャレになんねーから！！」"
+  },
+  {
+   "id": "clyu01:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "やれやれ、相変わらず煩いったらない。"
+  },
+  {
+   "id": "clyu01:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "いったいどうして、この部にはこんな連中ばっかりが集まったのか。"
+  },
+  {
+   "id": "clyu01:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "この中で、唯一まともなのといえば……。"
+  },
+  {
+   "id": "clyu01:3200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はい、どうぞ。⟦col:280aa02d1400⟧マウンテンビュー⟦col:800000⟧です」"
+  },
+  {
+   "id": "clyu01:3300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「あ、ああ。サンキュ」"
+  },
+  {
+   "id": "clyu01:3400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「尾上さんはグレープフルーツジュースで良かったですよね？」"
+  },
+  {
+   "id": "clyu01:3500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「おっけい。ありがと、うきちゃん」"
+  },
+  {
+   "id": "clyu01:3600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村さんのアップルティーと姉さんの⟦col:280aa02d1400⟧ダージリン⟦col:800000⟧は、いま淹れますね」"
+  },
+  {
+   "id": "clyu01:3700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うぃー。グラッチェ」"
+  },
+  {
+   "id": "clyu01:3800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "야마조에 우키",
+   "jp": "「いつも悪いわね、うき」"
+  },
+  {
+   "id": "clyu01:3900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いえ。好きでやってることですから」"
+  },
+  {
+   "id": "clyu01:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "表情も変えず言うと、うきは再び淡々と紅茶を淹れ始めた。"
+  },
+  {
+   "id": "clyu01:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "このいつも騒がしい新聞部内にあって、唯一の癒しは彼女くらいだ。"
+  },
+  {
+   "id": "clyu01:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "もっとも、うきは高等部の生徒じゃないから、正確には部員じゃないんだけど、それに関していえば、完全に部員じゃないのもいるから問題ないだろう。"
+  },
+  {
+   "id": "clyu01:4300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ねー、うきは、今何か興味があることはないの？」"
+  },
+  {
+   "id": "clyu01:4400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「私、ですか？」"
+  },
+  {
+   "id": "clyu01:4500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ええ。こういう記事が読みたい、とか、こんな特集あると面白い、とか」"
+  },
+  {
+   "id": "clyu01:4600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「私は……特に……」"
+  },
+  {
+   "id": "clyu01:4700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「てかさー、うきって趣味とかあるの？」"
+  },
+  {
+   "id": "clyu01:4800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「趣味、ですか？ そうですね……お手伝いとか」"
+  },
+  {
+   "id": "clyu01:4900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "이토 신지",
+   "jp": "「そういうのは趣味って言わないっての」"
+  },
+  {
+   "id": "clyu01:5000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "야마조에 우키",
+   "jp": "「でもさ。実際、山添がいてくれると便利だよな」"
+  },
+  {
+   "id": "clyu01:5100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「え……」"
+  },
+  {
+   "id": "clyu01:5200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "여자들",
+   "jp": "「ほら。お茶だってこうして、全員の好みを把握して淹れてくれるし、部室の整頓も掃除もぜーんぶやってくれるし」"
+  },
+  {
+   "id": "clyu01:5300",
+   "type": "dialogue",
+   "speaker": "女子一同",
+   "speaker_ko": "여자들",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「…………」⟦n⟧⟦par⟧「…………」⟦n⟧⟦par⟧「…………」"
+  },
+  {
+   "id": "clyu01:5400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자들",
+   "next_speaker": "여자들",
+   "jp": "「俺ん家にもひとり、山添がいてくれたら便利でいいんだけどな」"
+  },
+  {
+   "id": "clyu01:5500",
+   "type": "dialogue",
+   "speaker": "女子一同",
+   "speaker_ko": "여자들",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」⟦n⟧⟦par⟧「…………」⟦n⟧⟦par⟧「…………」"
+  },
+  {
+   "id": "clyu01:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자들",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あーあ。"
+  },
+  {
+   "id": "clyu01:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자들",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "このバカ、気づいてないな。"
+  },
+  {
+   "id": "clyu01:5800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여자들",
+   "next_speaker": "이토 신지",
+   "jp": "「おい、伊藤……」"
+  },
+  {
+   "id": "clyu01:5900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうだ、山添。こんど家に来て、部屋片付けてくんね？」"
+  },
+  {
+   "id": "clyu01:6000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「伊藤」"
+  },
+  {
+   "id": "clyu01:6100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여자들",
+   "jp": "「あ？ なんだよ？」"
+  },
+  {
+   "id": "clyu01:6200",
+   "type": "dialogue",
+   "speaker": "女子一同",
+   "speaker_ko": "여자들",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「…………！」⟦n⟧⟦par⟧「…………！」⟦n⟧⟦par⟧「…………！」"
+  },
+  {
+   "id": "clyu01:6300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자들",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ、あれ？ 俺、なんか変なこと言った？」"
+  },
+  {
+   "id": "clyu01:6400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「言った？ じゃないよ、真ちゃん」"
+  },
+  {
+   "id": "clyu01:6500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ものには言い方ってものがあるでしょう」"
+  },
+  {
+   "id": "clyu01:6600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "「そうだそうだー。“便利”だなんて失礼でしょーが」"
+  },
+  {
+   "id": "clyu01:6700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「サイテー……かも……」"
+  },
+  {
+   "id": "clyu01:6800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ち、違うって、別に俺は悪意があっていったわけじゃ……」"
+  },
+  {
+   "id": "clyu01:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "まあ、悪意がないってのは本当だろう。"
+  },
+  {
+   "id": "clyu01:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "ただバカなだけで。"
+  },
+  {
+   "id": "clyu01:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "それに……。"
+  },
+  {
+   "id": "clyu01:7200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu01:7300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「てか、なんで照れてんのよ、うきー」"
+  },
+  {
+   "id": "clyu01:7400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「いえ……なんていうかその……そういうこと、あまり言われたことないので……」"
+  },
+  {
+   "id": "clyu01:7500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ほらみろ。山添だって悪い気はしてねーんだから、いいじゃんかー」"
+  },
+  {
+   "id": "clyu01:7600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「い と う く ん」"
+  },
+  {
+   "id": "clyu01:7700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ごめんなさい」"
+  },
+  {
+   "id": "clyu01:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "まあ、アホ伊藤の言い方は別として、僕からしてみれば別に強要しているわけじゃないんだし、いいんじゃないかと思うんだけど。"
+  },
+  {
+   "id": "clyu01:7900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "それに、うきだってイヤイヤやってるわけじゃないし、むしろ好んでやっている気もする。"
+  },
+  {
+   "id": "clyu01:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "現に――。"
+  },
+  {
+   "id": "clyu01:8100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いえ。気にしないでください。私が好きでやってることなので」"
+  },
+  {
+   "id": "clyu01:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "うきだって、こう言ってるわけだし。"
+  },
+  {
+   "id": "clyu01:8300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「まあ……うきがそれでいいならいいけど」"
+  },
+  {
+   "id": "clyu01:8400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「はい。私は、こうして皆さんの役に立てて、嬉しいです」"
+  },
+  {
+   "id": "clyu01:8500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "카즈키 하나",
+   "jp": "「うきー！ あんたってば、ほんと良い子ねぇ！」"
+  },
+  {
+   "id": "clyu01:8600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「ん……！」"
+  },
+  {
+   "id": "clyu01:8700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あれ？ ちょっと待て！ つーことは、俺、怒られ損ってことじゃね！？」"
+  },
+  {
+   "id": "clyu01:8800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そんなこと言って。ホントは悪くないって思ってるくせにー」"
+  },
+  {
+   "id": "clyu01:8900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いやぁ、まあ……」"
+  },
+  {
+   "id": "clyu01:9000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「真ちゃん、それヘンタイっぽいよ？」"
+  },
+  {
+   "id": "clyu01:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "ま、本人が好きにやるのが一番だよな。"
+  },
+  {
+   "id": "clyu01:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "でも、この話の流れだとたぶん、来栖のやつ……。"
+  },
+  {
+   "id": "clyu01:9300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そんじゃ、今日のところは帰るとすっかね」"
+  },
+  {
+   "id": "clyu01:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "結局、今後の部の活動は特に決まることなく、なんとなくお開きになってしまった。"
+  },
+  {
+   "id": "clyu01:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "学校行事としてもこれから何があるわけでもなし。"
+  },
+  {
+   "id": "clyu01:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "そうこう言ってるうちに期末が始まるだろうし、この時期の部活はこんなものといえばこんなものだ。"
+  },
+  {
+   "id": "clyu01:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "それはそれで、物足りなくはあるが。"
+  },
+  {
+   "id": "clyu01:9800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ね、タク。タクは真っ直ぐ帰るの？」"
+  },
+  {
+   "id": "clyu01:9900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いや、特に何も考えてないけど」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「それじゃ、これから甘いもの、一緒にどう？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「甘いものか……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "別にこの後やることがあるわけでもないし、断る理由はないんだけど……。"
+  }
+ ]
+}

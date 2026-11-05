@@ -1,0 +1,616 @@
+{
+ "packet_id": "CC0001-claa01-P01",
+ "kit_version": "1.0",
+ "source_file": "claa01.msb",
+ "speakers_in_packet": [
+  "아리무라 히나에",
+  "쿠노사토 미오",
+  "타치바나 유토",
+  "？？？"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "claa01:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "……あの日、あの時。"
+  },
+  {
+   "id": "claa01:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "僕は、このくそったれなゲームを……。"
+  },
+  {
+   "id": "claa01:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "……クリアした。"
+  },
+  {
+   "id": "claa01:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "――そして、２０１６年、春。"
+  },
+  {
+   "id": "claa01:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "渋谷全域を包み込んでいた大規模な“⟦col:280aa02d1400⟧妄想シンクロ⟦col:800000⟧”、および、“⟦col:280aa02e1400⟧カオスチャイルド症候群⟦col:800000⟧”という異常な事態はほぼ収束した。"
+  },
+  {
+   "id": "claa01:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "症候群の患者たちはといえば、みな正気を取り戻し、元の平穏な日常に戻りつつある。"
+  },
+  {
+   "id": "claa01:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "また、情報過多なこの時代――アレがいかに衝撃的な事件であったにせよ、わずか数か月で人々の記憶は化石となり、いつしか風化していこうとしていた。"
+  },
+  {
+   "id": "claa01:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そしてそれは、やがて誰の口の端にものぼらなくなり……人々は、新たな刺激を求めて情報の海をひたすら泳ぎ回る。まるで飢えた魚のように。"
+  },
+  {
+   "id": "claa01:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "だから、そう――私が今から語ろうとしている物語は、たぶん、忘れ去られていく無意味な物語のひとつでしかなく……私たちにとってさえ、ただの蛇足なのだろうと、そう思う。"
+  },
+  {
+   "id": "claa01:900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유토",
+   "jp": "「ん……んん……」"
+  },
+  {
+   "id": "claa01:1000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「先生〜？ 久野里せんせぇ？」"
+  },
+  {
+   "id": "claa01:1100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「んあ〜。ん〜？」"
+  },
+  {
+   "id": "claa01:1200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ウソー？ もしかして、まだ寝てるのー？ もう４時なんだけど？」"
+  },
+  {
+   "id": "claa01:1300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「失敬だな、オマエは。私のように勤勉な科学者が、こんな時間まで寝ているわけがなかろう？」"
+  },
+  {
+   "id": "claa01:1400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ものすごいあくびが聞こえたけど、今」"
+  },
+  {
+   "id": "claa01:1500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「気のせいだ。あと、『先生』というのはやめろと、あれほど言ったハズだが――」"
+  },
+  {
+   "id": "claa01:1600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「だって先生は先生だもん。今日は算数の勉強、見てくれる日でしょう？ 忘れちゃってるの？」"
+  },
+  {
+   "id": "claa01:1700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ええ？ 確か、昨日、見てやったばかりじゃないか」"
+  },
+  {
+   "id": "claa01:1800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「もう３日も前だよ。あーあ、やっぱり寝ぼけてる」"
+  },
+  {
+   "id": "claa01:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "久野里澪は、面倒くさそうに布団の上でモゾモゾと身を起こすと、壁のカレンダーを見上げた。"
+  },
+  {
+   "id": "claa01:2000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": null,
+   "jp": "「ふーむ……」"
+  },
+  {
+   "id": "claa01:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "確かに、前回、結人が来てからもう三日が経っていた。"
+  },
+  {
+   "id": "claa01:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪の体感時間では昨日か、せいぜいおとといだとばかり思っていたのだが。"
+  },
+  {
+   "id": "claa01:2300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": null,
+   "jp": "（やはり大人と子供では脳のカウントクロックが違うな。一度、研究してみる価値はありそうだが……）"
+  },
+  {
+   "id": "claa01:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そんなことを思いながら、澪は未練がましく布団から離れると、あたりをぐるりと見回した。"
+  },
+  {
+   "id": "claa01:2500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": null,
+   "jp": "（うむ、汚い）"
+  },
+  {
+   "id": "claa01:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "三日前、勉強を教える報酬のかわりに、結人が室内をキレイに掃除していってくれたはずだ。"
+  },
+  {
+   "id": "claa01:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧それが、たった三日でなぜこんなにも汚れているのか。"
+  },
+  {
+   "id": "claa01:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "シンクには食べ散らかしたまま洗っていない食器だのカップだのが散乱し、もしこれが夏の盛りだったら、間違いなく小バエの一匹や二匹は飛び回っていそうだ。"
+  },
+  {
+   "id": "claa01:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "部屋のあちこちには研究資料や書物のたぐいが雑然と積み上げられ、少しでも触れようものなら、間違いなく⟦rb⟧雪崩⟦rt⟧なだれ⟦/r⟧を起こすだろう。"
+  },
+  {
+   "id": "claa01:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧この状況を見られたら、間違いなく結人のお小言が始まるに違いない。"
+  },
+  {
+   "id": "claa01:3100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유토",
+   "jp": "（結人のやつめ……小学生のくせに、なぜあんなに小うるさいんだ？ あいつの姉どものせいか？）"
+  },
+  {
+   "id": "claa01:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "小学生に説教されながらあれこれいいわけしている自分の姿を想像し、澪はうんざりしながら、頭をかいた。"
+  },
+  {
+   "id": "claa01:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "⟦top:38⟧と、しびれをきらしたのか、結人がドアノブをガチャガチャ回しながら言う。"
+  },
+  {
+   "id": "claa01:3400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「早くしてよ、久野里先生。５分以内」"
+  },
+  {
+   "id": "claa01:3500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ふっ。オマエは子供で、しかも男だから分からないと思うがな、女にとって５分は短すぎる。せめて１５分待て」"
+  },
+  {
+   "id": "claa01:3600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「どうせ、三日前から部屋の掃除をしてないだけでしょう？ 僕がやるから」"
+  },
+  {
+   "id": "claa01:3700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「バ、バカを言うな。掃除など自分で出来る。完璧にな」"
+  },
+  {
+   "id": "claa01:3800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「それ、この前も同じこと言ってたよ？」"
+  },
+  {
+   "id": "claa01:3900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「うむぅ……」"
+  },
+  {
+   "id": "claa01:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "どこの誰が相手だろうと、決して言い負けたことのない澪であったが、どうも橘結人にだけは⟦rb⟧分⟦rt⟧ぶ⟦/r⟧が悪いらしい。澪は口を尖らせて黙り込んだ。"
+  },
+  {
+   "id": "claa01:4100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「僕、勉強を教えてもらっても、その……月謝とかお礼のお金とか、なんにも払えないから、その代わりというか……遠慮しなくていいから」"
+  },
+  {
+   "id": "claa01:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "橘結人、山添うき、そして南沢泉理（来栖乃々）の三人は、オーナーの代わった青葉寮になんとか今でも住むことが出来ていた。"
+  },
+  {
+   "id": "claa01:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "自治体やＮＧＯなどの助けを借りながらであるが、少なくとも高校卒業までは居られることになっている。"
+  },
+  {
+   "id": "claa01:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "さらに泉理は、少しずつでも貯金をし、さらに、自分が高校を卒業したら働いて、結人だけでも大学に行かせてやりたいと考えていた。"
+  },
+  {
+   "id": "claa01:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "そういう状況なので、当然、三人の生活はいつも節約が基本。塾に使うお金などもなく、結人は図書館などで独習するしかなかったのだが……。"
+  },
+  {
+   "id": "claa01:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "それを見かねたのが、久野里澪だった。"
+  },
+  {
+   "id": "claa01:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "彼女は、なんだかんだと理屈をこねつつ、いつしか算数と理科の家庭教師をしてくれるようになった。"
+  },
+  {
+   "id": "claa01:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "⟦top:38⟧ちなみに、それと前後して国語と社会の勉強を泉理が教え始めたのだが……有村雛絵や香月華は、結人がやたらと澪になついていることへの対抗心に違いないと密かに邪推して、ニヤニヤしていた。"
+  },
+  {
+   "id": "claa01:4900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「とにかくお部屋の片づけとか、僕にやらせて、ね、先生？」"
+  },
+  {
+   "id": "claa01:5000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ったく……つまらないことに気を回すヤツだな。子供のくせに」"
+  },
+  {
+   "id": "claa01:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "そう言いながらも、澪は結局、適当な着替えと、あと、目立つゴミだけをまとめて袋に放り込むと、５分で結人を部屋に招き入れた。"
+  },
+  {
+   "id": "claa01:5200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「こんにちは、失礼しまーす。……って、うわ〜！？」"
+  },
+  {
+   "id": "claa01:5300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「だから１５分待てと言ったんだ」"
+  },
+  {
+   "id": "claa01:5400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「これを１５分でなんとか出来ると思ったの！？ っていうか、どうやったら、三日でこんなふうに汚れちゃうんだろう？」"
+  },
+  {
+   "id": "claa01:5500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「オマエも、いずれ科学者になれば分かる」"
+  },
+  {
+   "id": "claa01:5600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "？？？",
+   "jp": "「僕は弁護士になるんだってばっ」"
+  },
+  {
+   "id": "claa01:5700",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「っていうか、今のセリフ、全世界の科学者に謝った方がいいんじゃないすかねー」"
+  },
+  {
+   "id": "claa01:5800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa01:5900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「って、うひゃ〜、確かにこれはひどいな〜。ふすまを開けると、洗濯してない“お宝パンツ”とか“ブラ”とか崩れ落ちてきそう」"
+  },
+  {
+   "id": "claa01:6000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あ、でも、案外そういうのも⟦col:280aa02d1400⟧ニーズ⟦col:800000⟧あるって言うし……神成さんとかムッツリっぽいから、喜ぶかも知れない」"
+  },
+  {
+   "id": "claa01:6100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「………。なぁ、知ってるか？ ロープで縛った人間を浴槽に放り込んで濃硫酸をぶっかける映画があるんだ。骨まで溶けて、完全犯罪が可能らしいのだが……ちょっと試してみるか」"
+  },
+  {
+   "id": "claa01:6200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「うわーっ！？ この人マジだーっ！ なんかマジで言ってるーっ！」"
+  },
+  {
+   "id": "claa01:6300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「お前がすでに能力を持っていないとしても……この目を見れば分かるはずだな？ 私が本気なのかどうか？」"
+  },
+  {
+   "id": "claa01:6400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「すすす、すいませんっ。こんなバカなわたくしめが、くだらないジョークをとばしてしまいましてーっ」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "有村雛絵は思わず、澪の足元に⟦col:280aa02d1400⟧エクストリーム土下座⟦col:800000⟧をした。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "⟦top:38⟧そんな二人を、結人が困ったようにキョロキョロと見ている。"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「というか、そもそも、お前など呼んでいないぞ。なにを勝手に上がりこんでるんだ」"
+  }
+ ]
+}

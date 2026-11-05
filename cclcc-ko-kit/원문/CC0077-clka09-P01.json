@@ -1,0 +1,930 @@
+{
+ "packet_id": "CC0077-clka09-P01",
+ "kit_version": "1.0",
+ "source_file": "clka09.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "카즈키 하나",
+  "？？？"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clka09:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――午後４時５分。"
+  },
+  {
+   "id": "clka09:100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka09:200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clka09:300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「………………」"
+  },
+  {
+   "id": "clka09:400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「遅い！ 約束から５分過ぎてるぞ！」"
+  },
+  {
+   "id": "clka09:500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「いつになったら来るんだ！」"
+  },
+  {
+   "id": "clka09:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "⟦col:280aa02d1400⟧ハチ公⟦col:800000⟧像の傍で、僕は香月が来るのを待っていた。"
+  },
+  {
+   "id": "clka09:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "新聞部のメンバーに見送られて下校した僕と香月は、しかし、そのままデートを始めたわけではなかった。"
+  },
+  {
+   "id": "clka09:800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「家に帰って服を着替えてから、４時にハチ公前で待ち合わせしましょう」"
+  },
+  {
+   "id": "clka09:900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「制服デートもいいですけど、ちょっと目立っちゃうかもだから」"
+  },
+  {
+   "id": "clka09:1000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃあまた後で。ちゃんと着替えてきてくださいよ！」"
+  },
+  {
+   "id": "clka09:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "面倒だと文句を言うより先に香月が走り去ってしまったので、仕方なく僕は一度キャンピングカーに戻り、私服に着替えて来た。"
+  },
+  {
+   "id": "clka09:1200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "（こっちは約束の時間の１０分前には到着してるんだぞ……）"
+  },
+  {
+   "id": "clka09:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "（しかも、どうしてハチ公前なんだよ……）"
+  },
+  {
+   "id": "clka09:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "恐らく渋谷の待ち合わせ場所としてもっとも有名であろうハチ公像の周囲は、いつもの如くみっちりと人が集まっていた。"
+  },
+  {
+   "id": "clka09:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんなに人がいると移動するのさえ一苦労で、更に待ち合わせ相手を探さなければならず、効率が悪いことこの上ない。"
+  },
+  {
+   "id": "clka09:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "情報強者であるこの僕に限らず、渋谷で暮らしている人間だったら、こんな面倒な場所を待ち合わせに使ったりはしない。"
+  },
+  {
+   "id": "clka09:1700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "（……）"
+  },
+  {
+   "id": "clka09:1800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "（……それに）"
+  },
+  {
+   "id": "clka09:1900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（……どう考えても、場違いだ）"
+  },
+  {
+   "id": "clka09:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ハチ公周辺で待ち合わせをしている人たちに大体共通している事がある。"
+  },
+  {
+   "id": "clka09:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それは、『みんな幸せそう』ということだ。"
+  },
+  {
+   "id": "clka09:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "きっと、これから彼氏彼女と合流して、食事だかショッピングだかカラオケだかクラブだかに行くのだろう。"
+  },
+  {
+   "id": "clka09:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それらへの期待が顔から滲み出ているのだ。"
+  },
+  {
+   "id": "clka09:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いわゆる『⟦col:280aa02d1400⟧リア充オーラ⟦col:800000⟧』だ。"
+  },
+  {
+   "id": "clka09:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "見ているだけで消え入りたくなる。"
+  },
+  {
+   "id": "clka09:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "このまま土に還ってしまえないかと本気で考え始めたその時、"
+  },
+  {
+   "id": "clka09:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "突然、視界が真っ暗になった。"
+  },
+  {
+   "id": "clka09:2800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「なななな、なんだっ！？」"
+  },
+  {
+   "id": "clka09:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "どうやら、誰かが後ろから僕の目を塞いでいるようだ。"
+  },
+  {
+   "id": "clka09:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "ぷにっとした二の腕が両耳に触れ、汗の混じった女の子特有の匂いが鼻をくすぐる。"
+  },
+  {
+   "id": "clka09:3100",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んふ」"
+  },
+  {
+   "id": "clka09:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "すぐ近くで誰かが笑った。"
+  },
+  {
+   "id": "clka09:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "そして、耳元に暖かい息がかかる。"
+  },
+  {
+   "id": "clka09:3400",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だーれだ？」"
+  },
+  {
+   "id": "clka09:3500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ひぃぃっ！」⟦avs⟧⟦n⟧⟦n⟧"
+  },
+  {
+   "id": "clka09:3600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちょ、ちょっと大丈夫！？ 驚きすぎー！」"
+  },
+  {
+   "id": "clka09:3700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「か、香月！？」"
+  },
+  {
+   "id": "clka09:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "突然僕の視界を奪った犯人、『華』が僕を見下ろしていた。"
+  },
+  {
+   "id": "clka09:3900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「い、いきなりビックリするじゃないか！」"
+  },
+  {
+   "id": "clka09:4000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ごめんなさーい、そんなに驚くと思わなくって！」"
+  },
+  {
+   "id": "clka09:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "おでこにこつんと拳を当てて謝っている。反省している素振りを示すつもりもないようだ。"
+  },
+  {
+   "id": "clka09:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "普段の香月とあまりに違うので、もはやどう驚いて良いのかもよくわからない。"
+  },
+  {
+   "id": "clka09:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ズボンを払って周りを見ると、何人かがこっちを見て笑っている。"
+  },
+  {
+   "id": "clka09:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "急に恥ずかしくなった僕は、ぶっきらぼうに言って人混みの中を強引に歩き始めた。"
+  },
+  {
+   "id": "clka09:4500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「行くぞ！」"
+  },
+  {
+   "id": "clka09:4600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え、ちょっと待ってよ！」"
+  },
+  {
+   "id": "clka09:4700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「おかげで変な注目を集めちゃったじゃないか！」"
+  },
+  {
+   "id": "clka09:4800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「なんで僕が下等なリア充共に嘲笑されなきゃならないんだ！」"
+  },
+  {
+   "id": "clka09:4900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「だいたいなんでハチ公前なんだよ！」"
+  },
+  {
+   "id": "clka09:5000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「もっと人通りが少ない待ち合わせ場所、いくらでもあるだろ！？」"
+  },
+  {
+   "id": "clka09:5100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えええ、でもやっぱ待ち合わせはあそこじゃなきゃダメだよ」"
+  },
+  {
+   "id": "clka09:5200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「どうして！？」"
+  },
+  {
+   "id": "clka09:5300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だってさ」"
+  },
+  {
+   "id": "clka09:5400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「だって、なんだよ」"
+  },
+  {
+   "id": "clka09:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "すると、『華』はすっと僕の横に並び、僕の左腕に両手を絡めた。"
+  },
+  {
+   "id": "clka09:5600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だって、デートだもん」"
+  },
+  {
+   "id": "clka09:5700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「記念すべき、宮代先輩と、華の、初デート」"
+  },
+  {
+   "id": "clka09:5800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「なっ！？」"
+  },
+  {
+   "id": "clka09:5900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んふ」"
+  },
+  {
+   "id": "clka09:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『華』は微笑んで、絡めている僕の腕を自分の方にぎゅっと引き寄せた。"
+  },
+  {
+   "id": "clka09:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "横から見ると更に強調されて見える香月の大きな胸が、ごく自然にむちっと腕に押しつけられる。"
+  },
+  {
+   "id": "clka09:6200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ぬあっ！？」"
+  },
+  {
+   "id": "clka09:6300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「どう？ こんなに可愛くてえっちな身体してる後輩と渋谷デートできるんだよ？」"
+  },
+  {
+   "id": "clka09:6400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代先輩は、今、渋谷にいる誰よりも、リア充だと思うな」"
+  },
+  {
+   "id": "clka09:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』はそう言ってにっこり笑った。女の子の笑顔をここまでの至近距離で見たのは、もしかしたら生まれて初めてかもしれない。"
+  },
+  {
+   "id": "clka09:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "その笑顔の持つ引力に視線が吸い込まれていると、『華』はにまっと瞳を細めた。"
+  },
+  {
+   "id": "clka09:6700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、今、可愛いって思ったでしょ？」"
+  },
+  {
+   "id": "clka09:6800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どう？ キスしていいんだよ？ そしたら先輩を解放してあげる」"
+  },
+  {
+   "id": "clka09:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "『華』はすっと目を閉じて、くいっとアゴを上げた。"
+  },
+  {
+   "id": "clka09:7000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ね……、キスして……」"
+  },
+  {
+   "id": "clka09:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ぷるんとした唇が、無防備にそこにあった。"
+  },
+  {
+   "id": "clka09:7200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka09:7300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka09:7400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「い、いや、しない！ 夜までお前につき合って、それで終わりだ！」"
+  },
+  {
+   "id": "clka09:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "ブラックホールのように引力を発し続けるその唇から無理矢理顔を引きはがし、僕はまっすぐ前を見た。"
+  },
+  {
+   "id": "clka09:7600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あら残念。有村先輩の予想は外れましたね」"
+  },
+  {
+   "id": "clka09:7700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「当たり前だ！」"
+  },
+  {
+   "id": "clka09:7800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「さあ、どこへ行くんだ？ 言っておくが、僕は渋谷のデートスポットなんか知らないからな！」"
+  },
+  {
+   "id": "clka09:7900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「威張って言うことですかそれ？ まあ、知ってますけど」"
+  },
+  {
+   "id": "clka09:8000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「大丈夫ですよ。行き先は決まってます。こっちこっち！」"
+  },
+  {
+   "id": "clka09:8100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka09:8200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「とうちゃーく！ さ、宮代先輩、入りましょう！」"
+  },
+  {
+   "id": "clka09:8300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka09:8400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先輩？ どうかしましたか？」"
+  },
+  {
+   "id": "clka09:8500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……香月」"
+  },
+  {
+   "id": "clka09:8600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もー、他人行儀だなー。デートなんですから、華って呼んでくださいよー」"
+  },
+  {
+   "id": "clka09:8700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「もしかして、なんだが」"
+  },
+  {
+   "id": "clka09:8800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「目的地は、ここなのか？」"
+  },
+  {
+   "id": "clka09:8900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうです！ ⟦col:280aa02d1400⟧１０７⟦col:800000⟧！ 渋谷のオシャレ聖地！」"
+  },
+  {
+   "id": "clka09:9000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「すまん、帰る」"
+  },
+  {
+   "id": "clka09:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "僕は瞬時に１８０度回転し、来た道を戻ろうとした。『華』が慌てて僕の腕を引っ張る。"
+  },
+  {
+   "id": "clka09:9200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうしたんですか突然！？」"
+  },
+  {
+   "id": "clka09:9300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「今お前が言っただろ！ あそこは渋谷のオシャレ聖地だ！ リア充どもの巣窟だ！」"
+  },
+  {
+   "id": "clka09:9400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ハチ公前ですら自分の存在にいたたまれなくなるのに、あんな所に僕が入れるわけないだろ！」"
+  },
+  {
+   "id": "clka09:9500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「充満しているリア充オーラで窒息死してしまうに決まっている！」"
+  },
+  {
+   "id": "clka09:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「あるいは、リア充どもが僕に向けてくる『なんであのオタクここにいるの？』って視線で溶かされてしまうに違いない！」"
+  },
+  {
+   "id": "clka09:9700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……自分で言ってて情けなくなりませんか？」"
+  },
+  {
+   "id": "clka09:9800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「あそこに行って受けるであろう辱めに比べればマシだ！」"
+  },
+  {
+   "id": "clka09:9900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「大丈夫ですって。さっきも言ったじゃないですか」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「今日の宮代先輩は⟦col:280aa02d1400⟧非モテ⟦col:800000⟧の男子高校生じゃないんです。こんな可愛い女の子とデート中なんですよ」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「誰も先輩にそんな視線向けたりしませんから。逆にラブラブオーラであっちを窒息させちゃいましょう！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "『華』はそう言って僕の腕を引っ張り、１０７へとずんずんと歩き始めた。"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "packet_id": "CC0292-clyu09-P02",
+ "kit_version": "1.0",
+ "source_file": "clyu09.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「あー……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "突然、なんの前触れもなく、ニヤ生の映像が真っ黒になった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "結衣が放送を止めた……というわけじゃなさそうだ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ということは……。"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「あー、こりゃ⟦col:280aa02d1400⟧ＢＡＮ⟦col:800000⟧されたみてーだな」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＢＡＮとは、不適切な放送と見なされて、放送を強制停止させられることを言う。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu09:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "要するに、ふたりの生放送は運営に“不適切である”と判断された、ということだ。"
+  },
+  {
+   "id": "clyu09:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "確か、ペナルティーとしてチャンネルは一週間の停止処分だかを受けることになる。"
+  },
+  {
+   "id": "clyu09:9300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、それで済んで良かったんじゃないすか」"
+  },
+  {
+   "id": "clyu09:9400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유토",
+   "jp": "「まあな……」"
+  },
+  {
+   "id": "clyu09:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "いくら義理とはいえ、妹……と弟のあられもない姿を、多くの不特定多数の男に見られる、なんてことがあっては、さすがにお天道様の下を歩けなくなってしまう。"
+  },
+  {
+   "id": "clyu09:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "これが最善の結果だったと思うしかない。"
+  },
+  {
+   "id": "clyu09:9700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "「うぅ……」"
+  },
+  {
+   "id": "clyu09:9800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ごめんなさい……」"
+  },
+  {
+   "id": "clyu09:9900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「すみませんでした、拓留さん」"
+  },
+  {
+   "id": "clyu09:10000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「今後気を付けること。わかったな？」"
+  },
+  {
+   "id": "clyu09:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "珍しく結衣もしゅんとしていたし、うきも巻き込まれただけだ。"
+  },
+  {
+   "id": "clyu09:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "あまり厳しく言うのも酷だと思い、僕はあえて強くは言わなかった。"
+  },
+  {
+   "id": "clyu09:10300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、拓留兄……私たちどうなるのかな？」"
+  },
+  {
+   "id": "clyu09:10400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「さあな。とりあえず一週間は活動を自粛することになる。その結果、これまで見てくれていた人が離れてしまうかもしれないけど、そこは仕方ないと思うしかない」"
+  },
+  {
+   "id": "clyu09:10500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「そっか……」"
+  },
+  {
+   "id": "clyu09:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "正直を言えば、せっかく盛り上がって来たコンテンツ、ここで終わらせてしまうのは惜しい。"
+  },
+  {
+   "id": "clyu09:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "けれどネットのムーブメントなんてのは、一過性のもの。"
+  },
+  {
+   "id": "clyu09:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "ほんの少し活動しないだけで、人々の興味はあっという間に他へ移ってしまう。"
+  },
+  {
+   "id": "clyu09:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "これで終わるとすれば、それまでのものだ。"
+  },
+  {
+   "id": "clyu09:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "――と、その日の僕はそう考えていた。"
+  },
+  {
+   "id": "clyu09:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "けれど、現実は僕の想像とはずっと違っていた。"
+  }
+ ],
+ "context_after": []
+}

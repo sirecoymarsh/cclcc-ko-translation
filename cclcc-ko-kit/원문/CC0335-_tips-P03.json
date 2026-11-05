@@ -1,0 +1,741 @@
+{
+ "packet_id": "CC0335-_tips-P03",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "たぶおく"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "たぶおく"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "（架空）『タブーオークション』の略。インターネットの大手検索サイト『Ｔａｂｏｏ！』による、ネットオークションサービス。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "誰得"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "だれとく"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "だれとく"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:23300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『誰が得するんだよ』の略。"
+  },
+  {
+   "id": "_tips:23500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "丹田"
+  },
+  {
+   "id": "_tips:23600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たんでん"
+  },
+  {
+   "id": "_tips:23700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たんでん"
+  },
+  {
+   "id": "_tips:23800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "東洋医学で、下腹のヘソのあたりを指す言葉。"
+  },
+  {
+   "id": "_tips:24000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "チート"
+  },
+  {
+   "id": "_tips:24100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ちーと"
+  },
+  {
+   "id": "_tips:24200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ちぃと"
+  },
+  {
+   "id": "_tips:24300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "コンピュータゲーム用語。直訳すると「ズルする」という意味。改造ツールなどを用いてゲームデータを勝手に改変すること。近年では制作者側が意図的にチートモードを搭載させたゲームも存在している。「隠しコマンド」と呼ばれるようなものもチートモードの一種である。"
+  },
+  {
+   "id": "_tips:24500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "厨"
+  },
+  {
+   "id": "_tips:24600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ちゅう"
+  },
+  {
+   "id": "_tips:24700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ちゅう"
+  },
+  {
+   "id": "_tips:24800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "中学生の『中』をもじったネットスラング。幼稚な発言や行動をする人を侮蔑する言葉。転じて、とある特定の事柄や人物、行為等に対して熱中するあまり、それ以外のものを貶めたり否定したりする子供のような言動をする人たちのことも指す。"
+  },
+  {
+   "id": "_tips:25000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "中二病"
+  },
+  {
+   "id": "_tips:25100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ちゅうにびょう"
+  },
+  {
+   "id": "_tips:25200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ちゅうにびょう"
+  },
+  {
+   "id": "_tips:25300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "厨二病とも。日本の思春期の少年によく見られる、少し特殊な言動、行動を指す言葉。あるいは、思春期を過ぎたにも関わらず思春期のような痛々しい言動をする人間に対して使われるからかいの言葉。厭世的、反社会的、空想的な行動、子供として見られたくなくて背伸びした行動を取ることなどを指す。本人はそれがいかにもかっこいいことと考えて行動しているが、大人から見るととても滑稽な姿に映る。なお中二病をさらにカテゴライズしたものとして、アニメ的な設定のようなものが自分にあると思い込む『邪気眼』がある。"
+  },
+  {
+   "id": "_tips:25500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "超展開"
+  },
+  {
+   "id": "_tips:25600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ちょうてんかい"
+  },
+  {
+   "id": "_tips:25700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ちょうてんかい"
+  },
+  {
+   "id": "_tips:25800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ゲームや小説、アニメなどの物語において、それまでのプロットや伏線などを一切無視して、全く予想外の方向へと物語が急展開すること。演劇用語の『デウス・エクス・マキナ（機械仕掛けの神）』と似た意味。あまりに予想だにしなかった展開を前にして、読者や視聴者は置いてきぼりにされ、ポカーンとなってしまう。"
+  },
+  {
+   "id": "_tips:26000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ツンデレ"
+  },
+  {
+   "id": "_tips:26100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "つんでれ"
+  },
+  {
+   "id": "_tips:26200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "つんでれ"
+  },
+  {
+   "id": "_tips:26300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "普段はツンツンと生意気、ふたりっきりになるとデレデレといちゃつくヒロインのこと。だが近年、その定義は曖昧になりつつある。"
+  },
+  {
+   "id": "_tips:26500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ディスる"
+  },
+  {
+   "id": "_tips:26600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でぃする"
+  },
+  {
+   "id": "_tips:26700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でぃする"
+  },
+  {
+   "id": "_tips:26800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "相手を軽蔑したりバカにしたりすること。ｄｉｓｒｅｓｐｅｃｔ（軽蔑する）から来ているヒップホップ用語。動詞として用いる。「ディスらない」「ディスります」「ディスる」「ディスれば」「ディスろう」"
+  },
+  {
+   "id": "_tips:27000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ディソード"
+  },
+  {
+   "id": "_tips:27100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でぃそーど"
+  },
+  {
+   "id": "_tips:27200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でぃそぉど"
+  },
+  {
+   "id": "_tips:27300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）Ｄｅｌｕｓｉｏｎ　Ｉｄｅａｌ　ｓｗｏｒｄ。ギガロマニアックスだけが持つ、妄想の剣。ディラックの海に繋がっているこの剣は、ギガロマニアックスが妄想を具現化する際に、端末の役割を担う。負の物質で構成されており、無限に崩壊し続けている。妄想状態（剣のガラスラインが青）の場合はギガロマニアックスにしか認識できず、実体もない。リアルブート時（剣のガラスラインが赤）になると剣は現実となり、誰にでも見える“物体としての剣”となる。神話や古い文献にも散見され、その記述によれば“目に見えない剣”とされる。"
+  },
+  {
+   "id": "_tips:27500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ディラックの海"
+  },
+  {
+   "id": "_tips:27600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でぃらっくのうみ"
+  },
+  {
+   "id": "_tips:27700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でぃらっくのうみ"
+  },
+  {
+   "id": "_tips:27800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "世界に一様に分布しているとされる、観測不能の『あらゆる素粒子のスープ』。物理学者ポール・ディラックが定義した、量子力学における概念。量子論と相対論を結びつけた波動方程式（ディラック方程式）の空孔理論に登場する。ディラックは、真空状態について『負エネルギーの素粒子がびっしりと隙間なく埋まっていて、これ以上新たな負エネルギーの素粒子が生まれることのできない状態』だと定義した。これがディラックの海である。"
+  },
+  {
+   "id": "_tips:28000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ナイトハルト"
+  },
+  {
+   "id": "_tips:28100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ないとはると"
+  },
+  {
+   "id": "_tips:28200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ないとはると"
+  },
+  {
+   "id": "_tips:28300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "拓巳がネット上で好んで使うハンドルネームで、正確には『疾風迅雷のナイトハルト』。"
+  },
+  {
+   "id": "_tips:28500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "虹画像"
+  },
+  {
+   "id": "_tips:28600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にじがぞう"
+  },
+  {
+   "id": "_tips:28700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にじがぞう"
+  },
+  {
+   "id": "_tips:28800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『虹』は『二次元』を省略、もじったもの。アニメなどのキャラクター絵が描かれた画像のことを指すネットスラング。"
+  },
+  {
+   "id": "_tips:29000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ニュージェネ事件"
+  },
+  {
+   "id": "_tips:29100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にゅーじぇねじけん"
+  },
+  {
+   "id": "_tips:29200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にゅぅじぇねじけん"
+  },
+  {
+   "id": "_tips:29300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）渋谷で発生した連続猟奇殺人事件の俗称。全部で７つの事件、計１４人が殺された。その殺害方法があまりにも常軌を逸していたことや、この事件をむしろ歓迎し楽しむかのような渋谷の若者たちの反応から、マスコミは『ニュージェネレーションの狂気』というキーワードを当てはめ、よりセンセーショナルに報じた。"
+  },
+  {
+   "id": "_tips:29500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ノアⅡ"
+  },
+  {
+   "id": "_tips:29600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "のあつー"
+  },
+  {
+   "id": "_tips:29700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "のあつぅ"
+  },
+  {
+   "id": "_tips:29800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）希テクノロジーと３００人委員会主導によるプロジェクト・ノアにて開発された『沈黙の兵器』。遠距離から一定範囲内の不特定多数に対して、洗脳、思考盗撮、思考誘導等を可能にする電磁波を放射する装置。渋谷駅前の廃棄されたプラネタリウムに秘密裏に設置されていたが、西條拓巳の手により破壊された。"
+  },
+  {
+   "id": "_tips:30000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "希テクノロジー"
+  },
+  {
+   "id": "_tips:30100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "のぞみてくのろじー"
+  },
+  {
+   "id": "_tips:30200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "のぞみてくのろじぃ"
+  },
+  {
+   "id": "_tips:30300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）主に医療機器に関するソフトウェアを開発している企業。希グループ傘下。元々は希テクノロジー社を出発点としてＭ＆Ａを繰り返し、日本でも有数の複合企業体へと成長した。渋谷地震は、この希テクノロジーの極秘実験が原因である。"
+  },
+  {
+   "id": "_tips:30500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "野呂瀬"
+  },
+  {
+   "id": "_tips:30600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "のろせ"
+  },
+  {
+   "id": "_tips:30700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "のろせ"
+  },
+  {
+   "id": "_tips:30800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "野呂瀬玄一（のろせ げんいち）。希テクノロジー社長にしてギガロマニアックス。３００人委員会と結託してプロジェクト・ノアを推進し、世界中の人間から負の妄想を消し去ることで争いを無くそうとした。ある意味で狂気に満ちたその理想は、実現間近に拓巳によって倒されることで潰えた。渋谷崩壊は彼による実験の影響である。"
+  },
+  {
+   "id": "_tips:31000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "禿同"
+  },
+  {
+   "id": "_tips:31100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はげどう"
+  },
+  {
+   "id": "_tips:31200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はげどう"
+  },
+  {
+   "id": "_tips:31300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『激しく同意』を略して、もじったもの。"
+  },
+  {
+   "id": "_tips:31500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ハダエプ"
+  },
+  {
+   "id": "_tips:31600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はだえぷ"
+  },
+  {
+   "id": "_tips:31700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はだえぴ"
+  },
+  {
+   "id": "_tips:31800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『裸エプロン』の略。"
+  },
+  {
+   "id": "_tips:32000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "波多野"
+  },
+  {
+   "id": "_tips:32100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はたの"
+  },
+  {
+   "id": "_tips:32200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はたの"
+  },
+  {
+   "id": "_tips:32300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "波多野一成（はたの いっせい）。セナの実の父親。元々は希テクノロジーに所属していた科学者であり、プロジェクト・ノアに従事。Ｉｒ２という禁断の公式を偶然発見した人物でもある。実験中に誤って妻子を死亡させてしまったことをきっかけに失踪。サードメルト後の混乱時、セナをかばって天成神光会の狂信者により殺害された。"
+  },
+  {
+   "id": "_tips:32500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "バックベアード"
+  },
+  {
+   "id": "_tips:32600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ばっくべあーど"
+  },
+  {
+   "id": "_tips:32700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ばっくべあぁど"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "黒い円形の身体で、中心に大きな一つ目を持つアメリカの妖怪。身体からは、触手のようなユラユラとした突起が放射状に生えている。ネット上では、このバックベアードに『このロリコンどもめ！』というセリフを言わせた画像やアスキーアートがよく貼られる。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "パネェ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ぱねぇ"
+  }
+ ]
+}

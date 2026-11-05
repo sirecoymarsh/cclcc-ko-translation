@@ -1,0 +1,97 @@
+{
+ "packet_id": "CC0006-claa02-P02",
+ "kit_version": "1.0",
+ "source_file": "claa02.msb",
+ "speakers_in_packet": [
+  "와쿠이 슈이치"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "⟦top:38⟧だが、そこにはすでに神成の姿はなかった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その代わり、壁にもたれかかって、ニヤニヤとイヤな笑みを浮かべていたのは――"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「……和久井……貴様……ッ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "和久井修一だった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "⟦top:76⟧澪は悟った。自分は罠にはまったのだ。"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「だからね、この世界にはもう一度、渋谷地震の後からやり直してもらおうと思うんだ。僕にとって、都合のいい結果になるようにね」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "claa02:6900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「そうすれば僕は、キミたちのせいで委員会に責められることもなく、平穏無事な人生を送れる。委員会の作る、新しい世界の中で――」"
+  },
+  {
+   "id": "claa02:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "和久井の口から澪に届いた声は、そこまでだった。"
+  },
+  {
+   "id": "claa02:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "ベッドに拘束されていた彼女の目が、いきなり見開かれた。"
+  },
+  {
+   "id": "claa02:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "そして……ギロリと澪の顔を見たのだ。"
+  },
+  {
+   "id": "claa02:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "その瞬間、澪のまわりの風景は消滅した。"
+  },
+  {
+   "id": "claa02:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": null,
+   "jp": "さらに空間だけでなく、未来へと正確に刻まれていた時間も、自分が自分であるという認識すら、全てが消え去っていった……。"
+  }
+ ],
+ "context_after": []
+}

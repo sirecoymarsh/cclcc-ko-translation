@@ -1,0 +1,19 @@
+{
+ "packet_id": "CC0332-main90_cclcc-P01",
+ "kit_version": "1.0",
+ "source_file": "main90_cclcc.msb",
+ "speakers_in_packet": [],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "main90_cclcc:0",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "分岐先指定ミス"
+  }
+ ],
+ "context_after": []
+}

@@ -1,0 +1,650 @@
+{
+ "packet_id": "CC0319-clzz06-P01",
+ "kit_version": "1.0",
+ "source_file": "clzz06.msb",
+ "speakers_in_packet": [
+  "오노에 세리카",
+  "？？？"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clzz06:0",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「あっ、ちょっ。タクったらこんな所でダメだよぉ……」"
+  },
+  {
+   "id": "clzz06:100",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「のんちゃんたち、来ちゃう……だから、ダメ……あっ……」"
+  },
+  {
+   "id": "clzz06:200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「タ、タク？ きょ、今日はどうしたの？ そんなに無理矢理……ダメだってば……あ、あ、あ」"
+  },
+  {
+   "id": "clzz06:300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「はあああーーっ」"
+  },
+  {
+   "id": "clzz06:400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「はぁはぁはぁ……はぁ……」"
+  },
+  {
+   "id": "clzz06:500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「……？ ……？」"
+  },
+  {
+   "id": "clzz06:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "世莉架は、まだ寝ぼけまなこのまま、あたりをぐるりと見渡した。"
+  },
+  {
+   "id": "clzz06:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧そこは間違いなく自分の部屋――自分のベッドの上で、もちろん宮代拓留の姿などもなかった。"
+  },
+  {
+   "id": "clzz06:800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「って、また夢ぇ！？ なに今の！？」"
+  },
+  {
+   "id": "clzz06:900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「毎日毎日、なんでこんな夢ばっかり！？」"
+  },
+  {
+   "id": "clzz06:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "世莉架が突然、原因不明の昏倒をして、救急病院に搬送された後、ようやく意識を取り戻したのは一週間ほど前だった。"
+  },
+  {
+   "id": "clzz06:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧それから精密検査などを経て、異常なしと診断され、帰宅したのが三日ほど前のことだ。"
+  },
+  {
+   "id": "clzz06:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧だが、昏倒して以来、彼女は口にするのもはばかられるような夢を見るようになって、非常に困っていた。"
+  },
+  {
+   "id": "clzz06:1300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふぅ……」"
+  },
+  {
+   "id": "clzz06:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "なんとも気まずいような、それでいてくすぐったいような夢を振り払うように、頭を２〜３回振る。"
+  },
+  {
+   "id": "clzz06:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "そして、ベッドからわざと元気に起き上がる。"
+  },
+  {
+   "id": "clzz06:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧部屋の中はそれほど暑くないのに、身体だけがひどく⟦rb⟧火照⟦rt⟧ほて⟦/r⟧っていて、全身汗まみれだった。"
+  },
+  {
+   "id": "clzz06:1700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「シャワー、浴びなきゃ……」"
+  },
+  {
+   "id": "clzz06:1800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「って、これじゃなんだか、私が欲求不満みたいじゃない」"
+  },
+  {
+   "id": "clzz06:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "退院前の診察で医師や久野里澪の問診を受けたが、ついにこの夢のことだけは言い出すことができなかった。"
+  },
+  {
+   "id": "clzz06:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧ネットの夢診断などを見ると、『あなたは好きな人の愛情に飢えているようです。もっとデートの回数を増やして、時にはハグをねだったりしてみましょう』とか、そんなことばかり書いてある。"
+  },
+  {
+   "id": "clzz06:2100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……デート、ねぇ」"
+  },
+  {
+   "id": "clzz06:2200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、彼氏なんて言われてもなぁ」"
+  },
+  {
+   "id": "clzz06:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "そもそも、世莉架が転校した横浜の学校は女子高……しかも、男女交際に関して、非常に厳しい。"
+  },
+  {
+   "id": "clzz06:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧そのせいもあって、決定的に男子との出会いがないのだ。"
+  },
+  {
+   "id": "clzz06:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "もちろん、学校帰りなどに声をかけられることは結構ある。"
+  },
+  {
+   "id": "clzz06:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "特に世莉架のような可愛い子が転校してきたという情報は、近隣の男子校にあっという間に広まり、別の学校の男子から告白らしきものをされたことすらある。"
+  },
+  {
+   "id": "clzz06:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧でも、彼女に対してそれが成功した男子は、今のところ、誰一人としていなかった。"
+  },
+  {
+   "id": "clzz06:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "彼女の性格がとにかく天然ボケで、男子が告白的なことを口にしても、それがさっぱり通じない。のれんに腕押し状態なのだ。"
+  },
+  {
+   "id": "clzz06:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:76⟧かくして、世莉架には浮ついた話ひとつなかったけれど、恋愛などに特に興味のない彼女にとっては、特に問題のない環境だった。"
+  },
+  {
+   "id": "clzz06:3000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さて、と……今日はどうしようかな？」"
+  },
+  {
+   "id": "clzz06:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "シャワーを浴びた後、朝食を済ませた世莉架は、部屋のカレンダーを眺めた。"
+  },
+  {
+   "id": "clzz06:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "今日はせっかくの日曜日、しかも、カーテン越しに室内を照らしている陽射しはとてもまぶしくて暖かそうで、こんな日に外出しないのはもったいない。"
+  },
+  {
+   "id": "clzz06:3300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（やっぱ、渋谷……かなぁ？）"
+  },
+  {
+   "id": "clzz06:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "この横浜の家に住まわせてくれて、高校にまで通わせてくれている百瀬さんからは、なるべく渋谷に行かないよう、言いつけられているのだけれど……。"
+  },
+  {
+   "id": "clzz06:3500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（でも、さ。行きたいんだもん、しょうがないよね）"
+  },
+  {
+   "id": "clzz06:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "世莉架が住む街は、渋谷まで電車で一本。"
+  },
+  {
+   "id": "clzz06:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "面倒な乗り換えもないし、遊びに行くにはちょうどいい場所のひとつだった。"
+  },
+  {
+   "id": "clzz06:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "彼女はベッドわきのスマホを手に取り、アドレス帳を開いた。"
+  },
+  {
+   "id": "clzz06:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧そこには、まだごく数人の名前しか並んでいない。"
+  },
+  {
+   "id": "clzz06:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "今の学校に転校してきてから、まだ日が浅く――だから本当に友達と呼べる子は、やっとひとり出来たばかり。"
+  },
+  {
+   "id": "clzz06:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "しかもその子は、日曜日は学習塾とかで、せっかくのお休みなのに一緒に遊ぶことがあまり出来ない。"
+  },
+  {
+   "id": "clzz06:4200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「しょうがない、ひとりで行くかなぁ」"
+  },
+  {
+   "id": "clzz06:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "そうひとりごちてみたものの、渋谷で遊ぶのにひとりきりというのも、少しだけ抵抗がある。"
+  },
+  {
+   "id": "clzz06:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "⟦top:114⟧特に、“あの４人組”と、またどこかですれ違ったら……。"
+  },
+  {
+   "id": "clzz06:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "なんのいたずらか、それともいやがらせなのか……渋谷へ行くと、あの４人とは必ずどこかですれ違う。"
+  },
+  {
+   "id": "clzz06:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧どちらからともなく、相手の顔をチラッとだけ見て――。"
+  },
+  {
+   "id": "clzz06:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧でも、別に声をかけたりするでもなく、ただ横を通り過ぎるだけ。"
+  },
+  {
+   "id": "clzz06:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "いつも先頭を歩いていて、子供みたいなルックスなのに、まるでお姉さんかなにかみたいにみんなのまとめ役をしている子。"
+  },
+  {
+   "id": "clzz06:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "その子の妹らしく、いっつも姉にべったりくっつきながらいろんなことを質問しては、妙なことにばかり感心している眼鏡の子。"
+  },
+  {
+   "id": "clzz06:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "ものすごいおしゃべりで、声も大きいものだから、ちょっと離れたところからでも『あ、彼女がいる』と分かるくらいにぎやかな、金髪ツインテールの子。"
+  },
+  {
+   "id": "clzz06:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "無口でおとなしそうなのに、金髪ツインテールの子がやたらちょっかいを出すものだから、そのたびに強烈なジャブを繰り出すはめになっている子。"
+  },
+  {
+   "id": "clzz06:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "そして、４人とも世莉架と会うと、一瞬――実はそれは世莉架も同じなのだけれど――ちょっとだけ複雑そうな顔をするのだ。"
+  },
+  {
+   "id": "clzz06:5300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くっそー、あの４人！」"
+  },
+  {
+   "id": "clzz06:5400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『あ〜、彼女ってば、やっぱりいつもひとりだわ。ぼっちなのね。可愛そう……声、かけた方がいいのかしら？』とか思っていそうでムカツク！」"
+  },
+  {
+   "id": "clzz06:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "世莉架は口を尖らせると、スマホの画面をもう一度、見た。"
+  },
+  {
+   "id": "clzz06:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧１週間ほど前だろうか。今の学校の初めての友達――今頃は学習塾で勉強中だろう――に、『この子たちも、尾上さんと仲良くなりたいんだって』と言われ、クラスメートを何人か紹介された。"
+  },
+  {
+   "id": "clzz06:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧ただ、その場でのアドレス交換はしたものの、なんだか気恥ずかしくて、朝の挨拶をしたり、必要な時に会話を交わす程度以上の関係にはなっていない。"
+  },
+  {
+   "id": "clzz06:5800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clzz06:5900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……よおしっ」"
+  },
+  {
+   "id": "clzz06:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "世莉架はちょっとだけ勇気を出して、スマホの画面の上に指を滑らせた。"
+  },
+  {
+   "id": "clzz06:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧そして、紹介されたばかりのクラスメートのうち、自分と一番気が合いそうな子に、“⟦col:280aa02d1400⟧ＲＩＮＥ⟦col:800000⟧”でメッセージを送ってみる。"
+  },
+  {
+   "id": "clzz06:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦left:172⟧《おはよー！》――"
+  },
+  {
+   "id": "clzz06:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧すると、すぐにメッセージが戻ってきた。"
+  },
+  {
+   "id": "clzz06:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧――《おはよー！ やった、せりから初メッセ来たぜー》"
+  },
+  {
+   "id": "clzz06:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦left:172⟧《あのー。今日ってヒマな人ですか？ ⟦n2⟧⟦left:192⟧渋谷行こうと思ってるんだけど⟦left:24⟧》――"
+  },
+  {
+   "id": "clzz06:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "――《うおー、行く行く！ 恵子とまりんも誘っていい？》"
+  },
+  {
+   "id": "clzz06:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "世莉架はちょっとだけ考えた。"
+  },
+  {
+   "id": "clzz06:6800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "恵子や⟦rb⟧真凛⟦rt⟧まりん⟦/r⟧とは、それこそ挨拶くらいしかしたことがない。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "（でも……いい友達、いっぱい欲しいもんね）"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "⟦left:172⟧《うん。恵子ちゃんやまりんちゃんとも一緒に行きたい》――"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "――《おっけー、連絡してみる。んじゃ、準備できたら、連絡するわ》"
+  }
+ ]
+}

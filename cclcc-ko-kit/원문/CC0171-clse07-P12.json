@@ -1,0 +1,955 @@
+{
+ "packet_id": "CC0171-clse07-P12",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "겐 씨",
+  "아리무라 히나에",
+  "에린",
+  "여자",
+  "이토 신지",
+  "하이다 리코"
+ ],
+ "context_before": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「待ってよ！ そんなことしたら、結衣が晒し者になるだけじゃん！」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「っ……」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「あったら、こんなところでのんびりしてないっすよ！」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「なにそれ？ どういうこと？」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「神成さん！ こいつ捕まえたら、マジ殺していいっすか！」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「今のは、結衣と結人のぶん！ そしてこれは――」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:107900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私のぶんだぁぁぁぁぁぁッ！！」"
+  },
+  {
+   "id": "clse07:108000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うわ、きったね！」"
+  },
+  {
+   "id": "clse07:108100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃ、じゃあ、行きますか！」"
+  },
+  {
+   "id": "clse07:108200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「へ？」"
+  },
+  {
+   "id": "clse07:108300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「バカ！ 華！ ⟦rb⟧ソレ⟦rt⟧⟦rbc⟧●●⟦/r⟧には触れちゃだめだって、言ったでしょ！」"
+  },
+  {
+   "id": "clse07:108400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うわぁぁ、ダメだー！ 絶対に思い出さないようにしてたのにぃぃ！ 神様、記憶を消してくださいー！」"
+  },
+  {
+   "id": "clse07:108500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はぁー！？ 照れてなんかいないですけどー！？ あたしは大人だから！ ⟦rb⟧あんなの⟦rt⟧⟦rbc⟧●●●●⟦/r⟧たいしたことないしー！」"
+  },
+  {
+   "id": "clse07:108600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、そういうエロい言い方はやめろーっ！」"
+  },
+  {
+   "id": "clse07:108700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうっすよね！ ということで、みんな分かった！？ いい！？」"
+  },
+  {
+   "id": "clse07:108800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:108900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そっか……じゃあ、おじゃましちゃおっかな〜、えへへ」"
+  },
+  {
+   "id": "clse07:109000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええ〜っ！？ なんで〜！？」"
+  },
+  {
+   "id": "clse07:109100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「誰もくっついたりせんわ！」"
+  },
+  {
+   "id": "clse07:109200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほー？ 分かった。そこまで言うんなら、本当に貞操を奪ってやるからな。覚悟しとけ」"
+  },
+  {
+   "id": "clse07:109300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あれ〜、どうかしたんすか、先輩！？」"
+  },
+  {
+   "id": "clse07:109400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "에린",
+   "jp": "「あ、いたいた。せりー」"
+  },
+  {
+   "id": "clse07:109500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "에린",
+   "jp": "「どう？ もう話はついた？」"
+  },
+  {
+   "id": "clse07:109600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "에린",
+   "jp": "「なにー？ まだ話してないってか。しゃーないなー」"
+  },
+  {
+   "id": "clse07:109700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "에린",
+   "jp": "「お、さすが先輩。察しがお早い。つーわけで、ふたり、借りていきまーす」"
+  },
+  {
+   "id": "clse07:109800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "에린",
+   "jp": "「あ、なんなら先輩も一緒に行きます？ 店内、女子ばっかりですけど」"
+  },
+  {
+   "id": "clse07:109900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "에린",
+   "jp": "「あらま、残念」"
+  },
+  {
+   "id": "clse07:110000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "에린",
+   "jp": "「それよりほら、早く行かないと、超並ぶことになるって。この時間が一番、人多いんだから」"
+  },
+  {
+   "id": "clse07:110100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "에린",
+   "jp": "「いやはや、災難でしたなぁ」"
+  },
+  {
+   "id": "clse07:110200",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "겐 씨",
+   "jp": "「おい、おぬしら。いい加減、追加注文をしてもバチは当たらぬ頃だぞ？」"
+  },
+  {
+   "id": "clse07:110300",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "겐 씨",
+   "jp": "「うむ、了解した。ゆっくりしていくがよい」"
+  },
+  {
+   "id": "clse07:110400",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "겐 씨",
+   "jp": "「よく来たな。まぁ、ゆっくりとしていくがよい」"
+  },
+  {
+   "id": "clse07:110500",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "겐 씨",
+   "jp": "「客ではない者は、もう来るでないぞ」"
+  },
+  {
+   "id": "clse07:110600",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "겐 씨",
+   "jp": "「おお、おぬしか。よく来たな！ 連れならいつもの席に先に――」"
+  },
+  {
+   "id": "clse07:110700",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "겐 씨",
+   "jp": "「は？」"
+  },
+  {
+   "id": "clse07:110800",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "겐 씨",
+   "jp": "「もごもごもご！？」"
+  },
+  {
+   "id": "clse07:110900",
+   "type": "dialogue",
+   "speaker": "エリン",
+   "speaker_ko": "에린",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "겐 씨",
+   "jp": "「な、な、なんじゃ！？」"
+  },
+  {
+   "id": "clse07:111000",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「おぉ、タク〜、余は今帰ったぞ」"
+  },
+  {
+   "id": "clse07:111100",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「お〜？ そうだったか？ まあいい。それよりほら、例のもの、また手に入れてきてやったぞ」"
+  },
+  {
+   "id": "clse07:111200",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「うほっ。今日は一日稼ぎは無しかと思ったけど、ここにきて逆転ホームランだわい」"
+  },
+  {
+   "id": "clse07:111300",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「よぉし、今日は一杯やるぞー。タクもどうだ？」"
+  },
+  {
+   "id": "clse07:111400",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「そいつは残念」"
+  },
+  {
+   "id": "clse07:111500",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「余はただいま帰ったぞ、タク」"
+  },
+  {
+   "id": "clse07:111600",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「タクが仲間になってくれて、余も嬉しいぞ」"
+  },
+  {
+   "id": "clse07:111700",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "에린",
+   "next_speaker": null,
+   "jp": "「さあ、余の仲間になった証に、余の一番大事なものを授けよう。心して受け取るがいいぞ」"
+  },
+  {
+   "id": "clse07:111800",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おお！ 今日も元気そうであるな、ぬしたち。はははは」"
+  },
+  {
+   "id": "clse07:111900",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おーおー、冷たいことを言うヤツよのう。せっかく素晴らしき宝を持参してやったというのに」"
+  },
+  {
+   "id": "clse07:112000",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うむ。実はな――！」"
+  },
+  {
+   "id": "clse07:112100",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、な、何を言っておるのだ！？ 余はそんなセコイことなど、これっぽっちも考えておらぬぞ」"
+  },
+  {
+   "id": "clse07:112200",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「い、いや、そんな……！」"
+  },
+  {
+   "id": "clse07:112300",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「おー、タク。ほれ、例のもの、また手に入ったぞ」"
+  },
+  {
+   "id": "clse07:112400",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「おぉ、タク〜」"
+  },
+  {
+   "id": "clse07:112500",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「狭い日本、そんなに急いでどこへ行く？ 急いだところで世の中そうは変わらんぞ〜」"
+  },
+  {
+   "id": "clse07:112600",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「妹？ もしかして前にここに来てた中学生くらいの子か？ それならちょっと前に見かけたぞ？」"
+  },
+  {
+   "id": "clse07:112700",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「あ？ あ〜……ありゃ確か……どこだっけなぁ」"
+  },
+  {
+   "id": "clse07:112800",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「大人の男とふたりで歩いとったなぁ。どこだっけなぁ？」"
+  },
+  {
+   "id": "clse07:112900",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「いや、もっと若かったなぁ。どこだっけなぁ……」"
+  },
+  {
+   "id": "clse07:113000",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "겐 씨",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:113100",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "겐 씨",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:113200",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "겐 씨",
+   "next_speaker": null,
+   "jp": "「……お前……死ね……」"
+  },
+  {
+   "id": "clse07:113300",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "겐 씨",
+   "next_speaker": null,
+   "jp": "「逃がしは……しない……」"
+  },
+  {
+   "id": "clse07:113400",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "하이다 리코",
+   "jp": "「……うっ。うっ……うううっ……ぐすっ」"
+  },
+  {
+   "id": "clse07:113500",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "하이다 리코",
+   "jp": "「うううっ、ぐすっ、うえぇぇ……」"
+  },
+  {
+   "id": "clse07:113600",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "하이다 리코",
+   "jp": "「ううう、いいんです。私なんか放っておいてください。うわぁぁん……」"
+  },
+  {
+   "id": "clse07:113700",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "하이다 리코",
+   "jp": "「うっ、ぐすん……だって、だって……」"
+  },
+  {
+   "id": "clse07:113800",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": null,
+   "next_speaker": "하이다 리코",
+   "jp": "「やっぱりリア充爆発しろー！」"
+  },
+  {
+   "id": "clse07:113900",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": null,
+   "next_speaker": "하이다 리코",
+   "jp": "「ううう、ごめんなさい！ でも、幸せそうなカップルを見ると、自分でも止められないんですぅ！」"
+  },
+  {
+   "id": "clse07:114000",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": null,
+   "next_speaker": "하이다 리코",
+   "jp": "「ほんとう？」"
+  },
+  {
+   "id": "clse07:114100",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": null,
+   "next_speaker": "하이다 리코",
+   "jp": "「そう……」"
+  },
+  {
+   "id": "clse07:114200",
+   "type": "dialogue",
+   "speaker": "杯田理子",
+   "speaker_ko": "하이다 리코",
+   "prev_speaker": "여자",
+   "next_speaker": "여자",
+   "jp": "「ね、みなさん。ひどいと思いませんか？ 毎日毎日、心を込めて書いた手紙なのに……」"
+  },
+  {
+   "id": "clse07:114300",
+   "type": "dialogue",
+   "speaker": "杯田理子",
+   "speaker_ko": "하이다 리코",
+   "prev_speaker": "여자",
+   "next_speaker": "여자",
+   "jp": "「うう、すみません……」"
+  },
+  {
+   "id": "clse07:114400",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "하이다 리코",
+   "next_speaker": "이토 신지",
+   "jp": "「はい、こちら『バンビーナバンビーノ』お客様相談センターです」"
+  },
+  {
+   "id": "clse07:114500",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "하이다 리코",
+   "next_speaker": "이토 신지",
+   "jp": "「それは申し訳ございません。ご購入いただいた際の領収書かレシートはお持ちですか？」"
+  },
+  {
+   "id": "clse07:114600",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "하이다 리코",
+   "next_speaker": "이토 신지",
+   "jp": "「では、お手数ですが、そちらと一緒に、着払いで弊社までお送り願えますでしょうか」"
+  },
+  {
+   "id": "clse07:114700",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "하이다 리코",
+   "next_speaker": "이토 신지",
+   "jp": "「よろしくお願いいたします。担当、杯田が承りました」"
+  },
+  {
+   "id": "clse07:114800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「しっ！ 今、香月には話しかけるな。こいつのパーティはダゴンの王と交戦中だ。しかも全滅寸前！ 風前の灯！」"
+  },
+  {
+   "id": "clse07:114900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「俺に怒るなよ。だいたい、自業自得だろ？ だからあれほど忠告したんだ。まだ装備が足りないって！」"
+  },
+  {
+   "id": "clse07:115000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「あー、分かった分かった。余計な口出しはしねーって」"
+  },
+  {
+   "id": "clse07:115100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「あー、死んだ。やっぱ死んだ」"
+  },
+  {
+   "id": "clse07:115200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「ってか、香月？ その階層のボスだったら、先に北のダンジョンに行って、⟦rb⟧水龍殺しの剣⟦rt⟧アクアグラム⟦/r⟧を手に入れないと、倒せないぞ？」"
+  },
+  {
+   "id": "clse07:115300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「そ、それは太ったんじゃないぞ、山添っ」"
+  },
+  {
+   "id": "clse07:115400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「山添は確か今、中等部の二年だよな？ ということは……おおう、いよいよ、大いなる成長期をむかえようとしているわけかっ？ まさか、こんな所に期待のニューフェースがっ！」"
+  },
+  {
+   "id": "clse07:115500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「ぐっ？」"
+  },
+  {
+   "id": "clse07:115600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わっ、わっ、分かっておりますっ、副部長様っ！」"
+  },
+  {
+   "id": "clse07:115700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほお〜」"
+  },
+  {
+   "id": "clse07:115800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやぁ、お約束通りの反応に、つい」"
+  },
+  {
+   "id": "clse07:115900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それを言うなら、“伝統芸”だぞ、尾上」"
+  },
+  {
+   "id": "clse07:116000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「バカッ、察してやれよ、宮代」"
+  },
+  {
+   "id": "clse07:116100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ウチの部に好きな男が出来たからに決まってるだろ？ だから、毎日ここへ来ちまうんだよ」"
+  },
+  {
+   "id": "clse07:116200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うっ！？」"
+  },
+  {
+   "id": "clse07:116300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「してないぞ」"
+  },
+  {
+   "id": "clse07:116400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『好きな男が出来た説』の方がよっぽどマシだ！」"
+  },
+  {
+   "id": "clse07:116500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:116600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どの事件もくだらねーなぁ！」"
+  },
+  {
+   "id": "clse07:116700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なぁ、宮代？ これならさ、『渋谷の新しい隠れスポット』とか『これから流行するファッション』とか、そういう特集の方が受けるんじゃねーの？」"
+  },
+  {
+   "id": "clse07:116800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「尾上とかにメインの記事、書いてもらってさ」"
+  },
+  {
+   "id": "clse07:116900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「全くだ。色々と取材したり、結構ハードなんだからな」"
+  },
+  {
+   "id": "clse07:117000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええっ？」"
+  },
+  {
+   "id": "clse07:117100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうした宮代？ っていうか、さっきからこっちをチロチロ見てるようだが……スクープはあきらめて、やっぱこっちの企画をやるか？ 楽しいぞー？」"
+  },
+  {
+   "id": "clse07:117200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「最後の？ ＹＥＳ－ＮＯ心理テストか？」"
+  },
+  {
+   "id": "clse07:117300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやぁ、ネタを考えるの、結構大変だったぜ」"
+  },
+  {
+   "id": "clse07:117400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あきらめろ宮代。お前のイメージは今、地の底に堕ちたんだ」"
+  },
+  {
+   "id": "clse07:117500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んー、親友？ なにそれ、美味いのか？」"
+  },
+  {
+   "id": "clse07:117600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それよりちょっとさ、俺たちの作った心理テスト、やってみてくれないか？ 学校新聞のお遊びコーナーとはいえ、デタラメじゃまずいからな」"
+  },
+  {
+   "id": "clse07:117700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっぱりお前はこっちかー」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「ほっとけほっとけ。この前の新聞記事が好評だったせいでスネてんだよ」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「あきらめろ、宮代。それが世間の素直な反応ってもんだ」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「おおかた、文芸部の先輩と仲直りでもしたんじゃないのか？」"
+  }
+ ]
+}

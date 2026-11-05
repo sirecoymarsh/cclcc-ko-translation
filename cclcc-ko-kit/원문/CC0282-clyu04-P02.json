@@ -1,0 +1,140 @@
+{
+ "packet_id": "CC0282-clyu04-P02",
+ "kit_version": "1.0",
+ "source_file": "clyu04.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「僕も拓留兄ちゃんがいいな……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "……ふたりにこんな風に懇願されたら、やるしかない。"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「拓留さんなら……きっとできると思います……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "それに伊藤や有村には悪いけど、そもそもは僕が頼まれたことなわけだし。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「わかったよ。そこまで言うなら、これからは僕が責任をもってふたりをプロデュースする」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "なんのことはない。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu04:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "この数日かけて、話はただ振り出しに戻っただけだった。"
+  },
+  {
+   "id": "clyu04:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "だが、それでも伊藤と有村を見ていて、得たものも幾つかはある。"
+  },
+  {
+   "id": "clyu04:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "まずはアプローチの仕方だ。"
+  },
+  {
+   "id": "clyu04:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "伊藤のアレはやり過ぎ感があったにせよ、ある程度際どいことをやって、視聴者の目を引かなければ、話題にすらならず埋もれて行ってしまうというのは、間違ってはいないだろう。"
+  },
+  {
+   "id": "clyu04:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "そして、物理的にも得たものがあった。"
+  },
+  {
+   "id": "clyu04:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "水着と制服だ。"
+  },
+  {
+   "id": "clyu04:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "せっかく手に入れたんだし、使わないという手はない。"
+  },
+  {
+   "id": "clyu04:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "特に、制服はこれから活動していくうえで必要不可欠なものだった。"
+  },
+  {
+   "id": "clyu04:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "有村がどこでどうやって手に入れたのかは知らないけど、重宝させてもらうことにしよう。"
+  },
+  {
+   "id": "clyu04:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "これらのものを使って、地道に少しずつニヤ動のカウントを稼いでいく。"
+  },
+  {
+   "id": "clyu04:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "結局のところ、今の僕たちにできることといえば、それくらいしかない。"
+  }
+ ],
+ "context_after": []
+}

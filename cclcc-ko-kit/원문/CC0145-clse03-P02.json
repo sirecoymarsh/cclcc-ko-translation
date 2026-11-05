@@ -1,0 +1,431 @@
+{
+ "packet_id": "CC0145-clse03-P02",
+ "kit_version": "1.0",
+ "source_file": "clse03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「えっ？」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「タクが時々、ゲンさんに売りつけられそうになってる本にも載ってるじゃん。こうやって縛って、拷問したりするんでしょ？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ち、違う！ あ、いや、重なってる部分もあるけど、拷問とＳＭは基本的に目的が別だ！ それに、僕にはそんな趣味は――」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "――そんな趣味はないからな！"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そう言いかけた瞬間。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "革ベルトで自由にならない左手の先をいきなりガシッとつかまれたかと思うと、薬指に火でもつけられたかのような激痛が走った。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse03:7400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うああああーーーっ！！」"
+  },
+  {
+   "id": "clse03:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あまりの痛みにだらしなく叫んでしまいながら、自分の左手を見た。"
+  },
+  {
+   "id": "clse03:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕の薬指の先……。"
+  },
+  {
+   "id": "clse03:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "爪と指の間に、錆の浮いた“縫い針”が突き立てられていた。"
+  },
+  {
+   "id": "clse03:7800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「痛い痛い痛い！ お前、なんてことするんだよ！」"
+  },
+  {
+   "id": "clse03:7900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う？ 思考盗撮が出来るなら、こんなことしなくても済むんだけど……タクがウソつかないように、ＳＭプレイで聞くことにしたんだよ」"
+  },
+  {
+   "id": "clse03:8000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「だから、ＳＭと拷問は別だって！ とにかくなんでもいいから抜いてくれ！」"
+  },
+  {
+   "id": "clse03:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "あまりの痛みに――情けないことに――ついに涙を流してしまった僕の様子を、尾上は見下ろしていたが、いつもの無邪気な口調に戻ると、"
+  },
+  {
+   "id": "clse03:8200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃあ、絶対にウソつかない？ だったら抜いてあげる」"
+  },
+  {
+   "id": "clse03:8300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ウソなんてつかないから！ だから頼む！」"
+  },
+  {
+   "id": "clse03:8400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん、分かった」"
+  },
+  {
+   "id": "clse03:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして尾上は、僕の指から無造作に針を引き抜いた。"
+  },
+  {
+   "id": "clse03:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あちこち錆びている針なので、刺された時はもちろん、引き抜かれる時も強引に皮膚を破られ、飛び上がるほどの激痛が全身に走った。"
+  },
+  {
+   "id": "clse03:8700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「はぁはぁ……お、尾上……もう一回言っとく。今のは拷問だぞ。ＳＭだとするなら、こんなので喜ぶのは一部の超マニア……上級者だけだ。二度とするな」"
+  },
+  {
+   "id": "clse03:8800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「そうなんだ？ じゃあ、こういうのもダメかなあ」"
+  },
+  {
+   "id": "clse03:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "尾上は、僕の指から抜いた“縫い針”をベッドの上にポイと放ると、足元に置いてあるらしきボックスから色々なものを出して、次々と披露し始めた。"
+  },
+  {
+   "id": "clse03:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、それらを見る度に、僕はみっともない悲鳴を上げることとなった。"
+  },
+  {
+   "id": "clse03:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "真っ赤な色をした派手なローソク（低温で燃えるので実はそれほど熱くない）とか、先が九つに割れているムチ（力が分散するので実は叩かれても痛くない）とか――"
+  },
+  {
+   "id": "clse03:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そういうものを想像していた自分が⟦rb⟧激甘⟦rt⟧げきあま⟦/r⟧だった。"
+  },
+  {
+   "id": "clse03:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "尾上が手にしていたのは、木の幹にワラ人形でも打ちつけられそうな太いクギと、ハンマー。"
+  },
+  {
+   "id": "clse03:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あるいは、先端がやたら尖っていて、人間の皮膚ごとき簡単にはぎ取れそうなペンチ。"
+  },
+  {
+   "id": "clse03:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "また、明らかに血のようなものがこびりついている、長い千枚通しやノコギリ。"
+  },
+  {
+   "id": "clse03:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、どこにどう使うつもりなのか……爆竹とマッチ。"
+  },
+  {
+   "id": "clse03:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――そんな物騒なものばかりだった。"
+  },
+  {
+   "id": "clse03:9800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「す、す、捨てろ！ 今すぐ、どこかへ捨ててきなさい！」"
+  },
+  {
+   "id": "clse03:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕はさらに涙目になって、叫んだ。"
+  },
+  {
+   "id": "clse03:10000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、みんなこの部屋に置いてあったものだよ？ 勝手に捨てていいのかなあ」"
+  },
+  {
+   "id": "clse03:10100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いいから、全部、始末しろっ」"
+  },
+  {
+   "id": "clse03:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "ここがどこなのか知らないが、少なくともこの部屋の主は絶対にまともじゃない。拷問のプロか、それともイカれてるか、そのどちらかだ。"
+  },
+  {
+   "id": "clse03:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "決して、ＳＭプレイに興じる楽しいカップルのための場所ではないことだけは間違いない。"
+  },
+  {
+   "id": "clse03:10400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うーん、やっぱりダメだよ。何かに使えるかもしれないし」"
+  },
+  {
+   "id": "clse03:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "何かって！？ 何に使うつもりだ、お前っ！？"
+  },
+  {
+   "id": "clse03:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕の恐怖に満ちた目を無視するかのように、尾上は、おぞましいグッズらしきものが入ったボックスをベッドの下に押し込み、部屋から出ていこうとした。"
+  },
+  {
+   "id": "clse03:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は、慌ててそれを止めた。"
+  },
+  {
+   "id": "clse03:10800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ちょ、ちょっと待て！ どこ行くんだ！？ これ、ほどいてくれよ！」"
+  },
+  {
+   "id": "clse03:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "自分の身体を締めつけている拘束具をジタバタと振ってみせる。"
+  },
+  {
+   "id": "clse03:11000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それもダメ」"
+  },
+  {
+   "id": "clse03:11100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ！？ なんで！？」"
+  },
+  {
+   "id": "clse03:11200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タクってば、絶対に逃げちゃうもん。私ね、ここをタクと私だけの秘密の部屋にするつもりなんだー」"
+  },
+  {
+   "id": "clse03:11300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「秘密の部屋……？」"
+  },
+  {
+   "id": "clse03:11400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「うん。昔よく、廃墟の中とかに、秘密基地を作って遊んだでしょ？ あんな感じになったらいいなーって」"
+  },
+  {
+   "id": "clse03:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "そう言った尾上は、心の底から楽しそうに笑んだ。"
+  },
+  {
+   "id": "clse03:11600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "でもその笑顔は、薄暗く汚れた色の灯りのせいか、まるで悪夢の中から現れた魔女の嘲笑のようにも見えた。"
+  }
+ ],
+ "context_after": []
+}

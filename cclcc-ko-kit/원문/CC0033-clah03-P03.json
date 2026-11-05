@@ -1,0 +1,206 @@
+{
+ "packet_id": "CC0033-clah03-P03",
+ "kit_version": "1.0",
+ "source_file": "clah03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에"
+ ],
+ "context_before": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「じゃあ、私に対して変な気になったりします？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「変な気って……なんだよ？」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「ムラムラとか」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ならない」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「な、なんだよ？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah03:20000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……嘘じゃない……」"
+  },
+  {
+   "id": "clah03:20100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "良かった。"
+  },
+  {
+   "id": "clah03:20200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「むうぅぅぅ、納得いかなーい！ ふつーは、こんな魅力的な女子と一緒にいたら、変な気起こしちゃったりするもんでしょ？」"
+  },
+  {
+   "id": "clah03:20300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なんだよ、それ。なにかして欲しいのか？」"
+  },
+  {
+   "id": "clah03:20400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そんなことしたら大声で叫びますっ」"
+  },
+  {
+   "id": "clah03:20500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「どっちだよ！」"
+  },
+  {
+   "id": "clah03:20600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「とにかく！ 宮代先輩が私のことをなーんとも思ってないってことがムカつきます」"
+  },
+  {
+   "id": "clah03:20700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "知らないよ、そんなの。"
+  },
+  {
+   "id": "clah03:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ていうか、話が妙な方向へ行ってるだろ。"
+  },
+  {
+   "id": "clah03:20900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そんなことより、そもそもの親子ゲンカの原因はなんなんだよ？」"
+  },
+  {
+   "id": "clah03:21000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "それさえわかれば、いろいろと解決する方法はあるかもしれない。"
+  },
+  {
+   "id": "clah03:21100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「それは――！」"
+  },
+  {
+   "id": "clah03:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村の言葉がぴたりと止まった。"
+  },
+  {
+   "id": "clah03:21300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「とにかく、ここまで来ては私も引き下がれません。これは女の意地なんですっ！」"
+  },
+  {
+   "id": "clah03:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "要するに、原因なんて忘れたってことか……。"
+  },
+  {
+   "id": "clah03:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "それに付き合わされてる身にもなって欲しい。"
+  },
+  {
+   "id": "clah03:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "と言っても、聞いちゃくれないんだろうな。"
+  },
+  {
+   "id": "clah03:21700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "とにかく、有村には早いところ家出なんてやめて帰って欲しいんだけど……どうすればいいんだろう。"
+  }
+ ],
+ "context_after": []
+}

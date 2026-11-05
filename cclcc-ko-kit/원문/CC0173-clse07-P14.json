@@ -1,0 +1,959 @@
+{
+ "packet_id": "CC0173-clse07-P14",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "이토 신지"
+ ],
+ "context_before": [
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「うーん……なんつーかな。こう、俺に対する有村は容赦ねぇけど、宮代にはちょっと違うだろ？」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「ンなことねぇよ。お前に対しての有村は、じゃれてるっつーか、楽しんでるっつーか」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「まぁ、お前にはそういう、女子の細かい心情はわかんねぇだろうな」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「当たり前だろ。なんたって俺はお前と違って、少女漫画読んでるからな」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「あのさ……わかんねえんだけど、お前こそ、なんでそこまでムキになってんの？」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「じゃあ言い方変えてやるよ、なんでそんな全部を全部否定しようとするんだ？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:127800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そりゃあ、確かに最初は変な意地の張り合いで始まったことかもしんねぇけどさ、だからってお前までそう頑なになる必要ねぇだろ」"
+  },
+  {
+   "id": "clse07:127900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なってるよ」"
+  },
+  {
+   "id": "clse07:128000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だいたい、いくら有村でも、どうだっていいと思ってるやつのところに、転がり込んだりするわけねぇだろ」"
+  },
+  {
+   "id": "clse07:128100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あの八方美人の有村が？ 行くところなんていくつだってあんだろ」"
+  },
+  {
+   "id": "clse07:128200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だったらなおさらお前は、有村にとって安心して一緒にいられる相手だ、ってことになるんじゃねーの？」"
+  },
+  {
+   "id": "clse07:128300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、なんでそうやって否定したがるんだよ」"
+  },
+  {
+   "id": "clse07:128400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んじゃ、質問を変えようか」"
+  },
+  {
+   "id": "clse07:128500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もし有村が最初に尋ねて行ったのが、お前んとこじゃなくて俺のとこだったとしたら、お前どうする？」"
+  },
+  {
+   "id": "clse07:128600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あん？」"
+  },
+  {
+   "id": "clse07:128700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ あ、おい……！」"
+  },
+  {
+   "id": "clse07:128800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やれやれ。世話の焼けるこった」"
+  },
+  {
+   "id": "clse07:128900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あー、終わった終わった。なあ、昼飯――」"
+  },
+  {
+   "id": "clse07:129000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ ああ、そうか。また有村の愛妻弁当かー」"
+  },
+  {
+   "id": "clse07:129100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その様子じゃ、またいなかったみたいだな」"
+  },
+  {
+   "id": "clse07:129200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それにしても、なーんか有村らしくねえよよなぁ。こういう時、当たって砕けろで突っ込んでいきそうなタイプなのに」"
+  },
+  {
+   "id": "clse07:129300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふ〜ん」"
+  },
+  {
+   "id": "clse07:129400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやぁ、お前もちゃんと見るとこ見てんだなって思ってさ」"
+  },
+  {
+   "id": "clse07:129500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっぱ、授業終わってすぐ帰ったんじゃねぇの？」"
+  },
+  {
+   "id": "clse07:129600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こうなってくると、お前、ちょっとしたストーカーみたいだな、宮代」"
+  },
+  {
+   "id": "clse07:129700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「確かにな。そう、いつまでも会わないってわけにもいかんだろうに」"
+  },
+  {
+   "id": "clse07:129800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なぁ宮代。お前、有村が行きそうなところとか、心当たりないのか？」"
+  },
+  {
+   "id": "clse07:129900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっぱ、明日学校に来るのを待つしかないのか」"
+  },
+  {
+   "id": "clse07:130000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、なんだ？ イベントの攻略法でもわかったのか？」"
+  },
+  {
+   "id": "clse07:130100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前の知り合いって、いったいどんな奴なんだよ？」"
+  },
+  {
+   "id": "clse07:130200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちーっす」"
+  },
+  {
+   "id": "clse07:130300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おいおい、えらく賑やかだと思ったら、何の騒ぎだ？」"
+  },
+  {
+   "id": "clse07:130400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんだよ、おまえら。ケンカか？」"
+  },
+  {
+   "id": "clse07:130500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、そうは言っても、廊下にまで聞こえてるしさ……」"
+  },
+  {
+   "id": "clse07:130600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい、宮代」"
+  },
+  {
+   "id": "clse07:130700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「有村もさ……なんだか知らないけど、それくらいに……」"
+  },
+  {
+   "id": "clse07:130800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「み、宮代！！ お前、それはさすがにダメだろ」"
+  },
+  {
+   "id": "clse07:130900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「有村も、落ち着けって。な？」"
+  },
+  {
+   "id": "clse07:131000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はああああああああ？」"
+  },
+  {
+   "id": "clse07:131100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、なんじゃそりゃああ！？」"
+  },
+  {
+   "id": "clse07:131200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なに！？」"
+  },
+  {
+   "id": "clse07:131300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前ら、お笑いコンビかよ……」"
+  },
+  {
+   "id": "clse07:131400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやあ、ここはカットするのはもったいないだろ」"
+  },
+  {
+   "id": "clse07:131500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これくらいのチラリズムだったら、俺は別にあってもなくてもいいかなあ」"
+  },
+  {
+   "id": "clse07:131600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんでナチュラルにディスられてるの俺！？」"
+  },
+  {
+   "id": "clse07:131700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おお、宮代、遅かったな。お前来なかったから、もう撮ってきちまったぞ」"
+  },
+  {
+   "id": "clse07:131800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだよ。部室に一度集まる時間ももったいないから、カメラは事前にカバンに入れとけって」"
+  },
+  {
+   "id": "clse07:131900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ホントは日曜日に制服なんか着たくなかったけどな。生徒会長様が強硬に主張しなさったから」"
+  },
+  {
+   "id": "clse07:132000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひっ！ 滅相もない！」"
+  },
+  {
+   "id": "clse07:132100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:132200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あっはっはっは！」"
+  },
+  {
+   "id": "clse07:132300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「い、ひーっひっひ！ 宮代、らしいぜ！」"
+  },
+  {
+   "id": "clse07:132400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そりゃあ、忘れたくもなるよな！」"
+  },
+  {
+   "id": "clse07:132500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あの時のお前は、輝いてたんだけどな」"
+  },
+  {
+   "id": "clse07:132600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「有村、教えてやれよ」"
+  },
+  {
+   "id": "clse07:132700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「オリジナルの歌は、結構はまってたぞ」"
+  },
+  {
+   "id": "clse07:132800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、忘れたままの方がお前の為だって」"
+  },
+  {
+   "id": "clse07:132900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だってさあ、あの時のお前ほんっとに面白くて、ひっひっひ！」"
+  },
+  {
+   "id": "clse07:133000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わりいわりい。せっかくの休日だから、ちょっと楽しみが欲しかったのよ」"
+  },
+  {
+   "id": "clse07:133100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「適当にお菓子や飲み物を買って、宮代の車の中で宴会したんだよ」"
+  },
+  {
+   "id": "clse07:133200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんでさ、宮代はエンジン全開八面六臂の大活躍だったんだけど」"
+  },
+  {
+   "id": "clse07:133300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「しばらくしたらベッドに倒れて寝ちまってさ。そのまま解散ムードになったんだよ」"
+  },
+  {
+   "id": "clse07:133400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「気にすんな」"
+  },
+  {
+   "id": "clse07:133500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「アホか」"
+  },
+  {
+   "id": "clse07:133600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代のＰＣ借りてゲームしてたんだよ。うちだと親がうるさいからさ」"
+  },
+  {
+   "id": "clse07:133700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「とはいえ、俺もすぐ寝ちまった。朝、目が覚めたら宮代は一応息してたから、家に帰ったんだ」"
+  },
+  {
+   "id": "clse07:133800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その後って、別になんもねえよ」"
+  },
+  {
+   "id": "clse07:133900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「他に新聞部員はいねーしな。香月はお疲れ様会が終わる前に帰っちまったし」"
+  },
+  {
+   "id": "clse07:134000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ここだよ。お前のキャンピングカー」"
+  },
+  {
+   "id": "clse07:134100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「香月は体力なさそうだし、歩いている最中にバテられるよりはいいと思ってな」"
+  },
+  {
+   "id": "clse07:134200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、知らない。俺達が車に戻って来たら、入れ替わりに外に出て、そのまま」"
+  },
+  {
+   "id": "clse07:134300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「香月なら、宮代が戻るちょっと前に出て行ったぞ」"
+  },
+  {
+   "id": "clse07:134400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうかあ？ いつもの無口無表情だったぜ？」"
+  },
+  {
+   "id": "clse07:134500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あからさまに声が上ずってるぞ。どうかしたのか？」"
+  },
+  {
+   "id": "clse07:134600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやー、お前みたいなタイプは、いつかどこかでこうなるって思ってたんだよね」"
+  },
+  {
+   "id": "clse07:134700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代って、絵に描いたようなむっつりスケベだもんな。普段溜めに溜めていたエロパワーが、ついに爆発しちまったわけか」"
+  },
+  {
+   "id": "clse07:134800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあ、月一回くらいは面談に行ってやるから、心配すんな」"
+  },
+  {
+   "id": "clse07:134900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うーん」"
+  },
+  {
+   "id": "clse07:135000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でもよお、いつもの宮代だったら、そんなメール怪しがって無視するんじゃないか？」"
+  },
+  {
+   "id": "clse07:135100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ なんだ？」"
+  },
+  {
+   "id": "clse07:135200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「有村、今笑ったか？」"
+  },
+  {
+   "id": "clse07:135300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしかして……香月？」"
+  },
+  {
+   "id": "clse07:135400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「有村がそう言うなら、そうなんだな」"
+  },
+  {
+   "id": "clse07:135500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、わかるだろ。おっぱいだけしか見えなかったとしてもわかるだろ。どこからどうみても香月だし」"
+  },
+  {
+   "id": "clse07:135600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「人格ぅ？」"
+  },
+  {
+   "id": "clse07:135700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんか純粋なんだか歪んでんだかわかねえな」"
+  },
+  {
+   "id": "clse07:135800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いやあ、あれは単に、突然来たモテ期にビビってるだけだな」"
+  },
+  {
+   "id": "clse07:135900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あーわかった」"
+  },
+  {
+   "id": "clse07:136000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代にとってもっとも縁遠い言葉だから、脳が受け付けないんだな」"
+  },
+  {
+   "id": "clse07:136100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代、悪かった」"
+  },
+  {
+   "id": "clse07:136200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前にまだそんな自尊心が残っていたって、気付いてやれなくて」"
+  },
+  {
+   "id": "clse07:136300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なあ、宮代がどれくらい持つと思う？」"
+  },
+  {
+   "id": "clse07:136400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おめでとー！」"
+  },
+  {
+   "id": "clse07:136500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なにって、結婚式の最初から」"
+  },
+  {
+   "id": "clse07:136600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「つまり、出来ちゃった婚って奴か。さすがはむっつりスケベ」"
+  },
+  {
+   "id": "clse07:136700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はあ！？ なななな、舐めさせる！？ そ、それは具体的にはどういう！？」"
+  },
+  {
+   "id": "clse07:136800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ハイ」"
+  },
+  {
+   "id": "clse07:136900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「く、口で！？ 口でなにをしたんだよ！ おい！」"
+  },
+  {
+   "id": "clse07:137000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ハイ」"
+  },
+  {
+   "id": "clse07:137100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どこかおかしな所があったか？」"
+  },
+  {
+   "id": "clse07:137200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おおおおれなんか、か、感動しちゃった……！」"
+  },
+  {
+   "id": "clse07:137300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「正直、宮代はいつかこういうことするんじゃねえかなと思ってたけどな。俺は」"
+  },
+  {
+   "id": "clse07:137400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、やっぱお前最低だよ。宮代」"
+  },
+  {
+   "id": "clse07:137500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「最低！」"
+  },
+  {
+   "id": "clse07:137600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え、そうなの？ 俺は全然気付かなかったけど」"
+  },
+  {
+   "id": "clse07:137700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ハイ」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「なんでって、部室に来たら置いてあったんだよ」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「あ、俺呼び出しだった。じゃあな、あとは頑張れ」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「完全なカカア天下だよな」"
+  }
+ ]
+}

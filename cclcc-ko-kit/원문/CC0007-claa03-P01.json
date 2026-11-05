@@ -1,0 +1,655 @@
+{
+ "packet_id": "CC0007-claa03-P01",
+ "kit_version": "1.0",
+ "source_file": "claa03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "claa03:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……この日、この時。"
+  },
+  {
+   "id": "claa03:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は、このくそったれなゲームを……。"
+  },
+  {
+   "id": "claa03:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……リタイアしまーす♥"
+  },
+  {
+   "id": "claa03:300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ということで、みんな！ 今月こそ、世間をアッと言わせるスクープ記事をモノにし、第一面を飾る！ それが僕たち新聞部の使命であり、存在理由でもあるんだ！」"
+  },
+  {
+   "id": "claa03:400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「では、今月号の編集会議を始める！」"
+  },
+  {
+   "id": "claa03:500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ねー、せり？ クッキーの缶取って、クッキー」"
+  },
+  {
+   "id": "claa03:600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「う？ チョコチップの入ったのでいいー？」"
+  },
+  {
+   "id": "claa03:700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うん、それ」"
+  },
+  {
+   "id": "claa03:800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「じゃあ、私はおせんべにしよっと。華ちゃんも食べるー？」"
+  },
+  {
+   "id": "claa03:900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「んーー！」"
+  },
+  {
+   "id": "claa03:1000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「しっ！ 今、香月には話しかけるな。こいつのパーティは⟦col:280aa02d1400⟧ダゴンの王⟦col:800000⟧と交戦中だ。しかも全滅寸前！ 風前の灯！」"
+  },
+  {
+   "id": "claa03:1100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「んー。全滅とかありえない、かも！」"
+  },
+  {
+   "id": "claa03:1200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「俺に怒るなよ。だいたい、自業自得だろ？ だからあれほど忠告したんだ。まだ装備が足りないって！」"
+  },
+  {
+   "id": "claa03:1300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「んんー！ 黙ってて欲しい、かも！」"
+  },
+  {
+   "id": "claa03:1400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「あー、分かった分かった。余計な口出しはしねーって」"
+  },
+  {
+   "id": "claa03:1500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ぐあーーーーーー！」"
+  },
+  {
+   "id": "claa03:1600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「あー、死んだ。やっぱ死んだ」"
+  },
+  {
+   "id": "claa03:1700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「んぐっ！ んぐうっ！ んぐふうっ！」"
+  },
+  {
+   "id": "claa03:1800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ちょっ、ちょっと、やめなさい香月！ 女の子の手でそんなに壁を叩いたら折れちゃう！ うきも止めて！」"
+  },
+  {
+   "id": "claa03:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "来栖が、山添うきと一緒に香月華に飛びついて、その手をつかんだ。"
+  },
+  {
+   "id": "claa03:2000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「んむふ〜〜、はぁはぁはぁ……」"
+  },
+  {
+   "id": "claa03:2100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ほら、すりむいちゃってるわ。保健室、行く？」"
+  },
+  {
+   "id": "claa03:2200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んーん！」"
+  },
+  {
+   "id": "claa03:2300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「なぁ、香月？ ちょうどキリがいいだろ？ これから編集会議を始めるからログアウトを――」"
+  },
+  {
+   "id": "claa03:2400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「今はダメ、かも！」"
+  },
+  {
+   "id": "claa03:2500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「ダメ！ じゃなくて、ログアウトしろよ！」"
+  },
+  {
+   "id": "claa03:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "ちなみに、さっきから香月華が『んー』とか『んんー』とか、あるいは、『……かも』とかたどたどしい言葉を発しているのには理由がある。本来なら普通にしゃべることが出来るのに、だ。"
+  },
+  {
+   "id": "claa03:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "実は彼女には、発声したワードを⟦col:280aa02d1400⟧⟦rb⟧現実化⟦rt⟧リアルブート⟦/r⟧⟦col:800000⟧させてしまうという、恐ろしい能力があるのだ。"
+  },
+  {
+   "id": "claa03:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "たとえば、『こんなバランスの悪いゲーム作った連中、爆発しろ』と口にしようものなら、本当にその会社が爆発してしまうのだ。"
+  },
+  {
+   "id": "claa03:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "そういう事態になるとものすごくまずいので、彼女は『んー』などの意味を持たない音声だけを使っていたのだが――"
+  },
+  {
+   "id": "claa03:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "――最近の久野里さんの研究で、『……かも』など、断定や断言を避ける表現を使えば能力の発現を抑えられることが分かって来た。"
+  },
+  {
+   "id": "claa03:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "ちなみに、ここだけの話だが、僕らの中には他にも特殊な能力を持ってしまっている者がいる。"
+  },
+  {
+   "id": "claa03:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "その原因や能力の論理に関しては長くなる上に難解なので別の機会に譲るとするが、とにかく能力を使わないよう注意しながら、僕らは学園生活を送っているのだ。"
+  },
+  {
+   "id": "claa03:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "かく言うこの僕は――小さな物体や軽い物質に限られるけれど――手を触れずに物を動かすことが出来る。"
+  },
+  {
+   "id": "claa03:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "尾上世莉架は、相手の視覚を通じて、その人が何を考えているのか受信できてしまう『思考盗撮』の持ち主。"
+  },
+  {
+   "id": "claa03:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "有村は、相手の言葉が真実であるか⟦rb⟧欺瞞⟦rt⟧ぎまん⟦/r⟧であるか、ほんの一瞬聞くだけで、判別できてしまう。"
+  },
+  {
+   "id": "claa03:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "そして、うきは、他人の強い『望み』にさらされると、能力が勝手に発現し、相手の望む妄想を無意識に⟦rb⟧現実化⟦rt⟧リアルブート⟦/r⟧させてしまう。"
+  },
+  {
+   "id": "claa03:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "来栖も何か能力を持っているようだが……その話題になるとなぜか口をつぐんでしまうので、どんな能力なのか、まだ誰も教えてもらっていない。"
+  },
+  {
+   "id": "claa03:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "そして、伊藤はといえば！"
+  },
+  {
+   "id": "claa03:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "――今のところ、ひとりだけなんの能力も持っていない。"
+  },
+  {
+   "id": "claa03:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "本人はそのことをものすごく悔しがっていて、『大器晩成って言うだろ？ いつかすごい能力が発現するのさ』と言い張っており――"
+  },
+  {
+   "id": "claa03:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "ときどき怪しげな通販で『⟦col:280aa02d1400⟧エスパーカード⟦col:800000⟧』だの『⟦col:280aa02e1400⟧エスパーリング⟦col:800000⟧』だのを買っては、金の無駄遣いを繰り返している。"
+  },
+  {
+   "id": "claa03:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "もちろん、今の所、それらは全く効果をあげていない。"
+  },
+  {
+   "id": "claa03:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "なお、新聞部のルールとして、『能力を安易に使わない』というのがある。"
+  },
+  {
+   "id": "claa03:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "僕らの同級生の『久野里澪』という天才少女が脳科学の専門家なのだけれど……彼女が僕たちをいつも監視しているからだ。"
+  },
+  {
+   "id": "claa03:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "そして、『能力はまだ分からないことが多く、危険だ。乱用したら命の保証はないぞ』と脅されている。"
+  },
+  {
+   "id": "claa03:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "少しでも能力を使ったことがバレると、ものすごい勢いで⟦rb⟧罵倒⟦rt⟧ばとう⟦/r⟧され、叱られる。その恐ろしさといったら、『生徒会の⟦col:280aa02d1400⟧女帝⟦col:800000⟧』と呼ばれている来栖がキレた時といい勝負だ。"
+  },
+  {
+   "id": "claa03:4700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「ってか、香月？ その階層のボスだったら、先に北のダンジョンに行って、⟦col:280aa02d1400⟧⟦rb⟧水龍殺しの剣⟦rt⟧アクアグラム⟦/r⟧⟦col:800000⟧を手に入れないと、倒せないぞ？」"
+  },
+  {
+   "id": "claa03:4800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んーっ！？」"
+  },
+  {
+   "id": "claa03:4900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いや、そうじゃなくて、ログアウトをだな……！」"
+  },
+  {
+   "id": "claa03:5000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「華ちゃんは、こうなると無理だよ、タク〜」"
+  },
+  {
+   "id": "claa03:5100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そうですね。ははは……」"
+  },
+  {
+   "id": "claa03:5200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「あ、うきちゃんは、何かお菓子いる？ チョコもあるよ？」"
+  },
+  {
+   "id": "claa03:5300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、えと、すみません。私……今、ちょっと“だいえっと”を……」"
+  },
+  {
+   "id": "claa03:5400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ダイエット！？ ちょっとうき、ダメよ？ あなた、⟦rb⟧痩⟦rt⟧や⟦/r⟧せすぎてるくらいなんだから」"
+  },
+  {
+   "id": "claa03:5500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「中学時代から不必要なダイエットとか、身体に悪いわ。いけません」"
+  },
+  {
+   "id": "claa03:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "来栖が、姉らしくピシッと言った。"
+  },
+  {
+   "id": "claa03:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "ちなみに、二人の名字が違うのに『姉』と言ったのには理由があって――来栖乃々も山添うきも渋谷地震で孤児となった被災者であり、今は、同じ青葉寮で暮らしているからだ。"
+  },
+  {
+   "id": "claa03:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "戸籍上は他人なのだが、寮の中では、すっかり本物の姉妹のように暮らしている。"
+  },
+  {
+   "id": "claa03:5900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「で、でも、姉さん……私ね、最近なんか急に体重が増えて来ちゃってるの。お洋服も、胸やお尻のあたりとか、すごくキツイし……」"
+  },
+  {
+   "id": "claa03:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "이토 신지",
+   "jp": "それを聞いた途端、バカ伊藤が、明らかな地雷だと分かりつつ、ふたりの会話に割って入った。"
+  },
+  {
+   "id": "claa03:6100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「そ、それは太ったんじゃないぞ、山添っ」"
+  },
+  {
+   "id": "claa03:6200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「え……？」"
+  },
+  {
+   "id": "claa03:6300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「山添は確か今、中等部の二年だよな？ ということは……おおう、いよいよ、大いなる成長期をむかえようとしているわけかっ？ まさか、こんな所に期待のニューフェースがっ！」"
+  },
+  {
+   "id": "claa03:6400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「オホン。ねぇ、伊藤くん？」"
+  },
+  {
+   "id": "claa03:6500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ぐっ？」"
+  },
+  {
+   "id": "claa03:6600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そういうのって、完全に⟦col:280aa02d1400⟧セクハラ⟦col:800000⟧発言よ？ アウトよ？ 分かってるのかしら？」"
+  },
+  {
+   "id": "claa03:6700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "「わっ、わっ、分かっておりますっ、副部長様っ！」"
+  },
+  {
+   "id": "claa03:6800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "伊藤のバカは、来栖にものすごい目で睨まれて、椅子の上で土下座の態勢に入った。何度も繰り返し言うが、ほんとにバカだ、こいつは。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いや。それとも、伊藤は真性ドＭで、来栖に⟦rb⟧罵⟦rt⟧ののし⟦/r⟧られるのが好きなんだろうか？"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「……？ あの？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「気にすることないわ、うき。今は育ち盛りなんだから、体重とか増えて当然なのよ。気にしちゃダメ。いい？」"
+  }
+ ]
+}

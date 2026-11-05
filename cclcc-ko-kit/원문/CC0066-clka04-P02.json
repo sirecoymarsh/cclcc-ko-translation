@@ -1,0 +1,964 @@
+{
+ "packet_id": "CC0066-clka04-P02",
+ "kit_version": "1.0",
+ "source_file": "clka04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "여자들",
+  "오노에 세리카",
+  "이토 신지",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "なんだ、どうなってる？ なにか深刻な事態なのか？"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「な、なあ、一体なにが――」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "と、その時、"
+  },
+  {
+   "speaker": "新聞部員たち",
+   "speaker_ko": "신문부원들",
+   "jp": "「「「「あっはっはっは！」」」」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "四人が一斉に爆笑した。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「な、なんだよ！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka04:10000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「アッハッハ！ タクったら、忘れちゃう、なんて！」"
+  },
+  {
+   "id": "clka04:10100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「み、宮代先輩！ お、覚えて、無いって、う、うそ、でしょ！」"
+  },
+  {
+   "id": "clka04:10200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「み、みんな、わ、笑い過ぎ、よ！？ 拓、留に、失礼、じゃない。ね、ねえ？」"
+  },
+  {
+   "id": "clka04:10300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うふ、うふふふ……」"
+  },
+  {
+   "id": "clka04:10400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「み、みんな一体どうしたんだよ！」"
+  },
+  {
+   "id": "clka04:10500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「い、ひーっひっひ！ 宮代、らしいぜ！」"
+  },
+  {
+   "id": "clka04:10600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そりゃあ、忘れたくもなるよな！」"
+  },
+  {
+   "id": "clka04:10700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あの時のお前は、輝いてたんだけどな」"
+  },
+  {
+   "id": "clka04:10800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「忘れたくなる？ 輝いてた？」"
+  },
+  {
+   "id": "clka04:10900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「なんのことだ伊藤、僕は昨日、なにをしたんだ！？」"
+  },
+  {
+   "id": "clka04:11000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村、教えてやれよ」"
+  },
+  {
+   "id": "clka04:11100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先輩……」"
+  },
+  {
+   "id": "clka04:11200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「本当に、覚えてないんですね……」"
+  },
+  {
+   "id": "clka04:11300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ひどい……」"
+  },
+  {
+   "id": "clka04:11400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……え？」"
+  },
+  {
+   "id": "clka04:11500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「昨日の夜は、私をあんなに愛してくれたのに……！」"
+  },
+  {
+   "id": "clka04:11600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私、先輩の気持ち、嬉しかったから……」"
+  },
+  {
+   "id": "clka04:11700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代先輩になら、私の初めて、あげてもいいって思って……」"
+  },
+  {
+   "id": "clka04:11800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから……宮代先輩が望んだこと、全部してあげたんですよ」"
+  },
+  {
+   "id": "clka04:11900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私、死んじゃうくらいに恥ずかしかったけど、これで先輩が気持ち良くなってくれるならいいかなって、頑張ったんです」"
+  },
+  {
+   "id": "clka04:12000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なのに、全部忘れちゃうなんて……私をお嫁に行けない身体にしたくせに！」"
+  },
+  {
+   "id": "clka04:12100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「はああっ！？」"
+  },
+  {
+   "id": "clka04:12200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ちょっと拓留！？ あなた、有村さんに何をしたの！？」"
+  },
+  {
+   "id": "clka04:12300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タク〜！？ 女の子を虐めちゃダメなんだよ！？」"
+  },
+  {
+   "id": "clka04:12400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ちょっと待てっ！」"
+  },
+  {
+   "id": "clka04:12500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「確かに覚えてはいないけど……」"
+  },
+  {
+   "id": "clka04:12600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여자들",
+   "jp": "「ひどいっ！」"
+  },
+  {
+   "id": "clka04:12700",
+   "type": "dialogue",
+   "speaker": "女子一同",
+   "speaker_ko": "여자들",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留〜！？」⟦n⟧⟦par⟧「タク〜！！」"
+  },
+  {
+   "id": "clka04:12800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여자들",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いやまて！ 僕は覚えていないけど、お前たちはみんな一緒にいたんだろ！？」"
+  },
+  {
+   "id": "clka04:12900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여자들",
+   "next_speaker": "오노에 세리카",
+   "jp": "「僕が有村になにかしたのかどうか、お前たちの方が分かってる筈だ！」"
+  },
+  {
+   "id": "clka04:13000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、そっか」"
+  },
+  {
+   "id": "clka04:13100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そういえば、そうね」"
+  },
+  {
+   "id": "clka04:13200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ちっ」"
+  },
+  {
+   "id": "clka04:13300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もう少しで莫大な慰謝料を獲得できたのに」"
+  },
+  {
+   "id": "clka04:13400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あああ、有村！？」"
+  },
+  {
+   "id": "clka04:13500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「冗談ですよ、宮代先輩」"
+  },
+  {
+   "id": "clka04:13600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「確かに、昨日の夜の先輩は、あくまで紳士的でしたよ」"
+  },
+  {
+   "id": "clka04:13700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そ、そうか……」"
+  },
+  {
+   "id": "clka04:13800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まあ、言動はド変態でしたけど」"
+  },
+  {
+   "id": "clka04:13900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「はあっ！？」"
+  },
+  {
+   "id": "clka04:14000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それについては同感だわ……。拓留があんな言葉使うなんて」"
+  },
+  {
+   "id": "clka04:14100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あんな言葉！？」"
+  },
+  {
+   "id": "clka04:14200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「顔真っ赤にして演説してたよね〜」"
+  },
+  {
+   "id": "clka04:14300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「演説！？ 僕が！？」"
+  },
+  {
+   "id": "clka04:14400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「オリジナルの歌は、結構はまってたぞ」"
+  },
+  {
+   "id": "clka04:14500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「う、うたっ！？」"
+  },
+  {
+   "id": "clka04:14600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、さすがにあの踊りは、私は下品だと思ったわ」"
+  },
+  {
+   "id": "clka04:14700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「おおおおおどりいいいいっ！？」"
+  },
+  {
+   "id": "clka04:14800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「一体、どんな醜態をさらしたんだ、昨日の僕は！？」"
+  },
+  {
+   "id": "clka04:14900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、忘れたままの方がお前の為だって」"
+  },
+  {
+   "id": "clka04:15000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「余計に気になるだろそれ！？」"
+  },
+  {
+   "id": "clka04:15100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だってさあ、あの時のお前ほんっとに面白くて、ひっひっひ！」"
+  },
+  {
+   "id": "clka04:15200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……ダメだ、こりゃ。"
+  },
+  {
+   "id": "clka04:15300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「わかったもういい。もう僕のことは聞かないから」"
+  },
+  {
+   "id": "clka04:15400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「昨日、なにがあったのかを教えてくれ」"
+  },
+  {
+   "id": "clka04:15500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留、冗談じゃなくて、本当になにも覚えてないのね？」"
+  },
+  {
+   "id": "clka04:15600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ああ」"
+  },
+  {
+   "id": "clka04:15700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「分かったわ。まあ確かに、あれは忘れた方がいい記憶かも、くっ、ふふ……」"
+  },
+  {
+   "id": "clka04:15800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「来栖」"
+  },
+  {
+   "id": "clka04:15900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「ご、ごめんなさい。つい……」"
+  },
+  {
+   "id": "clka04:16000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「オホン」"
+  },
+  {
+   "id": "clka04:16100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「昨日はね、朝から新聞部員が全員集まって、渋谷の取材をしたの」"
+  },
+  {
+   "id": "clka04:16200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「文化祭用の記事のネタ集めで、渋谷の歴史を辿れる場所を巡ったのよ」"
+  },
+  {
+   "id": "clka04:16300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「暗渠に隠れてる渋谷川とか、渋谷地震復興の象徴であるヒカリヲとかね」"
+  },
+  {
+   "id": "clka04:16400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「とはいえ、伊藤くんはずっとお忍びで来てるアイドルがいないか探してて、まともに写真撮ってくれないし」"
+  },
+  {
+   "id": "clka04:16500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「わりいわりい。せっかくの休日だから、ちょっと楽しみが欲しかったのよ」"
+  },
+  {
+   "id": "clka04:16600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「有村さんは地図を見間違えたフリをしてラブホテルの通りに行こうとするしで、大変だったけどね」"
+  },
+  {
+   "id": "clka04:16700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「まあまあ、楽しかったからいいじゃないですか」"
+  },
+  {
+   "id": "clka04:16800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「まあ、それでもなんとか取材が終わって、宮下公園に帰ってきたのは夕方頃だったわね」"
+  },
+  {
+   "id": "clka04:16900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「でも帰るには早いから、自然にお疲れ様会をやろうって話になって」"
+  },
+  {
+   "id": "clka04:17000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「適当にお菓子や飲み物を買って、宮代の車の中で宴会したんだよ」"
+  },
+  {
+   "id": "clka04:17100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そしたら、最初は元気に喋ってたタクが、だんだん口数が減っていって、最後に目をつむって黙り込んじゃって」"
+  },
+  {
+   "id": "clka04:17200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「眠ったのかなって、思ったら――」"
+  },
+  {
+   "id": "clka04:17300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「突然目を見開いて、別人みたいに喋りだしたんです！」"
+  },
+  {
+   "id": "clka04:17400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「顔が真っ赤だったし、飲み物のどれかに未成年が飲んじゃいけない的な、なにかしらがあったんですかねえ」"
+  },
+  {
+   "id": "clka04:17500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「いやーそんな酷いことをしたのは誰なのかなー。けしからんなー」"
+  },
+  {
+   "id": "clka04:17600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "……どう考えてもこいつだな。"
+  },
+  {
+   "id": "clka04:17700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そんでさ、宮代はエンジン全開八面六臂の大活躍だったんだけど」"
+  },
+  {
+   "id": "clka04:17800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「しばらくしたらベッドに倒れて寝ちまってさ。そのまま解散ムードになったんだよ」"
+  },
+  {
+   "id": "clka04:17900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「最初に帰ったのは、有村さんだったかしら？」"
+  },
+  {
+   "id": "clka04:18000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「録画予約を忘れた番組があったもんで」"
+  },
+  {
+   "id": "clka04:18100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「私と世莉架は一緒に帰ったのよね？」"
+  },
+  {
+   "id": "clka04:18200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「うん」"
+  },
+  {
+   "id": "clka04:18300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「タク心配だったけど、一人にするわけじゃないから」"
+  },
+  {
+   "id": "clka04:18400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「伊藤くんが残ってくれたのよ。拓留、伊藤くんに感謝しなさいよ」"
+  },
+  {
+   "id": "clka04:18500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「そうだったのか。すまん、伊藤」"
+  },
+  {
+   "id": "clka04:18600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「気にすんな」"
+  },
+  {
+   "id": "clka04:18700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「こ、これはまさかそういうルートなんですか！？ ついに禁断の扉開いちゃいます！？」"
+  },
+  {
+   "id": "clka04:18800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「アホか」"
+  },
+  {
+   "id": "clka04:18900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代のＰＣ借りてゲームしてたんだよ。うちだと親がうるさいからさ」"
+  },
+  {
+   "id": "clka04:19000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「とはいえ、俺もすぐ寝ちまった。朝、目が覚めたら宮代は一応息してたから、家に帰ったんだ」"
+  },
+  {
+   "id": "clka04:19100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka04:19200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……それで？」"
+  },
+  {
+   "id": "clka04:19300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ なにが？」"
+  },
+  {
+   "id": "clka04:19400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「いやだから、その後は？」"
+  },
+  {
+   "id": "clka04:19500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「その後って、別になんもねえよ」"
+  },
+  {
+   "id": "clka04:19600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そんなわけないだろ！ あそこには、他にもう一人いた筈だ！」"
+  },
+  {
+   "id": "clka04:19700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「タク、何言ってるの？」"
+  },
+  {
+   "id": "clka04:19800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まだ寝ぼけてるのかしら。他には誰もいなかったわよ」"
+  },
+  {
+   "id": "clka04:19900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そこまで言う根拠が、なにかあるわけ？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「それはこの――！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕はポケットに手を入れ、スマホを握りしめた。"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「この、なんです？」"
+  }
+ ]
+}

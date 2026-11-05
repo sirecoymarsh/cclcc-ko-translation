@@ -1,0 +1,822 @@
+{
+ "packet_id": "CC0337-_tips-P05",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＤＱＮ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "どきゅん"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＤＱＮ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ドキュン。反社会的な人。常識のない人。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＦＡ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ふぁいなるあんさー"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:45300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＦＡ"
+  },
+  {
+   "id": "_tips:45400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『ファイナルアンサー』。「つまりそれが最終的な結論である」という意味で使われるネットスラング。元ネタは、全問正解で１０００万円を獲得できる人気クイズ番組。"
+  },
+  {
+   "id": "_tips:45600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＧＥレート"
+  },
+  {
+   "id": "_tips:45700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じーいーれーと"
+  },
+  {
+   "id": "_tips:45800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＧＥレート"
+  },
+  {
+   "id": "_tips:45900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）『Ｇｒａｖｉｔａｔｉｏｎ　Ｅｒｒｏｒ　Ｒａｔｅ』。万有引力のアンバランス化。地層に含まれる磁鉄鉱などの影響で磁場が狂い、それを要因として、狭い範囲で重力バランスが狂うことがある。それを示した数値をＧＥレートと呼ぶ。"
+  },
+  {
+   "id": "_tips:46100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＧＪ"
+  },
+  {
+   "id": "_tips:46200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぐっじょぶ"
+  },
+  {
+   "id": "_tips:46300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＧＪ"
+  },
+  {
+   "id": "_tips:46400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『ＧＯＯＤ　ＪＯＢ』の省略。「よくやった」「いい働きだ」という意味の言葉。"
+  },
+  {
+   "id": "_tips:46600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｋｔｋｒ"
+  },
+  {
+   "id": "_tips:46700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きたこれ"
+  },
+  {
+   "id": "_tips:46800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｋｔｋｒ"
+  },
+  {
+   "id": "_tips:46900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『キタコレ』を省略したもの。物事が思い通りに進み興奮しているさまを表している。"
+  },
+  {
+   "id": "_tips:47100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＫＹ"
+  },
+  {
+   "id": "_tips:47200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "けーわい"
+  },
+  {
+   "id": "_tips:47300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＫＹ"
+  },
+  {
+   "id": "_tips:47400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "空気が読めないこと、または空気が読めない人のこと。"
+  },
+  {
+   "id": "_tips:47600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｍｊｄ"
+  },
+  {
+   "id": "_tips:47700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まじで"
+  },
+  {
+   "id": "_tips:47800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｍｊｄ"
+  },
+  {
+   "id": "_tips:47900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『マジで』を省略したもの。ネットスラング。"
+  },
+  {
+   "id": "_tips:48100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＮＴＲ"
+  },
+  {
+   "id": "_tips:48200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ねとられ"
+  },
+  {
+   "id": "_tips:48300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＮＴＲ"
+  },
+  {
+   "id": "_tips:48400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "フェチ的な属性の一種。主に１８禁アドベンチャーゲームにおけるニッチなジャンルとして知られる。主人公の男性と相思相愛、あるいはどちらかの片想い状態にある女性ヒロインが、主人公以外の男性と（合意の上なのか無理矢理なのかを問わず）関係を持ってしまうこと。そのもどかしさややりきれなさに興奮を覚えるとされているが、一般的な認知度は低い。"
+  },
+  {
+   "id": "_tips:48600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｏｒｚ"
+  },
+  {
+   "id": "_tips:48700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おるつ"
+  },
+  {
+   "id": "_tips:48800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｏｒｚ"
+  },
+  {
+   "id": "_tips:48900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "人が四つん這いの状態で落ち込んでいる様子を描いた絵文字。『ｏ』が頭、『ｒ』が手と胴体、『ｚ』が足である。失意や落胆、挫折の気持ちを表現したいときに用いるのが一般的。読み方は厳密には決まっておらず人それぞれで、『オルツ』『オルズ』『オアズ』あるいは『失意体前屈』などという呼び方がある。"
+  },
+  {
+   "id": "_tips:49100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＯＭ"
+  },
+  {
+   "id": "_tips:49200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ろむ"
+  },
+  {
+   "id": "_tips:49300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＯＭ"
+  },
+  {
+   "id": "_tips:49400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｒｅａｄ　Ｏｎｌｙ　Ｍｅｍｂｅｒ。ネット掲示板等において、書き込みをせずに読むだけの人を指す。『ＲＯＭってろ』という言い方は『書き込みせずに黙ってろ』という意味に等しい。"
+  },
+  {
+   "id": "_tips:49600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｗ"
+  },
+  {
+   "id": "_tips:49700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "わらい"
+  },
+  {
+   "id": "_tips:49800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｗ"
+  },
+  {
+   "id": "_tips:49900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（笑）のローマ字（ｗａｒａｉ）を省略したもの。発祥は海外製オンラインゲームだと言われている。語尾、あるいは文章の途中にこれを付けることで、笑っていること、おかしいことを表現する。ネットの匿名掲示板では『ｗｗｗｗｗ』といくつも繰り返すことで、より高い感情の度合いを表現したり、相手への嘲笑の意味としても使われる。その見た目から『草を生やす』という言い方をする場合もある。"
+  },
+  {
+   "id": "_tips:50100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｗｋｔｋ"
+  },
+  {
+   "id": "_tips:50200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "わくてか"
+  },
+  {
+   "id": "_tips:50300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ｗｋｔｋ"
+  },
+  {
+   "id": "_tips:50400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。ワクワクテカテカの略。期待してワクワクしていること。"
+  },
+  {
+   "id": "_tips:50600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "＠ちゃんねる"
+  },
+  {
+   "id": "_tips:50700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あっとちゃんねる"
+  },
+  {
+   "id": "_tips:50800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "＠ちゃんねる"
+  },
+  {
+   "id": "_tips:50900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）日本でも最大規模のアクセス数を持つ、匿名の巨大掲示板。キャッチフレーズは『ハッキングから今晩のおかずまで』であり、アングラな話題から一般的な話題まで、多種多様な内容が投稿されている。"
+  },
+  {
+   "id": "_tips:51000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:51100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "妄想シンクロ"
+  },
+  {
+   "id": "_tips:51200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "もうそうしんくろ"
+  },
+  {
+   "id": "_tips:51300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "もうそうしんくろ"
+  },
+  {
+   "id": "_tips:51400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）他人の見ている妄想にシンクロすることで、心の中に干渉すること。これにより自分に都合のいい周囲共通認識を強引に作り出すことも可能。ギガロマニアックスにしか使うことはできない。"
+  },
+  {
+   "id": "_tips:51500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:51600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "カオスチャイルド症候群"
+  },
+  {
+   "id": "_tips:51700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かおすちゃいるどしょうこうぐん"
+  },
+  {
+   "id": "_tips:51800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かおすちゃいるどしょうこうぐん"
+  },
+  {
+   "id": "_tips:51900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）渋谷地震の被災者の一部が発症した、特定の病状。外見に著しい老化現象が見られ、頻繁に幻覚を見るなどの症状が特徴。心因性の精神疾患だと考えられているが、詳細は不明。発症者全員が渋谷地震当時若い子どもだったのが大きな特徴で、渋谷ではカオスチャイルド症候群者専門の施設も作られ運営されている。２０１６年春の時点で、驚くべき事に発症者全員に劇的な症状の改善が見られ、ほぼ収束した。"
+  },
+  {
+   "id": "_tips:52000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:52100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "エクストリーム土下座"
+  },
+  {
+   "id": "_tips:52200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えくすとりーむどげざ"
+  },
+  {
+   "id": "_tips:52300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えくすとりぃむどげざ"
+  },
+  {
+   "id": "_tips:52400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ただの土下座ではインパクトに欠ける。そんなときに行うと効果的な、よりダイナミックな土下座方法。ジャンプしてからの土下座、前方回転してからの土下座、バク転してからの土下座など、そのバリエーションは実に様々。ただしやりすぎると逆に「ふざけるな」と相手をさらに怒らせてしまう諸刃の剣だ。"
+  },
+  {
+   "id": "_tips:52500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:52600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "疑似ディソード"
+  },
+  {
+   "id": "_tips:52700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぎじでぃそーど"
+  },
+  {
+   "id": "_tips:52800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぎじでぃそぉど"
+  },
+  {
+   "id": "_tips:52900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "久野里澪の持つ、ディソードのレプリカ。アメリカにいた頃に、とあるギガロマニアックスの女性のディソードを、聞き取り調査を元に忠実に再現したもの。澪は日本に帰ってきたときにこれを荷物としてわざわざ持ってきたということになる。研究機関に資金を出してもらい、アルミニウム合金から削り出して制作された。なので振り回したら頭蓋骨ぐらいは簡単に砕ける。"
+  },
+  {
+   "id": "_tips:53000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:53100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ギガロマニアックス"
+  },
+  {
+   "id": "_tips:53200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぎがろまにあっくす"
+  },
+  {
+   "id": "_tips:53300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぎがろまにあっくす"
+  },
+  {
+   "id": "_tips:53400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）超誇大妄想能力者。妄想を具現化する能力を持つ。ギガロマニアックスは必ずディソードと呼ばれる妄想の剣を持ち、その剣を用いてディラックの海に干渉、対生成を起こして粒子と反粒子を取り出す。その粒子を人間の目に必ず存在している死角『デッドスポット』へ飛ばすことにより、妄想を『周囲共通認識』として成立させ、エラー（妄想）を現実にしてしまうのである。この行為を『リアルブート』と呼ぶ。覚醒するためには、想像を絶するような精神的負荷を与えられることが必要である。"
+  },
+  {
+   "id": "_tips:53500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "科学"
+  },
+  {
+   "id": "_tips:53600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "因果律"
+  },
+  {
+   "id": "_tips:53700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いんがりつ"
+  },
+  {
+   "id": "_tips:53800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いんがりつ"
+  },
+  {
+   "id": "_tips:53900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あらゆる出来事には、必ず原因があり、それによって結果が生まれるという考え方。相対性理論はこの考え方を根底に置いている。⟦n⟧ただし量子力学のようなミクロな世界においては、必ずしも因果律が当てはまらない現象も確認されている。"
+  },
+  {
+   "id": "_tips:54000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:54100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "クールキャットプレス"
+  },
+  {
+   "id": "_tips:54200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くーるきゃっとぷれす"
+  },
+  {
+   "id": "_tips:54300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くぅるきゃっとぷれす"
+  },
+  {
+   "id": "_tips:54400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）１９７９年に創刊された、若い男性読者をターゲットにした情報誌。女性の口説き方やイケてるファッション、ファーストキスの場所で最も多いところなど真偽が定かでない情報を多数収録した、いわゆるデートマニュアル。特に８０年代後半から９０年代前半にかけて人気を博したが、次第に部数が減少し、２００４年に休刊。古本屋の雑誌コーナーにおいて、現在でも見かけることが出来る。"
+  },
+  {
+   "id": "_tips:54500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:54600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ダゴンの王"
+  },
+  {
+   "id": "_tips:54700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だごんのおう"
+  },
+  {
+   "id": "_tips:54800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だごんのおう"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "魚の頭部を持つ海神。本来は古代パレスチナでペリシテ人が信仰していた聖なる神であったが、ペリシテ人と敵対するイスラエル人によって悪魔扱いを受けることとなった。そのため、ユダヤ教圏やキリスト教圏では悪魔の一人と目されており、Ｈ・Ｐ・ラブクラフトのクトゥルフ神話でも旧支配者クトゥルフに仕える邪神として登場する。なお、最近の研究では、海神ではなく農耕神であった可能性も指摘されている。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "科学"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "エスパーカード"
+  }
+ ]
+}

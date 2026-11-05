@@ -1,0 +1,779 @@
+{
+ "packet_id": "CC0179-clse07-P20",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "카와하라 마사시"
+ ],
+ "context_before": [
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「宮代と一緒に写っている相手は僕も良く知っている人物だ」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「確か彼女は海外に留学中のはずだったが、どうして彼と一緒にいたのか……まあ、だが今はそれも問題ではない」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「問題は彼女が、宮代拓留と同じ屋根の下で暮らしていながら、さらには子どもまでいるということだ」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「さっきも言ったとおり『校内恋愛禁止令』はあくまでも学内での話ではある」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「が、しかしそれも、この学園の生徒として節度ある振る舞いをしていること前提での話だ！」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「学生の身分でありながら同棲している上に子どもまでいる！ さすがにこの事実を見逃していては、学校内の風紀は乱れると我々生徒会は判断した！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:186200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「したがって、今回の緊急集会を招集したわけだが……僕たちだって、当事者の言い訳も聞かずに糾弾するつもりはない」"
+  },
+  {
+   "id": "clse07:186300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さあ、宮代。これはどういう事だか、説明してもらおう」"
+  },
+  {
+   "id": "clse07:186400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それは？」"
+  },
+  {
+   "id": "clse07:186500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「悪いが来栖。僕は宮代に聞いているんだ。君には聞いていない」"
+  },
+  {
+   "id": "clse07:186600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……まあいい。それじゃあ訊こう。あの赤ん坊は？」"
+  },
+  {
+   "id": "clse07:186700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ、南さ……赤ん坊を抱いていた彼女はどうして一緒に住んでいる？」"
+  },
+  {
+   "id": "clse07:186800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「先日？ 学校は？」"
+  },
+  {
+   "id": "clse07:186900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「念のため、近隣の学校を調べてみたが、彼女の名前は無かった。それはどういうことだ？」"
+  },
+  {
+   "id": "clse07:187000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしかしたら、彼女が留学していたというのは嘘なんじゃないのか？」"
+  },
+  {
+   "id": "clse07:187100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あるいは、留学していたが既に戻って来ていた。そしてその後、宮代拓留と良い仲になり、子どもを産んだ……そう考えればこの光景にも合点がいく……」"
+  },
+  {
+   "id": "clse07:187200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いいか、来栖。そもそも僕は、前々から君と宮代が同じ施設で暮らしていることにも疑問を感じていた」"
+  },
+  {
+   "id": "clse07:187300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「多感な年ごろの学生同士が複数、それも異性と寝食を共にするだなんて、如何わしいことを起こすなという方が無理なんだ」"
+  },
+  {
+   "id": "clse07:187400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もちろん、君のことは信じているさ、来栖。だが他の連中のことは別だ」"
+  },
+  {
+   "id": "clse07:187500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあ、この映像は何かの間違いだって言うんだな？」"
+  },
+  {
+   "id": "clse07:187600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「君はどうなんだ、宮代？ 女子に庇われてばかりいないで、少しは言い訳したらどうだ？」"
+  },
+  {
+   "id": "clse07:187700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「聞こえないな」"
+  },
+  {
+   "id": "clse07:187800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあ、当事者はそう言うだろうな」"
+  },
+  {
+   "id": "clse07:187900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあいい。だったらこうしよう。君たちは、この相手の女子を連れてくるがいい」"
+  },
+  {
+   "id": "clse07:188000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「彼女に来てもらい、君たちの言うことが事実だと皆の前できちんと証言してもらえば、真実だと認めよう」"
+  },
+  {
+   "id": "clse07:188100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうだ？」"
+  },
+  {
+   "id": "clse07:188200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうした？ そんなに難しい話じゃないと思うが？」"
+  },
+  {
+   "id": "clse07:188300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「できなければ、この映像がすべてということで、宮代に対してそれなりの措置をとらせてもらうことになる。それだけだ」"
+  },
+  {
+   "id": "clse07:188400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代」"
+  },
+  {
+   "id": "clse07:188500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「聞いたとおりだ。今日の放課後、生徒集会を行う。目的はわかるな？」"
+  },
+  {
+   "id": "clse07:188600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「逃げるなよ」"
+  },
+  {
+   "id": "clse07:188700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふん……珍しく言うじゃないか。それでこそ、放課後が楽しみというものだ」"
+  },
+  {
+   "id": "clse07:188800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「良く逃げずに来たな、宮代。その勇気だけは褒めてやろう」"
+  },
+  {
+   "id": "clse07:188900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さて、それじゃあ早速本題に入ろうか」"
+  },
+  {
+   "id": "clse07:189000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代拓留。ここに来たということは、同棲と赤ん坊の件について、我々を納得させる理由を持ってきたということか？」"
+  },
+  {
+   "id": "clse07:189100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それとも、我々の想像が、単なる想像ではなく事実だと認めるためか。どっちだ？」"
+  },
+  {
+   "id": "clse07:189200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしも、我々の納得いく理由を提示できるなら、こちらも非を認め、君に謝罪しよう」"
+  },
+  {
+   "id": "clse07:189300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だが、事実であるなら……残念だが生徒会としても、この騒ぎの原因となる君を捨ておくわけにはいかない」"
+  },
+  {
+   "id": "clse07:189400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「学園に直談判して、然るべき措置をとってもらうことになるだろう」"
+  },
+  {
+   "id": "clse07:189500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さて、答えてもらおうか。あれは事実なのか否か……」"
+  },
+  {
+   "id": "clse07:189600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「答えられないのか、宮代？」"
+  },
+  {
+   "id": "clse07:189700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうした？ だんまりか？」"
+  },
+  {
+   "id": "clse07:189800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「答えられないなら、事実と認めることになるが、それでもいいのか？」"
+  },
+  {
+   "id": "clse07:189900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「一部？ それはどういうことだ？」"
+  },
+  {
+   "id": "clse07:190000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ということは……彼女、南沢泉理が一緒に住んでいるという件に関しては？」"
+  },
+  {
+   "id": "clse07:190100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それはつまり、学園に申請している以外の人間を住まわせているということだな？」"
+  },
+  {
+   "id": "clse07:190200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こちらとしては、それを不適切な関係だと受け取らざるを得ないが？」"
+  },
+  {
+   "id": "clse07:190300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふんっ。おかしな話だな。疚しいことがないなら、どうして申請していないんだ？」"
+  },
+  {
+   "id": "clse07:190400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあいい。そういうことなら、張本人である彼女の言い分を聞いて判断しようじゃないか。さあ、彼女をここへ」"
+  },
+  {
+   "id": "clse07:190500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうした？ 連ているんじゃないのか？」"
+  },
+  {
+   "id": "clse07:190600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「連れて来られないということは、君の言うことを証明する術はない、ということになるが、それでもいいのか？」"
+  },
+  {
+   "id": "clse07:190700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「君がそう言うなら、こちらは一向にかまわないが……一応理由を聞いておこうか」"
+  },
+  {
+   "id": "clse07:190800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだ。彼女をここに連れて来られない、その理由だ」"
+  },
+  {
+   "id": "clse07:190900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:191000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はは……ははは……はははははは！！！」"
+  },
+  {
+   "id": "clse07:191100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい、聞いたか、みんな？ 認めた！ 認めたぞ！」"
+  },
+  {
+   "id": "clse07:191200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「前にも言ったとおり、確かに今回の件は、我々の定めた校則には抵触しないかもしれない」"
+  },
+  {
+   "id": "clse07:191300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だが、同棲となるとそれ以前の問題だ！」"
+  },
+  {
+   "id": "clse07:191400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「彼がいくら口で不純な関係ではないと言ったところで、それを証明する術はない！」"
+  },
+  {
+   "id": "clse07:191500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それどころか宮代拓留は、自ら証拠の提出と弁明を放棄した！ これは我々の主張をすべて認めるということに他ならない！」"
+  },
+  {
+   "id": "clse07:191600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よって、我々生徒会は、学園に対し宮代拓留の退学を要求する！」"
+  },
+  {
+   "id": "clse07:191700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さあ、生徒会の決定に賛成の者は拍手を！！」"
+  },
+  {
+   "id": "clse07:191800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「来栖……」"
+  },
+  {
+   "id": "clse07:191900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「来栖。残念だがもう遅い。たった今宮代は――」"
+  },
+  {
+   "id": "clse07:192000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ま、間違ってる？ 俺が？ そんなわけないだろ。あの校則だって、今回のことだって、皆が賛成してくれたからこそ可決されたんだ」"
+  },
+  {
+   "id": "clse07:192100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「大半が俺の考えに賛同したということは、つまり俺は正しいということに他ならない」"
+  },
+  {
+   "id": "clse07:192200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「た、大切だと思う人……だって？」"
+  },
+  {
+   "id": "clse07:192300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それは……まさか……宮代のことじゃない……だろうな……？」"
+  },
+  {
+   "id": "clse07:192400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ダメだ！ そんなの絶対に許さない！！」"
+  },
+  {
+   "id": "clse07:192500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……！ だ、だいたい宮代は、別の女とデキてるんだろ！ しかも相手は、君の友達でもある南沢泉理だ！」"
+  },
+  {
+   "id": "clse07:192600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それだけじゃない、彼女との間に赤ん坊までいるんだぞ！！ 生徒会として、そんなの許すわけには――」"
+  },
+  {
+   "id": "clse07:192700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「間違ってなんてない！ そもそも証拠が――」"
+  },
+  {
+   "id": "clse07:192800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「く……」"
+  },
+  {
+   "id": "clse07:192900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くくく……あははははは――あーっはっはっはっは！！ まったく、いきなり何を言い出すのかと思ったら……」"
+  },
+  {
+   "id": "clse07:193000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「来栖。悪いが今は君の冗談を聞いてる場合じゃない。そういう話なら後にしてくれ」"
+  },
+  {
+   "id": "clse07:193100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「い、言っている意味がわからないな。確かに彼女のことは僕も良く知っているが、どこから見ても君は来栖乃々じゃないか」"
+  },
+  {
+   "id": "clse07:193200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それとも何か？ 特殊メイクか何かで君が変装していたとでも言うつもりか？」"
+  },
+  {
+   "id": "clse07:193300",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それこそ馬鹿げた話だ！ そもそも君にはそんなことをする理由がない！」"
+  },
+  {
+   "id": "clse07:193400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だったら、その話は――」"
+  },
+  {
+   "id": "clse07:193500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぁ……あぁ……」"
+  },
+  {
+   "id": "clse07:193600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……あぁ……ぁぁぁ……」"
+  },
+  {
+   "id": "clse07:193700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代」"
+  },
+  {
+   "id": "clse07:193800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その……来栖から連絡はあったか？」"
+  },
+  {
+   "id": "clse07:193900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうか。それにしても、来栖も冷たい奴だよな。誰にも何も言わずに、留学しちまうなんて」"
+  },
+  {
+   "id": "clse07:194000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、さすがにお前は知ってたんだろ？」"
+  },
+  {
+   "id": "clse07:194100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうか……。ま、あいつにとって俺は長い付き合いってだけの存在だったってことか……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「あ、でも言っておくが、落ち込んでるわけじゃないからな。別に、女はあいつだけじゃないし」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「それに、久しぶりに会ってみると、あいつもなかなか……」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「ちょっと、な……」"
+  }
+ ]
+}

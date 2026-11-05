@@ -1,0 +1,344 @@
+{
+ "packet_id": "CC0303-clyu18-P04",
+ "kit_version": "1.0",
+ "source_file": "clyu18.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "오노에 세리카",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "jp": "「そんなことないもん！ きっと来てくれるもん！」"
+  },
+  {
+   "speaker": "生主",
+   "speaker_ko": "BJ",
+   "jp": "「は？ まだそんなこと言ってるんだ？ だいたい場所もわからないのに、誰が来るっていうんだよ？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その時、結衣が画面のこちら――生主を見据えた。"
+  },
+  {
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "jp": "「お兄ちゃんが……拓留兄が必ず来てくれるもん！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "それは、強い意思と、そして信頼のこもった目だった。"
+  },
+  {
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "jp": "「拓留兄がきっと助けに来てくれるもん！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu18:29400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유이",
+   "next_speaker": "오노에 세리카",
+   "jp": "「結衣……」"
+  },
+  {
+   "id": "clyu18:29500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣がこんなにも僕のことを頼ってくれていたなんて……。"
+  },
+  {
+   "id": "clyu18:29600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その事実に、僕は少なからず衝撃を受けていた。"
+  },
+  {
+   "id": "clyu18:29700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、その思いになんとか応えたいと、心からそう思った。"
+  },
+  {
+   "id": "clyu18:29800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유이",
+   "next_speaker": "오노에 세리카",
+   "jp": "「くそっ！ なんだっけ……この引っ掛かりは……！」"
+  },
+  {
+   "id": "clyu18:29900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうしたの、タク？」"
+  },
+  {
+   "id": "clyu18:30000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「結衣の話……壁に顔ってのがどうしても引っかかるんだ。どこかで見たような気が……尾上は心当たりないか！？」"
+  },
+  {
+   "id": "clyu18:30100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う……ごめん、私、わかんない……」"
+  },
+  {
+   "id": "clyu18:30200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや、確かに見た気がする。"
+  },
+  {
+   "id": "clyu18:30300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あれは、どこだったか……。"
+  },
+  {
+   "id": "clyu18:30400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「香月！ 写真、あるよな！？」"
+  },
+  {
+   "id": "clyu18:30500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "取材で外出した際、僕はできるだけ行った場所を写真に収めるようにしている。"
+  },
+  {
+   "id": "clyu18:30600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "後で、それがどんな事件の手掛かりに繋がるかもわからないからだ。"
+  },
+  {
+   "id": "clyu18:30700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "壁に顔……それをつい最近、僕は見たような気がする。"
+  },
+  {
+   "id": "clyu18:30800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "それもここ最近の写真の中で。"
+  },
+  {
+   "id": "clyu18:30900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clyu18:31000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月はここ数か月で撮った写真を引き出しから引っ張り出して、僕に手渡した。"
+  },
+  {
+   "id": "clyu18:31100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この中に、きっと手掛かりがあるはずだ。"
+  },
+  {
+   "id": "clyu18:31200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "（ゲンさんの話だと、結衣を見かけたのは、学校の近くということだ……）"
+  },
+  {
+   "id": "clyu18:31300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "신조 타케시",
+   "jp": "（そこから１５分の範囲で行ける場所といえば……）"
+  },
+  {
+   "id": "clyu18:31400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "신조 타케시",
+   "jp": "「結衣によると、部屋には大きな丸いベッドがあると言っていた）"
+  },
+  {
+   "id": "clyu18:31500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "신조 타케시",
+   "jp": "（そして、壁に浮かんだ顔……）"
+  },
+  {
+   "id": "clyu18:31600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "신조 타케시",
+   "jp": "（この中で、その話と一致するのは……）"
+  },
+  {
+   "id": "clyu18:31700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "신조 타케시",
+   "jp": "（こいつだ！）"
+  },
+  {
+   "id": "clyu18:31800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "（……いや、違うな。これじゃあ、結人の話に合致しない）"
+  },
+  {
+   "id": "clyu18:31900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "（もう一度、考えるんだ）"
+  },
+  {
+   "id": "clyu18:32000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「間違いない！ ここだ！」"
+  },
+  {
+   "id": "clyu18:32100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「おい、そこは――」"
+  },
+  {
+   "id": "clyu18:32200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "この前、『回転ジェット』の取材で忍び込もうとしたホテルの外。"
+  },
+  {
+   "id": "clyu18:32300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「壁に……顔……」"
+  },
+  {
+   "id": "clyu18:32400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そこには、人の顔をした妙なシールが貼られていた。"
+  },
+  {
+   "id": "clyu18:32500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "신조 타케시",
+   "jp": "「このシールはちょうど３階あたりに貼られています。つまり、窓からこのシールが見える部屋に、結衣がいるはずです！！」"
+  },
+  {
+   "id": "clyu18:32600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「あのホテルか！！」"
+  }
+ ],
+ "context_after": []
+}

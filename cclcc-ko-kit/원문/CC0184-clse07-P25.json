@@ -1,0 +1,960 @@
+{
+ "packet_id": "CC0184-clse07-P25",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "카즈키 하나",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「お湯が、溜まったんだと思う」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「んーん」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「先に、どうぞ」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……んんん」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……シャワーの音が聞こえたら、恥ずかしいから」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「どれくらい聞こえるのか、確かめたい」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:234200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「だから先に、入って」"
+  },
+  {
+   "id": "clse07:234300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「それだけじゃ、ない」"
+  },
+  {
+   "id": "clse07:234400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「わたしが、あそこにいられる理由」"
+  },
+  {
+   "id": "clse07:234500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「乃々先輩だけじゃ、ない」"
+  },
+  {
+   "id": "clse07:234600",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「なにを気にしないの？」"
+  },
+  {
+   "id": "clse07:234700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ＹＥＳ！ お背中流しに来ました！」"
+  },
+  {
+   "id": "clse07:234800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「どう？ 可愛いでしょ！」"
+  },
+  {
+   "id": "clse07:234900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「裸の先輩に言われたくないなあ」"
+  },
+  {
+   "id": "clse07:235000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「隠さなくていいよお。先輩思ったより筋肉質だね」"
+  },
+  {
+   "id": "clse07:235100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「えー？ 宮代先輩は、こういうの脱がせるのが好きなんだと思ってた」"
+  },
+  {
+   "id": "clse07:235200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「それともやっぱり水着より制服が良かった？ 今日は持ってきてないけど、この後家に寄ってくれれば着てあげるよ♪」"
+  },
+  {
+   "id": "clse07:235300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「着衣プレイの話でしょ？」"
+  },
+  {
+   "id": "clse07:235400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「まあまあ、いいじゃない」"
+  },
+  {
+   "id": "clse07:235500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ね、先輩。ラブホに入ったのは、運命だったんだよ」"
+  },
+  {
+   "id": "clse07:235600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あたしと先輩は、こうなる運命だったの」"
+  },
+  {
+   "id": "clse07:235700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、楽しもうよ。今日一日だけだからさ」"
+  },
+  {
+   "id": "clse07:235800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「先輩だって、こんな可愛い子にしてもらえるんだよ？」"
+  },
+  {
+   "id": "clse07:235900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「きっと、今まで生きてきたなかで、一番気持ちいい経験になるよ」"
+  },
+  {
+   "id": "clse07:236000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「大丈夫、全部あたしがしてあげるから。先輩はじっとしてるだけでいいの」"
+  },
+  {
+   "id": "clse07:236100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「きっと、忘れられない思い出になるよ……」"
+  },
+  {
+   "id": "clse07:236200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあ、お背中流しますね」"
+  },
+  {
+   "id": "clse07:236300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んふ」"
+  },
+  {
+   "id": "clse07:236400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと準備しますね」"
+  },
+  {
+   "id": "clse07:236500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んふ」"
+  },
+  {
+   "id": "clse07:236600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さあ、準備できました」"
+  },
+  {
+   "id": "clse07:236700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「先輩の身体を洗う準備です」"
+  },
+  {
+   "id": "clse07:236800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「スポンジはあ・た・し」"
+  },
+  {
+   "id": "clse07:236900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「先輩、わかる？」"
+  },
+  {
+   "id": "clse07:237000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おっぱいのさきっちょ♪」"
+  },
+  {
+   "id": "clse07:237100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そ。どこにあるかわかる？」"
+  },
+  {
+   "id": "clse07:237200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだよ。私も先輩とこうしてて、興奮してるの」"
+  },
+  {
+   "id": "clse07:237300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さきっちょ、勃っちゃった」"
+  },
+  {
+   "id": "clse07:237400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「せんぱあい！ あたしをあいして！」"
+  },
+  {
+   "id": "clse07:237500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なーんてね。嘘」"
+  },
+  {
+   "id": "clse07:237600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「華が恥ずかしがって先輩を先にシャワー浴びさせたでしょ」"
+  },
+  {
+   "id": "clse07:237700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、やっぱり身体冷え切って限界だったみたいなの」"
+  },
+  {
+   "id": "clse07:237800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そそそ。で、もう我慢できなくて、どうしようって⟦rb⟧あたし⟦rt⟧⟦rbc⟧●●●⟦/r⟧に相談してきてさ」"
+  },
+  {
+   "id": "clse07:237900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん。それで、だったら宮代先輩と一緒にシャワー浴びればいいって提案したの」"
+  },
+  {
+   "id": "clse07:238000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「華は恥ずかしがったけど、水着を着るし、脱がないってことを約束して、あたしに切り替えさせてもらったの」"
+  },
+  {
+   "id": "clse07:238100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「というわけで、一緒にお風呂入ろうよ。宮代先輩♪」"
+  },
+  {
+   "id": "clse07:238200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「気にしないって言ったじゃーん」"
+  },
+  {
+   "id": "clse07:238300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「大丈夫だよ。もう全部見ちゃったし。なかなかいいモノ持ってるね先輩」"
+  },
+  {
+   "id": "clse07:238400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ほらほら、肩まで浸かろうよ。身体が芯まで温まるよ」"
+  },
+  {
+   "id": "clse07:238500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「えーじゃあさ、こういうのはどう？」"
+  },
+  {
+   "id": "clse07:238600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「湯船に浸かってる間。華のおっぱいを枕にして寝ていいからさ♪」"
+  },
+  {
+   "id": "clse07:238700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:238800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「うっそ！」"
+  },
+  {
+   "id": "clse07:238900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ちょっと先輩！ 大丈夫！？」"
+  },
+  {
+   "id": "clse07:239000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「起きて！ ねえ、起きてってば！」"
+  },
+  {
+   "id": "clse07:239100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「先輩！」"
+  },
+  {
+   "id": "clse07:239200",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「……もう、やめたい、かも」"
+  },
+  {
+   "id": "clse07:239300",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「どうして？」"
+  },
+  {
+   "id": "clse07:239400",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「んー……！」"
+  },
+  {
+   "id": "clse07:239500",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ここまで来たんだから、最後までやろうよ」"
+  },
+  {
+   "id": "clse07:239600",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「……んんん。でも……」"
+  },
+  {
+   "id": "clse07:239700",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「こんなのよくない、かも」"
+  },
+  {
+   "id": "clse07:239800",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「よくないって、なにが？」"
+  },
+  {
+   "id": "clse07:239900",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「なにが、って……」"
+  },
+  {
+   "id": "clse07:240000",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「んんん……」"
+  },
+  {
+   "id": "clse07:240100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「だって、こんなのズルい、かも」"
+  },
+  {
+   "id": "clse07:240200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「……」"
+  },
+  {
+   "id": "clse07:240300",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ズルい？ どこがズルいの？」"
+  },
+  {
+   "id": "clse07:240400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「んんん……」"
+  },
+  {
+   "id": "clse07:240500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ダメよ。ちゃんと言葉にして」"
+  },
+  {
+   "id": "clse07:240600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:240700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「だって……」"
+  },
+  {
+   "id": "clse07:240800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「拓留先輩の気持ちを、利用してる、かも」"
+  },
+  {
+   "id": "clse07:240900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「先輩は、あなたのワガママに振り回されてると思ってる、かも」"
+  },
+  {
+   "id": "clse07:241000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「その通りじゃない。だからあんたが気にすることなんかなんにもないのよ」"
+  },
+  {
+   "id": "clse07:241100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「んんん！」"
+  },
+  {
+   "id": "clse07:241200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それが、利用してる、かも」"
+  },
+  {
+   "id": "clse07:241300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わかんないわね。利用してるって、誰が？」"
+  },
+  {
+   "id": "clse07:241400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:241500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私、達、かも」"
+  },
+  {
+   "id": "clse07:241600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あたし達？」"
+  },
+  {
+   "id": "clse07:241700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ううん、違う、かも」"
+  },
+  {
+   "id": "clse07:241800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留先輩の気持ちを利用しているのは――」"
+  },
+  {
+   "id": "clse07:241900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――わたし、かも」"
+  },
+  {
+   "id": "clse07:242000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clse07:242100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ふう」"
+  },
+  {
+   "id": "clse07:242200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうね。その通り」"
+  },
+  {
+   "id": "clse07:242300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代先輩の気持ちを利用しているのは、あたし達じゃなくて、あんた。あんただけよ」"
+  },
+  {
+   "id": "clse07:242400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「確かにあたしは宮代先輩とできるだけ長くデートがしたい。キスがしたい。できるんだったら処女だって捧げたい」"
+  },
+  {
+   "id": "clse07:242500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でもね、分かってるんでしょう？ あたしがどうしてそんなに宮代先輩が好きなのか」"
+  },
+  {
+   "id": "clse07:242600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clse07:242700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ん」"
+  },
+  {
+   "id": "clse07:242800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……それ、は。わたしが望んでいるから、かも」"
+  },
+  {
+   "id": "clse07:242900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうよ、あんたが望んでるから、あたしはここにいる」"
+  },
+  {
+   "id": "clse07:243000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「引っ込み思案で、コミュ障で、おまけに厄介な能力のおかげで喋ることもママならないあんたの代わりにここにいるの」"
+  },
+  {
+   "id": "clse07:243100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「⟦rb⟧あんたが⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧宮代先輩と⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧⟦rb⟧デートを⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧したいと⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧思ってるから⟦rt⟧⟦rbc⟧●●●●●●⟦/r⟧、⟦rb⟧あたしは⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧ここに⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧いるのよ⟦rt⟧⟦rbc⟧●●●●⟦/r⟧」"
+  },
+  {
+   "id": "clse07:243200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……っ！？」"
+  },
+  {
+   "id": "clse07:243300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んんんん！！！！」"
+  },
+  {
+   "id": "clse07:243400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "핑크 2",
+   "jp": "「……」"
+  },
+  {
+   "id": "clse07:243500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "핑크 2",
+   "jp": "「んっ！！」"
+  },
+  {
+   "id": "clse07:243600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "핑크 2",
+   "jp": "「……」"
+  },
+  {
+   "id": "clse07:243700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "핑크 2",
+   "jp": "「……ごめん、なさい」"
+  },
+  {
+   "id": "clse07:243800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "핑크 2",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:243900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "핑크 2",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:244000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "핑크 2",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:244100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "핑크 2",
+   "jp": "「…………」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "ピンク２",
+   "speaker_ko": "핑크 2",
+   "jp": "「んもー、いつまで辛気くさいことやってんのよ」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ん！？」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ど、どうして……！？」"
+  }
+ ]
+}

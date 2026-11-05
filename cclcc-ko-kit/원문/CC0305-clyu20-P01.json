@@ -1,0 +1,935 @@
+{
+ "packet_id": "CC0305-clyu20-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu20.msb",
+ "speakers_in_packet": [
+  "남자",
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "쿠루스 노노",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu20:0",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「そこまでだ！！」"
+  },
+  {
+   "id": "clyu20:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "타치바나 유이",
+   "jp": "半ば蹴破るようにドアを開けた神成さんに続いて室内に飛び込むと、⟦col:280aa02d1400⟧生主⟦col:800000⟧はまさに結衣の服に手をかけようとしているところだった。"
+  },
+  {
+   "id": "clyu20:200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "남자",
+   "jp": "「拓留兄っ！！」"
+  },
+  {
+   "id": "clyu20:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "남자",
+   "jp": "結衣は涙を浮かべた目ですがるように僕たちを見た。"
+  },
+  {
+   "id": "clyu20:400",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "신조 타케시",
+   "jp": "「な、なんで……！？」"
+  },
+  {
+   "id": "clyu20:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "남자",
+   "jp": "男は僅かにひるんだ様に見えたが、すぐに事態を理解したのか、手にしたナイフを結衣に突き付けた。"
+  },
+  {
+   "id": "clyu20:600",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "신조 타케시",
+   "jp": "「く、来るな！ 来たらこいつを殺す！！」"
+  },
+  {
+   "id": "clyu20:700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "남자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ――！」"
+  },
+  {
+   "id": "clyu20:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今にも飛びかかろうとしていた神成さんが動きを止める。"
+  },
+  {
+   "id": "clyu20:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さすがに人質をとられていては、下手な動きはできない。"
+  },
+  {
+   "id": "clyu20:1000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「神成さんっ……」"
+  },
+  {
+   "id": "clyu20:1100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "남자",
+   "jp": "「ダメだ。今は言うことをきくしかない……」"
+  },
+  {
+   "id": "clyu20:1200",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「で、出ていけ……」"
+  },
+  {
+   "id": "clyu20:1300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "남자",
+   "next_speaker": "남자",
+   "jp": "「彼女から離れろ。これ以上罪を重ねることはない」"
+  },
+  {
+   "id": "clyu20:1400",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「い、今すぐここから出ていけ！ さもないと、こいつを殺す――！」"
+  },
+  {
+   "id": "clyu20:1500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "남자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「待て……とにかく落ち着くんだ……」"
+  },
+  {
+   "id": "clyu20:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "本気なのかどうなのかわからない。"
+  },
+  {
+   "id": "clyu20:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "果たしてあんな奴に、そんな大それたことが出来るのか？"
+  },
+  {
+   "id": "clyu20:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど、興奮している今の状況を見ると、ふとした拍子にスイッチが入ってしまわないとも限らない――。"
+  },
+  {
+   "id": "clyu20:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ただ、こっちにはふたりいる。"
+  },
+  {
+   "id": "clyu20:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "どうにかして、あいつの気を逸らせることさえできれば……。"
+  },
+  {
+   "id": "clyu20:2100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "남자",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu20:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうだ、忘れていた。"
+  },
+  {
+   "id": "clyu20:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は誰だ？"
+  },
+  {
+   "id": "clyu20:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう、宮代拓留――⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧だ。"
+  },
+  {
+   "id": "clyu20:2500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「っ……！」"
+  },
+  {
+   "id": "clyu20:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "남자",
+   "jp": "心に強く念じる。"
+  },
+  {
+   "id": "clyu20:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "남자",
+   "jp": "動け――。"
+  },
+  {
+   "id": "clyu20:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "남자",
+   "jp": "動け――！"
+  },
+  {
+   "id": "clyu20:2900",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「何度も言わせるな！ 早く、早く出て――」⟦avs⟧⟦n⟧⟦n⟧"
+  },
+  {
+   "id": "clyu20:3000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "남자",
+   "next_speaker": "남자",
+   "jp": "（っ……動け――！）"
+  },
+  {
+   "id": "clyu20:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "남자",
+   "jp": "ごうん――と大きな音がした。"
+  },
+  {
+   "id": "clyu20:3200",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「な、なんだ！？」"
+  },
+  {
+   "id": "clyu20:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "次の瞬間、巨大な円形のベッドがモーター音をあげて、凄い勢いで激しく回り始めた。"
+  },
+  {
+   "id": "clyu20:3400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "남자",
+   "next_speaker": "신조 타케시",
+   "jp": "「神成さん！」"
+  },
+  {
+   "id": "clyu20:3500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ あ、ああ！！」"
+  },
+  {
+   "id": "clyu20:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "突然の出来事に生主同様驚いていた神成さんだが、呼びかけるとすぐに事態を把握し、次の瞬間には、男に向かって飛びかかっていた。"
+  },
+  {
+   "id": "clyu20:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それからはあっという間だった。"
+  },
+  {
+   "id": "clyu20:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "神成さんは半ば目を回している男の手からナイフを奪い、瞬く間にその身体を組み伏せていた。"
+  },
+  {
+   "id": "clyu20:3900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "타치바나 유이",
+   "jp": "「結衣っ！！」"
+  },
+  {
+   "id": "clyu20:4000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留兄っ！！」"
+  },
+  {
+   "id": "clyu20:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "男を神成さんに任せて駆け寄ると、結衣は涙の溜まった目で僕を見上げた。"
+  },
+  {
+   "id": "clyu20:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "頼りなげな、儚い目――。"
+  },
+  {
+   "id": "clyu20:4300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「大丈夫だ。もう大丈夫だからな……！」"
+  },
+  {
+   "id": "clyu20:4400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うん……ぜったい来てくれるって思ってた……」"
+  },
+  {
+   "id": "clyu20:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう言いながらも、その肩は微かにふるえていた。"
+  },
+  {
+   "id": "clyu20:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こ、こういう時は、安心させるためにも抱き寄せてやるべき……だよな？"
+  },
+  {
+   "id": "clyu20:4700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「結衣……」"
+  },
+  {
+   "id": "clyu20:4800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「拓留兄……」"
+  },
+  {
+   "id": "clyu20:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕はゆっくりと結衣のふるえる肩に手を伸ばした……。"
+  },
+  {
+   "id": "clyu20:5000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "「結衣っ！！」"
+  },
+  {
+   "id": "clyu20:5100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お姉ちゃんっ！！」"
+  },
+  {
+   "id": "clyu20:5200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "야마조에 우키",
+   "jp": "「うわっ」"
+  },
+  {
+   "id": "clyu20:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "が、僕の身体は後を追って駆けつけてきた乃々たちによって、押しのけられてしまった。"
+  },
+  {
+   "id": "clyu20:5400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "「大丈夫ですか？ ケガはありませんか？」"
+  },
+  {
+   "id": "clyu20:5500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "「うん……平気……」"
+  },
+  {
+   "id": "clyu20:5600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ゴメンね、お姉ちゃん！ 僕のせいで……」"
+  },
+  {
+   "id": "clyu20:5700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ううん。ユウは悪くないよ。元はと言えば、私が巻き込んだんだもん」"
+  },
+  {
+   "id": "clyu20:5800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「とにかく、私たちが来たからもう大丈夫……」"
+  },
+  {
+   "id": "clyu20:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "乃々が結衣の肩に手を回し、抱き寄せた。"
+  },
+  {
+   "id": "clyu20:6000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "남자",
+   "jp": "（あ……それ、僕の役目だったのに……）"
+  },
+  {
+   "id": "clyu20:6100",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あがっ！！」"
+  },
+  {
+   "id": "clyu20:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "아리무라 히나에",
+   "jp": "鈍い音とともにくぐもった男の声が聞こえて、何事かと振り返ると、乃々たちとともに駆けつけた有村が握り拳を振り上げていた。"
+  },
+  {
+   "id": "clyu20:6300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "남자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「今のは、結衣と結人のぶん！ そしてこれは――」"
+  },
+  {
+   "id": "clyu20:6400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "남자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私のぶんだぁぁぁぁぁぁッ！！」"
+  },
+  {
+   "id": "clyu20:6500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "남자",
+   "jp": "（いや、有村、お前関係ないじゃん…）"
+  },
+  {
+   "id": "clyu20:6600",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「うごっ！」"
+  },
+  {
+   "id": "clyu20:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "남자",
+   "jp": "有村の拳を受けて、生主はもんどりうって倒れ――。"
+  },
+  {
+   "id": "clyu20:6800",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「っぷ……おええええええ」"
+  },
+  {
+   "id": "clyu20:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "아리무라 히나에",
+   "jp": "当たり所がわるかったのか、盛大にリバースした。"
+  },
+  {
+   "id": "clyu20:7000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "남자",
+   "next_speaker": "남자",
+   "jp": "「うわ、きったね！」"
+  },
+  {
+   "id": "clyu20:7100",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유이",
+   "jp": "「見んな！ こ、こっち見んな！」"
+  },
+  {
+   "id": "clyu20:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "타치바나 유이",
+   "jp": "どこかで聞いたことのある台詞のような気がしたが、今はそんなことはもうどうだって良かった。"
+  },
+  {
+   "id": "clyu20:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "타치바나 유이",
+   "jp": "結衣が無事ならばそれで……。"
+  },
+  {
+   "id": "clyu20:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "타치바나 유이",
+   "jp": "やがて神成の部下である刑事が何人もやって来て、誘拐犯である男は連れていかれた。"
+  },
+  {
+   "id": "clyu20:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "타치바나 유이",
+   "jp": "乃々たちは、安心したのか、泣き出してしまった結人についていた。"
+  },
+  {
+   "id": "clyu20:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남자",
+   "next_speaker": "타치바나 유이",
+   "jp": "残ったのは僕と――。"
+  },
+  {
+   "id": "clyu20:7700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "남자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……あのね、拓留兄……」"
+  },
+  {
+   "id": "clyu20:7800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clyu20:7900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「来てくれてうれしかった。ありがと……」"
+  },
+  {
+   "id": "clyu20:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "上目づかいに言う結衣に僕は何故だかどぎまぎしてしまった。"
+  },
+  {
+   "id": "clyu20:8100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「そ、それじゃあ僕らも行こうか！」"
+  },
+  {
+   "id": "clyu20:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "その動揺を知られまいと、ぶっきらぼうに手を伸ばす。"
+  },
+  {
+   "id": "clyu20:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "だが――。"
+  },
+  {
+   "id": "clyu20:8400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu20:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣はその手を取ろうとしなかった。"
+  },
+  {
+   "id": "clyu20:8600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「どうした？ 行かないのか？」"
+  },
+  {
+   "id": "clyu20:8700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それが、その……私、ずっとガマンしてて……」"
+  },
+  {
+   "id": "clyu20:8800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ガマン？」"
+  },
+  {
+   "id": "clyu20:8900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「い、いいから拓留兄は向こうにいって！！」"
+  },
+  {
+   "id": "clyu20:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "拒絶された？"
+  },
+  {
+   "id": "clyu20:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣に……？"
+  },
+  {
+   "id": "clyu20:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なんで？"
+  },
+  {
+   "id": "clyu20:9300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ま、待ってくれ、結衣！ 確かに今回のことは僕の注意不足だったけど僕だって助けようと――」"
+  },
+  {
+   "id": "clyu20:9400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もう！ そういうことじゃなくて……と、とにかく早く向こうに……！」"
+  },
+  {
+   "id": "clyu20:9500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "と、結衣の顔が苦しそうに歪んで、僕は慌てて近寄った。"
+  },
+  {
+   "id": "clyu20:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ゆ、結衣！？」"
+  },
+  {
+   "id": "clyu20:9700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ……だ、ダメ、もう……！！」"
+  },
+  {
+   "id": "clyu20:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "次の瞬間……結衣の身体が一瞬、ブルっと震えたかと思うと、座り込んだ絨毯の周りに、じわじわと染みが広がっていった。"
+  },
+  {
+   "id": "clyu20:9900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「〜〜〜〜……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「や、やだ！ 見ないで……！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そういう……ことだったのか。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「う……ご、ゴメン……！」"
+  }
+ ]
+}

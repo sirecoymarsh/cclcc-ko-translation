@@ -1,0 +1,959 @@
+{
+ "packet_id": "CC0194-clse07-P35",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「なんていうのかな、楽しそうに見えたわ」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「拓留、どうかしたの？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ちょっと、拓留！」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「拓留！ 香月！」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「川原君が、香月がここに入っていくのを見たって教えてくれたの」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「思い詰めた顔で中に入っていったから、様子を見た方がいいかもって」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:328100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なにか心配事があるなら、いつでも相談に――」"
+  },
+  {
+   "id": "clse07:328200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……あなたたち、なにをしているの？」"
+  },
+  {
+   "id": "clse07:328300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「た、たくる……あなた、まさか……！」"
+  },
+  {
+   "id": "clse07:328400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……拓留」"
+  },
+  {
+   "id": "clse07:328500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留」"
+  },
+  {
+   "id": "clse07:328600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「覚悟は、できてるんでしょうね？」"
+  },
+  {
+   "id": "clse07:328700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いい加減にしなさーいっ！！！！！！」"
+  },
+  {
+   "id": "clse07:328800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まだそんな見え透いた嘘をつくの！？」"
+  },
+  {
+   "id": "clse07:328900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留……そんなケダモノに育っちゃったなんて、悲しい……」"
+  },
+  {
+   "id": "clse07:329000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「父さんになんて言えばいいのかしら……」"
+  },
+  {
+   "id": "clse07:329100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もう！ いい加減にしなさいーいっ！！！！！」"
+  },
+  {
+   "id": "clse07:329200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「覚悟は、できてるんでしょうね？」"
+  },
+  {
+   "id": "clse07:329300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「香月がそんな、ふ、ふ、ふしだらなことをするわけないでしょう！？」"
+  },
+  {
+   "id": "clse07:329400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほらご覧なさい！ 香月、すっかり怖がってるじゃない！」"
+  },
+  {
+   "id": "clse07:329500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「悪いのはあなたの方よ！ 拓留！」"
+  },
+  {
+   "id": "clse07:329600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「弁解の余地はなさそうね」"
+  },
+  {
+   "id": "clse07:329700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっぱり警察を呼びましょう」"
+  },
+  {
+   "id": "clse07:329800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clse07:329900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「香月、このメールを出したのはあなたなの？」"
+  },
+  {
+   "id": "clse07:330000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「違うみたいね」"
+  },
+  {
+   "id": "clse07:330100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留、偽のメールまで用意して罪から逃れようとしているの？」"
+  },
+  {
+   "id": "clse07:330200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「黙ってないで、なにか言いなさい、拓留」"
+  },
+  {
+   "id": "clse07:330300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「世莉架の言う通り、なにか理由があったの？」"
+  },
+  {
+   "id": "clse07:330400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留？」"
+  },
+  {
+   "id": "clse07:330500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……拓留」"
+  },
+  {
+   "id": "clse07:330600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「認めるのね」"
+  },
+  {
+   "id": "clse07:330700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私じゃないけど……」"
+  },
+  {
+   "id": "clse07:330800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「香月？」"
+  },
+  {
+   "id": "clse07:330900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:331000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと、香月、それホント！？」"
+  },
+  {
+   "id": "clse07:331100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え、でも、じゃあ、どういうことなの？」"
+  },
+  {
+   "id": "clse07:331200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうして香月が、拓留を、えっと、その、押し倒す……なんて……」"
+  },
+  {
+   "id": "clse07:331300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んなっ！？」"
+  },
+  {
+   "id": "clse07:331400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どういう、こと？」"
+  },
+  {
+   "id": "clse07:331500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……いえ」"
+  },
+  {
+   "id": "clse07:331600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「香月の能力は『口にした事が具現化する能力』よ。場合によっては新しい人格だって」"
+  },
+  {
+   "id": "clse07:331700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうね……。潔癖というか、臆病なのよ。拓留は」"
+  },
+  {
+   "id": "clse07:331800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留！？ 突然どうしたのよ？」"
+  },
+  {
+   "id": "clse07:331900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「単に勇気がなくて奥手なだけよ。頭の中はエッチなことで埋まってる筈」"
+  },
+  {
+   "id": "clse07:332000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ううう、我が弟ながらそこまでコミュニケーション能力が低いとは……」"
+  },
+  {
+   "id": "clse07:332100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留……、立派になったのね……。嬉しい……」"
+  },
+  {
+   "id": "clse07:332200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「悔しいけど、私も世莉架に同意見よ」"
+  },
+  {
+   "id": "clse07:332300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留、あれで興奮すると見境なくすタイプだから」"
+  },
+  {
+   "id": "clse07:332400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おめでとー！」"
+  },
+  {
+   "id": "clse07:332500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留」"
+  },
+  {
+   "id": "clse07:332600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……拓留」"
+  },
+  {
+   "id": "clse07:332700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おめでとう」"
+  },
+  {
+   "id": "clse07:332800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留の計画性の無さにはちょっと思う所もあるけれど。でも、今日はそういうこと言うのやめとくね」"
+  },
+  {
+   "id": "clse07:332900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、可愛い弟の門出の日なんだもの」"
+  },
+  {
+   "id": "clse07:333000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「香月を生まれてくる赤ちゃんともども、絶対に、幸せにするのよ」"
+  },
+  {
+   "id": "clse07:333100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……拓留」"
+  },
+  {
+   "id": "clse07:333200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まだそんな事言ってるの？」"
+  },
+  {
+   "id": "clse07:333300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ヤることだけヤっておいて、あとは知らないフリするなんて」"
+  },
+  {
+   "id": "clse07:333400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留。最っ低ね、あんた」"
+  },
+  {
+   "id": "clse07:333500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「最低！」"
+  },
+  {
+   "id": "clse07:333600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はあ……。我が弟ながら、あきれ果てるわね」"
+  },
+  {
+   "id": "clse07:333700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「伊藤くんは黙っててくれる？」"
+  },
+  {
+   "id": "clse07:333800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さあ、拓留、どうするの？」"
+  },
+  {
+   "id": "clse07:333900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「香月は、能力の力を借りたとはいえ、あなたに想いを告げたのよ」"
+  },
+  {
+   "id": "clse07:334000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「受け入れるにせよ、そうでないにせよ、ちゃんと答えてあげないと、可哀想よ」"
+  },
+  {
+   "id": "clse07:334100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふうん、『来栖はツンデレが過ぎるので、もう少し年上のお姉さん的な余裕のあるエロさを醸し出せると良い』ねえ」"
+  },
+  {
+   "id": "clse07:334200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留ってば、姉に対してそういう劣情を感じてたわけねえ」"
+  },
+  {
+   "id": "clse07:334300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留ー？ これはあなたが書いた物なのよね？」"
+  },
+  {
+   "id": "clse07:334400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『ツンデレが過ぎる』って、どういう意味か教えてくれる？」"
+  },
+  {
+   "id": "clse07:334500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留？」"
+  },
+  {
+   "id": "clse07:334600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留。ちょっと来てもらえる？」"
+  },
+  {
+   "id": "clse07:334700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なにか用事でもあるの？」"
+  },
+  {
+   "id": "clse07:334800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「仮にあったとしても、どうせたいしたことじゃないんでしょう？ いいから来て」"
+  },
+  {
+   "id": "clse07:334900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はいはい、わかったから、いらっしゃい。いいわね」"
+  },
+  {
+   "id": "clse07:335000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そういうのじゃありませんっ」"
+  },
+  {
+   "id": "clse07:335100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええ、さようなら」"
+  },
+  {
+   "id": "clse07:335200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ごきげんよう。また明日ね」"
+  },
+  {
+   "id": "clse07:335300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なに？」"
+  },
+  {
+   "id": "clse07:335400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そ。ならいいけど。ほら、着いたわよ」"
+  },
+  {
+   "id": "clse07:335500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうよ」"
+  },
+  {
+   "id": "clse07:335600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「川原くん。新聞部の件で話があるんだけど……」"
+  },
+  {
+   "id": "clse07:335700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「へぇ……つまり、新聞部の予算縮小に関する一件は、私に知られると困ることっていうわけね」"
+  },
+  {
+   "id": "clse07:335800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「言っておくけど、拓留はその件については何も話してないわよ。他の人から、聞いたの」"
+  },
+  {
+   "id": "clse07:335900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「各部の予算については、毎年春の定例部会で決まることになってるのは知っているわよね？」"
+  },
+  {
+   "id": "clse07:336000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「一度決まったことを変更するには、校則と同様、全校生徒の過半数以上の賛成が必要――これも知っているわよね？」"
+  },
+  {
+   "id": "clse07:336100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だったら、あなたのやったことは、おかしなことだっていうのはわかるわよね？」"
+  },
+  {
+   "id": "clse07:336200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それとこれは別問題です」"
+  },
+  {
+   "id": "clse07:336300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「新聞部の活動については、私が責任もって指導します。だから、あなたも勝負なんてバカバカしいことはやめて。わかった？」"
+  },
+  {
+   "id": "clse07:336400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それから拓留。あなたが新聞部の部長として、しっかりしていないから、こういうことになるのよ。わかってる？」"
+  },
+  {
+   "id": "clse07:336500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あなたも話に乗ったというなら、ケンカは両成敗です」"
+  },
+  {
+   "id": "clse07:336600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ごめんね」"
+  },
+  {
+   "id": "clse07:336700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さっきのこと。拓留は悪くないのはわかってるの」"
+  },
+  {
+   "id": "clse07:336800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、川原くんのことだもの。一方的に彼だけを責めちゃうと、きっとまた変な風に対抗心を燃やしちゃうから……」"
+  },
+  {
+   "id": "clse07:336900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほんとに？」"
+  },
+  {
+   "id": "clse07:337000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よかった」"
+  },
+  {
+   "id": "clse07:337100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それにしても、川原くんってばどうして拓留相手となるとあんな風になっちゃうのかしら」"
+  },
+  {
+   "id": "clse07:337200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ、拓留。あなた彼になにかしたんじゃない？」"
+  },
+  {
+   "id": "clse07:337300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……どういうこと？」"
+  },
+  {
+   "id": "clse07:337400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうそう、それからその“来栖”って呼び方、いい加減にやめてくれない？」"
+  },
+  {
+   "id": "clse07:337500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それはそうだけど……」"
+  },
+  {
+   "id": "clse07:337600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「変って？ 姉弟なんだから別に変じゃないでしょう？」"
+  },
+  {
+   "id": "clse07:337700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「思いたい人には思わせておけばいいわよ」"
+  },
+  {
+   "id": "clse07:337800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうして？」"
+  },
+  {
+   "id": "clse07:337900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ……拓留。あなた、そろそろ家に戻ってこない？」"
+  },
+  {
+   "id": "clse07:338000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなこと言って、貴方が家計のこと考えて出て行ったってことくらい、みんなわかってるんだから」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「あなたそれ、有村さんの前でも同じことが言える？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「父さんからの伝言。『子どもが金の心配なんてすんじゃねぇ。親の⟦rb⟧脛⟦rt⟧すね⟦/r⟧はかじるためにあるんだ』だって」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「あれから父さん、晩酌の量も減らして、これまで以上に働いてるの。おかげで家の経済状況も前ほど悪くはないのよ」"
+  }
+ ]
+}

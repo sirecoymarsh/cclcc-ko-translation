@@ -1,0 +1,597 @@
+{
+ "packet_id": "CC0309-clzz01-P01",
+ "kit_version": "1.0",
+ "source_file": "clzz01.msb",
+ "speakers_in_packet": [
+  "쿠노사토 미오"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clzz01:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "『――２０１５年１０月』"
+  },
+  {
+   "id": "clzz01:100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さて、今日の放送、最後にちょっと気になるトピックをひとつ」"
+  },
+  {
+   "id": "clzz01:200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「リスナーのみなさんの中には、“力士シール”というのを知っている方もいるでしょう」"
+  },
+  {
+   "id": "clzz01:300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「最近、渋谷のあちらこちらに貼ってある、謎のシールです」"
+  },
+  {
+   "id": "clzz01:400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いったい誰が作っているものなのか、誰が街中に貼っているのか」"
+  },
+  {
+   "id": "clzz01:500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そして、そのシールを好きな人の持ち物にこっそり貼りつけることが出来れば、その恋は成就するという噂は本当なのか」"
+  },
+  {
+   "id": "clzz01:600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「この番組では、今後、シールの謎にも迫っていきたいと思っています」"
+  },
+  {
+   "id": "clzz01:700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ということで、それではまた次回、お会いしましょう。お相手は、わたくし“ケイさん”でした」"
+  },
+  {
+   "id": "clzz01:800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふぅ……」"
+  },
+  {
+   "id": "clzz01:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "いつも世話になっている渋谷の調査会社『フリージア』。"
+  },
+  {
+   "id": "clzz01:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その一室で、今夜も特に変わったこともなく、“ケイさん”こと久野里澪の放送は終わった。"
+  },
+  {
+   "id": "clzz01:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "彼女は、渋谷周辺で聴くことが出来るコミュニティＦＭを使って様々な情報発信を行っている。"
+  },
+  {
+   "id": "clzz01:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そのためには、渋谷中の最新情報や裏情報が集まってくる『フリージア』から放送するのが適しているため、いつもここを使わせてもらっているのだ。"
+  },
+  {
+   "id": "clzz01:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:76⟧そして、彼女の情報発信の目的は――"
+  },
+  {
+   "id": "clzz01:1400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……？」"
+  },
+  {
+   "id": "clzz01:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "目的は――"
+  },
+  {
+   "id": "clzz01:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "一瞬、なにか違う言葉が浮かびそうになったが、すぐに別の思考が彼女の中に湧き上がってきた。"
+  },
+  {
+   "id": "clzz01:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:76⟧――そう。碧朋学園の新聞部がどうにも頼りないからだ。"
+  },
+  {
+   "id": "clzz01:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧そこで、宮代拓留が取材してきた特ダネなどをバックアップしてやるために、この放送を行っているのだ。"
+  },
+  {
+   "id": "clzz01:1900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clzz01:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "なんだろう？"
+  },
+  {
+   "id": "clzz01:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧宮代拓留。"
+  },
+  {
+   "id": "clzz01:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その名前を頭の中に思い浮かべたとたん、ふっと哀しい気持ちになった。"
+  },
+  {
+   "id": "clzz01:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧まるで、もう帰ってこない大切な友人を⟦rb⟧悼⟦rt⟧いた⟦/r⟧んでいるかのような。"
+  },
+  {
+   "id": "clzz01:2400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なにをバカな」"
+  },
+  {
+   "id": "clzz01:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "今日の昼間だって、宮代とは部室でさんざん大喧嘩をしてきた。"
+  },
+  {
+   "id": "clzz01:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧澪の頭が固いだの、発想が古いだの……これでも一応、アメリカの某大学を飛び級で卒業し、いよいよ博士号を狙うための研究をしに日本へ来たのだ。"
+  },
+  {
+   "id": "clzz01:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧そんな澪に向かって、あいつは――。"
+  },
+  {
+   "id": "clzz01:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そこで、また澪の思考が途切れた。"
+  },
+  {
+   "id": "clzz01:2900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（研究……？）"
+  },
+  {
+   "id": "clzz01:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "いったい何のため？ どんな研究を？"
+  },
+  {
+   "id": "clzz01:3100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うっ、くっ……」"
+  },
+  {
+   "id": "clzz01:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ズキンッとこめかみのあたりに激痛が走った。"
+  },
+  {
+   "id": "clzz01:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "それに続いて、頭全体を締め付けられるような痛みが彼女を襲う。"
+  },
+  {
+   "id": "clzz01:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧これは、薬など効かない原因不明の頭痛だった。"
+  },
+  {
+   "id": "clzz01:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "何かを思い出そうとすると、それを邪魔するかのように澪を苦しめ続ける。"
+  },
+  {
+   "id": "clzz01:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そして、思い出そうとするのをやめれば、まるで波のように引いていく。"
+  },
+  {
+   "id": "clzz01:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧だから、歯を食いしばって痛みに耐えながら、別の事を考えようとした。"
+  },
+  {
+   "id": "clzz01:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そうすれば、この激痛から逃れられる。"
+  },
+  {
+   "id": "clzz01:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧そう。今回もそのはず――だった。"
+  },
+  {
+   "id": "clzz01:4000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「！？」"
+  },
+  {
+   "id": "clzz01:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "突然、澪のＰＣが不快なビープ音を発した。"
+  },
+  {
+   "id": "clzz01:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧その音に顔を上げた澪は、ＰＣの画面に映っているものを見て、思わず目を見張った。"
+  },
+  {
+   "id": "clzz01:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ついさっきまでは、ただニコヤカに笑っていただけの変な力士のシール。"
+  },
+  {
+   "id": "clzz01:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "それが、まったく別の図柄に変わっていたのだ。"
+  },
+  {
+   "id": "clzz01:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "それはまるで、眼球を三つ持った力士の男が、ひたすら苦悶の表情を浮かべているかのような、そんな不気味な表情のシールだった。"
+  },
+  {
+   "id": "clzz01:4600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これは……」"
+  },
+  {
+   "id": "clzz01:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "次の瞬間。"
+  },
+  {
+   "id": "clzz01:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "力士のような男の真ん中の眼がカッと見開かれた。"
+  },
+  {
+   "id": "clzz01:4900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぐっ！？」"
+  },
+  {
+   "id": "clzz01:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そして、のたうちまわらずにはいられないほどの頭痛が、澪に襲いかかった。"
+  },
+  {
+   "id": "clzz01:5100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぐああっ……これは……これはっ……」"
+  },
+  {
+   "id": "clzz01:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "知っている。"
+  },
+  {
+   "id": "clzz01:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "⟦top:76⟧私は、⟦rb⟧これを⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧知っている⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧"
+  },
+  {
+   "id": "clzz01:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "⟦top:76⟧でも、激しい頭痛のせいで、思い出すことが出来ない。"
+  },
+  {
+   "id": "clzz01:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "と……あまりの痛みに床に這いつくばっていた澪は、ＰＣに新規のメールが届く音を聞いた。"
+  },
+  {
+   "id": "clzz01:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "かろうじて手を伸ばし、電源ケーブルをつかんでノートＰＣを床に引きずり落とした。"
+  },
+  {
+   "id": "clzz01:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧ＰＣは床を転がり、どこかが割れたのか、メキッという嫌な音がした。"
+  },
+  {
+   "id": "clzz01:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "が、そんなことなど気にすることも出来ないまま、澪はＰＣに向かって床をはいずった。"
+  },
+  {
+   "id": "clzz01:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "頭を締め付けるあまりの激痛に、わずか１メートル程度の距離がその数倍にも感じる。"
+  },
+  {
+   "id": "clzz01:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "震える指先がようやくＰＣに届いた澪は、比喩でもなんでもなく、本当に最後の力を振り絞ってタッチパッドを操作し、メールボックスを開いた。"
+  },
+  {
+   "id": "clzz01:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:76⟧かすむ目で、送られてきたばかりのメールを読む。"
+  },
+  {
+   "id": "clzz01:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そして、それを読み終えた瞬間――！"
+  },
+  {
+   "id": "clzz01:6300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うああああああああああ！」"
+  },
+  {
+   "id": "clzz01:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "澪は、両手で頭を抱えるようにすると、うずくまったまま絶叫した。"
+  }
+ ],
+ "context_after": []
+}

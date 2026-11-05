@@ -1,0 +1,919 @@
+{
+ "packet_id": "CC0279-clyu03-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "오노에 세리카",
+  "유",
+  "유이",
+  "이토 신지",
+  "카즈키 하나",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu03:0",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「ふむ……よし。みんな揃ってるな？」"
+  },
+  {
+   "id": "clyu03:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤が僕たちを呼びつけたのは、その次の日曜日のことだった。"
+  },
+  {
+   "id": "clyu03:200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「いよいよ、これから俺、伊藤真二プロデュースによるアイドルユニット『⟦col:280aa02d1400⟧ミルフィーユ⟦col:800000⟧』のアイドル活動を開始する！」"
+  },
+  {
+   "id": "clyu03:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "思ったよりも時間がかかったが、確かに準備やらなにやらを考えると、これくらいはかかるものなのかもしれない。"
+  },
+  {
+   "id": "clyu03:400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「まず言っておくが、アイドル活動とはいっても、最初から歌ったり踊ったりができるわけじゃない」"
+  },
+  {
+   "id": "clyu03:500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「え？ そうなの？」"
+  },
+  {
+   "id": "clyu03:600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ごめんな、結衣ちゃん。でも考えてもみてくれ。歌を歌ったり踊ったりするには、曲が必要だろ？」"
+  },
+  {
+   "id": "clyu03:700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "「曲を作るためには、作曲者に報酬だってかかるし、踊るにせよ振付けが必要で、それにもお金がかかる」"
+  },
+  {
+   "id": "clyu03:800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "야마조에 우키",
+   "jp": "「そっかぁ……」"
+  },
+  {
+   "id": "clyu03:900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "이토 신지",
+   "jp": "「アイドル活動にもお金がかかるんですね……」"
+  },
+  {
+   "id": "clyu03:1000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そう！ だから、まずやるべきことは、ニヤ動でカウントを稼いで有名になり、それによって報酬を得ることだ」"
+  },
+  {
+   "id": "clyu03:1100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そうすりゃ、そのお金を元手に曲を作ることだってできるし、もしかしたら善意で作ってくれるファンだって出て来るかもしれない。だろ？」"
+  },
+  {
+   "id": "clyu03:1200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「真ちゃんにしては、まともな意見だねぇ」"
+  },
+  {
+   "id": "clyu03:1300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「ほんと、ビックリ」"
+  },
+  {
+   "id": "clyu03:1400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "타치바나 유이",
+   "jp": "「いいかい、キミタチ。この僕に任せておけば『ミルフィーユ』は人気爆発間違いなしさ！」"
+  },
+  {
+   "id": "clyu03:1500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "「お願いします、伊藤⟦col:280aa02d1400⟧プロデューサー⟦col:800000⟧！」"
+  },
+  {
+   "id": "clyu03:1600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "이토 신지",
+   "jp": "「お願いします！」"
+  },
+  {
+   "id": "clyu03:1700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ハハハ、大船に乗ったつもりで任せたまえ」"
+  },
+  {
+   "id": "clyu03:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "鼻息荒く言う伊藤の背中に、僕は胡散臭いピンク色のトレーナーが見えたような気がした。"
+  },
+  {
+   "id": "clyu03:1900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「そんじゃ、行こうか」"
+  },
+  {
+   "id": "clyu03:2000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「え？ 行くってどこへ？」"
+  },
+  {
+   "id": "clyu03:2100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "유이",
+   "jp": "「もちろん、撮影にだよ。ニヤ動で動画流すなら、まずは素材とらなきゃだろ？」"
+  },
+  {
+   "id": "clyu03:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "確かにその通りだ。"
+  },
+  {
+   "id": "clyu03:2300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "유이",
+   "jp": "「諸々の手配は俺の方でやっといたからさ」"
+  },
+  {
+   "id": "clyu03:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "유이",
+   "jp": "……こいつ、思ったよりもずっと、プロデューサーとしての能力があるのかもしれない。"
+  },
+  {
+   "id": "clyu03:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "유이",
+   "jp": "僕はサムアップをしながら、爽やかな笑顔をのぞかせる伊藤に、そんな思いを抱き始めていた。"
+  },
+  {
+   "id": "clyu03:2600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "유",
+   "jp": "「みなさんこんにちは。『ミルフィーユ』のユイです」"
+  },
+  {
+   "id": "clyu03:2700",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "이토 신지",
+   "jp": "「えっと……ミルフィーユのユウです……」"
+  },
+  {
+   "id": "clyu03:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "이토 신지",
+   "jp": "これは……。"
+  },
+  {
+   "id": "clyu03:2900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "「うーん。まだぎこちないな。ほら、もっと笑顔笑顔」"
+  },
+  {
+   "id": "clyu03:3000",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「笑顔……こうかな？ にこっ」"
+  },
+  {
+   "id": "clyu03:3100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "유이",
+   "next_speaker": "유",
+   "jp": "「お、いいねいいねー。ほら、結人……じゃなくて、ユウちゃんも！」"
+  },
+  {
+   "id": "clyu03:3200",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「えっと……にこっ」"
+  },
+  {
+   "id": "clyu03:3300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "「うーん、まだ固いなぁ。結衣ちゃん。ちょっとくすぐってみようか」"
+  },
+  {
+   "id": "clyu03:3400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "유",
+   "jp": "「くすぐる？ わかった！ え〜い」"
+  },
+  {
+   "id": "clyu03:3500",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「え？ え？ え？」"
+  },
+  {
+   "id": "clyu03:3600",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「それっ。こちょこちょこちょ〜」"
+  },
+  {
+   "id": "clyu03:3700",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「わ！ わ！ 待って、お姉ちゃん。そこ、くすぐった……んっ」"
+  },
+  {
+   "id": "clyu03:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "유",
+   "next_speaker": "유이",
+   "jp": "結衣のくすぐり攻撃に、最初こそ戸惑っていた結人も次第に身もだえしはじめる。"
+  },
+  {
+   "id": "clyu03:3900",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「こちょこちょこちょこちょ〜」"
+  },
+  {
+   "id": "clyu03:4000",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あはっ……あははっ、あはははは」"
+  },
+  {
+   "id": "clyu03:4100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유",
+   "next_speaker": "이토 신지",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu03:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "い、いや……間違えるな、宮代拓留。"
+  },
+  {
+   "id": "clyu03:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あれはお前の妹と弟だ。"
+  },
+  {
+   "id": "clyu03:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣だけならまだしも、結人にまでドキドキなんてしたら、それこそ危険な道へ進むことになるぞ！"
+  },
+  {
+   "id": "clyu03:4500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유",
+   "next_speaker": "이토 신지",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clyu03:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は何度も頭を振って、邪念を追い払って伊藤に向き合った。"
+  },
+  {
+   "id": "clyu03:4700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "유",
+   "next_speaker": "이토 신지",
+   "jp": "「おい、伊藤！ これは……」"
+  },
+  {
+   "id": "clyu03:4800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代、今、いいところだから静かにしてくれ！」"
+  },
+  {
+   "id": "clyu03:4900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「あ……はい」"
+  },
+  {
+   "id": "clyu03:5000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「って、そうじゃなくて！ おい、伊藤！ なんだよこれは！？」"
+  },
+  {
+   "id": "clyu03:5100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なにって、なにがだよ？」"
+  },
+  {
+   "id": "clyu03:5200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「いきなり水着とか、ちょっとやり過ぎじゃないのか？」"
+  },
+  {
+   "id": "clyu03:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "しかも結人まで！"
+  },
+  {
+   "id": "clyu03:5400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「は？ なに言ってんだよ？ 今どき、こんくらいやんないと、山ほどあるネットの動画ん中じゃ埋もれてくだけだろ」"
+  },
+  {
+   "id": "clyu03:5500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「目立ってなんぼ。そのためには多少過激に、ってのはお前がいつも言ってたことだろうが」"
+  },
+  {
+   "id": "clyu03:5600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そ、それはそうだけどさ……だ、だからっていうか……その、ちょっと布地が……小さすぎないか」"
+  },
+  {
+   "id": "clyu03:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "あれじゃあ、結人には危険すぎる。"
+  },
+  {
+   "id": "clyu03:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "しかも、このプール……時々、ネットでみかける、有名なプールだし。"
+  },
+  {
+   "id": "clyu03:5900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "유",
+   "jp": "「そういうのも含めて話題性なんだろ」"
+  },
+  {
+   "id": "clyu03:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "유",
+   "jp": "っ……確かに、伊藤の言うとおりだ。"
+  },
+  {
+   "id": "clyu03:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "유",
+   "jp": "言うとおりなんだけど……。"
+  },
+  {
+   "id": "clyu03:6200",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "유이",
+   "jp": "「こ、こんどは僕が……それっ」"
+  },
+  {
+   "id": "clyu03:6300",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「え？ あ、きゃっ！」"
+  },
+  {
+   "id": "clyu03:6400",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ほら、こちょこちょこちょこちょ〜」"
+  },
+  {
+   "id": "clyu03:6500",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "유",
+   "jp": "「あっ、こら、ユウ！ ダメっ、そこは……あんっ！」"
+  },
+  {
+   "id": "clyu03:6600",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "유이",
+   "jp": "「ほらほらほら〜」"
+  },
+  {
+   "id": "clyu03:6700",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "유",
+   "next_speaker": "이토 신지",
+   "jp": "「ふふっ、ふふふっ……あはははは、ダメ！ ダメだってば〜！」"
+  },
+  {
+   "id": "clyu03:6800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "유이",
+   "next_speaker": "카즈키 하나",
+   "jp": "「香月。もっとカメラ寄って！」"
+  },
+  {
+   "id": "clyu03:6900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん……いい表情……かも」"
+  },
+  {
+   "id": "clyu03:7000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clyu03:7100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "「お、いいねいいねー。もっとアップにしてみようか」"
+  },
+  {
+   "id": "clyu03:7200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ん…………」"
+  },
+  {
+   "id": "clyu03:7300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "유이",
+   "jp": "「そうそう。そんで、結衣ちゃんとユウちゃんは前かがみに」"
+  },
+  {
+   "id": "clyu03:7400",
+   "type": "dialogue",
+   "speaker": "ユイ",
+   "speaker_ko": "유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "유",
+   "jp": "「前かがみ？」"
+  },
+  {
+   "id": "clyu03:7500",
+   "type": "dialogue",
+   "speaker": "ユウ",
+   "speaker_ko": "유",
+   "prev_speaker": "유이",
+   "next_speaker": "이토 신지",
+   "jp": "「こう……ですか？」"
+  },
+  {
+   "id": "clyu03:7600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "유",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう！ カメラ今度は後ろから――」"
+  },
+  {
+   "id": "clyu03:7700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ストップ！！ ダメだダメだ！ カメラ止めろ！」"
+  },
+  {
+   "id": "clyu03:7800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ？ なんだよ、宮代。今いいところなんだから――」"
+  },
+  {
+   "id": "clyu03:7900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「いいからとにかく止めろ！」"
+  },
+  {
+   "id": "clyu03:8000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clyu03:8100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「伊藤にはプロデューサーを降りてもらう」"
+  },
+  {
+   "id": "clyu03:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "撮影を中止して僕の部屋に戻るなりそう言い渡すと、伊藤は当然のように、不満を顔に表した。"
+  },
+  {
+   "id": "clyu03:8300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「は？ なんでだよ？」"
+  },
+  {
+   "id": "clyu03:8400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「これ以上お前には任せておけないと僕が判断したからだ。いくらなんでも、あれはやり過ぎだ」"
+  },
+  {
+   "id": "clyu03:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "結衣たちがやりたいのは、あくまでもアイドル活動であって、さっきの撮影はそこから逸脱していると言っていい。"
+  },
+  {
+   "id": "clyu03:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "それにあのまま行ったら、いきなり結人が危険だ。"
+  },
+  {
+   "id": "clyu03:8700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「わかってねぇなぁ。わかってねえよ、宮代。今どき、あれくらいのことやんないと、人気アイドルにはなれねえんだって」"
+  },
+  {
+   "id": "clyu03:8800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「いや、他にも方法はあるはずだ。それが思いつかないというなら、やっぱり伊藤には降りてもらうしかない」"
+  },
+  {
+   "id": "clyu03:8900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えー、なんだよー。俺だって一生懸命やったのにさー」"
+  },
+  {
+   "id": "clyu03:9000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そもそもあそこ借りるお金はどうしたんだよ？ 水着だって金かかっただろ」"
+  },
+  {
+   "id": "clyu03:9100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ もちろん新聞部の部費から出す予定だけど？」"
+  },
+  {
+   "id": "clyu03:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さも当然とでもいうように、伊藤はあっさりと恐ろしいことを言ってのけた。"
+  },
+  {
+   "id": "clyu03:9300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「お前な……これは部活じゃないんだから、そんなことできるわけないだろ？」"
+  },
+  {
+   "id": "clyu03:9400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "それにただでさえ乃々に内緒で始めたことなのに、そんなことに部費を使ったなんて知られたら、それこそ恐ろしいことになるに違いない。"
+  },
+  {
+   "id": "clyu03:9500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「は？ じゃあ、どうすんだよ、あそこの金！？」"
+  },
+  {
+   "id": "clyu03:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「知らないよ。お前が勝手にやったんだろ。自分でなんとかしろ」"
+  },
+  {
+   "id": "clyu03:9700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いや、無理無理！ 無理だって！ そんな金ねえって！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "だいたい、アイドル活動にはお金がかかると言っていたのは伊藤本人だったはずだ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "まさか、そこまで考え無しにやっていたとは……。"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「しょうがない……こうなったら、さっきの水着を⟦col:280aa02d1400⟧オークション⟦col:800000⟧で……」"
+  }
+ ]
+}

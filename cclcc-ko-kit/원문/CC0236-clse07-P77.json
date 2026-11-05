@@ -1,0 +1,961 @@
+{
+ "packet_id": "CC0236-clse07-P77",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「伊藤……お前、何やって……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「…………おい、まさか……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「伊藤……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「いやいやいや！ 冗談じゃない！ 誰が好き好んで男と裸で抱き合わなきゃいけないんだ！ 僕なら大丈夫――ゲホッ、ゲホッ！」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ま、待って……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「……自分で……脱ぐから……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:744400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:744500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、あぁ……」"
+  },
+  {
+   "id": "clse07:744600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「伊藤……」"
+  },
+  {
+   "id": "clse07:744700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あった……かい……」"
+  },
+  {
+   "id": "clse07:744800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:744900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あれ？ 僕は……」"
+  },
+  {
+   "id": "clse07:745000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「伊藤……」"
+  },
+  {
+   "id": "clse07:745100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……伊藤」"
+  },
+  {
+   "id": "clse07:745200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あり……がとう……」"
+  },
+  {
+   "id": "clse07:745300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――！？」"
+  },
+  {
+   "id": "clse07:745400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まったくだ」"
+  },
+  {
+   "id": "clse07:745500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「久野里さん……」"
+  },
+  {
+   "id": "clse07:745600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「べ、別に面白いことなんて何にもなかったです！」"
+  },
+  {
+   "id": "clse07:745700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「別にムキになんて何も……」"
+  },
+  {
+   "id": "clse07:745800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「ああ、伊藤。おはよう……」"
+  },
+  {
+   "id": "clse07:745900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:746000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「休み？」"
+  },
+  {
+   "id": "clse07:746100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ？ ああ……」"
+  },
+  {
+   "id": "clse07:746200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「だ、だからありませんって！ 何にも！」"
+  },
+  {
+   "id": "clse07:746300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「う？ チョコチップの入ったのでいいー？」"
+  },
+  {
+   "id": "clse07:746400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「じゃあ、私はおせんべにしよっと。華ちゃんも食べるー？」"
+  },
+  {
+   "id": "clse07:746500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「華ちゃんは、こうなると無理だよ、タク〜」"
+  },
+  {
+   "id": "clse07:746600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「あ、うきちゃんは、何かお菓子いる？ チョコもあるよ？」"
+  },
+  {
+   "id": "clse07:746700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「あー、私も一緒に行きたーい！ うきの服、選びたーい！」"
+  },
+  {
+   "id": "clse07:746800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「よーし、どんな服が似合うか一緒に考えよ？ 私、ちょっとコンビニ行ってファッション誌買ってくるね」"
+  },
+  {
+   "id": "clse07:746900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「う〜？」"
+  },
+  {
+   "id": "clse07:747000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「お〜」"
+  },
+  {
+   "id": "clse07:747100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これはもう、新聞部の“宴会芸”だねっ！」"
+  },
+  {
+   "id": "clse07:747200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いいじゃない、タク？ 私もひなちゃんがいると楽しーし」"
+  },
+  {
+   "id": "clse07:747300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う？ んーと……なんだっけ？」"
+  },
+  {
+   "id": "clse07:747400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:747500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「すっごいニュースばっかで迷っちゃうな〜」"
+  },
+  {
+   "id": "clse07:747600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ハッキリ言っちゃダメだよぉー。少しは遠慮してあげなきゃー」"
+  },
+  {
+   "id": "clse07:747700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う？ そうなの？」"
+  },
+  {
+   "id": "clse07:747800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えー、いいの！？ やるやる！ のんちゃんも一緒に書くでしょ！？」"
+  },
+  {
+   "id": "clse07:747900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「賛成ー」"
+  },
+  {
+   "id": "clse07:748000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「りょうかーい」"
+  },
+  {
+   "id": "clse07:748100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えー？」"
+  },
+  {
+   "id": "clse07:748200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねーねー！ タク！ こっちとこっち、どっちの服が可愛いと思うー？」"
+  },
+  {
+   "id": "clse07:748300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えー？ こっちの方が絶対にいいってー！ でしょ、うきちゃん？」"
+  },
+  {
+   "id": "clse07:748400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うわぁ！ 今のは絶対に⟦rb⟧脅⟦rt⟧おど⟦/r⟧しだー！ 『おねーちゃんの言う事を聞かなかったら、後でものすごいおしおきよ？』って意味だー！」"
+  },
+  {
+   "id": "clse07:748500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なになに？」"
+  },
+  {
+   "id": "clse07:748600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ちょっと待ってタク。ねぇ、タク」"
+  },
+  {
+   "id": "clse07:748700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ここで帰ったらもったいないよ。このあと、もんのすごいイベントが待ってるんだから」"
+  },
+  {
+   "id": "clse07:748800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ちょっと耳貸して、耳」"
+  },
+  {
+   "id": "clse07:748900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「このあとねー、のんちゃんたちと水着のお店もチェックしようって話になってるんだよー」"
+  },
+  {
+   "id": "clse07:749000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「来年の夏のトレンドが、もう発表になってるんだって。私ものんちゃんもうきちゃんも、たぶん試着するよー？ もちろん、タクにも見てもらうよー？」"
+  },
+  {
+   "id": "clse07:749100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「んもう、タクってばひどい。のんちゃんより、私の方を見てよ〜」 "
+  },
+  {
+   "id": "clse07:749200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「えへへ！ どお？」"
+  },
+  {
+   "id": "clse07:749300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「決めてくれないと、抱きついちゃうぞー！」"
+  },
+  {
+   "id": "clse07:749400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ちょっとタク！ 水着の私たちより、うきちゃんとばっかり話して！ もしかして、○リコンなの〜！？」"
+  },
+  {
+   "id": "clse07:749500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ちょっと待ってよ、タクぅ！」"
+  },
+  {
+   "id": "clse07:749600",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「何がすごかったの？」"
+  },
+  {
+   "id": "clse07:749700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「う？ ドアの鍵あいてたから」"
+  },
+  {
+   "id": "clse07:749800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「んーと。タクがね、ブツブツひとりごと言い始めたあたり」"
+  },
+  {
+   "id": "clse07:749900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「えへへぇ」"
+  },
+  {
+   "id": "clse07:750000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「あ、そうだ。いつもの五百円」"
+  },
+  {
+   "id": "clse07:750100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「うん。そこでゲンさんに会ったんだ。そしたらね、タクが⟦rb⟧毎月⟦rt⟧⟦rbc⟧●●⟦/r⟧⟦rb⟧楽しみに⟦rt⟧⟦rbc⟧●●●●⟦/r⟧⟦rb⟧してる⟦rt⟧⟦rbc⟧●●●⟦/r⟧雑誌を渡しといてくれって」"
+  },
+  {
+   "id": "clse07:750200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「はいこれ。お金は私が立て替えておいたから。五百円」"
+  },
+  {
+   "id": "clse07:750300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「えー？ なんで捨てちゃうの？ まだ読んでないのに」"
+  },
+  {
+   "id": "clse07:750400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「う？ でも、こっちの棚の奥にこっそりしまってある本って、全部、『くーるきゃっとぷれす』って書いてあったような……」"
+  },
+  {
+   "id": "clse07:750500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「のんちゃんには秘密にしとくから、私にも見せてよー」"
+  },
+  {
+   "id": "clse07:750600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねぇ、タク！ こんな面白いのあるよ？ やってみてよー」"
+  },
+  {
+   "id": "clse07:750700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もー、そういうことばっかり言ってるから、タクはいつまでたっても彼女が出来ないんだよー」"
+  },
+  {
+   "id": "clse07:750800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こういうのってゲームみたいで楽しいよ。やろう？」"
+  },
+  {
+   "id": "clse07:750900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「年下の幼馴染？ ってことは、やっぱりタクと私の相性は最高ってことだね。えへへぇ」"
+  },
+  {
+   "id": "clse07:751000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「優しいお姉さんタイプかー。ってことは、のんちゃんかなあ？ 確かにタク、のんちゃんと仲いいもんね〜」"
+  },
+  {
+   "id": "clse07:751100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う？ 知らなかったー。タクって、生意気な後輩とか好きだったの？ ってことは、えっと……ひなちゃんとか？」"
+  },
+  {
+   "id": "clse07:751200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「無口な後輩かあ……新聞部だと、やっぱり華ちゃんってことになるのかなあ」"
+  },
+  {
+   "id": "clse07:751300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えー、タクって妹みたいな子が好みだったの？ 確かに青葉寮の結衣ちゃんのこともすっごく可愛がってるし……。はっ！？ まさかシスコンなの！？」"
+  },
+  {
+   "id": "clse07:751400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こわいヒトとか、私はやだな〜。タク、まさか澪さんとかにいじめられるのが好き……とかじゃないよね？ それじゃ、真ちゃんみたいな変態さんだよー」"
+  },
+  {
+   "id": "clse07:751500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う？ なになに？ 何の写真ー？」"
+  },
+  {
+   "id": "clse07:751600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うーん？ そうかなぁ」"
+  },
+  {
+   "id": "clse07:751700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん〜？」"
+  },
+  {
+   "id": "clse07:751800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どの事件も、私たちを笑わせようとしている！」"
+  },
+  {
+   "id": "clse07:751900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でもでも、面白い事件ばっかりじゃない？ 何年か前に、『ニュージェなんとかのきょうき』とかいうのがあったけど、あれとは大違いだよ」"
+  },
+  {
+   "id": "clse07:752000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どしたのタク？」"
+  },
+  {
+   "id": "clse07:752100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なになに？」"
+  },
+  {
+   "id": "clse07:752200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「日付？」"
+  },
+  {
+   "id": "clse07:752300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……？」"
+  },
+  {
+   "id": "clse07:752400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う、うん」"
+  },
+  {
+   "id": "clse07:752500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えと……つまりどういうこと？」"
+  },
+  {
+   "id": "clse07:752600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、なんでそんな面倒なことしてるのかなあ？ しかも、笑っちゃうような事件ばっかり」"
+  },
+  {
+   "id": "clse07:752700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おー。なんかカッコいいねぇ」"
+  },
+  {
+   "id": "clse07:752800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なるほどー！ すごいね、タクー！」"
+  },
+  {
+   "id": "clse07:752900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う？」"
+  },
+  {
+   "id": "clse07:753000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「タク……」"
+  },
+  {
+   "id": "clse07:753100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う？ 私と真ちゃんだよ」"
+  },
+  {
+   "id": "clse07:753200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それに、タクの持ってる本とは中身は変えたよー？ ほら？」"
+  },
+  {
+   "id": "clse07:753300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んーと、新聞づくりの参考にしようと思って。朝、タクを起こしに行ったついでにね、秘密の本棚から借りてきたんだけど……」"
+  },
+  {
+   "id": "clse07:753400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えへへーータク〜分かってる♪」"
+  },
+  {
+   "id": "clse07:753500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしかすると、今回の新聞で一番ウケちゃうかも知れないよ」"
+  },
+  {
+   "id": "clse07:753600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃあさ！ もしこのコーナーがウケたら、次の新聞からは全部これにしちゃおうよー！」"
+  },
+  {
+   "id": "clse07:753700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どしたの、タク？ むすーっとした顔しちゃって」"
+  },
+  {
+   "id": "clse07:753800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でもさー、タクだって面白いから、クールキャットだっけ？ あの本買ってるわけでしょ？」"
+  },
+  {
+   "id": "clse07:753900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「う？ 体育の授業はでてたよ？」"
+  },
+  {
+   "id": "clse07:754000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ねえ、タク。ひなちゃん、今日は部活来るかなぁ？」"
+  },
+  {
+   "id": "clse07:754100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「だって、タク、ひなちゃんと仲良しでしょ？」"
+  },
+  {
+   "id": "clse07:754200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:754300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「そうだ、タク。今日の帰り、タクん家寄っていい？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「え？」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「そ、そう？ だったらまた今度にするけど……」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「さっき話してたんだぁ。もしかしたらタクとケンカでも――」"
+  }
+ ]
+}

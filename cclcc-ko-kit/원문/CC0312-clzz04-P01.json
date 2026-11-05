@@ -1,0 +1,373 @@
+{
+ "packet_id": "CC0312-clzz04-P01",
+ "kit_version": "1.0",
+ "source_file": "clzz04.msb",
+ "speakers_in_packet": [
+  "신조 타케시",
+  "쿠노사토 미오"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clzz04:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その日のうちに、澪の退院許可は出た。"
+  },
+  {
+   "id": "clzz04:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "全ての検査で異常なしという結果だったからだ。"
+  },
+  {
+   "id": "clzz04:200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「別に送ってくれなくてもいい。電車で帰っても大丈夫だと、医者のお墨付きだ」"
+  },
+  {
+   "id": "clzz04:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "先ほどまで、あちらこちらのビルの窓にまばゆい夕陽が反射し、まるで都市全体が赤く燃えているような印象だったのに……日没が近づくにつれ、急に灰色の雲が空全体を覆い始めていた。"
+  },
+  {
+   "id": "clzz04:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:38⟧もしかすると、これから雨になるかもしれない。"
+  },
+  {
+   "id": "clzz04:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦top:38⟧そんな街の幹線道路上、ハンドルを握る神成に向かって澪は言った。"
+  },
+  {
+   "id": "clzz04:600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「だから。時々、捜査に協力してもらってる礼だと……」"
+  },
+  {
+   "id": "clzz04:700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「これを恩に着せて、もっと無茶な捜査につきあわせるつもりじゃなければいいがな」"
+  },
+  {
+   "id": "clzz04:800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「久野里さんは、他人の厚意をもう少し素直に受けられるようになるべきだと思う」"
+  },
+  {
+   "id": "clzz04:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成は澪のイヤミなどにはすっかり慣れているようで、軽口を叩きながら笑った。"
+  },
+  {
+   "id": "clzz04:1000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そういえば……」"
+  },
+  {
+   "id": "clzz04:1100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「んん？」"
+  },
+  {
+   "id": "clzz04:1200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「どうだった？ 宮代の様子は」"
+  },
+  {
+   "id": "clzz04:1300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「宮代くん？」"
+  },
+  {
+   "id": "clzz04:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "突然、話題が飛んだので神成は一瞬、何を訊かれたのか分からなかったようだ。"
+  },
+  {
+   "id": "clzz04:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧澪はもう一度、繰り返す。"
+  },
+  {
+   "id": "clzz04:1600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「宮代拓留の様子、だよ。見舞いに来てくれたんだろう？ あの宮代が」"
+  },
+  {
+   "id": "clzz04:1700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「“あの”とか言うなよ。ああ見えても、悪い奴じゃない」"
+  },
+  {
+   "id": "clzz04:1800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「あんたも人のことは言えない。“ああ見えても”とか、可哀想じゃないか」"
+  },
+  {
+   "id": "clzz04:1900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「違いない」"
+  },
+  {
+   "id": "clzz04:2000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「楽しくやってるのか、あいつは？」"
+  },
+  {
+   "id": "clzz04:2100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ん？ ああ、相変わらずだ。新聞部の連中と一緒に事件に首を突っ込んできては、俺たちの邪魔をしてくれてるよ」"
+  },
+  {
+   "id": "clzz04:2200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「ふん、そうか」"
+  },
+  {
+   "id": "clzz04:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "その時、ちょうど自動車が高速道路の高架下に入った。"
+  },
+  {
+   "id": "clzz04:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "車内が、一層暗くなる。"
+  },
+  {
+   "id": "clzz04:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "まるでそれに合わせるかのように、なぜか澪はそっと目を閉じた。"
+  },
+  {
+   "id": "clzz04:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "しばらく高架下の暗がりが続き、それにともなって、神成の車のヘッドライトが自動的に灯った。"
+  },
+  {
+   "id": "clzz04:2700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「……しかし、珍しいこともあるもんだな」"
+  },
+  {
+   "id": "clzz04:2800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「なにがだ？」"
+  },
+  {
+   "id": "clzz04:2900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「いや、君が彼らを気にするなんてな。いつもモメてばかりいるのに」"
+  },
+  {
+   "id": "clzz04:3000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ああ、そうか。喧嘩するほど仲がいいという――」"
+  },
+  {
+   "id": "clzz04:3100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「それはない」"
+  },
+  {
+   "id": "clzz04:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は一瞬だけ神成の方を睨むと、今度は目を閉じずに、窓の外に視線を合わせた。"
+  },
+  {
+   "id": "clzz04:3300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「だが……あいつらがみんな幸せそうなのは、なによりだ」"
+  },
+  {
+   "id": "clzz04:3400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「は？ 今日の久野里さんはなんか変だぞ？ やっぱり頭でも打ったんじゃないのか？」"
+  },
+  {
+   "id": "clzz04:3500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「余計なお世話だ。黙って運転していろ」"
+  },
+  {
+   "id": "clzz04:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そうやっていつものように毒づきながら、しかし、彼女は口の中でポツリと小さくつぶやいた。"
+  },
+  {
+   "id": "clzz04:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成には聞こえないくらいの声で。"
+  },
+  {
+   "id": "clzz04:3800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「だとしたら……これから私は、とてつもなく残酷なことをしなくてはならないわけか……損な役回りだな、いつもいつも」"
+  },
+  {
+   "id": "clzz04:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "高架下を抜けると、フロントガラスを大粒の雨が叩き始めた。"
+  }
+ ],
+ "context_after": []
+}

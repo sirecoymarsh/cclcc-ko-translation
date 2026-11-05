@@ -1,0 +1,421 @@
+{
+ "packet_id": "CC0310-clzz02-P01",
+ "kit_version": "1.0",
+ "source_file": "clzz02.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카",
+  "와쿠이 슈이치",
+  "쿠노사토 미오",
+  "？？？"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clzz02:0",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くっ！ うああっ！？」"
+  },
+  {
+   "id": "clzz02:100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（こ、これは……あの地震か！？）"
+  },
+  {
+   "id": "clzz02:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "渋谷の街全体が、まるで水の上に浮かんでいるかのように波打っている。"
+  },
+  {
+   "id": "clzz02:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "立っていることはおろか、座り込んでいてさえ身体が⟦rb⟧翻弄⟦rt⟧ほんろう⟦/r⟧され、何かにつかまっていないといられない。"
+  },
+  {
+   "id": "clzz02:400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "（ということは、ここは２００９年、なのか！？ なぜ！？）"
+  },
+  {
+   "id": "clzz02:500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "（いったいなんだこれは？ いつの間に私は、こんな場所に？）"
+  },
+  {
+   "id": "clzz02:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "あたりをゆっくり見回した彼女は、だが、被災者の中に⟦rb⟧ある少年⟦rt⟧⟦rbc⟧●●●●⟦/r⟧を発見してギョッとなった。"
+  },
+  {
+   "id": "clzz02:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:38⟧彼は、パニックを起こしている人々の中、ひとり、ブルブルと震えていた。でも、その震えは、地震に対する恐怖とは明らかに違うものだと、澪にはすぐに分かった。"
+  },
+  {
+   "id": "clzz02:800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "彼が震えているのは、“怒り”のせいだった。"
+  },
+  {
+   "id": "clzz02:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "彼の目の焦点は全く合っていない。そして、たったひとりでそこにいるはずなのに、まるで別の誰かがそこにいるかのように、ブツブツと何かを訴え続けているのだ。"
+  },
+  {
+   "id": "clzz02:1000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれは……宮代……拓留っ！」"
+  },
+  {
+   "id": "clzz02:1100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "오노에 세리카",
+   "jp": "「う、う、うう……尾上……お願いだ……お願いだよ……」"
+  },
+  {
+   "id": "clzz02:1200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なぁに、タク？ タクの言うことならなんでも聞くよ？ 私、何をしたらいいの？」"
+  },
+  {
+   "id": "clzz02:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "？？？",
+   "jp": "「僕の……僕の願いは……っ」"
+  },
+  {
+   "id": "clzz02:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "澪は思わず叫んでいた。"
+  },
+  {
+   "id": "clzz02:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "⟦top:76⟧ダメだ、宮代！ お前の次の一言が、⟦col:280aa02d1400⟧因果律⟦col:800000⟧を狂わせる！"
+  },
+  {
+   "id": "clzz02:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "⟦top:38⟧元の世界に戻れなくなる！"
+  },
+  {
+   "id": "clzz02:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "だが、澪の声は誰にも届かない。"
+  },
+  {
+   "id": "clzz02:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "⟦top:76⟧その代わり、⟦rb⟧飄々⟦rt⟧ひょうひょう⟦/r⟧とした、だが不愉快極まりない男の声が割って入った。"
+  },
+  {
+   "id": "clzz02:1900",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「おいおい、久野里くん。キミもずいぶんと酷なことを言うね。渋谷地震の時、宮代くんはもっと素晴らしいことを願うべきだったんだ。そうすれば、その後の悲劇は何も起こらなかった」"
+  },
+  {
+   "id": "clzz02:2000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "？？？",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「貴様っ、和久井っ……！」"
+  },
+  {
+   "id": "clzz02:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "澪は、背後に突然現れた和久井に詰め寄ろうとした。"
+  },
+  {
+   "id": "clzz02:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "⟦top:38⟧だが、不思議なことに澪が近づいた分だけ、和久井の姿が遠ざかり、追いつくことが出来ない。"
+  },
+  {
+   "id": "clzz02:2300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「キミにだけ、特別に見せてあげよう。渋谷地震の時、彼が本当は何を望むべきだったのか。そしてそのことが、キミたちをどんなに素晴らしい世界へといざなうのか」"
+  },
+  {
+   "id": "clzz02:2400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「黙れ！」"
+  },
+  {
+   "id": "clzz02:2500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そう怖い顔で怒鳴ることはないだろう。それともなにかい？ 彼には⟦rb⟧悲惨な運命⟦rt⟧レ・ミゼラブル⟦/r⟧こそふさわしいと？」"
+  },
+  {
+   "id": "clzz02:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井は、まるでわざと澪をイラつかせるかのように、いささか芝居がかったポーズをとってみせた。"
+  },
+  {
+   "id": "clzz02:2700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「宮代くんは未来ある若者なんだよ？ 彼が正しい道へ進むように導くのは、大人の責任じゃないか」"
+  },
+  {
+   "id": "clzz02:2800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「そんなのはただの詭弁だ！ お前自身の失敗を帳消しにするための⟦rb⟧欺瞞⟦rt⟧ぎまん⟦/r⟧にすぎない！」"
+  },
+  {
+   "id": "clzz02:2900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「やれやれ。確かに僕の失策をリカバーしようという意図を隠すつもりはないけどね……でも、宮代くんの未来だって救ってあげたいと、本気で思ってるんだよ？」"
+  },
+  {
+   "id": "clzz02:3000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「………そんなこと……彼は望みはしない」"
+  },
+  {
+   "id": "clzz02:3100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ははは、ずいぶんと肩入れしてるんだねぇ、キミ。まさか、恋でもしちゃったのかい？」"
+  },
+  {
+   "id": "clzz02:3200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「ふざけるなっ……」"
+  },
+  {
+   "id": "clzz02:3300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「まぁいい。これ以上キミと話をしていても無意味なようだ。僕の好きにやらせてもらうさ」"
+  },
+  {
+   "id": "clzz02:3400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「やめろ！ 彼は、もう十分に苦しんだ！ もうこれ以上、彼の心をもてあそぶな！」"
+  },
+  {
+   "id": "clzz02:3500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あきらめるんだね。どのみち、もう止められはしないよ――ほら、因果はすでに書き換えられようとしている」"
+  },
+  {
+   "id": "clzz02:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "和久井が、ニヤニヤと下卑た笑いを浮かべながら宮代を指さした。"
+  },
+  {
+   "id": "clzz02:3700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「よせ宮代！ やめろぉぉぉっ！」"
+  },
+  {
+   "id": "clzz02:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "澪の絶叫。"
+  },
+  {
+   "id": "clzz02:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかし、その声が宮代少年に届くことはなかった。"
+  },
+  {
+   "id": "clzz02:4000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「う、うう……お願いだ、世莉架……誰でもいい。僕のこと……ほんの少しでも⟦rb⟧愛してくれる人⟦rt⟧⟦rbc⟧●●●●●●●⟦/r⟧を与えてよっ。僕に、その人のことを、幸せにさせてよ……っ」"
+  },
+  {
+   "id": "clzz02:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "少年時代の拓留がそう言った瞬間だった。"
+  },
+  {
+   "id": "clzz02:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "⟦top:76⟧誰もいなかったはずの空間に、ユラリと……尾上世莉架が⟦rb⟧出現した⟦rt⟧⟦rbc⟧●●●●⟦/r⟧。"
+  },
+  {
+   "id": "clzz02:4300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「……リアル、ブート……」"
+  },
+  {
+   "id": "clzz02:4400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「くく、くくく……ははは！ かくして、因果は書き換えられた。はははは！」"
+  }
+ ],
+ "context_after": []
+}

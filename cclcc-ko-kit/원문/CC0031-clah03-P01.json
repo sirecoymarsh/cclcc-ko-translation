@@ -1,0 +1,932 @@
+{
+ "packet_id": "CC0031-clah03-P01",
+ "kit_version": "1.0",
+ "source_file": "clah03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 에미",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "？？？"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clah03:0",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「えーっと……」"
+  },
+  {
+   "id": "clah03:100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "（母『さあ、雛絵。一緒に帰るわよ』）"
+  },
+  {
+   "id": "clah03:200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "（雛絵ちゃん『いやよ、私は先輩と一緒にいたいの。だから帰らない』）"
+  },
+  {
+   "id": "clah03:300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "（母『うちの大事な娘をたぶらかすなんて、あなたいったいどういうつもり？』）"
+  },
+  {
+   "id": "clah03:400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "（宮代先輩『僕はただ、彼女のことが好きなだけです。この気持ちは誰にもとめられない。たとえお母さんでも」）"
+  },
+  {
+   "id": "clah03:500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah03:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "ていうか、あとどれだけあるんだよ、この台本。"
+  },
+  {
+   "id": "clah03:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "いくらなんでもこんなの覚えきれないぞ。"
+  },
+  {
+   "id": "clah03:800",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先輩！ 先輩が私のこと、そこまで思っていてくれたなんて！」"
+  },
+  {
+   "id": "clah03:900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「え？ えーっと……」"
+  },
+  {
+   "id": "clah03:1000",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「『当たり前じゃないか』」"
+  },
+  {
+   "id": "clah03:1100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ、ああ……そうか。『当たり前じゃないか。僕は何よりも……』」"
+  },
+  {
+   "id": "clah03:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "ん？"
+  },
+  {
+   "id": "clah03:1300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「『僕は何よりも君のことを大切に思っているよ！』」"
+  },
+  {
+   "id": "clah03:1400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うわああああああっ！！！ 尾上！ お前、いつの間に！」"
+  },
+  {
+   "id": "clah03:1500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う？ さっきからいたよ？」"
+  },
+  {
+   "id": "clah03:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "な、なんてことだ。"
+  },
+  {
+   "id": "clah03:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "ここ最近こんなのばっかりだ。"
+  },
+  {
+   "id": "clah03:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "集中したり妄想したりすると周りが見えなくなる癖、何とかしなきゃ。"
+  },
+  {
+   "id": "clah03:1900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それよりタク。それなに？」"
+  },
+  {
+   "id": "clah03:2000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「え？ ああ、これはその……台本だよ、台本、お芝居の」"
+  },
+  {
+   "id": "clah03:2100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お芝居？ タクが出るの？」"
+  },
+  {
+   "id": "clah03:2200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「バカ言うな。僕が舞台になんて立つわけないだろ」"
+  },
+  {
+   "id": "clah03:2300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だったらなんでそんなもの読んでるの？」"
+  },
+  {
+   "id": "clah03:2400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「それはだな……」"
+  },
+  {
+   "id": "clah03:2500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それは？」"
+  },
+  {
+   "id": "clah03:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "あれ？"
+  },
+  {
+   "id": "clah03:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "そうだよ。"
+  },
+  {
+   "id": "clah03:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "なんで僕、わざわざこんなもの覚えようとしてるんだよ。"
+  },
+  {
+   "id": "clah03:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "やめたやめた、バカバカしい。"
+  },
+  {
+   "id": "clah03:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕は有村作の台本を、そそくさとバッグの中に仕舞った。"
+  },
+  {
+   "id": "clah03:3100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う？ もう読まなくていいの？」"
+  },
+  {
+   "id": "clah03:3200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いいんだ。どうせ必要ないものだし」"
+  },
+  {
+   "id": "clah03:3300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "「ふーん……」"
+  },
+  {
+   "id": "clah03:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "？？？",
+   "jp": "考えてみたら、どうして僕がそこまで付き合わなきゃいけないんだ。"
+  },
+  {
+   "id": "clah03:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "？？？",
+   "jp": "そもそも、有村の母親が彼女の居場所を見つけて、うちまで来るかどうかだってわからないじゃないか。"
+  },
+  {
+   "id": "clah03:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "？？？",
+   "jp": "第一、娘を連れ戻すだけなら、学校に乗り込んできた方が早いわけで、わざわざうちまで来る必要がない。"
+  },
+  {
+   "id": "clah03:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "？？？",
+   "jp": "そうだよ。つまり母親が来るなんてことは、あり得ないはずだ。"
+  },
+  {
+   "id": "clah03:3800",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……それで、あなたは？」"
+  },
+  {
+   "id": "clah03:3900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "아리무라 에미",
+   "jp": "「あ、え、えっと……」"
+  },
+  {
+   "id": "clah03:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もしも数時間前の僕に会えるなら言ってやりたい。"
+  },
+  {
+   "id": "clah03:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この世にはどんなことだって起こり得るということを。"
+  },
+  {
+   "id": "clah03:4200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "아리무라 에미",
+   "jp": "「ぼぼ、僕は、その……」"
+  },
+  {
+   "id": "clah03:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "学校を終えてトレーラーハウスに戻ると、そこにはなぜか有村と有村の母親が揃っていた。"
+  },
+  {
+   "id": "clah03:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "見なかったことにしてそのまま立ち去ろうとしたものの、有村によって目ざとく見つけられ、この状態というわけだ。"
+  },
+  {
+   "id": "clah03:4500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はっきりしない子ね。私はあなたについて訊いているんだけど」"
+  },
+  {
+   "id": "clah03:4600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「そ、その……僕は宮代拓留、と言い……ます……」"
+  },
+  {
+   "id": "clah03:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "しかもふたりでも狭いこの部屋の中でのことだ。"
+  },
+  {
+   "id": "clah03:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "会話も必然的に至近距離で行うことになってしまい、圧迫感が半端ない。"
+  },
+  {
+   "id": "clah03:4900",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代さんね。で、うちの雛絵とはどういうご関係？」"
+  },
+  {
+   "id": "clah03:5000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「えと、関係と言われましても……」"
+  },
+  {
+   "id": "clah03:5100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先輩……」"
+  },
+  {
+   "id": "clah03:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ただの学校の先輩後輩――と言いかけたところで、有村が肘でつついてきた。"
+  },
+  {
+   "id": "clah03:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "マジかよ……。"
+  },
+  {
+   "id": "clah03:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この状況で、あれを言わせようっていうのか？"
+  },
+  {
+   "id": "clah03:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いやいやいや、無理だろ、さすがに」"
+  },
+  {
+   "id": "clah03:5600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "「お願いしますよぉ。私と先輩の仲でしょ」"
+  },
+  {
+   "id": "clah03:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 에미",
+   "jp": "そもそも、その仲がなんでもないものだから、無理だって言ってるのに。"
+  },
+  {
+   "id": "clah03:5800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちょっと。さっきからなにをヒソヒソ話してるの？ 訊いてるのはこっちなんだけど」"
+  },
+  {
+   "id": "clah03:5900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「す、すみません！ じ、実は僕……雛絵さんとお付き合いをさせていただいておりまして！」"
+  },
+  {
+   "id": "clah03:6000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お付き合いぃ？」"
+  },
+  {
+   "id": "clah03:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村の母さんの表情が一転、にわかに掻き曇った。"
+  },
+  {
+   "id": "clah03:6200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、いや……それが……」"
+  },
+  {
+   "id": "clah03:6300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうなの、私と先輩はそりゃもう、ラブラブなんだから、ね？」"
+  },
+  {
+   "id": "clah03:6400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「え……」"
+  },
+  {
+   "id": "clah03:6500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ね！？」"
+  },
+  {
+   "id": "clah03:6600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 에미",
+   "jp": "「そ、そうです、ラブラブなんです！」"
+  },
+  {
+   "id": "clah03:6700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ふ〜ん……ラブラブねぇ……」"
+  },
+  {
+   "id": "clah03:6800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "上から下まで、ゆっくりとねめつける様な視線が絡みつく。"
+  },
+  {
+   "id": "clah03:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "重い……なんて重い空気だ……。"
+  },
+  {
+   "id": "clah03:7000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「そうよ。だから、私これからもここで宮代先輩と暮らすの」"
+  },
+  {
+   "id": "clah03:7100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ラブラブかどうかは置いておくとして、だからって年頃の娘が男の子とふたり暮らし、それもこんな環境でなんて、とてもじゃないけど感心できるものではないわね」"
+  },
+  {
+   "id": "clah03:7200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「別にママに許してもらう必要ない」"
+  },
+  {
+   "id": "clah03:7300",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あのね、雛絵。あなた、いくら高校生とはいえ、こんな風に男の子の家に転がり込むのが許されるとでも思ってるの」"
+  },
+  {
+   "id": "clah03:7400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「あら、ママにそんなこと言われるなんて心外ね」"
+  },
+  {
+   "id": "clah03:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 에미",
+   "jp": "有村の母さんの表情が一段と曇った。"
+  },
+  {
+   "id": "clah03:7600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「それ……どういう意味？」"
+  },
+  {
+   "id": "clah03:7700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「ママが帰って来ない時、どこに泊まっているか私たち家族が知らないとでも？」"
+  },
+  {
+   "id": "clah03:7800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「っ……！！」"
+  },
+  {
+   "id": "clah03:7900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「それだけじゃないわ。パパが……」"
+  },
+  {
+   "id": "clah03:8000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「やめなさい、人前で――！！」"
+  },
+  {
+   "id": "clah03:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "母親の一喝で有村は言いかけた言葉を飲み込んだ。"
+  },
+  {
+   "id": "clah03:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "どうやら、何か複雑な事情があるらしいが……。"
+  },
+  {
+   "id": "clah03:8300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「そうやって自分は好き勝手やってるくせに、娘のやることには口出しするなんて、おかしいと思うんですけど」"
+  },
+  {
+   "id": "clah03:8400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だ、だからって、こんな腹いせみたいなことしてどうなるの！」"
+  },
+  {
+   "id": "clah03:8500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「腹いせなんかじゃないもん。私は先輩と付き合ってるし、ゆくゆくは結婚するつもりだし！」"
+  },
+  {
+   "id": "clah03:8600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 에미",
+   "jp": "（ああ……空が……青いな……）"
+  },
+  {
+   "id": "clah03:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "僕はなぜここにいるんだろう？"
+  },
+  {
+   "id": "clah03:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "いや、なぜふたりはここで、こんな込み入った話をしているんだろう。"
+  },
+  {
+   "id": "clah03:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "できることなら、他でやってもらいたいと切実に願う。"
+  },
+  {
+   "id": "clah03:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "なんだか他人の家庭の事情を覗き見てるようで、居心地の悪さったらない。"
+  },
+  {
+   "id": "clah03:9100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「とにかく、一緒に帰るわよ、雛絵」"
+  },
+  {
+   "id": "clah03:9200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いやよ、私は先輩と一緒にいたいの。だから帰らない」"
+  },
+  {
+   "id": "clah03:9300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "言いながら、再び有村が僕の脇をつついてきた。"
+  },
+  {
+   "id": "clah03:9400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clah03:9500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "「台本っ！」"
+  },
+  {
+   "id": "clah03:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 에미",
+   "jp": "あ……！"
+  },
+  {
+   "id": "clah03:9700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代さんって言ったわね。あなたもいったいどういうつもり？」"
+  },
+  {
+   "id": "clah03:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "えっと……なんだっけ？"
+  },
+  {
+   "id": "clah03:9900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "「ぼ、僕はその……ただ、彼女のことが、すすっ、好きなだけ……です。この気持ちは誰にも……とめられない。たとえお母さんでも……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「好き……ねえ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "あれ？"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「…………」"
+  }
+ ]
+}

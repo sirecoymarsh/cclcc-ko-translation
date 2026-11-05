@@ -1,0 +1,957 @@
+{
+ "packet_id": "CC0336-_tips-P04",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "はたの"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "はたの"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "波多野一成（はたの いっせい）。セナの実の父親。元々は希テクノロジーに所属していた科学者であり、プロジェクト・ノアに従事。Ｉｒ２という禁断の公式を偶然発見した人物でもある。実験中に誤って妻子を死亡させてしまったことをきっかけに失踪。サードメルト後の混乱時、セナをかばって天成神光会の狂信者により殺害された。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "バックベアード"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ばっくべあーど"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ばっくべあぁど"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:32800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "黒い円形の身体で、中心に大きな一つ目を持つアメリカの妖怪。身体からは、触手のようなユラユラとした突起が放射状に生えている。ネット上では、このバックベアードに『このロリコンどもめ！』というセリフを言わせた画像やアスキーアートがよく貼られる。"
+  },
+  {
+   "id": "_tips:33000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "パネェ"
+  },
+  {
+   "id": "_tips:33100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぱねぇ"
+  },
+  {
+   "id": "_tips:33200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぱねぇ"
+  },
+  {
+   "id": "_tips:33300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『半端ない』。つまり『すごい』という意味。"
+  },
+  {
+   "id": "_tips:33500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "パンモロ"
+  },
+  {
+   "id": "_tips:33600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぱんもろ"
+  },
+  {
+   "id": "_tips:33700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぱんもろ"
+  },
+  {
+   "id": "_tips:33800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "パンツがまともに見えている状態。パンチラの発展系。"
+  },
+  {
+   "id": "_tips:34000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ひかがみ"
+  },
+  {
+   "id": "_tips:34100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ひかがみ"
+  },
+  {
+   "id": "_tips:34200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ひかがみ"
+  },
+  {
+   "id": "_tips:34300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "膝裏のこと。"
+  },
+  {
+   "id": "_tips:34500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ファム・ファタル"
+  },
+  {
+   "id": "_tips:34600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ふぁむ・ふぁたる"
+  },
+  {
+   "id": "_tips:34700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ふぁむふぁたる"
+  },
+  {
+   "id": "_tips:34800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "フランス語で『運命の女』。主に男を破滅に追いやるような魔性の女性のことを形容する際に使われる。"
+  },
+  {
+   "id": "_tips:35000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ブラチュー"
+  },
+  {
+   "id": "_tips:35100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぶらちゅー"
+  },
+  {
+   "id": "_tips:35200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぶらちゅぅ"
+  },
+  {
+   "id": "_tips:35300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）『ブラッドチューン ＴＨＥ　ＡＮＩＭＡＴＩＯＮ』の略称。元々はコミック作品で、メディアミックス展開によりアニメ化された。全２６話。"
+  },
+  {
+   "id": "_tips:35500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "フルボッコ"
+  },
+  {
+   "id": "_tips:35600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ふるぼっこ"
+  },
+  {
+   "id": "_tips:35700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ふるぼっこ"
+  },
+  {
+   "id": "_tips:35800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『フルパワー（全力）でボッコボコに打ちのめす』の略。"
+  },
+  {
+   "id": "_tips:36000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ベース"
+  },
+  {
+   "id": "_tips:36100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "べーす"
+  },
+  {
+   "id": "_tips:36200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "べぇす"
+  },
+  {
+   "id": "_tips:36300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "拓巳が住んでいるコンテナハウスのこと。円山町にある８階建ての雑居ビル『ＫＵＲＥＮＡＩ会館ビル』の屋上にこのコンテナは置かれている。"
+  },
+  {
+   "id": "_tips:36500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ポッキィ"
+  },
+  {
+   "id": "_tips:36600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぽっきぃ"
+  },
+  {
+   "id": "_tips:36700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぽっきぃ"
+  },
+  {
+   "id": "_tips:36800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）スナック菓子の商品名。細長いスティック状をしていて、そこにチョコレートがコーティングされている。一箱につき数十本入っている（時代により内容量は変化している）。昔から人気の、日本では国民的なお菓子である。"
+  },
+  {
+   "id": "_tips:37000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "マクディ"
+  },
+  {
+   "id": "_tips:37100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まくでぃ"
+  },
+  {
+   "id": "_tips:37200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まくでぃ"
+  },
+  {
+   "id": "_tips:37300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）業界トップシェアを誇るファーストフードのチェーン店。アメリカ発祥のハンバーガーショップ。"
+  },
+  {
+   "id": "_tips:37500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "魔法使い"
+  },
+  {
+   "id": "_tips:37600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まほうつかい"
+  },
+  {
+   "id": "_tips:37700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まほうつかい"
+  },
+  {
+   "id": "_tips:37800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット上の一部のモテない男性たちの間では、『童貞のまま３０歳を迎えれば魔法使いになれる』という噂がまことしやかに囁かれているとかいないとか。"
+  },
+  {
+   "id": "_tips:38000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "見せパン"
+  },
+  {
+   "id": "_tips:38100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みせぱん"
+  },
+  {
+   "id": "_tips:38200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みせぱん"
+  },
+  {
+   "id": "_tips:38300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『見せる／見られるのを前提にしているパンツ』の略。"
+  },
+  {
+   "id": "_tips:38500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "夢遊病"
+  },
+  {
+   "id": "_tips:38600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "むゆうびょう"
+  },
+  {
+   "id": "_tips:38700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "むゆうびょう"
+  },
+  {
+   "id": "_tips:38800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "睡眠時遊行症、夢中遊行症などとも言う。睡眠中（特にノンレム睡眠時）まるで意識があるかのように起き出し、徘徊、食事、入浴など（会話は簡易なもの以外は不可能）の行動をする。個人差はあるがおよそ数分から３０分ほどその状態が持続し、最終的には元の眠っていた場所に戻り、再び眠りに付く。本人は完全に無意識であり、自分の行動についてまったく記憶していない。精神的な問題を抱えている者にこの症状が出ることが多く、ストレスが無意識に行動に出てしまうのが原因だといわれている。"
+  },
+  {
+   "id": "_tips:39000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "メンヘラ"
+  },
+  {
+   "id": "_tips:39100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "めんへら"
+  },
+  {
+   "id": "_tips:39200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "めんへら"
+  },
+  {
+   "id": "_tips:39300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "夢見がちな言動をあからさまにする人。『メンタルヘルス』を略した『メンヘル』を、『〜する人』を意味する『ｅｒ』を付けて変形させた造語。"
+  },
+  {
+   "id": "_tips:39500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ヤンデレ"
+  },
+  {
+   "id": "_tips:39600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "やんでれ"
+  },
+  {
+   "id": "_tips:39700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "やんでれ"
+  },
+  {
+   "id": "_tips:39800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "好きな男性（基本的には主人公）への想いが募るあまり、嫉妬などの強い感情によりやがて病的な行動に及んでしまうヒロインのこと。"
+  },
+  {
+   "id": "_tips:40000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ユミクロ"
+  },
+  {
+   "id": "_tips:40100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ゆみくろ"
+  },
+  {
+   "id": "_tips:40200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ゆみくろ"
+  },
+  {
+   "id": "_tips:40300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）全国チェーンのカジュアル衣料品店。安さに定評がある。"
+  },
+  {
+   "id": "_tips:40500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "百合"
+  },
+  {
+   "id": "_tips:40600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ゆり"
+  },
+  {
+   "id": "_tips:40700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ゆり"
+  },
+  {
+   "id": "_tips:40800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "女性同士の恋愛関係、あるいはそれを連想させる関係や描写のこと。"
+  },
+  {
+   "id": "_tips:41000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ょぅιﾞょ"
+  },
+  {
+   "id": "_tips:41100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ようじょ"
+  },
+  {
+   "id": "_tips:41200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ようじょ"
+  },
+  {
+   "id": "_tips:41300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『ようじょ』＝『幼女』のこと。"
+  },
+  {
+   "id": "_tips:41500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ラノベ"
+  },
+  {
+   "id": "_tips:41600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "らのべ"
+  },
+  {
+   "id": "_tips:41700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "らのべ"
+  },
+  {
+   "id": "_tips:41800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ライトノベル。主に１０代男性向けに描かれた小説。かわいらしい少女のイラストによる表紙や挿し絵が通常の小説に比べて多い。ストーリー内容としてはＳＦからファンタジーまで様々だが、基本的には中高生の少年が、同年代の美少女と出会うことで非日常的な出来事に巻き込まれる話が近年は増えている。"
+  },
+  {
+   "id": "_tips:42000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "リア充"
+  },
+  {
+   "id": "_tips:42100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りあじゅう"
+  },
+  {
+   "id": "_tips:42200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りあじゅう"
+  },
+  {
+   "id": "_tips:42300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "現実（リアル）世界の生活が充実している人。『友人が多い』『恋人がいる』『サークル活動に精を出す』『コンパに出る』などの例がある。"
+  },
+  {
+   "id": "_tips:42500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "リビドー"
+  },
+  {
+   "id": "_tips:42600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りびどー"
+  },
+  {
+   "id": "_tips:42700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りびどぉ"
+  },
+  {
+   "id": "_tips:42800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『（主に性的な）欲望』を指す心理学用語。心理学者フロイトは『性的衝動の基になる力』であると提唱した。一方、同じく心理学者のユングは『すべての行動の根底にあるエネルギー』という意味として定義した。"
+  },
+  {
+   "id": "_tips:43000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ルパンツ三世"
+  },
+  {
+   "id": "_tips:43100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "るぱんつさんせい"
+  },
+  {
+   "id": "_tips:43200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "るぱんつさんせい"
+  },
+  {
+   "id": "_tips:43300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）女好きの大怪盗が主人公の人気アニメ。原作はコミックで、最初のテレビシリーズは１９７０年代に放映された。以後も数年に一度の割合で特別編として新作が作られ続けている。"
+  },
+  {
+   "id": "_tips:43500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ワロス"
+  },
+  {
+   "id": "_tips:43600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "わろす"
+  },
+  {
+   "id": "_tips:43700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "わろす"
+  },
+  {
+   "id": "_tips:43800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『笑う』をもじったもの。『面白い』『笑った』という意味で使われる。ただし『ハハッワロス』や『はいはいわろすわろす』というような使われ方をしている場合は、嘲笑や侮蔑、相手を茶化すような意味が込められる。"
+  },
+  {
+   "id": "_tips:44000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＤＩＤ"
+  },
+  {
+   "id": "_tips:44100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でぃーあいでぃー"
+  },
+  {
+   "id": "_tips:44200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＤＩＤ"
+  },
+  {
+   "id": "_tips:44300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "解離性同一性障害（Ｄｉｓｓｏｃｉａｔｉｖｅ　Ｉｄｅｎｔｉｔｙ　Ｄｉｓ-⟦n⟧ｏｒｄｅｒ）、いわゆる多重人格のこと。１人の人間に複数の人格が存在する状態。人格とは『自我や環境を認知し、そこに関与し、思考することの持続的様式』と定義される。つまり人間は連続した時間を認識することで自我を有し、行動・情報が一貫していることを確認し、それを『自分』として形成している。障害における人格の交代は突然で、心理的・社会的ストレスや環境的要因が誘因となる。別人格時の記憶を持っていない例が多いのが特徴。発症年齢は小児期であるが、臨床的に露見しない場合もある。慢性化しやすく、小児期に受けた虐待や心的外傷が、解離性同一性障害より先に見られる。"
+  },
+  {
+   "id": "_tips:44400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "なお『多重人格障害』という名称はＤＳＭ－Ⅲ（アメリカ精神医学会の定めた『精神障害の診断と統計の手引き』第３版・１９８０年発行）での旧称で、ＤＳＭ－Ⅳ（１９９４年）以降は使われていない。"
+  },
+  {
+   "id": "_tips:44600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＤＱＮ"
+  },
+  {
+   "id": "_tips:44700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "どきゅん"
+  },
+  {
+   "id": "_tips:44800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＤＱＮ"
+  },
+  {
+   "id": "_tips:44900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ドキュン。反社会的な人。常識のない人。"
+  },
+  {
+   "id": "_tips:45100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＦＡ"
+  },
+  {
+   "id": "_tips:45200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ふぁいなるあんさー"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＦＡ"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "『ファイナルアンサー』。「つまりそれが最終的な結論である」という意味で使われるネットスラング。元ネタは、全問正解で１０００万円を獲得できる人気クイズ番組。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＧＥレート"
+  }
+ ]
+}

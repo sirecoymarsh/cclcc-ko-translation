@@ -1,0 +1,889 @@
+{
+ "packet_id": "CC0246-clse07-P87",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "사쿠마 와타루",
+  "신조 타케시",
+  "오타니 유마"
+ ],
+ "context_before": [
+  {
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "jp": "「『これだよ、これ！』」"
+  },
+  {
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "jp": "「それじゃ、そろそろいこうか……」"
+  },
+  {
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "jp": "「大丈夫……別に殺しはしないから。ただ……」"
+  },
+  {
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "jp": "「ほら、せっかく見てくれてるんだからアイドルとして、サービスしないと。際どいサービスはお得意だろ？」"
+  },
+  {
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "jp": "「おかしいな？ 誰かが助けに来てくれるんじゃなかったのか？」"
+  },
+  {
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "jp": "「そう。それじゃあ、その前にいろいろやらないと」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:829500",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、なんで……！？」"
+  },
+  {
+   "id": "clse07:829600",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「く、来るな！ 来たらこいつを殺す！！」"
+  },
+  {
+   "id": "clse07:829700",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「で、出ていけ……」"
+  },
+  {
+   "id": "clse07:829800",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「い、今すぐここから出ていけ！ さもないと、こいつを殺す――！」"
+  },
+  {
+   "id": "clse07:829900",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「何度も言わせるな！ 早く、早く出て――」"
+  },
+  {
+   "id": "clse07:830000",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「な、なんだ！？」"
+  },
+  {
+   "id": "clse07:830100",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「あがっ！！」"
+  },
+  {
+   "id": "clse07:830200",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「うごっ！」"
+  },
+  {
+   "id": "clse07:830300",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「っぷ……おええええええ」"
+  },
+  {
+   "id": "clse07:830400",
+   "type": "dialogue",
+   "speaker": "大谷悠馬",
+   "speaker_ko": "오타니 유마",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「見んな！ こ、こっち見んな！」"
+  },
+  {
+   "id": "clse07:830500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "「よし。久しぶりに家族全員揃ったな。そんじゃあ、いただきます！」"
+  },
+  {
+   "id": "clse07:830600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "「つーかよ、肉が入ってねぇじゃねぇか、肉がよぉ」"
+  },
+  {
+   "id": "clse07:830700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "「これっぽっちじゃねぇか。しかもチキンときた。カレーといやぁ、牛だろ牛」"
+  },
+  {
+   "id": "clse07:830800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "「ったく、そういうところばっか、泉理に似て来ちまって」"
+  },
+  {
+   "id": "clse07:830900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "「え？ あ、いやぁ……そういうわけじゃ……」"
+  },
+  {
+   "id": "clse07:831000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "「って、おい。拓留のカレー、肉がいっぱい入ってるじゃねえか！ 贔屓だ贔屓！ 家族は皆平等に、それが⟦rb⟧青葉寮⟦rt⟧うち⟦/r⟧の決まりだろ」"
+  },
+  {
+   "id": "clse07:831100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "「今決めたんだよ。ほら、拓留！ 肉よこせ、肉！」"
+  },
+  {
+   "id": "clse07:831200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "오타니 유마",
+   "next_speaker": null,
+   "jp": "「チキンでも無いよりゃマシだ！ よこせ！」"
+  },
+  {
+   "id": "clse07:831300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あぐっ……へーんだ、もう食っちまったぜ」"
+  },
+  {
+   "id": "clse07:831400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんだ、結衣。お前、まだマジックだのなんだのが好きなのかよ？」"
+  },
+  {
+   "id": "clse07:831500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣のやつ、昔よく言ってたんだよ。魔法が使えたらなぁ、とかなんとか」"
+  },
+  {
+   "id": "clse07:831600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「バカにしてるわけじゃねえって。いつまで経っても子どものままだって思っただけだ」"
+  },
+  {
+   "id": "clse07:831700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「夢じゃねえ？ なんだよ、そりゃ。いったいどういう意味だ？」"
+  },
+  {
+   "id": "clse07:831800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣。魔法で肉出してくれ、肉！」"
+  },
+  {
+   "id": "clse07:831900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おいおい、拓留。なに必死になってるんだ」"
+  },
+  {
+   "id": "clse07:832000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ま、なんにせよ、こうして家族水入らずってのもいいもんだろ、な？ 拓留よ？」"
+  },
+  {
+   "id": "clse07:832100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ハハハ！ そんなら、たまにでいいんだ、こうして帰ってこい」"
+  },
+  {
+   "id": "clse07:832200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ごちそうさまでした」"
+  },
+  {
+   "id": "clse07:832300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あいつ……背中に目でもついてんのか？」"
+  },
+  {
+   "id": "clse07:832400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「しゃあねぇ、風呂掃除してくっか」"
+  },
+  {
+   "id": "clse07:832500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんだ、拓留。お前、なかなかモテモテだなぁ」"
+  },
+  {
+   "id": "clse07:832600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「知ってるか、お前ら。実はな……お前たちは本当は……血の繋がっていない家族なんだよ……」"
+  },
+  {
+   "id": "clse07:832700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わっはっは！ そうか。知ってるならいんだ」"
+  },
+  {
+   "id": "clse07:832800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おう。そうだ、拓留。たまには一緒に――」"
+  },
+  {
+   "id": "clse07:832900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、おう……そ、そうか……」"
+  },
+  {
+   "id": "clse07:833000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『知ってるか、お前ら。実はな……お前たちは本当は……血の繋がってない家族なんだよ……』"
+  },
+  {
+   "id": "clse07:833100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「嬉しいっ！」"
+  },
+  {
+   "id": "clse07:833200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうしてって、拓留と一緒に寝るためじゃない！」"
+  },
+  {
+   "id": "clse07:833300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いったでしょう、拓留……血の繋がりは無いって」"
+  },
+  {
+   "id": "clse07:833400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「冗談なんかじゃない。私は本気よっ！」"
+  },
+  {
+   "id": "clse07:833500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「前から拓留のことを可愛いと思ってたのよ！」"
+  },
+  {
+   "id": "clse07:833600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それなのに、勝手に出てっちゃって……でも、会えない時間が愛を育むって言うのは本当なのね」"
+  },
+  {
+   "id": "clse07:833700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あなたがいない間……心の中で拓留への愛が溢れて、もう止められない！」"
+  },
+  {
+   "id": "clse07:833800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さあ、拓留！ いらっしゃい！」"
+  },
+  {
+   "id": "clse07:833900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留。一緒にいい夢見ましょう……」"
+  },
+  {
+   "id": "clse07:834000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んふ……拓留、カワイイ……」"
+  },
+  {
+   "id": "clse07:834100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい、どうした拓留？」"
+  },
+  {
+   "id": "clse07:834200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、なんだよ。人を化け物みたいに」"
+  },
+  {
+   "id": "clse07:834300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうした？ 息があがってるぞ。風邪か？」"
+  },
+  {
+   "id": "clse07:834400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そ……そうか？ ならいいんだけどよ」"
+  },
+  {
+   "id": "clse07:834500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「生後三か月といったところだな」"
+  },
+  {
+   "id": "clse07:834600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうだな。だが、まだこの手紙を書いた母親が戻って来ねえと決まったわけじゃねぇ」"
+  },
+  {
+   "id": "clse07:834700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ。こういう場合、後になって後悔して戻って来る例も少なくはないからな」"
+  },
+  {
+   "id": "clse07:834800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「で、この赤ん坊だが……」"
+  },
+  {
+   "id": "clse07:834900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「な、なんでそうなる！」"
+  },
+  {
+   "id": "clse07:835000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「今でも減らしてるんだがなぁ……」"
+  },
+  {
+   "id": "clse07:835100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「悪いが俺は、今日の昼過ぎから１週間ほど学会で出かけなきゃなんねぇんだ」"
+  },
+  {
+   "id": "clse07:835200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ははは！ しばらく見ないうちに、お前らもすっかり子育てが板についてきたじゃねぇか」"
+  },
+  {
+   "id": "clse07:835300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「相変わらずお前は堅ぇなあ。そういうのは考えたって始まらねえ。なるようになるんだよ」"
+  },
+  {
+   "id": "clse07:835400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ま、とりあえず明日からしばらく、赤ん坊の面倒は俺がみてやっから。お前はちゃんと学校に行け」"
+  },
+  {
+   "id": "clse07:835500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ったり前だ。俺を誰だと思ってる」"
+  },
+  {
+   "id": "clse07:835600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「たぁ〜……お前ら、家族ならちっとは俺のこと信頼しろよ……」"
+  },
+  {
+   "id": "clse07:835700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほれ、ひかりもこう言ってるだろ」"
+  },
+  {
+   "id": "clse07:835800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わかってるって。相変わらず心配性だな、お前は」"
+  },
+  {
+   "id": "clse07:835900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おう、いってこい！」"
+  },
+  {
+   "id": "clse07:836000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その、すまないという気持ちを、これからはお子さんに向けてやりなさい」"
+  },
+  {
+   "id": "clse07:836100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほら、みんなで笑って見送ってやれ」"
+  },
+  {
+   "id": "clse07:836200",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほら、お前らも」"
+  },
+  {
+   "id": "clse07:836300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その、すまないという気持ちを、これからはお子さんに向けてやりなさい」"
+  },
+  {
+   "id": "clse07:836400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「ほら、みんなで笑って見送ってやれ」"
+  },
+  {
+   "id": "clse07:836500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「ほら、お前らも」"
+  },
+  {
+   "id": "clse07:836600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「うき。これ、頼む」"
+  },
+  {
+   "id": "clse07:836700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「おーい、うき。アレ、どこやったっけな？ えーっと、ほら、アレだ！」"
+  },
+  {
+   "id": "clse07:836800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「ん？ ああ、ほんとだ。年取ると、すぐこれだ。イヤんなるぜ」"
+  },
+  {
+   "id": "clse07:836900",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「それにしても、うき。お前、よくわかったな」"
+  },
+  {
+   "id": "clse07:837000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「ははっ、さすがだな」"
+  },
+  {
+   "id": "clse07:837100",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "「ははは！ まあいいじゃねえか。若いヤツはたくさん食べねえと」"
+  },
+  {
+   "id": "clse07:837200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": null,
+   "jp": "「悪かったな、わざわざ来てもらって」"
+  },
+  {
+   "id": "clse07:837300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": null,
+   "jp": "「相変わらず口が悪いな、キミは」"
+  },
+  {
+   "id": "clse07:837400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": null,
+   "jp": "「キミに診てほしいのは、この“少女”だ。年齢は今年で十五歳になる」"
+  },
+  {
+   "id": "clse07:837500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": null,
+   "jp": "「あらゆる検査も治療も行った。それでも、どう判断していいか分からないんだ。だから、専門家としてのキミの意見を聞きたい――ここまで言えば分かるだろう？」"
+  },
+  {
+   "id": "clse07:837600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": null,
+   "jp": "「詳しくは後で話す。とにかく見てくれないか」"
+  },
+  {
+   "id": "clse07:837700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": null,
+   "jp": "「ああ。佐久間たちのグループ――ギガロマニアックス研究を続けていた医者連中だな――そいつらを全員、逮捕したんだが、そのうちのひとりの病院に監禁されていた」"
+  },
+  {
+   "id": "clse07:837800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": null,
+   "jp": "「それが……この子に限って、効果がないんだ」"
+  },
+  {
+   "id": "clse07:837900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": null,
+   "jp": "「これがカルテだ。彼女を監禁していた医師のものだが……読んでみてくれ」"
+  },
+  {
+   "id": "clse07:838000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ。この子を研究していた医者も、最後は制御できなくなったらしくてな。こうやって拘束したまま、薬で安楽死させるつもりだったらしい」"
+  },
+  {
+   "id": "clse07:838100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「カルテを読めば分かる。我々がどうすることも出来ず、キミをここへ呼んだ理由もな」"
+  },
+  {
+   "id": "clse07:838200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「カルテと一緒に、この患者に関するレポートも押収した。俺は小難しい理屈が苦手でね、ちゃんと理解できてはいないんだが……とんでもない能力者だということだけは分かる」"
+  },
+  {
+   "id": "clse07:838300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「く、久野里さん？ どうした？」"
+  },
+  {
+   "id": "clse07:838400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なるほどな。話はだいたい分かった」"
+  },
+  {
+   "id": "clse07:838500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まぁ、今回は特別、大目に見ておくからな、宮代くん。ホテルの中に侵入したのなら署まで来てもらうことになったが、未遂だからね……」"
+  },
+  {
+   "id": "clse07:838600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………。あのな？ 俺はアテもなくうろついているわけじゃないし、キミたちと世間話をしてるわけでもない」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「そもそも久野里さんは、自分が事情聴取をされているという自覚はあるのか？ いつになったらその毒舌を改めるつもりなんだ」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「………」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「だから、久野里さん。今日は危険だから、このままおとなしく帰ってくれと言ってるんだ。君に助けを借りたい時は、改めて連絡するから」"
+  }
+ ]
+}

@@ -1,0 +1,853 @@
+{
+ "packet_id": "CC0137-clse01-P02",
+ "kit_version": "1.0",
+ "source_file": "clse01.msb",
+ "speakers_in_packet": [
+  "겐 씨",
+  "미야시로 타쿠루",
+  "오노에 세리카"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「なんだ、それ？」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「えとね、お友達と一緒にお酒をチビチビ飲みながら、通りかかる女子高生にこっそりポイントをつけてるらしいよ。胸の形４０点とか、ふともも６０点とか」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ったく！ あの、⟦col:280aa02d1400⟧セクハラ⟦col:800000⟧エロおやじめ！"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "最悪だ。ろくなことをしない！"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「ちなみに、私はこの前、総合ポイントでゆーしょーしましたー！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse01:8700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「優勝？」"
+  },
+  {
+   "id": "clse01:8800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えへへぇ。すごいすごい？」"
+  },
+  {
+   "id": "clse01:8900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いや、それ、お前がゲンさんと仲がいいからだろ。ポイント、おまけしてくれたんだよ」"
+  },
+  {
+   "id": "clse01:9000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え〜。そうかなあ」"
+  },
+  {
+   "id": "clse01:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "尾上は、いかにも納得いかないような顔をしつつ、ふむぅとうなった。"
+  },
+  {
+   "id": "clse01:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "かと思えば、ふいに、尾上が僕の眼を見つめて言う。"
+  },
+  {
+   "id": "clse01:9300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃあさ、タクは何点くらいだと思う？」"
+  },
+  {
+   "id": "clse01:9400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あん？」"
+  },
+  {
+   "id": "clse01:9500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、私だよ、私。胸とかお尻とかえっちな所だけじゃなくて、ファッションとかもプラスしてね？」"
+  },
+  {
+   "id": "clse01:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「な、なに言ってんだよ。そんなの……」"
+  },
+  {
+   "id": "clse01:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いきなり妙な質問をされて焦ってしまった僕は、『どのくらいの点数を言っておけば女の子がまぁまぁ納得するだろか？』などと余計なことを考えてしまっていた。"
+  },
+  {
+   "id": "clse01:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、次の瞬間、それが尾上相手には最悪だったということを思い出して、自分を叱責していた。"
+  },
+  {
+   "id": "clse01:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いくら能天気で、アホの子で、さらに僕の性格をよく知ってるとはいえ……今の質問に対して、僕がテキトーに答えようとしたことを知ったら、さすがに傷つくかも知れない。"
+  },
+  {
+   "id": "clse01:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかし、時すでに遅し。彼女は、僕の眼をじっと見つめている。"
+  },
+  {
+   "id": "clse01:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これは間違いなく『思考盗撮』をしている時の尾上の眼だ。"
+  },
+  {
+   "id": "clse01:10200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「尾上、すまん！ 悪い！ 僕がいけなかった！」"
+  },
+  {
+   "id": "clse01:10300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う？ タクってば、なに謝ってるの？」"
+  },
+  {
+   "id": "clse01:10400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「……ええ？」"
+  },
+  {
+   "id": "clse01:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "思考盗撮したんだろ、今？"
+  },
+  {
+   "id": "clse01:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "だったら僕がなにを謝ったのかわかるハズじゃ――"
+  },
+  {
+   "id": "clse01:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "しかし、尾上からは予想外の答えが返ってきた。"
+  },
+  {
+   "id": "clse01:10800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あー、もしかして。タクの中で、私の女子高生ポイントってそんなに低いんだ？ 何がダメなの？」"
+  },
+  {
+   "id": "clse01:10900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「分かった！ やっぱり華ちゃんみたいに胸がおっきくないとダメなんだね！？」"
+  },
+  {
+   "id": "clse01:11000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いやいや待て待て！ そんなこと考えてないって！」"
+  },
+  {
+   "id": "clse01:11100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃあ、のんちゃんだ！」"
+  },
+  {
+   "id": "clse01:11200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「は？ 来栖がどうした？」"
+  },
+  {
+   "id": "clse01:11300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから！ タクは、のんちゃんみたいに厳しく叱ってくれる女の子が好みなんだよね！？ そこが、私のマイナスポイント！？」"
+  },
+  {
+   "id": "clse01:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "尾上が、またもや見当違い過ぎることを口走った。"
+  },
+  {
+   "id": "clse01:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかも、ちょっと焦っている感じがする。"
+  },
+  {
+   "id": "clse01:11600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なぁ、どうしたんだ、お前！？」"
+  },
+  {
+   "id": "clse01:11700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうしたって？ 何が？」"
+  },
+  {
+   "id": "clse01:11800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「いや、だって……僕は別に、香月や来栖のことなんて考えてないぞ。お前なら、思考盗撮すればそのくらいすぐに――」"
+  },
+  {
+   "id": "clse01:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そこでふと、部室でのことを思い出した。"
+  },
+  {
+   "id": "clse01:12000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そういえば、来栖が尾上の『思考盗撮』をさんざん⟦rb⟧諌⟦rt⟧いさ⟦/r⟧めていた。"
+  },
+  {
+   "id": "clse01:12100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『考えてることを勝手に知られたら、イヤでしょう？』と。"
+  },
+  {
+   "id": "clse01:12200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "『それじゃ、本当のお友達も出来ないわよ』とも言われてた。"
+  },
+  {
+   "id": "clse01:12300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "（……なるほど、そうか）"
+  },
+  {
+   "id": "clse01:12400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "来栖の言うことを素直に聞いて、『思考盗撮』を封印してるってことか。"
+  },
+  {
+   "id": "clse01:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "思考盗撮という能力、普通ならいくらでも便利に使えるだろう。"
+  },
+  {
+   "id": "clse01:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "なのに、親友の言うことをちゃんと聞いて、それを封じるなんて。"
+  },
+  {
+   "id": "clse01:12700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "うん。えらいな、尾上は。"
+  },
+  {
+   "id": "clse01:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "思わず、頭を撫でてやりそうになってしまった。"
+  },
+  {
+   "id": "clse01:12900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "겐 씨",
+   "jp": "「あー！ ゲンさん見つけたー！」"
+  },
+  {
+   "id": "clse01:13000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "겐 씨",
+   "jp": "尾上の指す方を見ると、こんな時間からすでにアルコールが入っているらしい赤ら顔のゲンさんが、僕のトレーラーハウスに向かってフラフラ歩いて行くのが見えた。"
+  },
+  {
+   "id": "clse01:13100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "겐 씨",
+   "jp": "僕らは足早にその後を追った。"
+  },
+  {
+   "id": "clse01:13200",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おお！ 今日も元気そうであるな、ぬしたち。はははは」"
+  },
+  {
+   "id": "clse01:13300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "トレーラーハウスの前で追いつくと、ゲンさんはいつものようにご機嫌な声で笑った。"
+  },
+  {
+   "id": "clse01:13400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それは別にいいのだけれど、やっぱり息がものすごくアルコール臭い。"
+  },
+  {
+   "id": "clse01:13500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "「うぷっ。昼間からお酒はやめときなよ。あと、いまはうちの中に入らないでくれよな。息だけでこっちまで酔いそうだ」"
+  },
+  {
+   "id": "clse01:13600",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「おーおー、冷たいことを言うヤツよのう。せっかく素晴らしき宝を持参してやったというのに」"
+  },
+  {
+   "id": "clse01:13700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "素晴らしき宝！？"
+  },
+  {
+   "id": "clse01:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "って、なんだ！？"
+  },
+  {
+   "id": "clse01:13900",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うむ。実はな――！」"
+  },
+  {
+   "id": "clse01:14000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "「ダメだよ、ゲンさん！ 拾ってきたえっちな本５冊セットを、タクに千円で売ろうとか考えちゃ！」"
+  },
+  {
+   "id": "clse01:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "겐 씨",
+   "jp": "尾上はゲンさんの眼を見るなり、機先を制してビシッと言った。"
+  },
+  {
+   "id": "clse01:14200",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「な、な、何を言っておるのだ！？ 余はそんなセコイことなど、これっぽっちも考えておらぬぞ」"
+  },
+  {
+   "id": "clse01:14300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "「うまくいけば、二千円でも売れる！ とか考えてるくせに〜」"
+  },
+  {
+   "id": "clse01:14400",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「い、いや、そんな……！」"
+  },
+  {
+   "id": "clse01:14500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "と言いつつ、動揺したゲンさんはふところからえっちな本を５冊、バターンと地面に落っことした。"
+  },
+  {
+   "id": "clse01:14600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "完全に図星だった。"
+  },
+  {
+   "id": "clse01:14700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さすがは尾上の能力――"
+  },
+  {
+   "id": "clse01:14800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": null,
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clse01:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや、待てよ？ ということは、つまり……？"
+  },
+  {
+   "id": "clse01:15000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": null,
+   "jp": "（尾上っ。お前、やっぱり『思考盗撮』使いまくりじゃないかよっ！）"
+  },
+  {
+   "id": "clse01:15100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに、そのおかげでぼったくられずに済んだけども！"
+  },
+  {
+   "id": "clse01:15200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも、僕の心の底からの感銘と、あやうく頭を撫でそうになった気持ちを返せ。"
+  },
+  {
+   "id": "clse01:15300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（ん？ けど……それじゃあ、さっきはなんで？）"
+  },
+  {
+   "id": "clse01:15400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕と話してた時、見当違いなことばっかり言ってたんだろう？"
+  },
+  {
+   "id": "clse01:15500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そのおかげで僕は、彼女が『思考盗撮』を封印したんだとばかり思ったんだけれど……違うんだろうか？"
+  },
+  {
+   "id": "clse01:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕が首をかしげている間にも、ゲンさんは自分の旗色が悪いことを察したらしく、雑誌をサササッと拾い上げると、『それではまた会おうぞ』とかなんとか言いながら走り去っていった。"
+  },
+  {
+   "id": "clse01:15700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あー、ゲンさん？ ちょっとー？"
+  },
+  {
+   "id": "clse01:15800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今の雑誌、後でこっそり持ってきてくれれば買うけど？"
+  },
+  {
+   "id": "clse01:15900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もちろん、もっと格安で！"
+  },
+  {
+   "id": "clse01:16000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そんなことを考えながらゲンさんの後ろ姿を見送ってしまってから、僕はギクリとなった。"
+  },
+  {
+   "id": "clse01:16100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "尾上が、僕の顔をじーっと見ているのに気づいたからだ。"
+  },
+  {
+   "id": "clse01:16200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "（し、しまった！ つい余計なことを！）"
+  },
+  {
+   "id": "clse01:16300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これは間違いなく、尾上が思考盗撮している時の目つき。"
+  },
+  {
+   "id": "clse01:16400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "やっぱり、能力の封印なんてしてなかったんだ。"
+  },
+  {
+   "id": "clse01:16500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これでまた、『タクって、やっぱりえっちな本が好きなんだねえ』とか心外なことを言われてしまうっ。"
+  },
+  {
+   "id": "clse01:16600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ところが……。"
+  },
+  {
+   "id": "clse01:16700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "恐る恐る尾上を見つめ返すと、奇妙なことに、彼女は普段の尾上らしからぬ難しい顔をした。"
+  },
+  {
+   "id": "clse01:16800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「……？ どうした？」"
+  },
+  {
+   "id": "clse01:16900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う？ え？ ううん。なんでもないなんでもない。で、あの本、後でこっそりゲンさんから買うつもり？」"
+  },
+  {
+   "id": "clse01:17000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「買わないよ！ っていうか、買ったことなんて一度もないぞ！」"
+  },
+  {
+   "id": "clse01:17100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「のんちゃんも言ってたけど、能力なんか使わなくても、タクのウソはすぐに分かるねえ」"
+  },
+  {
+   "id": "clse01:17200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うぐうっ」"
+  },
+  {
+   "id": "clse01:17300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "おかしい！"
+  },
+  {
+   "id": "clse01:17400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "この前『クールキャットプレス』に載ってた性格診断だと、僕は超ポーカーフェイスなクールガイのハズなのに。なぜバレる！？"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「でもさ。タクってば、その……ああいう本のどこがいいんだろう……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「だから！ お前、誤解してるぞ。あんな本、『いい』なんて思ったこと一度もないからな！」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「私とかのんちゃんとか、すぐそばに女の子がいるのに――なんで他の子の写真とか見たがるのかなあ？ 変なの」"
+  }
+ ]
+}

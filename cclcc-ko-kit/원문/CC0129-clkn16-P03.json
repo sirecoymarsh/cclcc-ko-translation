@@ -1,0 +1,969 @@
+{
+ "packet_id": "CC0129-clkn16-P03",
+ "kit_version": "1.0",
+ "source_file": "clkn16.msb",
+ "speakers_in_packet": [
+  "남학생",
+  "모두",
+  "미나미사와 센리",
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "여학생",
+  "오노에 세리카",
+  "이토 신지",
+  "카와하라 마사시",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その告白に、そこに集ったすべての人々が暫し呆気にとられていた。"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「く……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "最初に声を発したのは、予想通り川原くんだった。"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「くくく……あははははは――あーっはっはっはっは！！ まったく、いきなり何を言い出すのかと思ったら……」"
+  },
+  {
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "jp": "「来栖。悪いが今は君の冗談を聞いてる場合じゃない。そういう話なら後にしてくれ」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「冗談なんかじゃないわ。私は正真正銘の南沢泉理よ。あなたも良く知ってる、ね」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn16:20000",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여학생",
+   "jp": "「どういうことだ？」"
+  },
+  {
+   "id": "clkn16:20100",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여학생",
+   "jp": "「意味わかんねーし……」"
+  },
+  {
+   "id": "clkn16:20200",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「なになに……？」"
+  },
+  {
+   "id": "clkn16:20300",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「会長、何言ってるの？」"
+  },
+  {
+   "id": "clkn16:20400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「なんなの……？」"
+  },
+  {
+   "id": "clkn16:20500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "乃々の言葉に、皆が訝し気な声を上げはじめる。"
+  },
+  {
+   "id": "clkn16:20600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "無理もない。"
+  },
+  {
+   "id": "clkn16:20700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "今、僕たちの目の前にいるのはどこからどう見たって、来栖乃々なんだ。"
+  },
+  {
+   "id": "clkn16:20800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "여학생",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「い、言っている意味がわからないな。確かに彼女のことは僕も良く知っているが、どこから見ても君は来栖乃々じゃないか」"
+  },
+  {
+   "id": "clkn16:20900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "여학생",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「それとも何か？ ⟦col:280aa02d1400⟧特殊メイク⟦col:800000⟧か何かで君が変装していたとでも言うつもりか？」"
+  },
+  {
+   "id": "clkn16:21000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "여학생",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「それこそ馬鹿げた話だ！ そもそも君にはそんなことをする理由がない！」"
+  },
+  {
+   "id": "clkn16:21100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「ええ、そうね……」"
+  },
+  {
+   "id": "clkn16:21200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "「だったら、その話は――」"
+  },
+  {
+   "id": "clkn16:21300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "その瞬間、突然僕たちの眼前に機械仕掛けの翼のような物体が出現した。"
+  },
+  {
+   "id": "clkn16:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "もちろん、ここに集まる人間は皆、それが何なのか知っていた。"
+  },
+  {
+   "id": "clkn16:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "――⟦col:280aa02d1400⟧ディソード⟦col:800000⟧――"
+  },
+  {
+   "id": "clkn16:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧だけが⟦col:280aa02e1400⟧⟦rb⟧具現化⟦rt⟧リアルブート⟦/r⟧⟦col:800000⟧できる、妄想の剣。"
+  },
+  {
+   "id": "clkn16:21700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「乃々……先輩……」"
+  },
+  {
+   "id": "clkn16:21800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「見ていて。これが私の、⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧としての⟦rb⟧能力⟦rt⟧ちから⟦/r⟧――」"
+  },
+  {
+   "id": "clkn16:21900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미나미사와 센리",
+   "jp": "乃々の身体が眩いばかりの光の粒子に包まれる。"
+  },
+  {
+   "id": "clkn16:22000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미나미사와 센리",
+   "jp": "強く光った粒子は乃々の姿を⟦rb⟧模⟦rt⟧かたど⟦/r⟧り、そして――。"
+  },
+  {
+   "id": "clkn16:22100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미나미사와 센리",
+   "jp": "ゆっくりと別の像を形づくっていった。"
+  },
+  {
+   "id": "clkn16:22200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미나미사와 센리",
+   "jp": "光が収まった時、そこに立っていたのは――。"
+  },
+  {
+   "id": "clkn16:22300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn16:22400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "카즈키 하나",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn16:22500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn16:22600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미나미사와 센리",
+   "jp": "全員が呆けたように、目を見開いたままその姿を見つめていた。"
+  },
+  {
+   "id": "clkn16:22700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「……わかったでしょう？ さっきまでの姿は、私の⟦rb⟧能力⟦rt⟧ちから⟦/r⟧によって来栖乃々という少女から借りていた仮の姿」"
+  },
+  {
+   "id": "clkn16:22800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「そして、これが私の……南沢泉理の本当の姿よ……」"
+  },
+  {
+   "id": "clkn16:22900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ぁ……あぁ……」"
+  },
+  {
+   "id": "clkn16:23000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미나미사와 센리",
+   "jp": "泉理は、周囲を輪のように取り巻いている生徒たちに向き合った。"
+  },
+  {
+   "id": "clkn16:23100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "「私にとって、来栖乃々という女の子は憧れの存在だった」"
+  },
+  {
+   "id": "clkn16:23200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "「いつも明るくて優しくて、みんなからも慕われて……そんな彼女になりたいって、ずっと思っていたの……」"
+  },
+  {
+   "id": "clkn16:23300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "それは、彼女がこれまでずっと心の中に抱えていた哀しみ。"
+  },
+  {
+   "id": "clkn16:23400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "決して誰にも知られたくなかった闇。"
+  },
+  {
+   "id": "clkn16:23500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "「本物の来栖乃々は数年前に留学して日本にはいない……」"
+  },
+  {
+   "id": "clkn16:23600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카즈키 하나",
+   "jp": "「だから、みんなが知っている来栖乃々は私……暗くて泣き虫で冴えなくて……友達に憧れて、それでもただ羨むことしかできなかった、南沢泉理なの……」"
+  },
+  {
+   "id": "clkn16:23700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「乃々先輩……」"
+  },
+  {
+   "id": "clkn16:23800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「ごめんなさい……今まで騙していて」"
+  },
+  {
+   "id": "clkn16:23900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "泉理は深々と頭を下げた。"
+  },
+  {
+   "id": "clkn16:24000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「謝って許してもらえるとは思わないけど……」"
+  },
+  {
+   "id": "clkn16:24100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「副部長……」"
+  },
+  {
+   "id": "clkn16:24200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「でもね！ でも、これだけはわかってほしい！」"
+  },
+  {
+   "id": "clkn16:24300",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「私と拓留はこれまでずっと姉弟として過ごしてきた。そこには疚しいことなんて何もない！」"
+  },
+  {
+   "id": "clkn16:24400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから……彼を処分するのは間違ってる……」"
+  },
+  {
+   "id": "clkn16:24500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「罰なら私が受けるから……」"
+  },
+  {
+   "id": "clkn16:24600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「みんなを偽っていた責任だって……ちゃんととるから……」"
+  },
+  {
+   "id": "clkn16:24700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もう一度頭を下げる泉理に対して。誰ひとり声を上げようとするものはいなかった。"
+  },
+  {
+   "id": "clkn16:24800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "責めているんだろうか。"
+  },
+  {
+   "id": "clkn16:24900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それとも、憤っているんだろうか。"
+  },
+  {
+   "id": "clkn16:25000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんな空気の中、声を上げる勇気は僕にはなかった。"
+  },
+  {
+   "id": "clkn16:25100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今までの僕には……。"
+  },
+  {
+   "id": "clkn16:25200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "「な、なんだよ！！」"
+  },
+  {
+   "id": "clkn16:25300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど今は違う。"
+  },
+  {
+   "id": "clkn16:25400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「みんなだって、生徒会長には散々お世話になっただろ！！」"
+  },
+  {
+   "id": "clkn16:25500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕には守りたいものがある。"
+  },
+  {
+   "id": "clkn16:25600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「今まで彼女はどんな小さな訴えだって、耳を貸してくれたじゃないか！」"
+  },
+  {
+   "id": "clkn16:25700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "守りたいひとがいる。"
+  },
+  {
+   "id": "clkn16:25800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「学園との面倒くさい交渉だって、近所からの苦情だって、いつだって矢面に立って戦ってくれたのは彼女だろ？」"
+  },
+  {
+   "id": "clkn16:25900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そのためなら、怖いものなんて何もない。"
+  },
+  {
+   "id": "clkn16:26000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「学園に⟦col:280aa02d1400⟧目安箱⟦col:800000⟧を置いて意見を言いやすくしたのだって、いろんな部からの文句を全て聞いて親身になって考えてくれたのだって彼女だ！！」"
+  },
+  {
+   "id": "clkn16:26100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「それは彼女が、みんなを思ってやったことじゃないか！ みんなが楽しく過ごせるようにって、やってきてくれたことじゃないか！」"
+  },
+  {
+   "id": "clkn16:26200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留……」"
+  },
+  {
+   "id": "clkn16:26300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "「確かに彼女は姿を偽っていたかもしれない！」"
+  },
+  {
+   "id": "clkn16:26400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "「だけど、これまで生徒会長として彼女が皆のために頑張ってきたことは事実だ！」"
+  },
+  {
+   "id": "clkn16:26500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "「僕はそれを誰よりも知っている！ だって僕は……僕はずっと彼女を見てきたから！！」"
+  },
+  {
+   "id": "clkn16:26600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "「世話焼きで優しくて時には怖いこともあるけど……でも外見が違うからって、何も変わらない！」"
+  },
+  {
+   "id": "clkn16:26700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "力いっぱいの声を振り絞る。"
+  },
+  {
+   "id": "clkn16:26800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "「彼女は彼女だ！！！」"
+  },
+  {
+   "id": "clkn16:26900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "わかって欲しかった。"
+  },
+  {
+   "id": "clkn16:27000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "認めて欲しかった。"
+  },
+  {
+   "id": "clkn16:27100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "彼女のことを。"
+  },
+  {
+   "id": "clkn16:27200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "彼女の頑張りを。"
+  },
+  {
+   "id": "clkn16:27300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "けれど館内は静まり返ったままで、同意を示してくれる人はいなかった。"
+  },
+  {
+   "id": "clkn16:27400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "結局、こんなもんなんだ。"
+  },
+  {
+   "id": "clkn16:27500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "どれだけ他人のために頑張っても、どれだけ皆のために尽くしても、誰も正当に評価なんてしてくれやしない。"
+  },
+  {
+   "id": "clkn16:27600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "わかっていたんだ。"
+  },
+  {
+   "id": "clkn16:27700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "それでも僕は、もしかしたら誰かひとりくらいは、彼女の事を認めてくれるんじゃないかって、心のどこかでそんな期待をしていたんだ。"
+  },
+  {
+   "id": "clkn16:27800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "でも、期待は所詮期待でしかなく。"
+  },
+  {
+   "id": "clkn16:27900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "そんな期待に縋った自分がバカバカしくて。"
+  },
+  {
+   "id": "clkn16:28000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "悔しくて――。"
+  },
+  {
+   "id": "clkn16:28100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「よく言った、タク！！」"
+  },
+  {
+   "id": "clkn16:28200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「……！？」"
+  },
+  {
+   "id": "clkn16:28300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タクの言うとおりだよ。のんちゃん……じゃなくて、泉理ちゃんはいつだって皆のこと考えてた。それは間違いないことだもん」"
+  },
+  {
+   "id": "clkn16:28400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「尾上……」"
+  },
+  {
+   "id": "clkn16:28500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「そうだそうだー！ 見た目が変わったって、うちらの生徒会長は生徒会長だー！」"
+  },
+  {
+   "id": "clkn16:28600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「そのとおり！ 女帝は女帝だー！」"
+  },
+  {
+   "id": "clkn16:28700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「みんな……」"
+  },
+  {
+   "id": "clkn16:28800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "카즈키 하나",
+   "jp": "「恋愛禁止令なんてクソくらえ！！」"
+  },
+  {
+   "id": "clkn16:28900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "남학생",
+   "jp": "「くらえー……かも……」"
+  },
+  {
+   "id": "clkn16:29000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "남학생",
+   "jp": "その声に後押しされるように、少しずつ声が広がってゆく。"
+  },
+  {
+   "id": "clkn16:29100",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "여학생",
+   "jp": "「そう……だよな……」"
+  },
+  {
+   "id": "clkn16:29200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "여학생",
+   "jp": "「女帝は女帝だよな……」"
+  },
+  {
+   "id": "clkn16:29300",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "모두",
+   "jp": "「あたしも、生徒会長にはお世話になったし……」"
+  },
+  {
+   "id": "clkn16:29400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "모두",
+   "jp": "「あんなメンドくさいこと、あたしなら頼まれてもヤだし……」"
+  },
+  {
+   "id": "clkn16:29500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "모두",
+   "jp": "「ていうか、恋愛禁止とかありえなくない？」"
+  },
+  {
+   "id": "clkn16:29600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여학생",
+   "next_speaker": "모두",
+   "jp": "そうだそうだ、と各所で声が上がりやがて……。"
+  },
+  {
+   "id": "clkn16:29700",
+   "type": "dialogue",
+   "speaker": "全員",
+   "speaker_ko": "모두",
+   "prev_speaker": "여학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「女帝！ 女帝！ 女帝！！」⟦n⟧⟦par⟧「女帝！ 女帝！ 女帝！！」⟦n⟧⟦par⟧「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clkn16:29800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "모두",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "盛大な女帝コールが館内に響き渡った。"
+  },
+  {
+   "id": "clkn16:29900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "모두",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なんだよ……。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "くそっ！ なんだよ、馬鹿野郎。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "こんなの……期待してた以上じゃないかよ……。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「はは……聞いたか、泉理？ みんな認めてくれたんだよ、お前のこと」"
+  }
+ ]
+}

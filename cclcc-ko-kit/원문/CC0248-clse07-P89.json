@@ -1,0 +1,763 @@
+{
+ "packet_id": "CC0248-clse07-P89",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "MOMONE",
+  "신조 타케시",
+  "와쿠이 슈이치"
+ ],
+ "context_before": [
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「いや、いつも捜査協力をしてもらってるんだ。このくらい当然のことじゃないか」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「……？ なんの話だ？」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「久野里さん？」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「半日くらいだと思う。宮代くんも同じ意見だった」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「ああ。キミは“ケイさん”として、ゆうべ放送を行っただろう？ 宮代くんはヘビーリスナーだからね。当然、放送を聴いていたが……その時、君にはなんの異常も感じられなかったそうだ」"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「で、百瀬さんが、倒れているキミを見つけたのが今日の昼ごろ。つまり、君が倒れたのはその間ということになる」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:846800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代くんは、さっきも見舞いに来ていたよ。ずいぶん心配していたからね、俺の方から連絡しておこう」"
+  },
+  {
+   "id": "clse07:846900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから。時々、捜査に協力してもらってる礼だと……」"
+  },
+  {
+   "id": "clse07:847000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「久野里さんは、他人の厚意をもう少し素直に受けられるようになるべきだと思う」"
+  },
+  {
+   "id": "clse07:847100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んん？」"
+  },
+  {
+   "id": "clse07:847200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代くん？」"
+  },
+  {
+   "id": "clse07:847300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「“あの”とか言うなよ。ああ見えても、悪い奴じゃない」"
+  },
+  {
+   "id": "clse07:847400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「違いない」"
+  },
+  {
+   "id": "clse07:847500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ ああ、相変わらずだ。新聞部の連中と一緒に事件に首を突っ込んできては、俺たちの邪魔をしてくれてるよ」"
+  },
+  {
+   "id": "clse07:847600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……しかし、珍しいこともあるもんだな」"
+  },
+  {
+   "id": "clse07:847700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、君が彼らを気にするなんてな。いつもモメてばかりいるのに」"
+  },
+  {
+   "id": "clse07:847800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ、そうか。喧嘩するほど仲がいいという――」"
+  },
+  {
+   "id": "clse07:847900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は？ 今日の久野里さんはなんか変だぞ？ やっぱり頭でも打ったんじゃないのか？」"
+  },
+  {
+   "id": "clse07:848000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「君にそういったものは期待してないから、気にするな」"
+  },
+  {
+   "id": "clse07:848100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ただ……掃除は、もう少しだけした方がいいな」"
+  },
+  {
+   "id": "clse07:848200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほー？」"
+  },
+  {
+   "id": "clse07:848300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうかそうか」"
+  },
+  {
+   "id": "clse07:848400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ ああ、宮代くんたちが見舞いに来た時に、百瀬さんが手渡していたよ」"
+  },
+  {
+   "id": "clse07:848500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「たぶん、彼がそこへ戻しておいたんだろう。彼の能力なら、この部屋の鍵くらい簡単に開けられる」"
+  },
+  {
+   "id": "clse07:848600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おいおい。彼だって厚意でやったんだろう。いくらなんでも、ひどくないか？」"
+  },
+  {
+   "id": "clse07:848700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……？」"
+  },
+  {
+   "id": "clse07:848800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「へぇ、珍しいな。君が誰かを気に入るなんて」"
+  },
+  {
+   "id": "clse07:848900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「けど、君の生徒は大変そうだ。間違えたら何を言われるか分かったもんじゃない」"
+  },
+  {
+   "id": "clse07:849000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んん？」"
+  },
+  {
+   "id": "clse07:849100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「今から？ どこへ？」"
+  },
+  {
+   "id": "clse07:849200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんでまた？ 大事な研究モデルなんだろう？」"
+  },
+  {
+   "id": "clse07:849300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふ。久野里さんは、やっぱり子供には甘いんだな」"
+  },
+  {
+   "id": "clse07:849400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？ 宮代くんはいないのか？」"
+  },
+  {
+   "id": "clse07:849500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「困ったね。青葉寮かな。そっちへ行ってみるか？」"
+  },
+  {
+   "id": "clse07:849600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「？？？」"
+  },
+  {
+   "id": "clse07:849700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、おい！？ そんな勝手に――」"
+  },
+  {
+   "id": "clse07:849800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……？」"
+  },
+  {
+   "id": "clse07:849900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……久野里、さん？」"
+  },
+  {
+   "id": "clse07:850000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お、おい……どうしたんだ？ 何か怒ってるのか？」"
+  },
+  {
+   "id": "clse07:850100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「何？」"
+  },
+  {
+   "id": "clse07:850200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さぁ？」"
+  },
+  {
+   "id": "clse07:850300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "MOMONE",
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:850400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "MOMONE",
+   "jp": "「久野里さん？ 君はいったい何を言って……？」"
+  },
+  {
+   "id": "clse07:850500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "MOMONE",
+   "jp": "「貧血で倒れたせいで、記憶が混乱してるだけじゃないのか？」"
+  },
+  {
+   "id": "clse07:850600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "MOMONE",
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:850700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "MOMONE",
+   "jp": "「？？？」"
+  },
+  {
+   "id": "clse07:850800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "MOMONE",
+   "jp": "「例の画像……“１２番目のロールシャッハ”か」"
+  },
+  {
+   "id": "clse07:850900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "MOMONE",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:851000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "MOMONE",
+   "jp": "「なるほど、さすが久野里君だ。耳にそんな物を仕込んでいたとはな。本当に、君と宮代くんにはいつも不意をつかれる」"
+  },
+  {
+   "id": "clse07:851100",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「みんなぁ、こーんばーんわぁー」"
+  },
+  {
+   "id": "clse07:851200",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「今日はぁ『ＭＯＭＯＮＥのゆっくりしていってね』を見てくれてありがとぉ」"
+  },
+  {
+   "id": "clse07:851300",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「あ、すごぉい。もぉ、こんなにたくさんの人が見てくれてるんだぁ。ＭＯＭＯＮＥ、超う〜れＣ」"
+  },
+  {
+   "id": "clse07:851400",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「それじゃあ、今日もいっぱい歌って踊るから、最後までぇ『ゆっくりしていってね♪』」"
+  },
+  {
+   "id": "clse07:851500",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「『ちゃうねん、ちゃうねん！ どっかから違う曲の音が漏れてん！』」"
+  },
+  {
+   "id": "clse07:851600",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「みんなぁ。今日はゆっくりしてもらえたかなぁ？」"
+  },
+  {
+   "id": "clse07:851700",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「今日もたくさんの視聴、ありがとぉ。来週もまた見てね！」"
+  },
+  {
+   "id": "clse07:851800",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "「ＭＯＭＯＮＥの『ゆっくりしていってね♪』でした。ばいば〜い」"
+  },
+  {
+   "id": "clse07:851900",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えへへ〜。という感じで、今夜も口パクいっぱい夢いっぱいでお送りしてます『ＭＯＭＯＮＥのゆっくりしていってね』なんですがー」"
+  },
+  {
+   "id": "clse07:852000",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうそう、今日はねぇ。ＭＯＭＯＮＥがいま、すっごーくおしてるアイドルユニットを紹介しちゃおうと思いまぁす」"
+  },
+  {
+   "id": "clse07:852100",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そのアイドルユニットとはぁ……」"
+  },
+  {
+   "id": "clse07:852200",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃっじゃーん。『ミルフィーユ』のふたりで〜す」"
+  },
+  {
+   "id": "clse07:852300",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「みんなはぁ、『ミルフィーユ』っていうユニット知ってる〜？？」"
+  },
+  {
+   "id": "clse07:852400",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、知ってる人もいっぱいいるんだ〜。ね〜、かわいいよねぇ」"
+  },
+  {
+   "id": "clse07:852500",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『ミルフィーユ』は〜、ユイちゃんとユウちゃんっていう姉妹のユニットでねぇ、とーってもカワイイの」"
+  },
+  {
+   "id": "clse07:852600",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「私？ うーん、どっちもカワイイけどぉ……私はユイちゃん派かな？」"
+  },
+  {
+   "id": "clse07:852700",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「あ、でもでもぉ、アイドルって言っても、まだ歌とかは歌ってなくて、ニヤ動で踊ってみたとかやってるだけなんだけど、きっとこれから出てくるふたりだと、ＭＯＭＯＮＥは思うなぁ」"
+  },
+  {
+   "id": "clse07:852800",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「というわけでぇ、これからみんなも『ミルフィーユ』チェックしてあげてねぇ」"
+  },
+  {
+   "id": "clse07:852900",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「あ、もうこんな時間。それじゃあ、今日の『ゆっくりしていってね♪』もそろそろおしまい。まったね〜」"
+  },
+  {
+   "id": "clse07:853000",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「今日の『ＭＯＭＯＮＥのゆっくりしていってね』はどうだったかなぁ？"
+  },
+  {
+   "id": "clse07:853100",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「そうそう、みんな知ってる？ 前にＭＯＭＯＮＥが注目してた『ミルフィーユ』のふたり、解散しちゃったんだって〜」"
+  },
+  {
+   "id": "clse07:853200",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「まだまだこれからだったのに、ざんねーん。だけど。、あんなことがあったんだから仕方ないよねぇ」"
+  },
+  {
+   "id": "clse07:853300",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「でも、ＭＯＭＯＮＥはいつまでもやめないから、安心してね♪」"
+  },
+  {
+   "id": "clse07:853400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "MOMONE",
+   "next_speaker": null,
+   "jp": "「だからね、この世界にはもう一度、渋谷地震の後からやり直してもらおうと思うんだ。僕にとって、都合のいい結果になるようにね」"
+  },
+  {
+   "id": "clse07:853500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "MOMONE",
+   "next_speaker": null,
+   "jp": "「そうすれば僕は、キミたちのせいで委員会に責められることもなく、平穏無事な人生を送れる。委員会の作る、新しい世界の中で――」"
+  },
+  {
+   "id": "clse07:853600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "MOMONE",
+   "next_speaker": null,
+   "jp": "「やあ、久野里くん。またキミのような聡明な女性と関わることが出来て、うれしい限りだ。まさか、僕――和久井修一のことなど覚えていないとか、寂しいことは言ってくれるなよ？」"
+  },
+  {
+   "id": "clse07:853700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "MOMONE",
+   "next_speaker": null,
+   "jp": "「目の前で眠っている少女はね、佐久間たちが発見した能力者の中でもかなり特殊な存在だ。とある病院の拘禁室に、たったひとり、ずっと意識のない状態で監禁されていた」"
+  },
+  {
+   "id": "clse07:853800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "MOMONE",
+   "next_speaker": null,
+   "jp": "「ご覧の通り、全身を拘束衣に包まれ、身動き一つできず……まるで懲罰房の囚人扱いだ。こんないたいけな少女になぜ？と僕の胸は痛んだが……」"
+  },
+  {
+   "id": "clse07:853900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "MOMONE",
+   "next_speaker": null,
+   "jp": "「残されていた電子カルテを見て、納得がいった。おそらくキミもそうだろう」"
+  },
+  {
+   "id": "clse07:854000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "MOMONE",
+   "next_speaker": null,
+   "jp": "「さて。いまさら訊くまでもないが、当然、＜因果律＞というものをキミは知っているね？ 全ての事象には＜原因＞があり、それによって＜結果＞が生じる」"
+  },
+  {
+   "id": "clse07:854100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "MOMONE",
+   "next_speaker": null,
+   "jp": "「今回のカオスチャイルド症候群の事件も、もちろん因果律の輪の中にあった」"
+  },
+  {
+   "id": "clse07:854200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ところが、この少女の能力はね……その因果律をねじ曲げてしまえるんだ」"
+  },
+  {
+   "id": "clse07:854300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「正確に言うなら、自分が求める＜結果＞になるよう、＜その原因となった事象＞を改変してしまう能力と言った方が正しいな」"
+  },
+  {
+   "id": "clse07:854400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そして、その＜因果律改変＞のせいで、世界は大きく変化してしまうんだ。すごい能力だと思わないか？」"
+  },
+  {
+   "id": "clse07:854500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「とはいえ、これは同時に危険すぎる能力でもある。佐久間たちが、この子を眠らせたままずっと拘束していた理由も分かるというものだ」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「でもね、僕はこの子の素敵な使い方を思いついたよ。ほら、キミや宮代くんのせいで僕はひどい目にあっただろう？ だからもう一度、２００９年の渋谷地震の時点から因果の改変を――」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「ようこそ、僕たちの世界へ！」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「僕たちはね。同じ趣味を持つものとして、この世界に新しい王国をつくる――そんな志を持つ同志だよ」"
+  }
+ ]
+}

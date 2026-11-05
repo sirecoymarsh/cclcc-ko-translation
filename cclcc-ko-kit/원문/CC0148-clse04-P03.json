@@ -1,0 +1,296 @@
+{
+ "packet_id": "CC0148-clse04-P03",
+ "kit_version": "1.0",
+ "source_file": "clse04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카"
+ ],
+ "context_before": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「だから、ダメ。絶対、逃げちゃうもん」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「逃げないって！！ とにかく、この齢になって漏らしちゃうとか、僕の⟦rb⟧魂⟦rt⟧たましい⟦/r⟧が耐えられないから！」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「だいじょぶだよ。私がそっちのお世話もしてあげるから」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「なに・をーーーっ！？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "目をまん丸にしている僕に構わず、尾上は足元から、ガラス製らしき妙な形のビンを取り出した。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「そ、それ、まさか――！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse04:15500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あれが噂に聞く、⟦rb⟧尿瓶⟦rt⟧しびん⟦/r⟧というものか！？"
+  },
+  {
+   "id": "clse04:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……などと感心している場合ではなかった。"
+  },
+  {
+   "id": "clse04:15700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「や、やめてくれよっ！ 僕にそういう趣味はないって！！」"
+  },
+  {
+   "id": "clse04:15800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ええ〜？ この前、タクがゲンさんから買った本に、こういうシーン、あったよ〜？」"
+  },
+  {
+   "id": "clse04:15900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「って、お前っ！ 人が隠しといた本、片っ端から探して読むのやめろ！ しかも、そういう本ばっかり！」"
+  },
+  {
+   "id": "clse04:16000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はなんとも情けない気持ちに襲われて、思わず泣きそうになってしまった。"
+  },
+  {
+   "id": "clse04:16100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「しかもあれは、黒髪ロングで恥ずかしがり屋の美少女がそういうコトさせられるから萌えるの！ 僕みたいな野郎が無理にさせられても――ああっ、こらっ、やめろっ、やめろってー！」"
+  },
+  {
+   "id": "clse04:16200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "黒髪ロングで恥ずかしがり屋の美少女の気持ちがようやく分かった。"
+  },
+  {
+   "id": "clse04:16300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "でも、そんなの分かりたくなかった。"
+  },
+  {
+   "id": "clse04:16400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "尾上はすでに僕の下半身をむき出しにしてしまい、アレをああしてこうやって、興味深そうに眺めている。"
+  },
+  {
+   "id": "clse04:16500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おー。子供の頃は何度も見たことあったけど……あの時とは全然違うんだねコレ？ まさか男の子って、ボロボロになったら生え変わるの？ サメの歯みたいに？」"
+  },
+  {
+   "id": "clse04:16600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そんな便利なもんじゃないから！」"
+  },
+  {
+   "id": "clse04:16700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それより、僕の心がもうボロボロだよ！"
+  },
+  {
+   "id": "clse04:16800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なぁ、尾上ーっ。絶対逃げないからトイレ行かせてくれよっ。こんなんじゃ、無理だよっ」"
+  },
+  {
+   "id": "clse04:16900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「無理じゃないもん」"
+  },
+  {
+   "id": "clse04:17000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なんで！？」"
+  },
+  {
+   "id": "clse04:17100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だって、ほら！ タクは⟦col:280aa02d1400⟧青葉医院⟦col:800000⟧でリハビリしてた時、のんちゃんにずっとこうしてもらってたんじゃないのっ？」"
+  },
+  {
+   "id": "clse04:17200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「う！？ いや、あれはこんな方法じゃなかったし！ そもそも医療行為っていうか、治療の一環だから、恥ずかしいとかそんなんじゃなくて――」"
+  },
+  {
+   "id": "clse04:17300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ウソ！ そんなこと言って、ホントはもっと恥ずかしいことしてもらって、喜んでたくせに！ たぶんのんちゃんだって、いろんなコトして興奮してたに決まってるよ！」"
+  },
+  {
+   "id": "clse04:17400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「んなわけあるかぁーっ！」"
+  },
+  {
+   "id": "clse04:17500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ううっ、ぐすっ……タクは……タクはやっぱり、私よりのんちゃんとこういうことするのがいいんだ？ 私の方が、のんちゃんよりずっと昔から……」"
+  },
+  {
+   "id": "clse04:17600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ずっと昔から、タクのこと好きだったのにっ！」"
+  },
+  {
+   "id": "clse04:17700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「え？ お、尾上……？」"
+  },
+  {
+   "id": "clse04:17800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "こんなふうに告白されたこともだが……それより、⟦col:280aa02d1400⟧クールキャットプレス⟦col:800000⟧などの軽い下ネタにすらキョトンとしていた純粋無垢な彼女が、ここまで性的なコンプレックスを抱いていたことに驚いた。"
+  },
+  {
+   "id": "clse04:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "黒の尾上が口にした『白の尾上世莉架が、壊れはじめている』。"
+  },
+  {
+   "id": "clse04:18000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その言葉の意味が、なんとなく分かってきた。"
+  },
+  {
+   "id": "clse04:18100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「わっ……分かったよ、尾上。く、来栖と同じように、その……僕の世話……全部、お前にも任せるから……っ」"
+  },
+  {
+   "id": "clse04:18200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "結局、僕は、そう答えるしかなくなっていた。"
+  }
+ ],
+ "context_after": []
+}

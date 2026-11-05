@@ -1,0 +1,245 @@
+{
+ "packet_id": "CC0280-clyu03-P02",
+ "kit_version": "1.0",
+ "source_file": "clyu03.msb",
+ "speakers_in_packet": [
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "さも当然とでもいうように、伊藤はあっさりと恐ろしいことを言ってのけた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「お前な……これは部活じゃないんだから、そんなことできるわけないだろ？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "それにただでさえ乃々に内緒で始めたことなのに、そんなことに部費を使ったなんて知られたら、それこそ恐ろしいことになるに違いない。"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「は？ じゃあ、どうすんだよ、あそこの金！？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「知らないよ。お前が勝手にやったんだろ。自分でなんとかしろ」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「いや、無理無理！ 無理だって！ そんな金ねえって！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu03:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "だいたい、アイドル活動にはお金がかかると言っていたのは伊藤本人だったはずだ。"
+  },
+  {
+   "id": "clyu03:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "まさか、そこまで考え無しにやっていたとは……。"
+  },
+  {
+   "id": "clyu03:10000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「しょうがない……こうなったら、さっきの水着を⟦col:280aa02d1400⟧オークション⟦col:800000⟧で……」"
+  },
+  {
+   "id": "clyu03:10100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「うわー……」"
+  },
+  {
+   "id": "clyu03:10200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「真ちゃん……」"
+  },
+  {
+   "id": "clyu03:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤のひと言に、女性陣がゴミ虫でも見るような視線を送った。"
+  },
+  {
+   "id": "clyu03:10400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「いや、んなこと言ったってさ……」"
+  },
+  {
+   "id": "clyu03:10500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「最低……かも」"
+  },
+  {
+   "id": "clyu03:10600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ち、違うんだよ！ 俺だって良かれと思ってだな……」"
+  },
+  {
+   "id": "clyu03:10700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "타치바나 유이",
+   "jp": "「それにしょうがないだろ？ じゃあどうやってあの金払うってんだよ？」"
+  },
+  {
+   "id": "clyu03:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유이",
+   "jp": "完全に自己責任だというのに、それでもなお言いつのる伊藤に、結衣がゆっくりと近づいた。"
+  },
+  {
+   "id": "clyu03:10900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「伊藤さん……」"
+  },
+  {
+   "id": "clyu03:11000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clyu03:11100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「わかってます。伊藤さんは私たちのためにしてくれたんですよね……」"
+  },
+  {
+   "id": "clyu03:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "이토 신지",
+   "jp": "結衣はぽかんとした顔のまま固まった伊藤の手を取った。"
+  },
+  {
+   "id": "clyu03:11300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「う……」"
+  },
+  {
+   "id": "clyu03:11400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「ありがとうございます、伊藤さん」"
+  },
+  {
+   "id": "clyu03:11500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「お、俺は……」"
+  },
+  {
+   "id": "clyu03:11600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「俺はなんてクソやろうなんだぁぁぁ！」"
+  },
+  {
+   "id": "clyu03:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "人を改悛させるのは、厳罰にあらず。情にあり。"
+  },
+  {
+   "id": "clyu03:11800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「ゴメン、結衣ちゃん！ ゴメン、結人！ 俺、もうプロデューサー降りるよ！」"
+  },
+  {
+   "id": "clyu03:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "かくして伊藤は、『ミルフィーユ』のプロデューサーをクビになった。"
+  }
+ ],
+ "context_after": []
+}

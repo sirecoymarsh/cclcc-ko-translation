@@ -1,0 +1,111 @@
+{
+ "packet_id": "CC0293-clyu10-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu10.msb",
+ "speakers_in_packet": [
+  "MOMONE"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu10:0",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えへへ〜。という感じで、今夜も口パクいっぱい夢いっぱいでお送りしてます『ＭＯＭＯＮＥのゆっくりしていってね』なんですがー」"
+  },
+  {
+   "id": "clyu10:100",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうそう、今日はねぇ。⟦col:280aa02d1400⟧ＭＯＭＯＮＥ⟦col:800000⟧がいま、すっごーくおしてるアイドルユニットを紹介しちゃおうと思いまぁす」"
+  },
+  {
+   "id": "clyu10:200",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そのアイドルユニットとはぁ……」"
+  },
+  {
+   "id": "clyu10:300",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「じゃっじゃーん。『⟦col:280aa02d1400⟧ミルフィーユ⟦col:800000⟧』のふたりで〜す」"
+  },
+  {
+   "id": "clyu10:400",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「みんなはぁ、『ミルフィーユ』っていうユニット知ってる〜？？」"
+  },
+  {
+   "id": "clyu10:500",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、知ってる人もいっぱいいるんだ〜。ね〜、かわいいよねぇ」"
+  },
+  {
+   "id": "clyu10:600",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「『ミルフィーユ』は〜、ユイちゃんとユウちゃんっていう姉妹のユニットでねぇ、とーってもカワイイの」"
+  },
+  {
+   "id": "clyu10:700",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私？ うーん、どっちもカワイイけどぉ……私はユイちゃん派かな？」"
+  },
+  {
+   "id": "clyu10:800",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、でもでもぉ、アイドルって言っても、まだ歌とかは歌ってなくて、ニヤ動で⟦col:280aa02d1400⟧踊ってみた⟦col:800000⟧とかやってるだけなんだけど、きっとこれから出てくるふたりだと、ＭＯＭＯＮＥは思うなぁ」"
+  },
+  {
+   "id": "clyu10:900",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「というわけでぇ、これからみんなも『ミルフィーユ』チェックしてあげてねぇ」"
+  },
+  {
+   "id": "clyu10:1000",
+   "type": "dialogue",
+   "speaker": "ＭＯＭＯＮＥ",
+   "speaker_ko": "MOMONE",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、もうこんな時間。それじゃあ、今日の『ゆっくりしていってね♪』もそろそろおしまい。まったね〜」"
+  }
+ ],
+ "context_after": []
+}

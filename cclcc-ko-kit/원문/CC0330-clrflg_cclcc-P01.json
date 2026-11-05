@@ -1,0 +1,226 @@
+{
+ "packet_id": "CC0330-clrflg_cclcc-P01",
+ "kit_version": "1.0",
+ "source_file": "clrflg_cclcc.msb",
+ "speakers_in_packet": [],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clrflg_cclcc:300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a01f0000⟧【秘匿された物語】"
+  },
+  {
+   "id": "clrflg_cclcc:400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:800000⟧が解放されました。"
+  },
+  {
+   "id": "clrflg_cclcc:500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:800000⟧タイトルメニューの"
+  },
+  {
+   "id": "clrflg_cclcc:600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a01f0000⟧【ＥＸＴＲＡ】"
+  },
+  {
+   "id": "clrflg_cclcc:700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:800000⟧が利用可能になりました。"
+  },
+  {
+   "id": "clrflg_cclcc:800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a01f0000⟧【ＨＩＮＴ】"
+  },
+  {
+   "id": "clrflg_cclcc:900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a01f0000⟧【⟦col:820000⟧ＹＥＳ⟦col:a01f0000⟧－⟦col:810000⟧ＮＯ⟦col:a01f0000⟧心理テスト】⟦col:800000⟧"
+  },
+  {
+   "id": "clrflg_cclcc:1000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:800000⟧の結果に注意しよう"
+  },
+  {
+   "id": "clrflg_cclcc:1100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a01f0000⟧【ＨＩＮＴ】"
+  },
+  {
+   "id": "clrflg_cclcc:1200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a01f0000⟧【⟦col:810000⟧妄⟦col:820000⟧想⟦col:a01f0000⟧トリガー】⟦col:800000⟧を引いて"
+  },
+  {
+   "id": "clrflg_cclcc:1300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:800000⟧いろいろ妄想しよう"
+  },
+  {
+   "id": "clrflg_cclcc:1400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧Ｂａｄ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:1500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧来栖乃々 Ｎｏｒｍａｌ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:1600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧来栖乃々 Ｇｏｏｄ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:1700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧有村雛絵 Ｎｏｒｍａｌ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:1800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧有村雛絵 Ｇｏｏｄ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:1900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧結衣＆結人 Ｎｏｒｍａｌ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:2000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧結衣＆結人 Ｇｏｏｄ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:2100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧香月華 Ｎｏｒｍａｌ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:2200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧尾上世莉架 Ｇｏｏｄ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:2300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a0fe0000⟧【⟦col:a0ff0000⟧Ｔｒｕｅ　ｅｎｄ⟦col:a0fe0000⟧】"
+  },
+  {
+   "id": "clrflg_cclcc:2400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a01f0000⟧【ＮＯＴＩＣＥ】"
+  },
+  {
+   "id": "clrflg_cclcc:2500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:a01f0000⟧【⟦col:820000⟧ＹＥＳ⟦col:a01f0000⟧－⟦col:810000⟧ＮＯ⟦col:a01f0000⟧心理テスト】⟦col:800000⟧"
+  },
+  {
+   "id": "clrflg_cclcc:2600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "⟦col:800000⟧の設問が更新されました"
+  }
+ ],
+ "context_after": []
+}

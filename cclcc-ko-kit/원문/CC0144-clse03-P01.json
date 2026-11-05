@@ -1,0 +1,696 @@
+{
+ "packet_id": "CC0144-clse03-P01",
+ "kit_version": "1.0",
+ "source_file": "clse03.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카",
+  "？？？"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clse03:0",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「痛……っ……」"
+  },
+  {
+   "id": "clse03:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "最初に感じたのは、後頭部の痛みだった。"
+  },
+  {
+   "id": "clse03:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それから次に、喉を締めつけられた時のような不快感。"
+  },
+  {
+   "id": "clse03:300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「けほっ、ごほっ……」"
+  },
+  {
+   "id": "clse03:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "この喉の不愉快な感じ……しばらく考えて、やっと思い出した。"
+  },
+  {
+   "id": "clse03:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "小学校の頃だったか、子供のくせに腕力だけは強いバカな連中が、僕たち非力な生徒相手に『気絶ゲーム』とか言って――首を絞めつけては失神させるのが流行した時期があった。"
+  },
+  {
+   "id": "clse03:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結局、あの『ゲーム』……というかイジメの一種は、社会問題にまで発展し、悪質なヤツは少年院とかに送られてたっけか。"
+  },
+  {
+   "id": "clse03:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、いま喉に感じてるこの違和感は、まさにあの頃、絞め落とされた時の感覚によく似ていた。"
+  },
+  {
+   "id": "clse03:800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「けほっ……おい、誰かいないのか？ ここ、どこだ？」"
+  },
+  {
+   "id": "clse03:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "天井の片隅に、かなり汚れた小さな電灯だけがポツンとあって、室内を黄色く弱弱しい光で照らしている。"
+  },
+  {
+   "id": "clse03:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "が、こんなぼんやりとした光では、目を凝らしてみても、うす暗くてほとんど何も見えない。"
+  },
+  {
+   "id": "clse03:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかも僕がゾッとしたのは、自分がベッドらしきものに大の字に横たえられ、手足と腹部がベルトでガッチリと固定されていると分かったからだ。"
+  },
+  {
+   "id": "clse03:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そのせいで、いくら力を込めても、起き上がることはおろか自由に身動きすら出来ないのだ。"
+  },
+  {
+   "id": "clse03:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい！ いい加減にしろよ！ なんのイタズラだよ、これ！」"
+  },
+  {
+   "id": "clse03:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は、この時点ではまだ、伊藤あたりが企画したイタズラだと思っていた。"
+  },
+  {
+   "id": "clse03:1500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕の焦る様子をしばらくビデオかなにかで録画した後、『いいネット動画が出来たぜー』とかふざけたことを言いながら現れるつもりだろう、と。"
+  },
+  {
+   "id": "clse03:1600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（でも、ここ真っ暗だぞ？ あいつ、いつの間に暗視カメラなんて買ったんだ？ けっこうな値段するはずなんだが……こんなバカなイタズラに使うなんてもったいない）"
+  },
+  {
+   "id": "clse03:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕はいまや、すっかり伊藤の陰謀だと決めつけて怒鳴った。"
+  },
+  {
+   "id": "clse03:1800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おい、伊藤！ お前、僕の能力を知ってるだろ！ こんなのすぐに外せるんだからな！ お前の自慢のカメラも、ぶっ壊すぞ！」"
+  },
+  {
+   "id": "clse03:1900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それがいやなら、もうイタズラはやめとけ！」"
+  },
+  {
+   "id": "clse03:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だが。"
+  },
+  {
+   "id": "clse03:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "返ってきたのは、僕自身の声の反響と、それが消えた後の静寂だけだった。"
+  },
+  {
+   "id": "clse03:2200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「おい、伊藤！ いい加減にしろって！ なんかの映画のオマージュかパロディか知らないけどさ！」"
+  },
+  {
+   "id": "clse03:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "以前、確かこんな感じの映画を観たことがある。"
+  },
+  {
+   "id": "clse03:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "犯人は、余命いくばくもない医者かなにかで、社会的に許せない人間や、怠惰に過ごしている人間を、こんな感じに拘束して、殺人ゲームを行う……みたいな内容だったように記憶している。"
+  },
+  {
+   "id": "clse03:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "僕は今にも、カメラを構えた伊藤がニヤニヤ笑いながら現れるのを期待したが。"
+  },
+  {
+   "id": "clse03:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "しかし、そんな時はいつまで経っても訪れなかった。"
+  },
+  {
+   "id": "clse03:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "その代わり、僕の両目がいきなりまばゆい光に照らされ――あまりの明暗差に何も見えなくなった。"
+  },
+  {
+   "id": "clse03:2800",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さーて、ここで問題です。私の正体はタクの予想通り、真ちゃんでしょうか？ それとも別の誰かでしょーか？」"
+  },
+  {
+   "id": "clse03:2900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "？？？",
+   "next_speaker": "？？？",
+   "jp": "「………え？」"
+  },
+  {
+   "id": "clse03:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "こ、この声……。"
+  },
+  {
+   "id": "clse03:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "尾上！？"
+  },
+  {
+   "id": "clse03:3200",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ちっちっちっちっちっちっちっち！ さあ、宮代拓留選手はこの難問に答えられるのかーっ！？ ドキドキの展開はＣＭのあと！！」"
+  },
+  {
+   "id": "clse03:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "오노에 세리카",
+   "jp": "やっぱり尾上の声だ。"
+  },
+  {
+   "id": "clse03:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "오노에 세리카",
+   "jp": "でも、なんでこいつが？ どうして？"
+  },
+  {
+   "id": "clse03:3500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "？？？",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ぶっぶー！ 時間切れです！ 宮代選手、残念でしたー！」"
+  },
+  {
+   "id": "clse03:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕を照らしていたやたらまぶしいライトが横に向けられ、光量がちょうどいいくらいまで落とされた。"
+  },
+  {
+   "id": "clse03:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "おかげで、そこにいるのが誰なのか間違いなく分かった。"
+  },
+  {
+   "id": "clse03:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "やはり尾上世莉架だった。"
+  },
+  {
+   "id": "clse03:3900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「尾上？ お前、これ……いったいなんのつもり……」"
+  },
+  {
+   "id": "clse03:4000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やだなあ。その前に、何か私に言うことあるんじゃないの？」"
+  },
+  {
+   "id": "clse03:4100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「……？」"
+  },
+  {
+   "id": "clse03:4200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あー、分かってなーい。ひっどーい」"
+  },
+  {
+   "id": "clse03:4300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ひなちゃんはさ、『宮代先輩も、きっといまごろ反省してますよ』とか言ってなぐさめてくれたけど……やっぱりタク、反省なんてしてないじゃん」"
+  },
+  {
+   "id": "clse03:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あっ。そ、そうだ！"
+  },
+  {
+   "id": "clse03:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あまりに不可解な状況で目覚めたから失念してたけれど、僕は、尾上を泣かせてしまったんだ。"
+  },
+  {
+   "id": "clse03:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あの時なんで彼女が泣いたのか、結局よく分からないけど、とにかく謝らないと――。"
+  },
+  {
+   "id": "clse03:4700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あ、あのさ。さっきはほんと悪かった。でも学校でさ、尾上が病気かも知れないって話、聞いちゃってさ……いてもたってもいられなくて、ついあんなこと……」"
+  },
+  {
+   "id": "clse03:4800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「だから、悪気があったわけじゃないんだ。けど……マナー違反っていうか……悪いコトをしたのは事実だもんな。ごめん」"
+  },
+  {
+   "id": "clse03:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕がそうやって謝っている間、尾上はじっとこちらを見つめていた。あれは、すでによく知っている思考盗撮の時の眼だ。"
+  },
+  {
+   "id": "clse03:5000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うーん、やっぱりダメかあ……」"
+  },
+  {
+   "id": "clse03:5100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ダメ？ 何が？」"
+  },
+  {
+   "id": "clse03:5200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「知ってるでしょ？ カフェで盗み聞きしてたんだから。私、タクの心が読めなくなっちゃったんだよ」"
+  },
+  {
+   "id": "clse03:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "その言葉には結構トゲがあって、いつも素直で明るい尾上らしくなかった。"
+  },
+  {
+   "id": "clse03:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "そのことが、僕にさらに罪悪感を覚えさせる。"
+  },
+  {
+   "id": "clse03:5500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だからいま、タクが本気で謝ってくれてるのか、ただ謝るフリしてるだけなのか、分からないんだよね」"
+  },
+  {
+   "id": "clse03:5600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「フリなんて……そんなわけないだろっ。本当に悪かったと思ってるってっ」"
+  },
+  {
+   "id": "clse03:5700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほんとう？」"
+  },
+  {
+   "id": "clse03:5800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「もちろん」"
+  },
+  {
+   "id": "clse03:5900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そっかあ、良かった。えへへぇ」"
+  },
+  {
+   "id": "clse03:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "尾上は、いつものように屈託なく笑った。"
+  },
+  {
+   "id": "clse03:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それで、僕もようやくホッと胸をなでおろして、"
+  },
+  {
+   "id": "clse03:6200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「仲直り出来たってことでさ、これ、外してくれよ。なんだかさ、その……変なプレイしてるみたいになっちゃうだろ？」"
+  },
+  {
+   "id": "clse03:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "手と脚、それから腹部をベッドにしばりつけている革の⟦col:280aa02d1400⟧拘束具⟦col:800000⟧を目線で指して、僕は言った。"
+  },
+  {
+   "id": "clse03:6400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「変なプレイってなぁに？」"
+  },
+  {
+   "id": "clse03:6500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いやいい。尾上は知らなくていい世界の話だ。とにかくこれを外して――」"
+  },
+  {
+   "id": "clse03:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "が。驚いたことに、いきなり尾上はキッときつい目をして僕をにらみつけた。"
+  },
+  {
+   "id": "clse03:6700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「また、すぐそうやって私を子供扱いする。ＳＭくらい知ってるよ」"
+  },
+  {
+   "id": "clse03:6800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「えっ？」"
+  },
+  {
+   "id": "clse03:6900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タクが時々、ゲンさんに売りつけられそうになってる本にも載ってるじゃん。こうやって縛って、拷問したりするんでしょ？」"
+  },
+  {
+   "id": "clse03:7000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「ち、違う！ あ、いや、重なってる部分もあるけど、拷問とＳＭは基本的に目的が別だ！ それに、僕にはそんな趣味は――」"
+  },
+  {
+   "id": "clse03:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――そんな趣味はないからな！"
+  },
+  {
+   "id": "clse03:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう言いかけた瞬間。"
+  },
+  {
+   "id": "clse03:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "革ベルトで自由にならない左手の先をいきなりガシッとつかまれたかと思うと、薬指に火でもつけられたかのような激痛が走った。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「うああああーーーっ！！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "あまりの痛みにだらしなく叫んでしまいながら、自分の左手を見た。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕の薬指の先……。"
+  }
+ ]
+}

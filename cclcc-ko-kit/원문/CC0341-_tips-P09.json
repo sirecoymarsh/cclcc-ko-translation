@@ -1,0 +1,912 @@
+{
+ "packet_id": "CC0341-_tips-P09",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "はちこう"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "大正時代、亡くなった飼い主のことを渋谷駅前で約１０年もの間待ち続けた秋田犬。名前はハチで、ハチ公は愛称。忠犬として人々に愛された。現在は渋谷駅前の広場に銅像が建てられ、待ち合わせ場所として渋谷のシンボルになっている。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "渋谷"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "１０７"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いちまるなな"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "１０７"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:80400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）渋谷駅の近く、道玄坂にあるファッションビル。ＳＨＩＢＵＹＡ１０７が正式名称。８階建てで１００店舗以上のテナントが入っている。１０代〜２０代の女性向けファッションブランドが中心であり、渋谷のギャルにとって聖地とまで言われているほど。⟦n⟧２００９年の渋谷地震で半壊したが、多くの人々に愛された渋谷の象徴を無くすわけにはいかないと、かつてとまったく同じ形に修築し再オープンを果たした。"
+  },
+  {
+   "id": "_tips:80500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:80600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "４８手"
+  },
+  {
+   "id": "_tips:80700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しじゅうはって"
+  },
+  {
+   "id": "_tips:80800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "４８て"
+  },
+  {
+   "id": "_tips:80900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "相撲の決まり、つまり勝敗を決する技の数の総称。そこから転じて、性行為における体位の種類を示す言葉としても使われるようになった。⟦n⟧しかし、実際に相撲における決まり手は４８よりも多く、あくまでも慣用句的な言葉として使われているものである。江戸時代には４８という数字は多数を示す縁起の良い数字として使われ、様々なところで用いられた。現在でもその習慣は残っており、アイドルグループの名前などにも使われている。"
+  },
+  {
+   "id": "_tips:81000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:81100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "立って半畳寝て一畳"
+  },
+  {
+   "id": "_tips:81200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たってはんじょうねていちじょう"
+  },
+  {
+   "id": "_tips:81300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たってはんじょうねていちじょう"
+  },
+  {
+   "id": "_tips:81400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『起きて半畳、寝て一畳』ともいう。人間起きている時には畳半畳分、寝ても一畳分あれば充分という意味。その後に『天下とっても二合半』とも続き、たとえ天下をとったとしても、二合半の飯を食えば限度であることを表す。つまり、欲を持ちすぎてはいけないという戒めを込めた言葉。"
+  },
+  {
+   "id": "_tips:81500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:81600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＳＮＳ"
+  },
+  {
+   "id": "_tips:81700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えすえぬえす"
+  },
+  {
+   "id": "_tips:81800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＳＮＳ"
+  },
+  {
+   "id": "_tips:81900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ソーシャル・ネットワーキング・サービス（Ｓｏｃｉａｌ　Ｎｅｔｗｏｒｋｉｎｇ　Ｓｅｒｖｉｃｅ）の略。コミュニティ型のｗｅｂサイトで、招待制や登録制などのさまざまな形態がある。他者とのコミュニケーションをネット上でより容易に行えるような機能が構築されている。"
+  },
+  {
+   "id": "_tips:82000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:82100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "トレンド"
+  },
+  {
+   "id": "_tips:82200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "とれんど"
+  },
+  {
+   "id": "_tips:82300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "とれんど"
+  },
+  {
+   "id": "_tips:82400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＳＮＳなどで、その時間一番話題となっている言葉を言う。"
+  },
+  {
+   "id": "_tips:82500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:82600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "カロリーブロック"
+  },
+  {
+   "id": "_tips:82700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かろりーぶろっく"
+  },
+  {
+   "id": "_tips:82800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かろりぃぶろっく"
+  },
+  {
+   "id": "_tips:82900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）人間に必要な栄養素を、手軽に摂取することを目的として作られた、ブロック状の食品。あくまでもカロリーの摂取を目的としており、ダイエット食品ではないため、勘違いして食事と一緒にとると大変なことになるので、注意が必要。"
+  },
+  {
+   "id": "_tips:83000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:83100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "シュシュ"
+  },
+  {
+   "id": "_tips:83200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しゅしゅ"
+  },
+  {
+   "id": "_tips:83300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しゅしゅ"
+  },
+  {
+   "id": "_tips:83400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "装飾具のひとつで、輪っか状の布の中にゴムを入れて縮ませ、髪をとめたり腕にはめたりするもの。レースなどで飾り付けられたものもあり、一見すると女性用パンツに見えなくもない。"
+  },
+  {
+   "id": "_tips:83500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:83600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ミネストローネ"
+  },
+  {
+   "id": "_tips:83700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みねすとろーね"
+  },
+  {
+   "id": "_tips:83800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みねすとろぉね"
+  },
+  {
+   "id": "_tips:83900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "イタリアの野菜スープの名称。野菜だけでなく、パスタやコメを入れることもある。主にトマト味のスープを言うが、地方によってはトマトを使わないものもあり、野菜を使ったスープの総称ともいえる。"
+  },
+  {
+   "id": "_tips:84000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:84100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "タリアテッレ"
+  },
+  {
+   "id": "_tips:84200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たりあてっれ"
+  },
+  {
+   "id": "_tips:84300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たりあてっれ"
+  },
+  {
+   "id": "_tips:84400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "平打ちのパスタの名称。「切る」を意味する「たりあーれ」の派生から名づけられた。主にイタリア北部で呼ばれ、中部以南ではフェットチーネと呼ばれる。しっかりした味付けのソースと絡められるのが定番。"
+  },
+  {
+   "id": "_tips:84500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:84600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ボロネーゼ"
+  },
+  {
+   "id": "_tips:84700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぼろねーぜ"
+  },
+  {
+   "id": "_tips:84800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぼろねぇぜ"
+  },
+  {
+   "id": "_tips:84900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "イタリア、ボローニャ地方の食べ物。ひき肉を香味野菜とともに炒め、トマトソースと絡めたパスタ料理。過去にはミートソースとも言われていた。"
+  },
+  {
+   "id": "_tips:85000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:85100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ニーハイ"
+  },
+  {
+   "id": "_tips:85200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にーはい"
+  },
+  {
+   "id": "_tips:85300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にぃはい"
+  },
+  {
+   "id": "_tips:85400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ニーハイソックス、つまり、膝上までの丈のハイソックスのこと。また、ニーハイと短い丈のスカートなどの間にできる、素肌の見える空間を『絶対領域』という。ただし、英語でニーハイというと、膝丈……つまり膝下の丈のことを表すので注意が必要。"
+  },
+  {
+   "id": "_tips:85500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:85600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "首４の字"
+  },
+  {
+   "id": "_tips:85700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くびよんのじ"
+  },
+  {
+   "id": "_tips:85800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くびよんのじ"
+  },
+  {
+   "id": "_tips:85900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "相手の首に足を絡ませ、締め上げるプロレス技。絡ませた足がアラビア数字の４に見えることから命名された。縦四方固めと並び、男性が女性にかけられたい技の人気上位の技だが、実際に格闘経験者にかけられたらかなりのダメージを受ける。"
+  },
+  {
+   "id": "_tips:86000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:86100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "真空とび膝蹴り"
+  },
+  {
+   "id": "_tips:86200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しんくうとびひざげり"
+  },
+  {
+   "id": "_tips:86300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しんくうとびひざげり"
+  },
+  {
+   "id": "_tips:86400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かつてキックの鬼と呼ばれたキックボクサーの必殺ニーキック。その鋭さゆえに、そう呼ばれ人々の熱狂を得た。"
+  },
+  {
+   "id": "_tips:86500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:86600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "男女七歳にして〜"
+  },
+  {
+   "id": "_tips:86700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だんじょしちさいにして"
+  },
+  {
+   "id": "_tips:86800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だんじょしちさいにして"
+  },
+  {
+   "id": "_tips:86900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『男女七歳にして席を同じうせず』または『男女七歳にして同衾せず』ともいう。７歳を過ぎるころには男と女は性別が違うのだと理解し、それまでのように慣れ親しんではならないという、儒教の古い教え。なお、ここでの席とは“ござ”のことで、同じござに座ってはならないというのが本来の意。"
+  },
+  {
+   "id": "_tips:87000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:87100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "未成年者略取"
+  },
+  {
+   "id": "_tips:87200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みせいねんしゃりゃくしゅ"
+  },
+  {
+   "id": "_tips:87300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みせいねんしゃりゃくしゅ"
+  },
+  {
+   "id": "_tips:87400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "正確には『未成年者略取・誘拐罪』という。略取とは、なんらかの暴力的な行為や脅しをもって、本来の生活環境から切り離し支配下に置くこと。誘拐は策謀などを用いて同じく支配下におくことをいう。またこの場合、未成年者とは２０歳未満のもののこと。主体側に制限はなく、未成年でも親族にも適応される。"
+  },
+  {
+   "id": "_tips:87500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:87600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "非モテ"
+  },
+  {
+   "id": "_tips:87700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ひもて"
+  },
+  {
+   "id": "_tips:87800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ひもて"
+  },
+  {
+   "id": "_tips:87900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "異性にモテない男性のこと。大概においてモテないことを自虐ネタとして自慢、吹聴する傾向にある。同様の言葉に『喪男（もおとこ）』がある。"
+  },
+  {
+   "id": "_tips:88000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:88100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "裸エプロン"
+  },
+  {
+   "id": "_tips:88200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はだかえぷろん"
+  },
+  {
+   "id": "_tips:88300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はだかえぷろん"
+  },
+  {
+   "id": "_tips:88400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "全裸のうえからエプロンのみを着用するファッション。世の男性の憧れの姿のひとつと考えられている。なお、裸エプロンは前から見るべきか、後ろから見るべきか、はたまた横から見るべきかで意見が分かれるとか分かれないとか。"
+  },
+  {
+   "id": "_tips:88500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:88600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ヨガ"
+  },
+  {
+   "id": "_tips:88700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "よが"
+  },
+  {
+   "id": "_tips:88800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "よが"
+  },
+  {
+   "id": "_tips:88900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "古代インドに端を発する瞑想方法。悟りを開き、輪廻から解脱するために行われる心身鍛錬法。したがって、一般にイメージされる身体的な訓練のみのものは『ピラティス』という。どちらもステキ女子のたしなみ。なお、極めても火を吹けるようにはならないので、注意が必要。"
+  },
+  {
+   "id": "_tips:89000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:89100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "変顔"
+  },
+  {
+   "id": "_tips:89200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "へんがお"
+  },
+  {
+   "id": "_tips:89300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "へんがお"
+  },
+  {
+   "id": "_tips:89400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "自らすすんで、極端に表情を変化させることで生み出される滑稽な顔。特に若い女子の間で流行っている。思い切りが良いと好印象を持たれるが、中途半端だとかわい子ぶっているととられるため常に危険と隣り合わせの行為ともいえる。"
+  },
+  {
+   "id": "_tips:89500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:89600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "デニール値"
+  },
+  {
+   "id": "_tips:89700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でにーるち"
+  },
+  {
+   "id": "_tips:89800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でにぃるち"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "タイツやストッキングなどの濃さを表す単位……と思われがちだが、本来は繊維の太さを表す単位。繊維を９０００メートルの長さに伸ばした際、１ｇとなる値を１デニールという。一般的には１１０デニール以上になると、タイツは透けないといわれているので、宴会の余興などで被る際には注意が必要。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ネット"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "アプリ"
+  }
+ ]
+}

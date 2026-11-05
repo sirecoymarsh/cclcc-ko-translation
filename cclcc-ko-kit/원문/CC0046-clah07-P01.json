@@ -1,0 +1,914 @@
+{
+ "packet_id": "CC0046-clah07-P01",
+ "kit_version": "1.0",
+ "source_file": "clah07.msb",
+ "speakers_in_packet": [
+  "아리무라 히나에",
+  "야마조에 우키",
+  "오노에 세리카",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clah07:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "渋谷カフェＬＡＸは拓留たち碧朋学園新聞部ご用達の喫茶店だ。"
+  },
+  {
+   "id": "clah07:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "普段は拓留や伊藤がだらだらと無駄な時間を過ごすことの多いこの店だが、この日は珍しく華やかな香りが漂っていた。"
+  },
+  {
+   "id": "clah07:200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そっか。そんじゃ、今日は華ちゃんのところでシャワー借りてたんだ」"
+  },
+  {
+   "id": "clah07:300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「そういうこと。すまないねー、華」"
+  },
+  {
+   "id": "clah07:400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「それは言わない約束……かも」"
+  },
+  {
+   "id": "clah07:500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「言ってくれればうちのお風呂、使わせてあげたのに」"
+  },
+  {
+   "id": "clah07:600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いやぁ、来栖先輩のとこって、ご家族多いじゃないっすかー。だから、なんか申し訳なくって」"
+  },
+  {
+   "id": "clah07:700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「うちならかまわないわよ。なんなら、一緒に入る？」"
+  },
+  {
+   "id": "clah07:800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「う……来栖先輩とお風呂……それはちょっと遠慮しておきます」"
+  },
+  {
+   "id": "clah07:900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あら、どうして？」"
+  },
+  {
+   "id": "clah07:1000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "「だって……いろいろ自信なくしそうですし。どうせ入るならうきとで」"
+  },
+  {
+   "id": "clah07:1100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……心外です」"
+  },
+  {
+   "id": "clah07:1200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「あ、ごめんごめん、冗談だから！ そんな哀しそうな顔しないで！」"
+  },
+  {
+   "id": "clah07:1300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……私も冗談です」"
+  },
+  {
+   "id": "clah07:1400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「あー、うき〜！ このぉ、こうしてやるぅ！！」"
+  },
+  {
+   "id": "clah07:1500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ふぇ……ほっぺ、引っ張らないれくらさい。いたい……れす……」"
+  },
+  {
+   "id": "clah07:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "오노에 세리카",
+   "jp": "拓留の住居にはシャワーが無い。"
+  },
+  {
+   "id": "clah07:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "오노에 세리카",
+   "jp": "雛絵はこれまで、学校帰りに近くの温泉施設に行くか、あるいは学園にある運動部用のシャワールームを使うかしていたが、この日は生憎とどちらも使用できなかったのだという。"
+  },
+  {
+   "id": "clah07:1800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "카즈키 하나",
+   "jp": "「でも、華ちゃんとこの寮も、最近厳しかったんじゃないの？」"
+  },
+  {
+   "id": "clah07:1900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「昼間は大丈夫……かも……」"
+  },
+  {
+   "id": "clah07:2000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いやー、おかげで助かったわー」"
+  },
+  {
+   "id": "clah07:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "さすがに年頃の雛絵にとって、一日シャワーを浴びられないというのは死活問題に等しい。"
+  },
+  {
+   "id": "clah07:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "しかも絶賛、宮代拓留の気を引こうとしている最中であるからには、不潔な状態でいるわけにはいかなかった。"
+  },
+  {
+   "id": "clah07:2300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「で、どうなの、拓留は？」"
+  },
+  {
+   "id": "clah07:2400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「全然だめっす。こっちから近づけば近づくほど、遠ざかる感じっていうか……」"
+  },
+  {
+   "id": "clah07:2500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「でしょうねぇ。あの子、基本的にあまのじゃくだから。気を引こうとすればするほど、拒否するんじゃないかしら」"
+  },
+  {
+   "id": "clah07:2600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "「あー……やっぱそうっすかねぇ……」"
+  },
+  {
+   "id": "clah07:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "雛絵としても薄々感じてはいた。"
+  },
+  {
+   "id": "clah07:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "しかしながら一度大きく宣言した手前、引くに引けず突っ走ってしまったという次第だ。"
+  },
+  {
+   "id": "clah07:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "いや、相手が拓留以外の男子であったなら、いくら雛絵でもそれほどムキになることは無かったのかもしれない。"
+  },
+  {
+   "id": "clah07:3000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "（そこなのよねぇ……）"
+  },
+  {
+   "id": "clah07:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そう。雛絵自身にも不思議だった。"
+  },
+  {
+   "id": "clah07:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "どうして、自分がこんなにも宮代拓留に拘るのか。"
+  },
+  {
+   "id": "clah07:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そもそも家出を決め、どこに行こうか考えた際、まず真っ先に浮かんだのが拓留の住居だった。"
+  },
+  {
+   "id": "clah07:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それも雛絵にとっては、不可解な点のひとつだった。"
+  },
+  {
+   "id": "clah07:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧単に母親への当てつけというだけなら、選択肢はいくつもあった。"
+  },
+  {
+   "id": "clah07:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧それがなぜ、拓留の住居を選んだのか。"
+  },
+  {
+   "id": "clah07:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "単に場所が近かった、というのもあるかもしれないが、それだけではないような気もする……。"
+  },
+  {
+   "id": "clah07:3800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ねえ、有村さん。この前も言ったと思うけど……」"
+  },
+  {
+   "id": "clah07:3900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "頭を抱える雛絵に、乃々は前置きしてから言った。"
+  },
+  {
+   "id": "clah07:4000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "아리무라 히나에",
+   "jp": "「拓留のことだから、過ちはないとは思うわ。でも、ほどほどにしておきなさいよ」"
+  },
+  {
+   "id": "clah07:4100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah07:4200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なに？」"
+  },
+  {
+   "id": "clah07:4300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「来栖先輩は良いんですか？」"
+  },
+  {
+   "id": "clah07:4400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なにが？」"
+  },
+  {
+   "id": "clah07:4500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だってー、私がやってることって、言ってしまえば、宮代先輩を⟦rb⟧弄⟦rt⟧もてあそ⟦/r⟧んでるようなもんですよ？」"
+  },
+  {
+   "id": "clah07:4600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そういうの、腹が立ったりしないんすか？」"
+  },
+  {
+   "id": "clah07:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "血はつながっていないにせよ、拓留は乃々にとって義理の弟にあたる。"
+  },
+  {
+   "id": "clah07:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それに、もしかしたら乃々は拓留に少なからず好意を抱いているのではないか……そう思うこともあった。"
+  },
+  {
+   "id": "clah07:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "雛絵にとってはそれが憂いの種でもあったのだが……。"
+  },
+  {
+   "id": "clah07:5000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「拓留だって子どもじゃないんだもの。仮に弄ばれたとしたら、それは本人の責任だわ。それに……」"
+  },
+  {
+   "id": "clah07:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "乃々に真っ直ぐな瞳で見つめられ、雛絵は思わず引き込まれそうになった。"
+  },
+  {
+   "id": "clah07:5200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「あなたは気づいてないかもしれないけど、私これでも有村さんのこと買ってるのよ？ だから、ただ相手が悲しむだけのようなことはしないって信じてる」"
+  },
+  {
+   "id": "clah07:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "乃々が真実、心からそう考えているのだと、雛絵にはわかった。"
+  },
+  {
+   "id": "clah07:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "乃々だけじゃない。"
+  },
+  {
+   "id": "clah07:5500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "この新聞部の人たちは皆、何故か雛絵のことを買いかぶっている。"
+  },
+  {
+   "id": "clah07:5600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦top:38⟧それが雛絵には不思議だった。"
+  },
+  {
+   "id": "clah07:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "けれど、だからこそ新聞部は、雛絵にとって居心地のいい場所でもあるのだが。"
+  },
+  {
+   "id": "clah07:5800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「でもさー、ひなちゃん。もし思惑どおり、タクがひなちゃんにめろめろ？ になったとしたら、ひなちゃんはどうするの？」"
+  },
+  {
+   "id": "clah07:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "言われて、雛絵は考え込んだ。"
+  },
+  {
+   "id": "clah07:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "⟦top:38⟧最初は母親への当てつけ。"
+  },
+  {
+   "id": "clah07:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "⟦top:38⟧それがいつの間にか、自分を一切女の子として見ようとしない拓留への、意趣返しに変わっていた。"
+  },
+  {
+   "id": "clah07:6200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "⟦top:38⟧けれど――。"
+  },
+  {
+   "id": "clah07:6300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "야마조에 우키",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah07:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "この先、拓留が少しでも自分に惹かれるようなことがあれば、その時点で勝負は雛絵の勝ち。"
+  },
+  {
+   "id": "clah07:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "⟦top:76⟧じゃあ、その先は？"
+  },
+  {
+   "id": "clah07:6600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "야마조에 우키",
+   "jp": "「……そういえば、どうするんだろ？」"
+  },
+  {
+   "id": "clah07:6700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……まさか、考えてなかったんですか？」"
+  },
+  {
+   "id": "clah07:6800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あははははー……ついつい突っ走ってここまで来ちゃったけど、なーんも」"
+  },
+  {
+   "id": "clah07:6900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「やっぱり前言撤回。有村さんの見る目、もう一度考えなきゃいけないみたいね」"
+  },
+  {
+   "id": "clah07:7000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "「あー。ひっでー」"
+  },
+  {
+   "id": "clah07:7100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「やれやれ……かも……」"
+  },
+  {
+   "id": "clah07:7200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "오노에 세리카",
+   "jp": "「華まで！」"
+  },
+  {
+   "id": "clah07:7300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「すみませーん。グレープフルーツジュースくださーい」"
+  },
+  {
+   "id": "clah07:7400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「って、こっちは聞いてないし！！」"
+  },
+  {
+   "id": "clah07:7500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「う？ なにが？」"
+  },
+  {
+   "id": "clah07:7600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「もう、世莉架ったら……」"
+  },
+  {
+   "id": "clah07:7700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ぷっ」"
+  },
+  {
+   "id": "clah07:7800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ふふふ」"
+  },
+  {
+   "id": "clah07:7900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "오노에 세리카",
+   "jp": "「やれやれ」"
+  },
+  {
+   "id": "clah07:8000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「うー？？？」"
+  },
+  {
+   "id": "clah07:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "帰りの道すがらも、雛絵は先ほどの世莉架の問いに対する答えを考えていた。"
+  },
+  {
+   "id": "clah07:8200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "『でもさー、ひなちゃん。もし思惑どおり、タクがひなちゃんにめろめろ？ になったとしたら、ひなちゃんはどうするの？』"
+  },
+  {
+   "id": "clah07:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "果たして、この意地の張り合いに勝利した暁には、雛絵はどうするんだろう。"
+  },
+  {
+   "id": "clah07:8400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "（宮代先輩が私に……）"
+  },
+  {
+   "id": "clah07:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "その時は――。"
+  },
+  {
+   "id": "clah07:8600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "（うーん。せっかくだしー、ちょっとくらいは付き合ってあげてもいい……かも？）"
+  },
+  {
+   "id": "clah07:8700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "（何回かはデートしてみたり？）"
+  },
+  {
+   "id": "clah07:8800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "（そしたら、そうだなー……どこ行くかなー）"
+  },
+  {
+   "id": "clah07:8900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "（遊園地……は先輩は嫌がりそうだしー……）"
+  },
+  {
+   "id": "clah07:9000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "（身体を動かすようなところはＮＧだから……）"
+  },
+  {
+   "id": "clah07:9100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（話題の美術館とか展覧会とか？）"
+  },
+  {
+   "id": "clah07:9200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（あ！ 科学博物館ていうのもありかも）"
+  },
+  {
+   "id": "clah07:9300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "（宮代先輩のことだし、事前にいろいろと調べてくるんだろうなぁ）"
+  },
+  {
+   "id": "clah07:9400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "（で、前から知ってたように説明して）"
+  },
+  {
+   "id": "clah07:9500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "（私はそれを、感心して聞いたり）"
+  },
+  {
+   "id": "clah07:9600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "（あ、意外と水族館、なんてのもいいんじゃない？）"
+  },
+  {
+   "id": "clah07:9700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "（でもやっぱりたまにはテーマパークなんかに無理矢理連れてったりして……）"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "（先輩のことだもん、面倒くさい、なんて言いながらも、ついてきてくれるんだよね）"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "（うーん、でも先輩って絶叫系とか苦手そうだし、ホラー系もダメそうだし）"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "（ふふっ。でも私の前だと強がっちゃったりしてぇ……）"
+  }
+ ]
+}

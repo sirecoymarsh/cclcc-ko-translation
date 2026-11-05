@@ -1,0 +1,858 @@
+{
+ "packet_id": "CC0334-_tips-P02",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ぐらじおーる"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ぐらじおぉる"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "（架空）東欧に伝わる神話を元にした小説、グラジオール・サーガに登場する『邪心王』。グラジオール・サーガは、７人の黒騎士とグラジオールとの戦いを描いた全２３巻のハイ・ファンタジー小説シリーズである。著者はＲ・Ｃ・Ｏ・ツィーグラー。１９２９年〜１９５１年に渡って書かれ、いくつかの言語に翻訳されたが、その難解な文章のせいで一般にはあまり浸透しなかった。『グラジオール黙示録詩編』『グラジオール列王記邪心編』『使徒からの手紙』など、各巻にそれぞれ個別のタイトルが付けられている。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "グラジオラス"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ぐらじおらす"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ぐらじおらす"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:12200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｇｌａｄｉｏｌｕｓ。６〜８月に開花。アヤメ科グラジオラス属。花の色は白、ピンク、オレンジ、紫、赤など。花言葉は『愛の祈り』『情熱的な恋』『思い出』『用心深い』『努力』など。海外では、葉の形が剣に似ていることからソード・リリー（ｓｗｏｒｄ　ｌｉｌｙ）やグラディウス（ｇｌａｄｉｕｓ）などの別名で呼ばれることもある。"
+  },
+  {
+   "id": "_tips:12400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "黒ミサ"
+  },
+  {
+   "id": "_tips:12500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くろみさ"
+  },
+  {
+   "id": "_tips:12600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くろみさ"
+  },
+  {
+   "id": "_tips:12700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "サタン崇拝者が行う儀式。サバトとも呼ばれる。カトリック教会のミサとは真逆のことを行う。黒ミサが始まると巨大な山羊の姿をした魔王が現れる。魔女たちはその山羊の尻に接吻し、葡萄酒の代わりに幼児の血を飲み、魔道書が読み上げられ、淫靡な行為を繰り広げると言われている。一説には、性欲を抑圧された神父や神学者たちが、異端者を弾圧するために妄想で作り上げた概念だとする説もある。"
+  },
+  {
+   "id": "_tips:12900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "賢者モード"
+  },
+  {
+   "id": "_tips:13000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "けんじゃもーど"
+  },
+  {
+   "id": "_tips:13100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "けんじゃもぉど"
+  },
+  {
+   "id": "_tips:13200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "身も心も脱力状態となり、とても冷静で、あらゆる刺激が刺激として感じられなくなった状態。その様子はまるで魂の抜け殻である。賢者タイムや聖人タイムなどの別名もある。"
+  },
+  {
+   "id": "_tips:13400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "コキュートス"
+  },
+  {
+   "id": "_tips:13500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こきゅーとす"
+  },
+  {
+   "id": "_tips:13600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こきゅぅとす"
+  },
+  {
+   "id": "_tips:13700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ギリシア神話において、冥界の入り口にある２つの川のうちのひとつ。『嘆きの川』を意味する。死者はこの川を渡り、冥界へと入る。"
+  },
+  {
+   "id": "_tips:13900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "サードメルト"
+  },
+  {
+   "id": "_tips:14000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "さーどめると"
+  },
+  {
+   "id": "_tips:14100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "さぁどめると"
+  },
+  {
+   "id": "_tips:14200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）希テクノロジーと３００人委員会主導によるプロジェクト・ノアの最終稼働実験。ノアⅡによる最大出力の実験により、渋谷限定で震度７、マグニチュード７．８という関東大震災に匹敵する規模の大地震が発生した。"
+  },
+  {
+   "id": "_tips:14400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "錯視"
+  },
+  {
+   "id": "_tips:14500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "さくし"
+  },
+  {
+   "id": "_tips:14600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "さくし"
+  },
+  {
+   "id": "_tips:14700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "正常な状態の人が見た情報が、理性として間違っていると理解していながら、なおも間違ったまま知覚される現象。有名なものに『ミュラー・リヤー錯視』がある。原因としては、脳が、これまでの経験を踏まえて『推測した結果』と現実との間に誤差が生じているためという説がある。"
+  },
+  {
+   "id": "_tips:14800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "目が受容した光情報は、刺激として視神経を経由し大脳に送られる。これによりはじめて視覚として認識されるが、視覚とはそもそも『光情報を元に外界の構造を推定する過程』であり、そこには経験則によるフィルターが働く。人間は受け取る知覚の９９％を遮断している、という説もある。もし人が受け取った知覚の１００％すべてを処理しようと思ったら正気を保てないだろう、と言われている。"
+  },
+  {
+   "id": "_tips:15000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "氏ね"
+  },
+  {
+   "id": "_tips:15100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しね"
+  },
+  {
+   "id": "_tips:15200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しね"
+  },
+  {
+   "id": "_tips:15300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『死ね』をもじったもの。ネットスラング。"
+  },
+  {
+   "id": "_tips:15500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "死亡フラグ"
+  },
+  {
+   "id": "_tips:15600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しぼうふらぐ"
+  },
+  {
+   "id": "_tips:15700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しぼうふらぐ"
+  },
+  {
+   "id": "_tips:15800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "死ぬことへの伏線。コンピュータゲーム用語。例としては「オレ、この戦争が終わったら結婚するんだ→直後に敵に撃たれて死亡」という流れがポピュラーである。"
+  },
+  {
+   "id": "_tips:16000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "児ポ法"
+  },
+  {
+   "id": "_tips:16100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じぽほう"
+  },
+  {
+   "id": "_tips:16200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じぽほう"
+  },
+  {
+   "id": "_tips:16300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『児童買春、児童ポルノに係る行為等の処罰及び児童の保護等に関する法律』の通称。"
+  },
+  {
+   "id": "_tips:16500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "将軍"
+  },
+  {
+   "id": "_tips:16600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しょうぐん"
+  },
+  {
+   "id": "_tips:16700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しょうぐん"
+  },
+  {
+   "id": "_tips:16800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『将軍』はハンドルネーム。オリジナルの西條拓巳。稀代のギガロマニアックス。彼が『ｆｕｎ１０×ｉｎｔ４０＝Ｉｒ２』という公式を偶然生み出したことから、ノアⅡが作られてしまった。サードメルト後の混乱時に死亡。今の拓巳は『将軍』の妄想から作られた存在である。"
+  },
+  {
+   "id": "_tips:17000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "情弱"
+  },
+  {
+   "id": "_tips:17100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じょうじゃく"
+  },
+  {
+   "id": "_tips:17200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じょうじゃく"
+  },
+  {
+   "id": "_tips:17300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『情報弱者』の略。情報に対して多面的に調べず、一部のメディアのソースのみを鵜呑みにして踊らされている人を揶揄するネットスラング。"
+  },
+  {
+   "id": "_tips:17500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "触診"
+  },
+  {
+   "id": "_tips:17600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しょくしん"
+  },
+  {
+   "id": "_tips:17700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しょくしん"
+  },
+  {
+   "id": "_tips:17800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "医学用語。医者が、患者の身体の表面に手で直接触れて、体温や脈拍等を診断すること。"
+  },
+  {
+   "id": "_tips:18000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "儲"
+  },
+  {
+   "id": "_tips:18100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しんじゃ"
+  },
+  {
+   "id": "_tips:18200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しんじゃ"
+  },
+  {
+   "id": "_tips:18300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "信者。ある事柄について盲目的に崇拝していること。宗教の信者ではなく、アイドルやゲーム作品、アニメキャラクターなどが対象となる。ネットスラング。"
+  },
+  {
+   "id": "_tips:18500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "スイーツ"
+  },
+  {
+   "id": "_tips:18600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すいーつ"
+  },
+  {
+   "id": "_tips:18700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すいぃつ"
+  },
+  {
+   "id": "_tips:18800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『スイーツ（笑）』とも。流行に踊らされたり、男性には理解できないような考え方をする女性のことを侮蔑して使われる言葉。女性向け雑誌などにおいて、高級でおしゃれなデザートのことをスイーツと呼ぶようになってから、それを嘲笑するためにネットスラングとして使われるようになった。ただし、これをことさら使いたがるのは女性と縁のない男性が多いとも言われている。"
+  },
+  {
+   "id": "_tips:19000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "翠明学園"
+  },
+  {
+   "id": "_tips:19100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すいめいがくえん"
+  },
+  {
+   "id": "_tips:19200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すいめいがくえん"
+  },
+  {
+   "id": "_tips:19300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）拓巳が通う私立高校。渋谷の松濤公園近くにある。１０年ほど前に開校したばかりのため、校舎は小ぎれいで、よく教師もののテレビドラマでロケに使われることもある。制服は有名デザイナーがデザインしており、それを着たいがために入学してくる女子生徒も多い。一応進学校ではあるが、偏差値は中の上程度。校則は厳しいが有名無実化している。新入生向けの売り文句は『自由な校風』。"
+  },
+  {
+   "id": "_tips:19500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セドナ"
+  },
+  {
+   "id": "_tips:19600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "せどな"
+  },
+  {
+   "id": "_tips:19700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "せどな"
+  },
+  {
+   "id": "_tips:19800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）『ブラッドチューン』に登場する、星来のライバルキャラクター。フルネームはセドナ・フェヴリエ。☆から来た賞金稼ぎの美女。クールでちょいエロな性格。当初は敵だったが、『殴り合い☆宇宙』編以降は星来の頼れる仲間になる。"
+  },
+  {
+   "id": "_tips:20000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ソース"
+  },
+  {
+   "id": "_tips:20100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "そーす"
+  },
+  {
+   "id": "_tips:20200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "そぉす"
+  },
+  {
+   "id": "_tips:20300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "出展元、資料、史料、ニュースソースのこと。その情報をどこから入手したか。インターネットの匿名掲示板では、ウソの情報、誤報が大量に出回っているため、ソースを提示することは相手に信用してもらうためには大切なことである。"
+  },
+  {
+   "id": "_tips:20500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ダース・スパイダー"
+  },
+  {
+   "id": "_tips:20600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だーす・すぱいだー"
+  },
+  {
+   "id": "_tips:20700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だーすすぱいだー"
+  },
+  {
+   "id": "_tips:20800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）３０年以上前に公開されたハリウッド映画『スパークウォーズ』に登場する悪役キャラクター。黒いコスチュームと黒マントに身を包み、顔には不気味な黒いマスクをかぶっている。『スパークウォーズ』は、今なお世界中に多くのファンがいる全６部作のスペースオペラである。"
+  },
+  {
+   "id": "_tips:21000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "タイーホ"
+  },
+  {
+   "id": "_tips:21100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たいーほ"
+  },
+  {
+   "id": "_tips:21200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たいぃほ"
+  },
+  {
+   "id": "_tips:21300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『逮捕』のこと。"
+  },
+  {
+   "id": "_tips:21500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "高杉"
+  },
+  {
+   "id": "_tips:21600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たかすぎ"
+  },
+  {
+   "id": "_tips:21700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たかすぎ"
+  },
+  {
+   "id": "_tips:21800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラング。『高過ぎる』をもじったもの。"
+  },
+  {
+   "id": "_tips:22000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "脱オタ"
+  },
+  {
+   "id": "_tips:22100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だつおた"
+  },
+  {
+   "id": "_tips:22200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だつおた"
+  },
+  {
+   "id": "_tips:22300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタクをやめること。身に着ける服装、趣味や嗜好、普段の言動、付き合う友人、さらには性格に至るまでオタクっぽさを廃してこそ、本当の脱オタと言える。"
+  },
+  {
+   "id": "_tips:22500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "タブオク"
+  },
+  {
+   "id": "_tips:22600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たぶおく"
+  },
+  {
+   "id": "_tips:22700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "たぶおく"
+  },
+  {
+   "id": "_tips:22800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）『タブーオークション』の略。インターネットの大手検索サイト『Ｔａｂｏｏ！』による、ネットオークションサービス。"
+  },
+  {
+   "id": "_tips:23000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "誰得"
+  },
+  {
+   "id": "_tips:23100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だれとく"
+  },
+  {
+   "id": "_tips:23200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だれとく"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ネットスラング。『誰が得するんだよ』の略。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "丹田"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "たんでん"
+  }
+ ]
+}

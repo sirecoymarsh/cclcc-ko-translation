@@ -1,0 +1,929 @@
+{
+ "packet_id": "CC0048-clah08-P01",
+ "kit_version": "1.0",
+ "source_file": "clah08.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "이토 신지"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clah08:0",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「悪いな、付き合わせちまって」"
+  },
+  {
+   "id": "clah08:100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「まったく、どんな用かと思えば……」"
+  },
+  {
+   "id": "clah08:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "休みだと言うのに、珍しく伊藤から連絡があった。"
+  },
+  {
+   "id": "clah08:300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「『頼む、宮代！ 助けてくれ！ 一生のお願いだ！！』」"
+  },
+  {
+   "id": "clah08:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "なんて必死な声で言うから慌てて出てみれば、何のことはない。"
+  },
+  {
+   "id": "clah08:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "アイドルだかなんだかのイベント抽選券の配布会に一緒に並んでくれという話だった。"
+  },
+  {
+   "id": "clah08:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "あれが一生のお願いというなら、実に安い人生だ。"
+  },
+  {
+   "id": "clah08:700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まあ、そういうなって。お前のおかげで、俺は今、超ハッピーなんだぜ。親友の幸せはお前の幸せでもあるはずだろ、な？」"
+  },
+  {
+   "id": "clah08:800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「僕はお前のこと親友だなんて思ったことないけどな」"
+  },
+  {
+   "id": "clah08:900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うわっ、ひでー」"
+  },
+  {
+   "id": "clah08:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ここに有村がいなくて良かった。"
+  },
+  {
+   "id": "clah08:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "いれば、もしかしたら今の言葉がウソだと指摘されていたかもしれない。"
+  },
+  {
+   "id": "clah08:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "僕は珍しく伊藤が奢ってくれた、なんだかやたらと長ったらしい名前の、コーヒーにしては甘すぎる飲み物を啜った。"
+  },
+  {
+   "id": "clah08:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "これが今日のお礼、というわけだ。"
+  },
+  {
+   "id": "clah08:1400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そういや今日、有村はどうしてんだ？」"
+  },
+  {
+   "id": "clah08:1500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「香月のところへ行ったよ。シャワーを借りるってさ」"
+  },
+  {
+   "id": "clah08:1600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「ふーん」"
+  },
+  {
+   "id": "clah08:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "残念ながら僕の住居にはシャワーがない。"
+  },
+  {
+   "id": "clah08:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "僕は普段、近場のスパやまん喫なんかでささっと済ましたり、面倒な時はタオルで拭くだけ、なんて日もあるけど、さすがに女子はそうもいかないらしい。"
+  },
+  {
+   "id": "clah08:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "考えてみれば、これまでも有村はいつも清潔にしていた。"
+  },
+  {
+   "id": "clah08:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "そういうところは、やっぱり女の子なんだと思う。"
+  },
+  {
+   "id": "clah08:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "しかしこの生活が続くようなら、シャワーもどうにかしなければならないかもしれないな。"
+  },
+  {
+   "id": "clah08:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "……ん？"
+  },
+  {
+   "id": "clah08:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "待て。何を言ってるんだ、僕は。"
+  },
+  {
+   "id": "clah08:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "この生活が続く？"
+  },
+  {
+   "id": "clah08:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "そんなことあるわけないじゃないか。"
+  },
+  {
+   "id": "clah08:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "今では、僕とのわけのわからない意地の張り合いみたいになってるけど、元々は有村の母親に対する変な当てつけから始まったことだ。"
+  },
+  {
+   "id": "clah08:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "どうせすぐに飽きて、いなくなるはずだ。"
+  },
+  {
+   "id": "clah08:2800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でさ、どうなのよ、ホントのところ」"
+  },
+  {
+   "id": "clah08:2900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「なにが？」"
+  },
+  {
+   "id": "clah08:3000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「決まってんだろ！ 有村のことだよ」"
+  },
+  {
+   "id": "clah08:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤は下衆な笑みをうかべて、肘で突いてきた。"
+  },
+  {
+   "id": "clah08:3200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「どうもなにも、別になんにもないよ」"
+  },
+  {
+   "id": "clah08:3300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、有村はムキになって、あれこれアプローチして来てんだろ？」"
+  },
+  {
+   "id": "clah08:3400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれでもほら、見てくれは悪くないわけだし、ちょっとは、こう……きゅんきゅんきたりとかしないのか？」"
+  },
+  {
+   "id": "clah08:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤がこんな風に言ってくるとは意外だった。"
+  },
+  {
+   "id": "clah08:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "もし僕に彼女が出来そうとなると、何が何でも阻止しに来るだろうと思っていたのに。"
+  },
+  {
+   "id": "clah08:3700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あのなぁ。俺はそこまで心の狭い男じゃねーよ」"
+  },
+  {
+   "id": "clah08:3800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「とか言いながら、相手が有村だからだろ？」"
+  },
+  {
+   "id": "clah08:3900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「へへっ、バレたか。いや、だってさー、あいつ、俺のこと絶対に先輩と思ってねーし、もっと言やぁ、男として見てねえもん」"
+  },
+  {
+   "id": "clah08:4000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「それなら僕だって同じだろ」"
+  },
+  {
+   "id": "clah08:4100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そうかぁ？ 俺にはそうは見えねえけどな」"
+  },
+  {
+   "id": "clah08:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "通り過ぎるナイスバディのお姉さんを目で追いながら、伊藤は言った。"
+  },
+  {
+   "id": "clah08:4300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「……なんでそう思う？」"
+  },
+  {
+   "id": "clah08:4400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うーん……なんつーかな。こう、俺に対する有村は容赦ねぇけど、宮代にはちょっと違うだろ？」"
+  },
+  {
+   "id": "clah08:4500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そうか？ たいして変わんないだろ」"
+  },
+  {
+   "id": "clah08:4600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ンなことねぇよ。お前に対しての有村は、じゃれてるっつーか、楽しんでるっつーか」"
+  },
+  {
+   "id": "clah08:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "よくわからない……。"
+  },
+  {
+   "id": "clah08:4800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まぁ、お前にはそういう、女子の細かい心情はわかんねぇだろうな」"
+  },
+  {
+   "id": "clah08:4900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「まるで自分はわかってるみたいじゃないか」"
+  },
+  {
+   "id": "clah08:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "伊藤に言われると、ちょっとムカつく。"
+  },
+  {
+   "id": "clah08:5100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「当たり前だろ。なんたって俺はお前と違って、少女漫画読んでるからな」"
+  },
+  {
+   "id": "clah08:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……一気に信ぴょう性が無くなったぞ、伊藤。"
+  },
+  {
+   "id": "clah08:5300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「そんなことないって。あれはただ、ゲームにムキになってる子どもだよ」"
+  },
+  {
+   "id": "clah08:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕がそう言うと、伊藤は急に僕の方を向いてマジマジと顔を覗き込んできた。"
+  },
+  {
+   "id": "clah08:5500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「な、なんだよ……？」"
+  },
+  {
+   "id": "clah08:5600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あのさ……わかんねえんだけど、お前こそ、なんでそこまでムキになってんの？」"
+  },
+  {
+   "id": "clah08:5700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「は？ なに言ってんだ。なんで僕がムキになってるんだよ？」"
+  },
+  {
+   "id": "clah08:5800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「じゃあ言い方変えてやるよ、なんでそんな全部を全部否定しようとするんだ？」"
+  },
+  {
+   "id": "clah08:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "否定？"
+  },
+  {
+   "id": "clah08:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "意味が解らない。"
+  },
+  {
+   "id": "clah08:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "どういうことだよ？"
+  },
+  {
+   "id": "clah08:6200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そりゃあ、確かに最初は変な意地の張り合いで始まったことかもしんねぇけどさ、だからってお前までそう頑なになる必要ねぇだろ」"
+  },
+  {
+   "id": "clah08:6300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「だから別に僕は頑なになんか……」"
+  },
+  {
+   "id": "clah08:6400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なってるよ」"
+  },
+  {
+   "id": "clah08:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "珍しく真面目な口調の伊藤に、僕は少し驚いてしまった。"
+  },
+  {
+   "id": "clah08:6600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だいたい、いくら有村でも、どうだっていいと思ってるやつのところに、転がり込んだりするわけねぇだろ」"
+  },
+  {
+   "id": "clah08:6700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「でも、あいつは他に行くところが無かったからって……」"
+  },
+  {
+   "id": "clah08:6800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「あの八方美人の有村が？ 行くところなんていくつだってあんだろ」"
+  },
+  {
+   "id": "clah08:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "……それは違う。"
+  },
+  {
+   "id": "clah08:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "八方美人だからこそ、行くところがないんじゃないか。"
+  },
+  {
+   "id": "clah08:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧としての有村の能力は、望むと望まないとに関わらず、相手の言葉が真実か偽りかを知ってしまうというものだ。"
+  },
+  {
+   "id": "clah08:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "つまりそれは、相手がどれだけ上辺だけで付き合っていても、その心の裡がわかってしまうというものでもある。"
+  },
+  {
+   "id": "clah08:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "そのために、有村はああしていつも明るくふるまっているんだ、と――。"
+  },
+  {
+   "id": "clah08:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "心から安心して一緒にいられる相手がいないのだ――と。"
+  },
+  {
+   "id": "clah08:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "それは以前、彼女自身がほのめかしていたことだ。"
+  },
+  {
+   "id": "clah08:7600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だったらなおさらお前は、有村にとって安心して一緒にいられる相手だ、ってことになるんじゃねーの？」"
+  },
+  {
+   "id": "clah08:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……言われてみればそうなる。"
+  },
+  {
+   "id": "clah08:7800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「でも――！」"
+  },
+  {
+   "id": "clah08:7900",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、なんでそうやって否定したがるんだよ」"
+  },
+  {
+   "id": "clah08:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "ムキに……なってるのか、僕は？"
+  },
+  {
+   "id": "clah08:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "でも、どうして？"
+  },
+  {
+   "id": "clah08:8200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んじゃ、質問を変えようか」"
+  },
+  {
+   "id": "clah08:8300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もし有村が最初に尋ねて行ったのが、お前んとこじゃなくて俺のとこだったとしたら、お前どうする？」"
+  },
+  {
+   "id": "clah08:8400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「そんなの――」"
+  },
+  {
+   "id": "clah08:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……考えたこともなかった。"
+  },
+  {
+   "id": "clah08:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村が、伊藤の部屋で毎日寝起きする……。"
+  },
+  {
+   "id": "clah08:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤のためにご飯を作ったり、水着になったり。"
+  },
+  {
+   "id": "clah08:8800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "笑ったり怒ったり泣いたり。"
+  },
+  {
+   "id": "clah08:8900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕の知らない有村の顔を、伊藤が見て――。"
+  },
+  {
+   "id": "clah08:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あれ？"
+  },
+  {
+   "id": "clah08:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なんだ、このモヤモヤした気持ちは。"
+  },
+  {
+   "id": "clah08:9200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "이토 신지",
+   "jp": "「なあ、伊藤……」"
+  },
+  {
+   "id": "clah08:9300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あん？」"
+  },
+  {
+   "id": "clah08:9400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「僕、帰るよ……」"
+  },
+  {
+   "id": "clah08:9500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ あ、おい……！」"
+  },
+  {
+   "id": "clah08:9600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やれやれ。世話の焼けるこった」"
+  },
+  {
+   "id": "clah08:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "背後で伊藤が何かつぶやいていたけれど、雑踏に飲み込まれて僕の耳には届かなかった。"
+  },
+  {
+   "id": "clah08:9800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「ん……？」"
+  },
+  {
+   "id": "clah08:9900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "伊藤と別れて住処に戻って来ると、中から人の気配がした。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "有村、もう帰ってるんだろうか？"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "くそっ！"
+  }
+ ]
+}

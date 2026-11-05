@@ -1,0 +1,912 @@
+{
+ "packet_id": "CC0343-_tips-P11",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ですのぉと"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "死を招くノート。厨二病をこじらせた手記や、過大な夢で彩られており、将来発掘された際、あまりの黒歴史ぶりから、恥ずかしさのあまり死にたくなるという、恐ろしいノートである。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その他"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ホノリウス"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ほのりうす"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ほのりうす"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:99900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "正確には『ホノリウス誓いの書』といい、グリモワール――つまり有名な魔導書のひとつ。テーベのホノリウスという人物によって書かれたとされている。降神術に用いると言われる。最古のものは大英図書館に収蔵されている。"
+  },
+  {
+   "id": "_tips:100000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:100100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ピカトリスク"
+  },
+  {
+   "id": "_tips:100200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぴかとりすく"
+  },
+  {
+   "id": "_tips:100300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぴかとりすく"
+  },
+  {
+   "id": "_tips:100400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『賢者の極み』とよばれる、有名な魔導書のひとつ。原本はアラビア語によるもので、ラテン語に翻訳されたさいに、この名前がつけられた。最古のものでは１１世紀のものがあるとされ、その後の魔術思想、ルネサンス文化にも影響を与えたと言われる。"
+  },
+  {
+   "id": "_tips:100500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:100600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "レメゲトン"
+  },
+  {
+   "id": "_tips:100700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "れめげとん"
+  },
+  {
+   "id": "_tips:100800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "れめげとん"
+  },
+  {
+   "id": "_tips:100900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『ソロモンの小さな鍵』とも呼ばれる、有名な魔導書のひとつ。ソロモン王が使役したといわれる、７２柱の精霊について書かれている。"
+  },
+  {
+   "id": "_tips:101000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:101100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "理趣経"
+  },
+  {
+   "id": "_tips:101200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りしゅきょう"
+  },
+  {
+   "id": "_tips:101300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りしゅきょう"
+  },
+  {
+   "id": "_tips:101400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "正式名称を『般若波羅蜜多理趣百五十頌』（はんにゃはらみったりしゅひゃくごじゅうじゅ）という、密教の経典。玄奘や空海が訳したともいわれる。男女の性行為を肯定的にとらえていることもあり、また男女交合を説き、髑髏を本尊としたとされる真言立川流の経典のひとつとされることから、欲望を肯定していると捉えられることもあるが、実際は人の営みを肯定し、そこに欲望を抱くことを否定しているだけであり、決して如何わしい内容の経典ではない。"
+  },
+  {
+   "id": "_tips:101500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:101600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "プリステ４"
+  },
+  {
+   "id": "_tips:101700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぷりすてふぉー"
+  },
+  {
+   "id": "_tips:101800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぷりすてふぉぉ"
+  },
+  {
+   "id": "_tips:101900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）最新型家庭用ゲーム機のひとつ。最近になって値下げされたものの、中学生にはまだまだ手の届き難い代物。"
+  },
+  {
+   "id": "_tips:102000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:102100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "プリステ・ヴェーダ"
+  },
+  {
+   "id": "_tips:102200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぷりすて・ヴぇーだ"
+  },
+  {
+   "id": "_tips:102300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぷりすてヴぇぇだ"
+  },
+  {
+   "id": "_tips:102400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）２０１５年において最新世代となる携帯ゲーム機。ゲームソフトはフラッシュメモリを用いたカートリッジ型の専用カードとして販売される他、ネットワーク回線を通してダウンロードする方法もある。"
+  },
+  {
+   "id": "_tips:102500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:102600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "プロデューサー"
+  },
+  {
+   "id": "_tips:102700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぷろでゅーさー"
+  },
+  {
+   "id": "_tips:102800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぷろでゅぅさぁ"
+  },
+  {
+   "id": "_tips:102900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "某アイドルゲームにおけるプレイヤーの分身。アイドルを仕事、プライベートの両面から献身的にサポートし、トップアイドルへと導いていく人のこと。"
+  },
+  {
+   "id": "_tips:103000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:103100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "袋とじ"
+  },
+  {
+   "id": "_tips:103200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ふくろとじ"
+  },
+  {
+   "id": "_tips:103300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ふくろとじ"
+  },
+  {
+   "id": "_tips:103400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "雑誌などの間にある、袋状に閉じられたページのこと。スクープ情報や、ちょっとエッチな記事などが載っており、立ち読みなどで中を確かめるのは至難の技と言える。"
+  },
+  {
+   "id": "_tips:103500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:103600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "僕っ子"
+  },
+  {
+   "id": "_tips:103700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぼくっこ"
+  },
+  {
+   "id": "_tips:103800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぼくっこ"
+  },
+  {
+   "id": "_tips:103900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "一人称が『僕』の女の子のこと。アニメやマンガなどではショートカットでボーイッシュなタイプが多いが、実際の生活でお目にかかることはほとんどない。"
+  },
+  {
+   "id": "_tips:104000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:104100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ミルフィーユ"
+  },
+  {
+   "id": "_tips:104200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みるふぃーゆ"
+  },
+  {
+   "id": "_tips:104300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みるふぃぃゆ"
+  },
+  {
+   "id": "_tips:104400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "結衣と結人が自分たちのユニットにつけた名称。そもそもは、薄地のパイ生地とクリームを何枚も重ね合わせ焼いた洋菓子のこと。なお、フランス語で『千枚の葉』という意味であり、結衣と結人が名前の中に青葉寮の『葉』を入れようと試み懸命に考えて命名したものだということがわかる。"
+  },
+  {
+   "id": "_tips:104500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:104600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オークション"
+  },
+  {
+   "id": "_tips:104700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おーくしょん"
+  },
+  {
+   "id": "_tips:104800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おぉくしょん"
+  },
+  {
+   "id": "_tips:104900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "競売のこと。出品物に対して、購入希望者の方が値段を提示する売買方法。購入希望者が複数いる場合は、より高額を提示した側が購入できる。近年では多くのインターネットオークションサイトが運営され、そこでの取引が盛んに行われている。"
+  },
+  {
+   "id": "_tips:105000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:105100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "踊ってみた"
+  },
+  {
+   "id": "_tips:105200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おどってみた"
+  },
+  {
+   "id": "_tips:105300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "おどってみた"
+  },
+  {
+   "id": "_tips:105400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "動画投稿サイトにおいて、音楽に合わせて踊っている自身の映像を投稿すること。多くの場合はプロのダンサーなどではなくごく普通の一般人であり、場所も自分の部屋や公園などである。一人で踊っている場合もあれば、複数人で踊っている場合もある。"
+  },
+  {
+   "id": "_tips:105500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:105600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ガルガリくん"
+  },
+  {
+   "id": "_tips:105700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "がるがりくん"
+  },
+  {
+   "id": "_tips:105800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "がるがりくん"
+  },
+  {
+   "id": "_tips:105900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）棒アイスの商品名。氷菓の中では国民的知名度を誇り、コンビニなどで買うことができる。スタンダードなソーダ味の他、コーラ味やグレープ味など、期間限定のものも含めて５０種類以上が発売された。棒の部分には稀に“あたり”と書かれている場合があり、それが出るともう１本サービスとなる。当たる確率は２％ほどという噂がある。"
+  },
+  {
+   "id": "_tips:106000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:106100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "キャッキャウフフ"
+  },
+  {
+   "id": "_tips:106200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きゃっきゃうふふ"
+  },
+  {
+   "id": "_tips:106300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "きゃっきゃうふふ"
+  },
+  {
+   "id": "_tips:106400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "楽しそうにじゃれあっているさま。男子にしてみれば、女の子同士がじゃれあっている姿を眺めるのは眼福である。逆に男女のカップルがじゃれあっているのを見せられると、殺意の波動に目覚めざるを得ない。"
+  },
+  {
+   "id": "_tips:106500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:106600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＢＡＮ"
+  },
+  {
+   "id": "_tips:106700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ばん"
+  },
+  {
+   "id": "_tips:106800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＢＡＮ"
+  },
+  {
+   "id": "_tips:106900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『Ｂａｎｉｓｈｍｅｎｔ』の頭３文字を取った略称。『追放』『禁止』というような意味がある。ネット上で、ウェブサービスに対して違法行為を繰り返しているアカウント所持者に対し、権利者が数度の警告を行い、それでも違法行為をやめなかった場合に、強制的にアカウントを使えなくさせること。"
+  },
+  {
+   "id": "_tips:107000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:107100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "メジャーデビュー"
+  },
+  {
+   "id": "_tips:107200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "めじゃーでびゅー"
+  },
+  {
+   "id": "_tips:107300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "めじゃぁでびゅぅ"
+  },
+  {
+   "id": "_tips:107400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "プロのミュージシャンになること。具体的には、いわゆるメジャー・レーベルと言われる大手音楽制作会社と正式に契約し、ＣＤを発売すること。インディーズでの活躍が認められて勧誘される場合と、メジャー・レーベル主催のオーディションに合格する場合がある。"
+  },
+  {
+   "id": "_tips:107500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:107600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "＠ちゃんねる"
+  },
+  {
+   "id": "_tips:107700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あっとちゃんねる"
+  },
+  {
+   "id": "_tips:107800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "＠ちゃんねる"
+  },
+  {
+   "id": "_tips:107900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）日本最大の電子掲示板サイト。キャッチフレーズは『ハッキングから今晩のおかずまで』で、その名の通り多種多様な話題がサイト上に書き込まれ、議論のネタになっている。２０１５年現在、２０代後半から４０代前半にかけての利用者が半数を占め、利用者の平均年齢は年々上がる傾向にある。これは、若い世代がＳＮＳに流れていることが主な原因と考えられている。"
+  },
+  {
+   "id": "_tips:108000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:108100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "スレ"
+  },
+  {
+   "id": "_tips:108200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すれ"
+  },
+  {
+   "id": "_tips:108300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すれ"
+  },
+  {
+   "id": "_tips:108400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "スレッド。＠ちゃんねるなどのインターネット巨大掲示板において、特定の話題をまとめた場所。スレッド一覧にはスレッドごとの見出しが表示され、そのスレがなんの話題を扱っている場所なのか一目で分かるようになっている。話題から逸れた内容を書き込むと他のユーザーから『スレ違い』と注意されることがある。"
+  },
+  {
+   "id": "_tips:108500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:108600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "身バレ"
+  },
+  {
+   "id": "_tips:108700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みばれ"
+  },
+  {
+   "id": "_tips:108800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "みばれ"
+  },
+  {
+   "id": "_tips:108900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "インターネット巨大掲示板やＳＮＳで、匿名ユーザーの本名や住所などが他のユーザーによって特定されてしまうこと。"
+  },
+  {
+   "id": "_tips:109000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:109100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "粘着"
+  },
+  {
+   "id": "_tips:109200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ねんちゃく"
+  },
+  {
+   "id": "_tips:109300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ねんちゃく"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "この場合には、インターネット巨大掲示板やブログ、ＳＮＳにおいて、特定のスレやコメント欄などに執拗に張り付き、大量の偏執的な書き込みを行う人物のこと。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ネット"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ＵＲＬ"
+  }
+ ]
+}

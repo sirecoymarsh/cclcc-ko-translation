@@ -1,0 +1,88 @@
+{
+ "packet_id": "CC0024-clah01-P05",
+ "kit_version": "1.0",
+ "source_file": "clah01.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「それ……なにやってんだ？」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「え？ 警報機ですけど？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「それじゃ、おやすみなさーい」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "こいつ……何が信頼してるだ！"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「すー……すー……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah01:39900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "しかも、もう寝てるし。"
+  },
+  {
+   "id": "clah01:40000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah01:40100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "あーあ、意識するだけ無駄だ。"
+  },
+  {
+   "id": "clah01:40200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "バカバカしい。"
+  },
+  {
+   "id": "clah01:40300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "余計なこと考えずに、寝よ寝よ。"
+  }
+ ],
+ "context_after": []
+}

@@ -1,0 +1,260 @@
+{
+ "packet_id": "CC0298-clyu15-P02",
+ "kit_version": "1.0",
+ "source_file": "clyu15.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そのたびに、たぶんブラをつけてない結衣の小さなふくらみが僕の身体に押し付けられるわけで、そのたびに頭の中で、ふたりの僕が言い合いをしていた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（落ち着きなさい、拓留。彼女はあなたの妹ですよ）"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（ケケケ、妹とは言っても血は繋がってないんだろ？ だったら何も迷うことなんてねぇんだぜ）"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（彼女は兄であるあなたを信頼しているのです。邪な心などおこしてはなりません）"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（ヘヘヘ、ここにこんな風に来るってことは、この女だって期待してるはずだろ？）"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（黙りなさい、煩悩の悪魔め）"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu15:9600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "（てめえこそ、善人ぶりやがって、このヘタレ天使が）"
+  },
+  {
+   "id": "clyu15:9700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu15:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "延々と続くそんな葛藤を打破したのは、結衣の一言だった。"
+  },
+  {
+   "id": "clyu15:9900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、拓留兄……」"
+  },
+  {
+   "id": "clyu15:10000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私ね……拓留兄がお兄ちゃんになってくれて、良かった……」"
+  },
+  {
+   "id": "clyu15:10100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「そ、そっか……」"
+  },
+  {
+   "id": "clyu15:10200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うん……」"
+  },
+  {
+   "id": "clyu15:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そんな言葉に、変な気分になりつつあった自分を恥ずかしく思った。"
+  },
+  {
+   "id": "clyu15:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうだ。僕は兄なんだ。"
+  },
+  {
+   "id": "clyu15:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "兄として兄らしくあらねばならない。"
+  },
+  {
+   "id": "clyu15:10600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「……ほら、明日も学校だろ？ 早く寝ないと……」"
+  },
+  {
+   "id": "clyu15:10700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うん……」"
+  },
+  {
+   "id": "clyu15:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "僕も……余計なことは考えずに早く寝よう……。"
+  },
+  {
+   "id": "clyu15:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "そう言い聞かせ、ようやく心を落ち着かせて目を瞑った。"
+  },
+  {
+   "id": "clyu15:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "それからどれくらいの時間が経ったろう。"
+  },
+  {
+   "id": "clyu15:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "そろそろ深い眠りの森に沈みそうになった頃、小さな囁きが耳をくすぐった。"
+  },
+  {
+   "id": "clyu15:11200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ごめん、拓留兄……」"
+  },
+  {
+   "id": "clyu15:11300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さっき言ったこと、ウソみたい……」"
+  },
+  {
+   "id": "clyu15:11400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "（嘘……？ なにが？）"
+  },
+  {
+   "id": "clyu15:11500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私、さっきからドキドキして眠れないよ……」"
+  },
+  {
+   "id": "clyu15:11600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうしてかな？」"
+  },
+  {
+   "id": "clyu15:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣は鼓動が聞こえてきそうなほど、僕に身体を押し付けてきた。"
+  },
+  {
+   "id": "clyu15:11800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu15:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "結局、心の中の悪魔を退けることができたのは、夜も明けようという頃だった……。"
+  }
+ ],
+ "context_after": []
+}

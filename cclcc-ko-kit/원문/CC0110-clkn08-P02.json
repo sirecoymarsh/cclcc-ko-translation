@@ -1,0 +1,963 @@
+{
+ "packet_id": "CC0110-clkn08-P02",
+ "kit_version": "1.0",
+ "source_file": "clkn08.msb",
+ "speakers_in_packet": [
+  "미나미사와 센리",
+  "미야시로 타쿠루",
+  "야마조에 우키",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": "店員",
+   "speaker_ko": "점원",
+   "jp": "「アリガトゴザイマシター」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「はぁ……はぁ……買って、来たぞ……」"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「ありがとう。助かるわ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "紙おむつなんて、どれがいいのかわからなかったから適当だけど、まあ大丈夫だろう。"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「はーい、おむちゅ替えまちょうねぇ。良い子だからじっとしててくだちゃいねぇ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いつの間にか赤ちゃん言葉になってるし。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn08:10000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おしっこ、いっぱいでてまちゅねぇ。気持ち悪かったでちゅよねぇ」"
+  },
+  {
+   "id": "clkn08:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "と、赤ん坊のおしめを外した泉理が動きを止めた。"
+  },
+  {
+   "id": "clkn08:10200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あら」"
+  },
+  {
+   "id": "clkn08:10300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「どうした？」"
+  },
+  {
+   "id": "clkn08:10400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「この子……男の子……」"
+  },
+  {
+   "id": "clkn08:10500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ほんとだ……」"
+  },
+  {
+   "id": "clkn08:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "『ひかり』って名前だから、すっかり女の子かと思っていたが、そこにはきちんと付くべきものが付いていた。"
+  },
+  {
+   "id": "clkn08:10700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ふーん……」"
+  },
+  {
+   "id": "clkn08:10800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn08:10900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ふたりとも、珍しいのはわかるけど、そうジロジロ見るなよ……」"
+  },
+  {
+   "id": "clkn08:11000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「べべ、別にジロジロなんて見てないし！ ねー！？」"
+  },
+  {
+   "id": "clkn08:11100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「は、はいっ。興味があるとかそういうわけではない……です……」"
+  },
+  {
+   "id": "clkn08:11200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "「そうだよ。それにこれくらい、ユウので見慣れてるし」"
+  },
+  {
+   "id": "clkn08:11300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ええっ！？」"
+  },
+  {
+   "id": "clkn08:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미나미사와 센리",
+   "jp": "それはそれで、どうなんだ……。"
+  },
+  {
+   "id": "clkn08:11500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ほら、そんなことで盛り上がってないで、そこのウェットティッシュ取ってちょうだい」"
+  },
+  {
+   "id": "clkn08:11600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「泉理姉は珍しくないの？」"
+  },
+  {
+   "id": "clkn08:11700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私はほら……それこそ拓留ので見慣れてるし……」"
+  },
+  {
+   "id": "clkn08:11800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「なっ！！」"
+  },
+  {
+   "id": "clkn08:11900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "「せ、泉理姉、だいたーん……」"
+  },
+  {
+   "id": "clkn08:12000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「おふたりはやっぱり……」"
+  },
+  {
+   "id": "clkn08:12100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「え？ ち、違う！ そういうことじゃないの！ 拓留がここに来てすぐの頃、ひとりで動けない時期があったでしょう？ あの時に、その……」"
+  },
+  {
+   "id": "clkn08:12200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": null,
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clkn08:12300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "嫌なことを思い出してしまった。"
+  },
+  {
+   "id": "clkn08:12400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうだよ。"
+  },
+  {
+   "id": "clkn08:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あの地震の後、僕はずっと寝たきり状態で、その時にずっと僕の世話をしてくれていたのが泉理なんだ。"
+  },
+  {
+   "id": "clkn08:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あぁ、くそっ！"
+  },
+  {
+   "id": "clkn08:12700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "せっかく忘れようとしてたのに、思い出しちゃったじゃないか。"
+  },
+  {
+   "id": "clkn08:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも、あの時は自分では何もできない状態だったし、仕方なかったんだ。"
+  },
+  {
+   "id": "clkn08:12900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……そういう意味では、泉理は家族以上の存在といえるのかもしれない。"
+  },
+  {
+   "id": "clkn08:13000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いくら本当の兄弟だって、なかなか⟦rb⟧下⟦rt⟧しも⟦/r⟧の世話をしてもらうことは無いだろうからな。"
+  },
+  {
+   "id": "clkn08:13100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それにしても、泉理はあの時、どんな気持ちで僕の世話してくれていたんだろう。"
+  },
+  {
+   "id": "clkn08:13200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "미나미사와 센리",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn08:13300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "考えるな、拓留。"
+  },
+  {
+   "id": "clkn08:13400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "考えたら深みに嵌るだけだ。"
+  },
+  {
+   "id": "clkn08:13500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "考えるんじゃない。"
+  },
+  {
+   "id": "clkn08:13600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "考えるんじゃ……。"
+  },
+  {
+   "id": "clkn08:13700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留……もしかして……羨ましいと思ってる？」"
+  },
+  {
+   "id": "clkn08:13800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「は！？ いや、待て！ 羨ましいって、その赤ちゃんのこと言ってるのか？」"
+  },
+  {
+   "id": "clkn08:13900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "泉理は小さく頷いた。"
+  },
+  {
+   "id": "clkn08:14000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「バカ言うなよ！ なんで僕が羨ましいなんて思わなきゃいけないんだ！」"
+  },
+  {
+   "id": "clkn08:14100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「だって拓留、こういうの……好きでしょ？」"
+  },
+  {
+   "id": "clkn08:14200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "好き？"
+  },
+  {
+   "id": "clkn08:14300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "僕が？"
+  },
+  {
+   "id": "clkn08:14400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "⟦rb⟧赤ちゃん⟦rt⟧そんな⟦/r⟧プレイを？"
+  },
+  {
+   "id": "clkn08:14500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "あ、あれ？"
+  },
+  {
+   "id": "clkn08:14600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "この胸の高鳴りはなんだ？"
+  },
+  {
+   "id": "clkn08:14700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "⟦col:280aa02d1400⟧赤ちゃんプレイ⟦col:800000⟧って言葉を思い浮かべただけで、ドキドキしてきたぞ。"
+  },
+  {
+   "id": "clkn08:14800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "好き……なのか、僕は？"
+  },
+  {
+   "id": "clkn08:14900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「好き……でしょ？」"
+  },
+  {
+   "id": "clkn08:15000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「好き……かもしれない」"
+  },
+  {
+   "id": "clkn08:15100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや。"
+  },
+  {
+   "id": "clkn08:15200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「好きだ……」"
+  },
+  {
+   "id": "clkn08:15300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうだ。"
+  },
+  {
+   "id": "clkn08:15400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「僕は赤ちゃんプレイが好きだ！ 好きなんだ！」"
+  },
+  {
+   "id": "clkn08:15500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふふっ……わかったわ。それじゃあ、拓留ちゃん。良い子だから、そこに寝転んでくだちゃいねー」"
+  },
+  {
+   "id": "clkn08:15600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「は、はい……」"
+  },
+  {
+   "id": "clkn08:15700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "僕は言われるままにその場に仰向けになった。"
+  },
+  {
+   "id": "clkn08:15800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃあ、おむつ、替えまちょうねぇ」"
+  },
+  {
+   "id": "clkn08:15900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「お、お願い、しま、す……」"
+  },
+  {
+   "id": "clkn08:16000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「『します』じゃなくて『ちまちゅ』でしょ？」"
+  },
+  {
+   "id": "clkn08:16100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「お願い……ちまちゅ……」"
+  },
+  {
+   "id": "clkn08:16200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はぁい、よくできまちた」"
+  },
+  {
+   "id": "clkn08:16300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "にっこり笑うと、泉理は僕のズボンに手をかけた。"
+  },
+  {
+   "id": "clkn08:16400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ベルトを外す音に、さらに鼓動が大きくなる。"
+  },
+  {
+   "id": "clkn08:16500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ば、ばぶー……」"
+  },
+  {
+   "id": "clkn08:16600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "そして……。"
+  },
+  {
+   "id": "clkn08:16700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "解☆放☆感！"
+  },
+  {
+   "id": "clkn08:16800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clkn08:16900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「あ…………」"
+  },
+  {
+   "id": "clkn08:17000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もうっ……拓留ったら、ダメな子でちゅね……」"
+  },
+  {
+   "id": "clkn08:17100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ご、ごめんなちゃい」"
+  },
+  {
+   "id": "clkn08:17200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、しょうがないわよね……だって、男の子だもん……」"
+  },
+  {
+   "id": "clkn08:17300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "は、恥ずかしい……。"
+  },
+  {
+   "id": "clkn08:17400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でもっ……。"
+  },
+  {
+   "id": "clkn08:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "癖になりそう！！！！"
+  },
+  {
+   "id": "clkn08:17600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "야마조에 우키",
+   "jp": "（あぁあああああああああ！！）"
+  },
+  {
+   "id": "clkn08:17700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "だから考えるなと言ったのに！！"
+  },
+  {
+   "id": "clkn08:17800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "違う！"
+  },
+  {
+   "id": "clkn08:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "僕は別にそんなの好きじゃないぞ！！"
+  },
+  {
+   "id": "clkn08:18000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "と、とにかく平静だ！"
+  },
+  {
+   "id": "clkn08:18100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "야마조에 우키",
+   "jp": "平静を装え、拓留！"
+  },
+  {
+   "id": "clkn08:18200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「赤ちゃん、可愛いですね、拓留さん」"
+  },
+  {
+   "id": "clkn08:18300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「あ、うん。そうでちゅね」"
+  },
+  {
+   "id": "clkn08:18400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でちゅ、ね……？」"
+  },
+  {
+   "id": "clkn08:18500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "うああああああああああ！"
+  },
+  {
+   "id": "clkn08:18600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "つい！！"
+  },
+  {
+   "id": "clkn08:18700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「か、噛んだだけだ！ 本当だぞ！」"
+  },
+  {
+   "id": "clkn08:18800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「は、はい……」"
+  },
+  {
+   "id": "clkn08:18900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미나미사와 센리",
+   "jp": "あ、危なかったぁ。"
+  },
+  {
+   "id": "clkn08:19000",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留……もしかして……羨ましいと思ってる？」"
+  },
+  {
+   "id": "clkn08:19100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「は！？ いや、待て！ 羨ましいって、その赤ちゃんのこと言ってるのか？」"
+  },
+  {
+   "id": "clkn08:19200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "泉理は小さく頷いた。"
+  },
+  {
+   "id": "clkn08:19300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「バカ言うなよ！ なんで僕が羨ましいなんて思わなきゃいけないんだ！」"
+  },
+  {
+   "id": "clkn08:19400",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「だって拓留、こういうの……好きでしょ？」"
+  },
+  {
+   "id": "clkn08:19500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "好き？"
+  },
+  {
+   "id": "clkn08:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "僕が？"
+  },
+  {
+   "id": "clkn08:19700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "⟦rb⟧赤ちゃん⟦rt⟧そんな⟦/r⟧プレイを？"
+  },
+  {
+   "id": "clkn08:19800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "あ、あれ？"
+  },
+  {
+   "id": "clkn08:19900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "この胸の高鳴りはなんだ？"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "⟦col:280aa02d1400⟧赤ちゃんプレイ⟦col:800000⟧って言葉を思い浮かべただけで、ドキドキしてきたぞ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "好き……なのか、僕は？"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「好き……でしょ？」"
+  }
+ ]
+}

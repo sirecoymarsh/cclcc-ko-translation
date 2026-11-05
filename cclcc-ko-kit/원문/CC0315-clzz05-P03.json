@@ -1,0 +1,717 @@
+{
+ "packet_id": "CC0315-clzz05-P03",
+ "kit_version": "1.0",
+ "source_file": "clzz05.msb",
+ "speakers_in_packet": [
+  "와쿠이 슈이치",
+  "쿠노사토 미오"
+ ],
+ "context_before": [
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「だろうな。あいつはそういうやつだ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "澪がそう言い切ると、和久井は小馬鹿にしたように軽く鼻を鳴らした。"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「……ふふん。これはまた……」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「なんだ？」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「たとえば看護師などが、長く世話をしている患者に惚れてしまうということがあるそうだが……まさか君がねぇ」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "和久井はそう言って微笑んだが、逆に澪の方は目を細めて、さらに侮蔑の表情になった。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clzz05:13600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「まぁ、いい。そろそろ君との話も飽きた。いちいち邪魔されて、⟦rb⟧鬱陶⟦rt⟧うっとう⟦/r⟧しくなってきたしね。このあたりで君との関係は終わりにしよう」"
+  },
+  {
+   "id": "clzz05:13700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "突如、和久井の右腕に、凶悪な⟦rb⟧咢⟦rt⟧あぎと⟦/r⟧を持つ獣のようなものが出現した。"
+  },
+  {
+   "id": "clzz05:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "実際には、それは獣などではなく、まるで牙のような鋭い刃を四本も備えた⟦rb⟧禍々⟦rt⟧まがまが⟦/r⟧しいディソードだった。"
+  },
+  {
+   "id": "clzz05:13900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "しかも、その刀身は気味の悪い色に鈍光を放っていて、獣めいた外観にさらに醜悪さをも加えている。"
+  },
+  {
+   "id": "clzz05:14000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "その表面に触れた雨粒はまたたく間に蒸発し、瞬時に霧散していくのもまた不気味だった。"
+  },
+  {
+   "id": "clzz05:14100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「一瞬で終わらせてあげよう。痛みも感じる間もないことを感謝してもらいたいね」"
+  },
+  {
+   "id": "clzz05:14200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "和久井のその言葉を受け、四本の狂刃が、澪の肉体をバラバラに切り刻むべく左右上下に更に大きく⟦rb⟧咢⟦rt⟧あぎと⟦/r⟧を開いた。"
+  },
+  {
+   "id": "clzz05:14300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "間髪を入れず、一気に彼女の肉体に襲いかかってくる。"
+  },
+  {
+   "id": "clzz05:14400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そして。"
+  },
+  {
+   "id": "clzz05:14500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その時こそが――まさに、澪の⟦rb⟧賭⟦rt⟧か⟦/r⟧けの瞬間だった。"
+  },
+  {
+   "id": "clzz05:14600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「くぁぁああああああーーーっ！」"
+  },
+  {
+   "id": "clzz05:14700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "普段の彼女とは思えないような激しい声とともに、澪は、和久井のディソードの四本刃の中心――和久井の手のあるあたりに向かって、彼女のレプリカのディソードを、思い切り突き刺した。"
+  },
+  {
+   "id": "clzz05:14800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "突然のことに慌てた和久井は、思わず身体を引きつつ、ディソードの四本刃を閉じて、澪のディソードを⟦rb⟧挟⟦rt⟧はさ⟦/r⟧みこむようにして止める。"
+  },
+  {
+   "id": "clzz05:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "ギ、ギ、ギギギ！"
+  },
+  {
+   "id": "clzz05:15000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "金属同士がこすれ合うような不快な音が、あたりに響く。"
+  },
+  {
+   "id": "clzz05:15100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "が、澪が手にしているのはしょせんレプリカ。ただの模造品である。刃のこすれる音は、やがて、ミシ、ミシ、バキ……という、砕け散っていく音に変わり始めた。"
+  },
+  {
+   "id": "clzz05:15200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「く、ははは！ ハハハハハハ、これは傑作だ！ 何をするかと思えば、そんな⟦rb⟧玩具⟦rt⟧おもちゃ⟦/r⟧で僕のディソードをどうにかできるとでも！？ ハハハハハハハ！！」"
+  },
+  {
+   "id": "clzz05:15300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "和久井の嘲笑が澪の耳朶を打つ。"
+  },
+  {
+   "id": "clzz05:15400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "だが、澪は、今にも折れてしまいそうに悲鳴を上げているレプリカの⟦rb⟧剣⟦rt⟧つるぎ⟦/r⟧に満身の力を込め、和久井のディソードの中心へギリギリとねじ込んでいく。"
+  },
+  {
+   "id": "clzz05:15500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「もってくれ！ あとほんの少し！ 少しだけでいい！」"
+  },
+  {
+   "id": "clzz05:15600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「久野里君。さっき、さんざんほめてやったのに……いきなりがっかりさせないでくれ」"
+  },
+  {
+   "id": "clzz05:15700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井は相変わらず嘲笑しながら、澪のレプリカの剣をバラバラに粉砕してしまおうと――した。"
+  },
+  {
+   "id": "clzz05:15800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "⟦top:38⟧――が。"
+  },
+  {
+   "id": "clzz05:15900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「なっ！？ なにぃ！？」"
+  },
+  {
+   "id": "clzz05:16000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "澪の持つディソードが、淡く、しかし力強く発光し始めた。"
+  },
+  {
+   "id": "clzz05:16100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "しかもそれは、電飾やイミテーションの⟦rb⟧類⟦rt⟧たぐい⟦/r⟧ではなく――間違いなくギガロマニアックスが放つディソードの⟦rb⟧光芒⟦rt⟧こうぼう⟦/r⟧に違いなかった。"
+  },
+  {
+   "id": "clzz05:16200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「そ、そんな、バカなっ！？」"
+  },
+  {
+   "id": "clzz05:16300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「なぜお前が！？ ギガロマニアックスでもないお前が、なぜ！！」"
+  },
+  {
+   "id": "clzz05:16400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "しかし、驚愕する和久井とは裏腹に、澪のディソードの光芒は時間とともに輝度を増し、それに引き上げられるかのように、レプリカのはずの剣の硬度も上がっていく。"
+  },
+  {
+   "id": "clzz05:16500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「くっ！」"
+  },
+  {
+   "id": "clzz05:16600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井が、澪のディソードから己のディソードを強引に引き抜いた。途端に、バッと大量の血が和久井の腕から飛び散る。"
+  },
+  {
+   "id": "clzz05:16700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "通常であれば、あまりの激痛に戦意を喪失し、己の身を護ろうとするところだろうが、和久井の本性はあくまでも⟦rb⟧獰猛⟦rt⟧どうもう⟦/r⟧だった。"
+  },
+  {
+   "id": "clzz05:16800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "害意をむき出しにして澪に襲いかかった。"
+  },
+  {
+   "id": "clzz05:16900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「貴様ァァっ！」"
+  },
+  {
+   "id": "clzz05:17000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "和久井自身の血に染まった真っ赤なディソード――四本の刃が、澪の胴に向けて横薙ぎに⟦rb⟧疾⟦rt⟧はし⟦/r⟧る。"
+  },
+  {
+   "id": "clzz05:17100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「くうっ！」"
+  },
+  {
+   "id": "clzz05:17200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "レプリカの剣が、その凶暴な剣を真っ向から受け止めた。"
+  },
+  {
+   "id": "clzz05:17300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "バァンッという、高圧電流が強烈にショートするかのような音とともに、光の粒がまばゆく飛び散る。"
+  },
+  {
+   "id": "clzz05:17400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ギシ、ギシ……という耳障りなつばぜり合いの⟦rb⟧軋⟦rt⟧きし⟦/r⟧み音が、再びあたりに響いた。"
+  },
+  {
+   "id": "clzz05:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "が――"
+  },
+  {
+   "id": "clzz05:17600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「うあああああ！」"
+  },
+  {
+   "id": "clzz05:17700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "澪は、相変わらず彼女らしくない咆哮をあげつつ、自分の剣を一度引き、再び、和久井に突きかかった。"
+  },
+  {
+   "id": "clzz05:17800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「チィッ！」"
+  },
+  {
+   "id": "clzz05:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "和久井の血染めの剣はそれを弾き返すと、目にも止まらない速度で、彼女の首を斬り落としにかかった。"
+  },
+  {
+   "id": "clzz05:18000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「このっ！」"
+  },
+  {
+   "id": "clzz05:18100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "もはや強度の限界に近付いている澪のディソード――のレプリカが、それをあえて斜め方向から受けたかと思うと、切っ先を滑らせ、逆に和久井の頭部へ向かって、刃を叩きつけた。"
+  },
+  {
+   "id": "clzz05:18200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井は身体をひねりながら、それをかろうじて避ける。"
+  },
+  {
+   "id": "clzz05:18300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「くっ！ ――君には本当に驚かされるね。どういうカラクリなのかは知らないが、そんな子供だましでよくやる！」"
+  },
+  {
+   "id": "clzz05:18400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "明らかに澪の持つレプリカが悲鳴を上げている音だろう……ふたつのディソードがぶつかるたびに、硬質の金属が砕けていこうとしているのが分かる。"
+  },
+  {
+   "id": "clzz05:18500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「だが、これで終わりだよ！」"
+  },
+  {
+   "id": "clzz05:18600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井は、自分の剣を高々とかかげ、"
+  },
+  {
+   "id": "clzz05:18700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "そして、澪に振り下ろそうと――した。"
+  },
+  {
+   "id": "clzz05:18800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "⟦top:38⟧だが、次の瞬間。"
+  },
+  {
+   "id": "clzz05:18900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井の視野に真っ赤な光が走り、脳内に異常な信号が飛び込んできた。"
+  },
+  {
+   "id": "clzz05:19000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "信じられないことに彼のディソードの刃先は、澪ではなく、⟦rb⟧自⟦rt⟧みずか⟦/r⟧らの腹部をザックリと切り裂いていた。"
+  },
+  {
+   "id": "clzz05:19100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ぐうっ！！」"
+  },
+  {
+   "id": "clzz05:19200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "さしもの和久井も突然の激痛にうめき、身体をふたつに折りそうになる。"
+  },
+  {
+   "id": "clzz05:19300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「“思考誘導”っ！？」"
+  },
+  {
+   "id": "clzz05:19400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "コンマ何秒かですぐに気づいた彼は、己のギガロマニアックスの能力で“思考誘導“をはねのけ、腹部から刃先を引き抜いた。"
+  },
+  {
+   "id": "clzz05:19500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そのせいで、彼の身体の守りががら空きになる。"
+  },
+  {
+   "id": "clzz05:19600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「終わりなのはお前だ、和久井ッ！」"
+  },
+  {
+   "id": "clzz05:19700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "澪の叫びと共に、彼女の刃は和久井の首を狙う。"
+  },
+  {
+   "id": "clzz05:19800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井は、態勢をくずしながらも、かろうじて自分のディソードでそれを防ごうとする。"
+  },
+  {
+   "id": "clzz05:19900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "結果、澪の剣は、和久井の持つ四本刃の中心部分を、もう一度、深々と刺し貫いていた。"
+  },
+  {
+   "id": "clzz05:20000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ぐぅううーーっ！」"
+  },
+  {
+   "id": "clzz05:20100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "バァッ！ とさらなる鮮血があたりにしぶき、和久井が声を上げた。"
+  },
+  {
+   "id": "clzz05:20200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「くっ、はぁっ……はぁはぁはぁ……！」"
+  },
+  {
+   "id": "clzz05:20300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井のディソードは消滅し、あとに残ったのは、あたり一面に飛び散った鮮血と、澪の剣が深々と彼の右腕に突き立てられている姿だけになった。"
+  },
+  {
+   "id": "clzz05:20400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "和久井が、初めて憎悪の目で澪を見た。"
+  },
+  {
+   "id": "clzz05:20500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………」"
+  },
+  {
+   "id": "clzz05:20600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「……しばらくその腕は使い物にならないだろう」"
+  },
+  {
+   "id": "clzz05:20700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "와쿠이 슈이치",
+   "jp": "「だが、さすが、“思考誘導”に気づいたのは早かったな。おかげでお前の⟦rb⟧生命⟦rt⟧いのち⟦/r⟧を奪いそこなった。残念だよ」"
+  },
+  {
+   "id": "clzz05:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "澪は、和久井の腹部の傷を指さして冷たく言い放った。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「本当なら、ここで斬り殺して、二度と宮代に危害を加えられないようにするつもりだったが……まがい物ではこれが限界だったか」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "澪が手にしている剣はすでにヒビだらけで、折れる寸前だった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ただし、その刀身にはまだ淡い光が宿っていて、それがまぎれもなく本当のディソードであることを示していた。"
+  }
+ ]
+}

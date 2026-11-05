@@ -1,0 +1,883 @@
+{
+ "packet_id": "CC0300-clyu18-P01",
+ "kit_version": "1.0",
+ "source_file": "clyu18.msb",
+ "speakers_in_packet": [
+  "겐 씨",
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "아리무라 히나에",
+  "야마조에 우키",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노",
+  "타치바나 유토"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clyu18:0",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "야마조에 우키",
+   "jp": "「遅いな、結衣……どうしたんだろう？」"
+  },
+  {
+   "id": "clyu18:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "遅くとも夕方１７時には⟦rb⟧トレーラーハウス⟦rt⟧ここ⟦/r⟧に集合と、確かに昨日の夜、結衣にはそう言ったはずだった。"
+  },
+  {
+   "id": "clyu18:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "既に約束の時間を３０分も過ぎている。"
+  },
+  {
+   "id": "clyu18:300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "야마조에 우키",
+   "jp": "「学校は一緒に出なかったんだよな？」"
+  },
+  {
+   "id": "clyu18:400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「はい。先生に頼まれた用を終えて教室に戻ったら、結衣ちゃんの姿が消えていたので、てっきり先に向かったのかと思ってたんですが……」"
+  },
+  {
+   "id": "clyu18:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "오노에 세리카",
+   "jp": "うきが学校を出たのは１５時半くらいだと言っていたから、少なくとも結衣はその前には出ていたということになる。"
+  },
+  {
+   "id": "clyu18:600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "타치바나 유토",
+   "jp": "「家に帰ってるってことはないの？」"
+  },
+  {
+   "id": "clyu18:700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "이토 신지",
+   "jp": "「お姉ちゃん、家にはいなかったよ」"
+  },
+  {
+   "id": "clyu18:800",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「今、向かってる最中ってことはないのか？ 携帯は？」"
+  },
+  {
+   "id": "clyu18:900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「さっきから何度もかけてるけど、かからない」"
+  },
+  {
+   "id": "clyu18:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "電波の届かないところにいるか、電源が入ってないか――という例のアナウンスがかかるだけだ。"
+  },
+  {
+   "id": "clyu18:1100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「困った……かも……」"
+  },
+  {
+   "id": "clyu18:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もしかしたら、学校から帰る途中に事故にでもあったんじゃ……。"
+  },
+  {
+   "id": "clyu18:1300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "오노에 세리카",
+   "jp": "「僕、ちょっと捜してくるよ」"
+  },
+  {
+   "id": "clyu18:1400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「探すってどこを？」"
+  },
+  {
+   "id": "clyu18:1500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "겐 씨",
+   "jp": "「とりあえず、ここから中等部に向かってみる」"
+  },
+  {
+   "id": "clyu18:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "겐 씨",
+   "jp": "１８時には配信を始めたかったけど、今はそんなことを言ってる場合じゃない。"
+  },
+  {
+   "id": "clyu18:1700",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おぉ、タク〜」"
+  },
+  {
+   "id": "clyu18:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "外に出たところで、ゲンさんが暢気な声を投げかけてきた。"
+  },
+  {
+   "id": "clyu18:1900",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「狭い日本、そんなに急いでどこへ行く？ 急いだところで世の中そうは変わらんぞ〜」"
+  },
+  {
+   "id": "clyu18:2000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "「ゲンさん、悪いけど今ちょっと、妹を探しにいかなきゃならないんだ」"
+  },
+  {
+   "id": "clyu18:2100",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「妹？ もしかして前にここに来てた中学生くらいの子か？ それならちょっと前に見かけたぞ？」"
+  },
+  {
+   "id": "clyu18:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "思わぬ言葉に、僕は走り出そうとしていた足を止めて、ゲンさんに詰め寄った。"
+  },
+  {
+   "id": "clyu18:2300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "「ゲンさん！ それ、どこで！？ どこで見たの！？」"
+  },
+  {
+   "id": "clyu18:2400",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ？ あ〜……ありゃ確か……どこだっけなぁ」"
+  },
+  {
+   "id": "clyu18:2500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "「ゲンさんっ！！」"
+  },
+  {
+   "id": "clyu18:2600",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「大人の男とふたりで歩いとったなぁ。どこだっけなぁ？」"
+  },
+  {
+   "id": "clyu18:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "大人の男……？"
+  },
+  {
+   "id": "clyu18:2800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "겐 씨",
+   "jp": "「大人の男ってのは、４０代後半くらいのメガネをかけた人？」"
+  },
+  {
+   "id": "clyu18:2900",
+   "type": "dialogue",
+   "speaker": "ゲンさん",
+   "speaker_ko": "겐 씨",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「いや、もっと若かったなぁ。どこだっけなぁ……」"
+  },
+  {
+   "id": "clyu18:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "오노에 세리카",
+   "jp": "てことは、父さんじゃない。"
+  },
+  {
+   "id": "clyu18:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "오노에 세리카",
+   "jp": "じゃあ誰なんだ？"
+  },
+  {
+   "id": "clyu18:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "오노에 세리카",
+   "jp": "⟦col:280aa02d1400⟧青葉医院⟦col:800000⟧の患者さんか？"
+  },
+  {
+   "id": "clyu18:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "오노에 세리카",
+   "jp": "その可能性もあるけど……。"
+  },
+  {
+   "id": "clyu18:3400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "오노에 세리카",
+   "jp": "その時、ポケットの中でスマホが震えた。"
+  },
+  {
+   "id": "clyu18:3500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "오노에 세리카",
+   "jp": "もしかして結衣から？ と思ったが、発信者を確かめると尾上だった。"
+  },
+  {
+   "id": "clyu18:3600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "겐 씨",
+   "next_speaker": "오노에 세리카",
+   "jp": "慌ててトレーラーハウスに戻ると、全員の視線が一斉に僕に向けられた。"
+  },
+  {
+   "id": "clyu18:3700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "겐 씨",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なんだ、タク。まだそこにいたんだね。だったら話が早いよ」"
+  },
+  {
+   "id": "clyu18:3800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "카즈키 하나",
+   "jp": "「華、あれ」"
+  },
+  {
+   "id": "clyu18:3900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clyu18:4000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "珍しく真剣な顔をした有村に促されて、香月が示したのは、⟦col:280aa02d1400⟧＠ちゃんねる⟦col:800000⟧の⟦col:280aa02e1400⟧スレ⟦col:800000⟧だった。"
+  },
+  {
+   "id": "clyu18:4100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "이토 신지",
+   "jp": "「『⟦col:280aa02d1400⟧ミルフィーユ⟦col:800000⟧』のスレなんてあったのか……」"
+  },
+  {
+   "id": "clyu18:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "しかも、既に１０スレ近くいってる。"
+  },
+  {
+   "id": "clyu18:4300",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んなことで感心してる場合じゃねーぞ。ここ、見てみろ」"
+  },
+  {
+   "id": "clyu18:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "画面の中では＠ちゃんで良く見るような、便所の落書きめいたやり取りが記されていた。"
+  },
+  {
+   "id": "clyu18:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その中に――。"
+  },
+  {
+   "id": "clyu18:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――今日の配信でユウちゃんがヒカリヲとか言ってたな"
+  },
+  {
+   "id": "clyu18:4700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――学校の帰りってことは、学校は渋谷？"
+  },
+  {
+   "id": "clyu18:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――渋谷ってことは翠明？"
+  },
+  {
+   "id": "clyu18:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――碧朋かも"
+  },
+  {
+   "id": "clyu18:5000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「これは……」"
+  },
+  {
+   "id": "clyu18:5100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「⟦col:280aa02d1400⟧身バレ⟦col:800000⟧……かも」"
+  },
+  {
+   "id": "clyu18:5200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「どうやら、前に⟦col:280aa02d1400⟧ニヤ生⟦col:800000⟧でポロッと言っちまったみたいだな」"
+  },
+  {
+   "id": "clyu18:5300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「その後も特定班がいろいろ動いてたみたいっすね」"
+  },
+  {
+   "id": "clyu18:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "身バレ……つまり、ふたりの身元が特定されたかもしれないということだ。"
+  },
+  {
+   "id": "clyu18:5500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「もしかして、何かあったんじゃねぇのか？」"
+  },
+  {
+   "id": "clyu18:5600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「なにかって？」"
+  },
+  {
+   "id": "clyu18:5700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それはほら……中には⟦col:280aa02d1400⟧粘着⟦col:800000⟧っぽいのもいるみたいだしさ……変なことに巻き込まれたんじゃ……」"
+  },
+  {
+   "id": "clyu18:5800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに、やけにどこの学校か知りたがってた奴がいるみたいだけど。"
+  },
+  {
+   "id": "clyu18:5900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「いや……いくら身バレしたからって、すぐにそう考えるのは早すぎる」"
+  },
+  {
+   "id": "clyu18:6000",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「でも、もしかしてってことも――」"
+  },
+  {
+   "id": "clyu18:6100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「真ちゃん！」"
+  },
+  {
+   "id": "clyu18:6200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "타치바나 유토",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clyu18:6300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu18:6400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「そ、そうだよな。いくらなんでも、そんなこと」"
+  },
+  {
+   "id": "clyu18:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "타치바나 유토",
+   "jp": "僕たちの会話を聞いていた結人が、押しつぶされそうな表情で黙り込んでしまっているのを見て、伊藤は慌てて取り繕う素振りを見せた。"
+  },
+  {
+   "id": "clyu18:6600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ねえ……僕が喋っちゃったから？ 僕が喋ったせいで、お姉ちゃん、危険な目にあってるの？」"
+  },
+  {
+   "id": "clyu18:6700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "오노에 세리카",
+   "jp": "「だ、大丈夫よ。まだそうと決まったわけじゃないでしょ、ね？」"
+  },
+  {
+   "id": "clyu18:6800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村はそう言って結人を元気づけようとしてくれていた。"
+  },
+  {
+   "id": "clyu18:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "とはいえ、さっきのゲンさんの話を考えると、その可能性は高い。"
+  },
+  {
+   "id": "clyu18:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "もしもニヤ生での発言が原因なのだとしたら、ちゃんとチェックしていなかった僕にも落ち度はある。"
+  },
+  {
+   "id": "clyu18:7100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "書き込みの日付を見ると、発言があったのは、ついこの前のことのようだ。"
+  },
+  {
+   "id": "clyu18:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "その時僕が見てさえいれば、何とか誤魔化すなり注意するなりできたかもしれない。"
+  },
+  {
+   "id": "clyu18:7300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "오노에 세리카",
+   "jp": "「それに、ほら。今は結衣ちゃんがどこにいるのか確かめるのが先でしょ？」"
+  },
+  {
+   "id": "clyu18:7400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「そうだよ。まだ、何かあったって決まったわけじゃないよ」"
+  },
+  {
+   "id": "clyu18:7500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「皆で手分けして探すべき……」"
+  },
+  {
+   "id": "clyu18:7600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "신조 타케시",
+   "jp": "「そうだな。今日のことを忘れて、どこかに遊びに行ってるのかもしれないし」"
+  },
+  {
+   "id": "clyu18:7700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "そんなことあるはず無いとは思いながらも、僕たちはそれぞれ手分けをして、結衣の行方を求めることにした。"
+  },
+  {
+   "id": "clyu18:7800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なるほど。それで、妹さんはまだ見つからないんだな？」"
+  },
+  {
+   "id": "clyu18:7900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「はい……」"
+  },
+  {
+   "id": "clyu18:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "現在、時計の針は午後９時過ぎを示していた。"
+  },
+  {
+   "id": "clyu18:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "あの後、手分けをして探したところで、結局、結衣の行方は知れなかった。"
+  },
+  {
+   "id": "clyu18:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "当然、家にも帰った形跡はなかった。"
+  },
+  {
+   "id": "clyu18:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そこまでわかって、僕たちは神成さんに相談することにし、僕のトレーラーハウスじゃ手狭だということで、場所もこの部室に移した。"
+  },
+  {
+   "id": "clyu18:8400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "「それじゃあ、やっぱり……」"
+  },
+  {
+   "id": "clyu18:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "신조 타케시",
+   "jp": "忌まわしい言葉を避けるように、乃々はそこで発言を止めた。"
+  },
+  {
+   "id": "clyu18:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "신조 타케시",
+   "jp": "状況が状況なだけに、当然、一連の出来事は、彼女にも知らせることとなった。"
+  },
+  {
+   "id": "clyu18:8700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "신조 타케시",
+   "jp": "話を聞いた時の乃々は、いろいろ言いたいこともあったようだが、状況が状況なだけに多くは言わなかった。"
+  },
+  {
+   "id": "clyu18:8800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「現状と、それからゲンさんとやらの目撃情報を考えるに、やはり何らかのトラブルに巻き込まれたと考えるのが妥当だろうな」"
+  },
+  {
+   "id": "clyu18:8900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「その＠ちゃんねるの書き込みから、連れていた人間を探すことは出来ないんですか？」"
+  },
+  {
+   "id": "clyu18:9000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ＩＰアドレスから、書き込んだ人物を特定することはできる。しかし今すぐに、というのは無理だ」"
+  },
+  {
+   "id": "clyu18:9100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そのためには、事件の可能性があることを示した上で、＠ちゃんねるの運営にデータを提出してもらわなければならない。"
+  },
+  {
+   "id": "clyu18:9200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そんなに悠長なことをしてはいられない。"
+  },
+  {
+   "id": "clyu18:9300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「警察に動いてもらうことはできないんですか？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「いなくなって、まだ半日も経っていないんだろう？ 届け出を受理することはできても、実際に捜索となるとな……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕たちからすれば、結衣がこの時間まで帰って来ないという事実だけで、充分におかしいけれど、事件を示す確実な証拠がない限り、警察は動いてくれないということだ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "となると、後は自分たちで何とかするしかない。"
+  }
+ ]
+}

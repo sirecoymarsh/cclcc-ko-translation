@@ -1,0 +1,317 @@
+{
+ "packet_id": "CC0018-claa05-P03",
+ "kit_version": "1.0",
+ "source_file": "claa05.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "여자",
+  "쿠노사토 미오",
+  "하이다 리코"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "おそるおそるパイロキネシストの女の方を振り仰ぐと、彼女はいつの間にかその場にペタンと座り込み、おいおいと泣き崩れていた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕らは全員当惑して、顔を見合わせた。"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「あ、あの〜？ ちょっと、キミ？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「どうかしましたか〜？」"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「大丈夫ですか〜？」"
+  },
+  {
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "jp": "「ううう、いいんです。私なんか放っておいてください。うわぁぁん……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "claa05:15500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "신조 타케시",
+   "jp": "いやいやいや！ 『放っといてくれ』もなにも、そっちが勝手に襲ってきたんでしょうが！？ ……と思わずツッコミそうになる自分をおさえ、僕は尾上と来栖に手を貸しつつ立ち上がった。"
+  },
+  {
+   "id": "claa05:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "신조 타케시",
+   "jp": "神成さんと久野里さんも、犯人の女を刺激しないようにそっと立ち上がると、彼女の方へ少しずつ近づいていく。"
+  },
+  {
+   "id": "claa05:15700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "신조 타케시",
+   "jp": "ちなみに、久野里さんが蚊の鳴くような声で『わ、私が男に押し倒されて『キャッ』とか悲鳴を上げただと？』とかブツブツ言っているみたいだが、それにはあえて触れないでおくことにする。"
+  },
+  {
+   "id": "claa05:15800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "여자",
+   "next_speaker": "여자",
+   "jp": "「放っておくわけにはいかないよ。いったい何があったのか、なんで火をつけて回ってるのか、教えてくれないか？」"
+  },
+  {
+   "id": "claa05:15900",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うっ、ぐすん……だって、だって……」"
+  },
+  {
+   "id": "claa05:16000",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やっぱりリア充爆発しろー！」"
+  },
+  {
+   "id": "claa05:16100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여자",
+   "next_speaker": "신조 타케시",
+   "jp": "「うおわ熱あちちちー！」"
+  },
+  {
+   "id": "claa05:16200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여자",
+   "jp": "「お、落ち着きなさい、キミ！ と、とりあえず火を出すのをやめないか！」"
+  },
+  {
+   "id": "claa05:16300",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「ううう、ごめんなさい！ でも、幸せそうなカップルを見ると、自分でも止められないんですぅ！」"
+  },
+  {
+   "id": "claa05:16400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "여자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、やめてくれ！ そもそも、俺と久野里さんはカップルでもなんでもないし！」"
+  },
+  {
+   "id": "claa05:16500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "여자",
+   "jp": "「僕だって違いますよっ。来栖は姉、尾上は妹みたいなもんで――」"
+  },
+  {
+   "id": "claa05:16600",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ほんとう？」"
+  },
+  {
+   "id": "claa05:16700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "여자",
+   "next_speaker": "신조 타케시",
+   "jp": "「本当だ。こんな男の彼女だと思われたのなら、実に心外だぞ」"
+  },
+  {
+   "id": "claa05:16800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "여자",
+   "jp": "「それはこっちの台詞だ」"
+  },
+  {
+   "id": "claa05:16900",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "하이다 리코",
+   "jp": "「そう……」"
+  },
+  {
+   "id": "claa05:17000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "하이다 리코",
+   "jp": "女は、僕たちをしばらく眺めていたが、どうやらカップル同士ではないと納得したのか、おとなしくなった。"
+  },
+  {
+   "id": "claa05:17100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "하이다 리코",
+   "jp": "そこで神成さんが彼女を取り押さえ、話を聞き出してみると――。"
+  },
+  {
+   "id": "claa05:17200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "하이다 리코",
+   "jp": "どうやら、杯田理子という名の彼女は、片思いの男性のマンションに足しげく通っていたものの、いつもそっけなく追い返され、仕方なく毎日のようにラブレターなどをポストに投函していたという。"
+  },
+  {
+   "id": "claa05:17300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "하이다 리코",
+   "jp": "『なんかもう、それだけでちょっとストーカーっぽいんですけどー？』とは思ったものの、またパイロキネシスで暴れられては困るので黙っておいた。"
+  },
+  {
+   "id": "claa05:17400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "하이다 리코",
+   "jp": "そして、その相手の男性は、杯田理子の手紙を読みもせず……封も開けられていない手紙がポストの下に捨ててあったりしたという。"
+  },
+  {
+   "id": "claa05:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "하이다 리코",
+   "jp": "これにはさすがに尾上や来栖は怒ったが、その手紙攻撃がすでに三年間も続いており、しかも、男性が明らかに杯田理子を避けるために五回も引っ越したことが分かると、全員が無言になった。"
+  },
+  {
+   "id": "claa05:17600",
+   "type": "dialogue",
+   "speaker": "杯田理子",
+   "speaker_ko": "하이다 리코",
+   "prev_speaker": "여자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ね、みなさん。ひどいと思いませんか？ 毎日毎日、心を込めて書いた手紙なのに……」"
+  },
+  {
+   "id": "claa05:17700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "하이다 리코",
+   "next_speaker": "신조 타케시",
+   "jp": "「え、えと……うん、そうですね……」"
+  },
+  {
+   "id": "claa05:17800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「で、杯田さん。始めのうちは、読まないで捨てられていた手紙を見つけるたびに、毎回、自宅へ帰る途中の道で燃やしていた、と」"
+  },
+  {
+   "id": "claa05:17900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ところがそのうち、怒りや悲しみのコントロールが出来なくなり、幸せそうなカップルを見ると、見境なくパイロキネシスを使うようになってしまった」"
+  },
+  {
+   "id": "claa05:18000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "하이다 리코",
+   "jp": "「なるほど。連続放火事件の真相は、そういうことか」"
+  },
+  {
+   "id": "claa05:18100",
+   "type": "dialogue",
+   "speaker": "杯田理子",
+   "speaker_ko": "하이다 리코",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "「うう、すみません……」"
+  },
+  {
+   "id": "claa05:18200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "하이다 리코",
+   "next_speaker": null,
+   "jp": "「とにかく事件はこれで解決だ。これから、所轄の方で事情聴取があると思うが、今夜はもう遅い。宮代くんたちには、明日にでも話を聞かせてもらうよ」"
+  },
+  {
+   "id": "claa05:18300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "神成さんはそう言うと、珍しく疲れ果てたようなため息をついた。"
+  },
+  {
+   "id": "claa05:18400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "そして、『最近、なんでこんな事件ばっかり？』とつぶやくのが聞こえた。"
+  }
+ ],
+ "context_after": []
+}

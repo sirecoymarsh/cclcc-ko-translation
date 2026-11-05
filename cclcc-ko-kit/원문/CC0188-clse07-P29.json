@@ -1,0 +1,960 @@
+{
+ "packet_id": "CC0188-clse07-P29",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "카즈키 하나",
+  "쿠노사토 미오"
+ ],
+ "context_before": [
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……伊藤先輩は……一生女子の手作りお弁当が食べられなくなる……」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……かも」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「アイドルをプロデュース！？」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ん…………」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ん……」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「……かも」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:274200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「狭い……かも……」"
+  },
+  {
+   "id": "clse07:274300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「言いたいことはわかったかも、だけど……」"
+  },
+  {
+   "id": "clse07:274400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……いい表情……かも」"
+  },
+  {
+   "id": "clse07:274500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん…………」"
+  },
+  {
+   "id": "clse07:274600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「最低……かも」"
+  },
+  {
+   "id": "clse07:274700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:274800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:274900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んー……」"
+  },
+  {
+   "id": "clse07:275000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「すごい……かも……」"
+  },
+  {
+   "id": "clse07:275100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……クラスでも時々、話題に上ってる……かも……」"
+  },
+  {
+   "id": "clse07:275200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……？」"
+  },
+  {
+   "id": "clse07:275300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ビックリ……かも……」"
+  },
+  {
+   "id": "clse07:275400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「困った……かも……」"
+  },
+  {
+   "id": "clse07:275500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:275600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「身バレ……かも」"
+  },
+  {
+   "id": "clse07:275700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「皆で手分けして探すべき……」"
+  },
+  {
+   "id": "clse07:275800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……クソがっ……！」"
+  },
+  {
+   "id": "clse07:275900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clse07:276000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひゃわはぁぁ〜」"
+  },
+  {
+   "id": "clse07:276100",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ！？ え！？ わ、わわわ、私は絶対に違うから！ あんなこと考えてないし！ あんなこともしないし！ ええと、とにかく変な夢だっただけだから……！」"
+  },
+  {
+   "id": "clse07:276200",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あ、あんなの！？ って何をしたのっ？ 何をしてもらったのっ？」"
+  },
+  {
+   "id": "clse07:276300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「いいんですか？」"
+  },
+  {
+   "id": "clse07:276400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「あ、でもひとつだけ条件があります。寝る時は、雛絵さんと別の部屋でお願いします」"
+  },
+  {
+   "id": "clse07:276500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「だって、ベタベタくっつかれると眠れないから」"
+  },
+  {
+   "id": "clse07:276600",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ウソ。なんかあちこち触ってくるし。同じ部屋で寝たら、貞操の危機を感じるので」"
+  },
+  {
+   "id": "clse07:276700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「私も一緒……かも」"
+  },
+  {
+   "id": "clse07:276800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「お店の取材もしてくる……かも」"
+  },
+  {
+   "id": "clse07:276900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": null,
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ご愁傷さま……かも……」"
+  },
+  {
+   "id": "clse07:277000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「――そして、２０１６年、春」"
+  },
+  {
+   "id": "clse07:277100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「渋谷全域を包み込んでいた大規模な“妄想シンクロ”、および、“カオスチャイルド症候群”という異常な事態はほぼ収束した」"
+  },
+  {
+   "id": "clse07:277200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「症候群の患者たちはといえば、みな正気を取り戻し、元の平穏な日常に戻りつつある」"
+  },
+  {
+   "id": "clse07:277300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「また、情報過多なこの時代――アレがいかに衝撃的な事件であったにせよ、わずか数か月で人々の記憶は化石となり、いつしか風化していこうとしていた」"
+  },
+  {
+   "id": "clse07:277400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「そしてそれは、やがて誰の口の端にものぼらなくなり……人々は、新たな刺激を求めて情報の海をひたすら泳ぎ回る。まるで飢えた魚のように」"
+  },
+  {
+   "id": "clse07:277500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「だから、そう――私が今から語ろうとしている物語は、たぶん、忘れ去られていく無意味な物語のひとつでしかなく……私たちにとってさえ、ただの蛇足なのだろうと、そう思う」"
+  },
+  {
+   "id": "clse07:277600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「ん……んん……」"
+  },
+  {
+   "id": "clse07:277700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "「んあ〜。ん〜？」"
+  },
+  {
+   "id": "clse07:277800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「失敬だな、オマエは。私のように勤勉な科学者が、こんな時間まで寝ているわけがなかろう？」"
+  },
+  {
+   "id": "clse07:277900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「気のせいだ。あと、『先生』というのはやめろと、あれほど言ったハズだが――」"
+  },
+  {
+   "id": "clse07:278000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええ？ 確か、昨日、見てやったばかりじゃないか」"
+  },
+  {
+   "id": "clse07:278100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふーむ……」"
+  },
+  {
+   "id": "clse07:278200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（やはり大人と子供では脳のカウントクロックが違うな。一度、研究してみる価値はありそうだが……）"
+  },
+  {
+   "id": "clse07:278300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（うむ、汚い）"
+  },
+  {
+   "id": "clse07:278400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（結人のやつめ……小学生のくせに、なぜあんなに小うるさいんだ？ あいつの姉どものせいか？）"
+  },
+  {
+   "id": "clse07:278500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふっ。オマエは子供で、しかも男だから分からないと思うがな、女にとって５分は短すぎる。せめて１５分待て」"
+  },
+  {
+   "id": "clse07:278600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「バ、バカを言うな。掃除など自分で出来る。完璧にな」"
+  },
+  {
+   "id": "clse07:278700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うむぅ……」"
+  },
+  {
+   "id": "clse07:278800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ったく……つまらないことに気を回すヤツだな。子供のくせに」"
+  },
+  {
+   "id": "clse07:278900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから１５分待てと言ったんだ」"
+  },
+  {
+   "id": "clse07:279000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「オマエも、いずれ科学者になれば分かる」"
+  },
+  {
+   "id": "clse07:279100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:279200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………。なぁ、知ってるか？ ロープで縛った人間を浴槽に放り込んで濃硫酸をぶっかける映画があるんだ。骨まで溶けて、完全犯罪が可能らしいのだが……ちょっと試してみるか」"
+  },
+  {
+   "id": "clse07:279300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「お前がすでに能力を持っていないとしても……この目を見れば分かるはずだな？ 私が本気なのかどうか？」"
+  },
+  {
+   "id": "clse07:279400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「というか、そもそも、お前など呼んでいないぞ。なにを勝手に上がりこんでるんだ」"
+  },
+  {
+   "id": "clse07:279500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……？」"
+  },
+  {
+   "id": "clse07:279600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これは、その……部屋の掃除と等価交換だ。別におかしくはあるまい」"
+  },
+  {
+   "id": "clse07:279700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「断固断る」"
+  },
+  {
+   "id": "clse07:279800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……？」"
+  },
+  {
+   "id": "clse07:279900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……？ 何かとはなんだ？」"
+  },
+  {
+   "id": "clse07:280000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「本当にあぶなかったな。あやうく本気でぶった斬るところだったぞ」"
+  },
+  {
+   "id": "clse07:280100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まさか」"
+  },
+  {
+   "id": "clse07:280200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だから、断固断ると――」"
+  },
+  {
+   "id": "clse07:280300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ？」"
+  },
+  {
+   "id": "clse07:280400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「さて、机のまわりを片付けて、今日の授業を始めるとしよう。確か方程式の続きからだったな」"
+  },
+  {
+   "id": "clse07:280500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いつものことだ。放っておけ」"
+  },
+  {
+   "id": "clse07:280600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふむ、それでＯＫだ。前から思っていたが、お前の応用力はたいしたものだな。そこから先は、一人で解を導けるだろう？」"
+  },
+  {
+   "id": "clse07:280700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「よし。上出来だ」"
+  },
+  {
+   "id": "clse07:280800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………。って、あいつら、まだやってたのか」"
+  },
+  {
+   "id": "clse07:280900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まぁ、ケンカするほど仲がいいとは言うが」"
+  },
+  {
+   "id": "clse07:281000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もうこんな時間か。じゃあ、今日はここまでにしよう。ピザでも頼むとするか？」"
+  },
+  {
+   "id": "clse07:281100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ったく。さんざん邪魔しておいて、ピザだけは食べるつもりか、あいつは……」"
+  },
+  {
+   "id": "clse07:281200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「んん？」"
+  },
+  {
+   "id": "clse07:281300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふむ。まぁ確かに……ほめられた食生活ではないな」"
+  },
+  {
+   "id": "clse07:281400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、結人の言う通りだ。謝ることはない」"
+  },
+  {
+   "id": "clse07:281500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほう。それはいい心がけだな」"
+  },
+  {
+   "id": "clse07:281600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「オマエたちだけで寮に残ると聞いた時は心配したが。うまくやっているようでなによりだ」"
+  },
+  {
+   "id": "clse07:281700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:281800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、ああ……悪いな」"
+  },
+  {
+   "id": "clse07:281900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「すごいな、結人。もう立派なシェフじゃないか」"
+  },
+  {
+   "id": "clse07:282000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……え？」"
+  },
+  {
+   "id": "clse07:282100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いや、驚かせてすまない。こんなに豪華な食事、いったい何か月ぶりだろう？と感動したんだ」"
+  },
+  {
+   "id": "clse07:282200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「食べても、いいか？」"
+  },
+  {
+   "id": "clse07:282300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ああ、分かった。――いただきます」"
+  },
+  {
+   "id": "clse07:282400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うん。美味しいよ、結人」"
+  },
+  {
+   "id": "clse07:282500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これならいずれ、山添だけでなく、南沢泉理だって追い越せるだろう」"
+  },
+  {
+   "id": "clse07:282600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなことはないさ。最初から無理だと決めつけていてはダメだ」"
+  },
+  {
+   "id": "clse07:282700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「この私が保証してやる。オマエならあっという間に上達する」"
+  },
+  {
+   "id": "clse07:282800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「内緒？ あー、それは、その……無理だと思ったほうがいいかもな」"
+  },
+  {
+   "id": "clse07:282900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「鍵は開いてる。勝手に入っていいぞ」"
+  },
+  {
+   "id": "clse07:283000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「悪いな、少し、弟を借りてるぞ」"
+  },
+  {
+   "id": "clse07:283100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほほう、私は実験台で試食係だったんだな。よーく分かった」"
+  },
+  {
+   "id": "clse07:283200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ここに山添までいたら、さらに大変だったな」"
+  },
+  {
+   "id": "clse07:283300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「山添。お前は少し影が薄すぎる。もう少し濃くしろ」"
+  },
+  {
+   "id": "clse07:283400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「待ってくれ。それは、うっかりしていた私が悪い。結人を叱らないでやってくれ」"
+  },
+  {
+   "id": "clse07:283500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えっ！？ い、いや、そんなことはないぞ、うむ」"
+  },
+  {
+   "id": "clse07:283600",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、ああ、もちろん」"
+  },
+  {
+   "id": "clse07:283700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clse07:283800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、いや、なんでもない。ちょっと面倒なヤツからの電話でな」"
+  },
+  {
+   "id": "clse07:283900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こいつから連絡がある時は、ロクなことがない」"
+  },
+  {
+   "id": "clse07:284000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「全くだ。というか、もうアンタと会うことはないと思っていたんだが」"
+  },
+  {
+   "id": "clse07:284100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私は医者じゃないぞ。診察ならこの病院でいくらでも出来るだろう」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「そんなバカなことがあるか。カオスチャイルド症候群者は、全員、すでに治療のめどが立っている。完全に治癒した者も多い」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「この私も、全員の脳の断層写真まで確認しているんだ。症候群者が残っているはずが――」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「これは……」"
+  }
+ ]
+}

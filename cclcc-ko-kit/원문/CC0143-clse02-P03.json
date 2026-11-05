@@ -1,0 +1,440 @@
+{
+ "packet_id": "CC0143-clse02-P03",
+ "kit_version": "1.0",
+ "source_file": "clse02.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "振り返ると、僕を睨みつけている有村と目が合った。"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「あんたね、先輩ですけど、我慢できないんで言いますよ！？ なんてことするんですか！？ この大バカ野郎！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "は！？ 大バカってどういう意味だ！？"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕が世莉架の病気の心配しちゃいけないっていうのかよ！？"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「有村さん、もういいから！ 世莉架をお願い！」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「え？ あ、はい！ 了解っす！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse02:17400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "来栖に⟦rb⟧諭⟦rt⟧さと⟦/r⟧された有村は僕の腕を離すと、尾上の後を追って店を飛び出していった。"
+  },
+  {
+   "id": "clse02:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "後に残された僕は、呆然とそれを見送るほかなかった。"
+  },
+  {
+   "id": "clse02:17600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「………」"
+  },
+  {
+   "id": "clse02:17700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「……拓留？ いつまでも突っ立ってないで、座りなさいな」"
+  },
+  {
+   "id": "clse02:17800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "来栖が、キッチンの店員さんに『お騒がせしてすみません』と言ってから、そっと椅子に座り直した。"
+  },
+  {
+   "id": "clse02:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それから、目の前の椅子――それまで尾上が座っていた席――を指さした。"
+  },
+  {
+   "id": "clse02:18000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕は、何がなんだか分からないまま腰を下ろす。"
+  },
+  {
+   "id": "clse02:18100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そこにはまだ、尾上のぬくもりが残っていた……。"
+  },
+  {
+   "id": "clse02:18200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "結局、僕と来栖は新しいコーヒーをもう一杯ずつ注文し、その後は黙りこくったままでいた。"
+  },
+  {
+   "id": "clse02:18300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕としては、尾上の病気のことや、なんであいつがあんなふうに泣いたのか、とか聞きたくて仕方がない。"
+  },
+  {
+   "id": "clse02:18400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "けれど……来栖は、運ばれてきたコーヒーを、ただ静かに飲んでいるだけだった。"
+  },
+  {
+   "id": "clse02:18500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そして、コーヒーを飲み終えてしまうと、なぜか少しだけ寂しそうに微笑んでこう言った。"
+  },
+  {
+   "id": "clse02:18600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いつかこういう時が来るとは思ってたけど……世莉架の方が、少しだけ早かったみたい」"
+  },
+  {
+   "id": "clse02:18700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……？」"
+  },
+  {
+   "id": "clse02:18800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「たぶん、あの子……自分の気持ちに気づきはじめちゃってる、ってことだと思う」"
+  },
+  {
+   "id": "clse02:18900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、世莉架のことが心配なのは分かるけど……今回みたいなことはやめてあげて？ 別に、本当の病気とかじゃないから、きっと大丈夫」"
+  },
+  {
+   "id": "clse02:19000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そう、なのか？」"
+  },
+  {
+   "id": "clse02:19100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "来栖が具体的になんのことを言ってるのか、よく分からない。"
+  },
+  {
+   "id": "clse02:19200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "けれど、彼女がそう言うのなら本当に大丈夫なんだろう。"
+  },
+  {
+   "id": "clse02:19300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、でも、別の意味の“病気”かもね。昔の人はよく言ったでしょう？ “お医者様でも草津の湯でも”って」"
+  },
+  {
+   "id": "clse02:19400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……？ なんだ、それ？」"
+  },
+  {
+   "id": "clse02:19500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あれっ？ 知らない？ ……そ、そっか、私、やっぱりちょっとおばーちゃんテイストなのかしら。ショックだわ……」"
+  },
+  {
+   "id": "clse02:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "来栖はなにやら口の中でブツブツ言っていたが、やがて微笑んだまま、立ち上がった。"
+  },
+  {
+   "id": "clse02:19700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そろそろ帰りましょうか」"
+  },
+  {
+   "id": "clse02:19800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「え！？ でも尾上は？」"
+  },
+  {
+   "id": "clse02:19900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「たぶんだけど……いま拓留の顔を見たら、逃げちゃうと思うわ。少し落ち着くのを待ってあげないと、また泣いちゃったりするかも知れないし」"
+  },
+  {
+   "id": "clse02:20000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……？」"
+  },
+  {
+   "id": "clse02:20100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "だから、その理由がさっぱり分からない。"
+  },
+  {
+   "id": "clse02:20200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "来栖もちゃんと教えてくれないし……いったいなんでなんだよ！？"
+  },
+  {
+   "id": "clse02:20300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「大丈夫。今日は、有村さんにまかせておくのが一番うまくやってくれると思う。同級生同士の方が話しやすいと思うし」"
+  },
+  {
+   "id": "clse02:20400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……？？」"
+  },
+  {
+   "id": "clse02:20500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「その代わり、世莉架の元気が戻ったら、理由とかいっさい聞かないで、まずちゃんと謝るのよ、いいわね？」"
+  },
+  {
+   "id": "clse02:20600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、うん……」"
+  },
+  {
+   "id": "clse02:20700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ホント、拓留って、ときどき空気が読めなくて――聞いちゃいけないこととか、言っちゃいけないこととか口にするから、おねーちゃんは心配です」"
+  },
+  {
+   "id": "clse02:20800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、思いっきり背中をパシンと叩かれた。"
+  },
+  {
+   "id": "clse02:20900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「痛ってっ」"
+  },
+  {
+   "id": "clse02:21000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「さ、行きましょ」"
+  },
+  {
+   "id": "clse02:21100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "会計を済ませた来栖に背中を押され、僕はカフェＬＡＸから、夕暮れのせまる街角へと出た。"
+  },
+  {
+   "id": "clse02:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "――でも、この時。"
+  },
+  {
+   "id": "clse02:21300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "僕も来栖も、今回の事態をあまりにも甘く見過ぎていた。"
+  },
+  {
+   "id": "clse02:21400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "そう。"
+  },
+  {
+   "id": "clse02:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "その夜、どんなことが起こるか事前に分かっていたら、たぶん僕はトレーラーハウスではなく、来栖と一緒に青葉寮へ戻ったに違いない。"
+  },
+  {
+   "id": "clse02:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "けれど残念ながら、僕や来栖の能力は“予知”とは無縁で。"
+  },
+  {
+   "id": "clse02:21700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "だから僕は来栖と途中で別れると、いつもと同じようにトレーラーハウスへと帰って来てしまった。"
+  }
+ ],
+ "context_after": []
+}

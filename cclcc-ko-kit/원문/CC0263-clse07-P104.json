@@ -1,0 +1,311 @@
+{
+ "packet_id": "CC0263-clse07-P104",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "모두",
+  "미야시로 일행",
+  "오노에 일행",
+  "이토 일행",
+  "일동",
+  "쿠루스 일행",
+  "타치바나 남매",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「どこかの建物の３階か４階……それくらいしかわかんないって……」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「え？ う、うん！」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「お姉ちゃん！ そこまで歩いてどれくらいかかったのかって、拓留兄ちゃんが！」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「……１５分？ 車には？ うん、わかった」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「「……大きな丸いベッド。それ以外は、暗くてよくわからないって」"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「窓の外に顔が見えたって……壁のところに浮かんで……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:989500",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "오노에 일행",
+   "jp": "「あ……お姉ちゃん！？ お姉ちゃんってば！」"
+  },
+  {
+   "id": "clse07:989600",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "오노에 일행",
+   "jp": "「お姉ちゃんっ！！」"
+  },
+  {
+   "id": "clse07:989700",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "오노에 일행",
+   "jp": "「ゴメンね、お姉ちゃん！ 僕のせいで……」"
+  },
+  {
+   "id": "clse07:989800",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "오노에 일행",
+   "jp": "「いいよ。僕もいつまでも女の子のフリしてらんないもん」"
+  },
+  {
+   "id": "clse07:989900",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "오노에 일행",
+   "jp": "「それじゃ、僕、友だちのとこ行ってくる！」"
+  },
+  {
+   "id": "clse07:990000",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "오노에 일행",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:990100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": null,
+   "next_speaker": "오노에 일행",
+   "jp": "「うん。そうだね」"
+  },
+  {
+   "id": "clse07:990200",
+   "type": "dialogue",
+   "speaker": "尾上達",
+   "speaker_ko": "오노에 일행",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 일행",
+   "jp": "「お〜」⟦n⟧⟦par⟧「おお〜」⟦n⟧⟦par⟧「ほお〜」"
+  },
+  {
+   "id": "clse07:990300",
+   "type": "dialogue",
+   "speaker": "宮代達",
+   "speaker_ko": "미야시로 일행",
+   "prev_speaker": "오노에 일행",
+   "next_speaker": "일동",
+   "jp": "「はっ！？」⟦n⟧⟦par⟧「うっ！？」"
+  },
+  {
+   "id": "clse07:990400",
+   "type": "dialogue",
+   "speaker": "一同",
+   "speaker_ko": "일동",
+   "prev_speaker": "미야시로 일행",
+   "next_speaker": "미야시로 일행",
+   "jp": "「「「「「「………」」」」」」"
+  },
+  {
+   "id": "clse07:990500",
+   "type": "dialogue",
+   "speaker": "一同",
+   "speaker_ko": "일동",
+   "prev_speaker": "미야시로 일행",
+   "next_speaker": "미야시로 일행",
+   "jp": "「「「「ええっ？」」」」"
+  },
+  {
+   "id": "clse07:990600",
+   "type": "dialogue",
+   "speaker": "宮代達",
+   "speaker_ko": "미야시로 일행",
+   "prev_speaker": "일동",
+   "next_speaker": "이토 일행",
+   "jp": "「！？」⟦n⟧⟦par⟧「う？」⟦n⟧⟦par⟧「ひ？」"
+  },
+  {
+   "id": "clse07:990700",
+   "type": "dialogue",
+   "speaker": "宮代達",
+   "speaker_ko": "미야시로 일행",
+   "prev_speaker": "일동",
+   "next_speaker": "이토 일행",
+   "jp": "「「は？」」"
+  },
+  {
+   "id": "clse07:990800",
+   "type": "dialogue",
+   "speaker": "伊藤達",
+   "speaker_ko": "이토 일행",
+   "prev_speaker": "미야시로 일행",
+   "next_speaker": "쿠루스 일행",
+   "jp": "「ようこそ、我ら、オトコ王国へ」⟦n⟧⟦par⟧「ようこそ、我ら、オトコ王国へ」⟦n⟧⟦par⟧「ようこそ、我ら、オトコ王国へ」"
+  },
+  {
+   "id": "clse07:990900",
+   "type": "dialogue",
+   "speaker": "来栖達",
+   "speaker_ko": "쿠루스 일행",
+   "prev_speaker": "이토 일행",
+   "next_speaker": "일동",
+   "jp": "「拓留〜！？」⟦n⟧⟦par⟧「タク〜！！」"
+  },
+  {
+   "id": "clse07:991000",
+   "type": "dialogue",
+   "speaker": "来栖達",
+   "speaker_ko": "쿠루스 일행",
+   "prev_speaker": "이토 일행",
+   "next_speaker": "일동",
+   "jp": "「最低！」⟦n⟧⟦par⟧「最低！」⟦n⟧⟦par⟧「最低！」"
+  },
+  {
+   "id": "clse07:991100",
+   "type": "dialogue",
+   "speaker": "一同",
+   "speaker_ko": "일동",
+   "prev_speaker": "쿠루스 일행",
+   "next_speaker": "타치바나 남매",
+   "jp": "「「「「「いただきます」」」」」"
+  },
+  {
+   "id": "clse07:991200",
+   "type": "dialogue",
+   "speaker": "橘姉弟",
+   "speaker_ko": "타치바나 남매",
+   "prev_speaker": "일동",
+   "next_speaker": "미야시로 일행",
+   "jp": "「はぁい」⟦n⟧⟦par⟧「はぁい」"
+  },
+  {
+   "id": "clse07:991300",
+   "type": "dialogue",
+   "speaker": "橘姉弟",
+   "speaker_ko": "타치바나 남매",
+   "prev_speaker": "일동",
+   "next_speaker": "미야시로 일행",
+   "jp": "「はぁい」⟦n⟧⟦par⟧「はぁい」"
+  },
+  {
+   "id": "clse07:991400",
+   "type": "dialogue",
+   "speaker": "宮代達",
+   "speaker_ko": "미야시로 일행",
+   "prev_speaker": "타치바나 남매",
+   "next_speaker": "일동",
+   "jp": "「どこがだよっ！」⟦n⟧⟦par⟧「どこがだよっ！」"
+  },
+  {
+   "id": "clse07:991500",
+   "type": "dialogue",
+   "speaker": "宮代達",
+   "speaker_ko": "미야시로 일행",
+   "prev_speaker": "타치바나 남매",
+   "next_speaker": "일동",
+   "jp": "「ぐ……」⟦n⟧⟦par⟧「ぐ……」"
+  },
+  {
+   "id": "clse07:991600",
+   "type": "dialogue",
+   "speaker": "一同",
+   "speaker_ko": "일동",
+   "prev_speaker": "미야시로 일행",
+   "next_speaker": "모두",
+   "jp": "「「「「「はぁ〜っ……」」」」」"
+  },
+  {
+   "id": "clse07:991700",
+   "type": "dialogue",
+   "speaker": "一同",
+   "speaker_ko": "일동",
+   "prev_speaker": "미야시로 일행",
+   "next_speaker": "모두",
+   "jp": "「「「「ごちそうさまでした」」」」"
+  },
+  {
+   "id": "clse07:991800",
+   "type": "dialogue",
+   "speaker": "全員",
+   "speaker_ko": "모두",
+   "prev_speaker": "일동",
+   "next_speaker": "미야시로 일행",
+   "jp": "「女帝！ 女帝！ 女帝！！」⟦n⟧⟦par⟧「女帝！ 女帝！ 女帝！！」⟦n⟧⟦par⟧「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:991900",
+   "type": "dialogue",
+   "speaker": "全員",
+   "speaker_ko": "모두",
+   "prev_speaker": "일동",
+   "next_speaker": "미야시로 일행",
+   "jp": "「女帝！ 女帝！ 女帝！！」⟦n⟧⟦par⟧「女帝！ 女帝！ 女帝！！」⟦n⟧⟦par⟧「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:992000",
+   "type": "dialogue",
+   "speaker": "全員",
+   "speaker_ko": "모두",
+   "prev_speaker": "일동",
+   "next_speaker": "미야시로 일행",
+   "jp": "「キース！ キース！ キース！！」⟦n⟧⟦par⟧「キース！ キース！ キース！！」⟦n⟧⟦par⟧「キース！ キース！ キース！！」"
+  },
+  {
+   "id": "clse07:992100",
+   "type": "dialogue",
+   "speaker": "全員",
+   "speaker_ko": "모두",
+   "prev_speaker": "일동",
+   "next_speaker": "미야시로 일행",
+   "jp": "「キース！ キース！ キース！！」⟦n⟧⟦par⟧「キース！ キース！ キース！！」⟦n⟧⟦par⟧「キース！ キース！ キース！！」"
+  },
+  {
+   "id": "clse07:992200",
+   "type": "dialogue",
+   "speaker": "全員",
+   "speaker_ko": "모두",
+   "prev_speaker": "일동",
+   "next_speaker": "미야시로 일행",
+   "jp": "「キース！ キース！ キース！！」⟦n⟧⟦par⟧「キース！ キース！ キース！！」⟦n⟧⟦par⟧「キース！ キース！ キース！！」"
+  },
+  {
+   "id": "clse07:992300",
+   "type": "dialogue",
+   "speaker": "宮代達",
+   "speaker_ko": "미야시로 일행",
+   "prev_speaker": "모두",
+   "next_speaker": null,
+   "jp": "「ぐぬぬ……！」⟦n⟧⟦par⟧「むむむ……！」"
+  }
+ ],
+ "context_after": []
+}

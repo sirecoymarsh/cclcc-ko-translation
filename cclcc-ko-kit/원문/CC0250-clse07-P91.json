@@ -1,0 +1,818 @@
+{
+ "packet_id": "CC0250-clse07-P91",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "아리무라 에미",
+  "와쿠이 슈이치",
+  "와타베 토모아키",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「――と、僕はいつもそうアドバイスしているんだが。愚かにも、彼は従おうとしないんだ」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「……ふふん。これはまた……」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「たとえば看護師などが、長く世話をしている患者に惚れてしまうということがあるそうだが……まさか君がねぇ」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「まぁ、いい。そろそろ君との話も飽きた。いちいち邪魔されて、⟦rb⟧鬱陶⟦rt⟧うっとう⟦/r⟧しくなってきたしね。このあたりで君との関係は終わりにしよう」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「一瞬で終わらせてあげよう。痛みも感じる間もないことを感謝してもらいたいね」"
+  },
+  {
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "jp": "「く、ははは！ ハハハハハハ、これは傑作だ！ 何をするかと思えば、そんな⟦rb⟧玩具⟦rt⟧おもちゃ⟦/r⟧で僕のディソードをどうにかできるとでも！？ ハハハハハハハ！！」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:861100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「久野里君。さっき、さんざんほめてやったのに……いきなりがっかりさせないでくれ」"
+  },
+  {
+   "id": "clse07:861200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なっ！？ なにぃ！？」"
+  },
+  {
+   "id": "clse07:861300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そ、そんな、バカなっ！？」"
+  },
+  {
+   "id": "clse07:861400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なぜお前が！？ ギガロマニアックスでもないお前が、なぜ！！」"
+  },
+  {
+   "id": "clse07:861500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くっ！」"
+  },
+  {
+   "id": "clse07:861600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「貴様ァァっ！」"
+  },
+  {
+   "id": "clse07:861700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「チィッ！」"
+  },
+  {
+   "id": "clse07:861800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くっ！ ――君には本当に驚かされるね。どういうカラクリなのかは知らないが、そんな子供だましでよくやる！」"
+  },
+  {
+   "id": "clse07:861900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だが、これで終わりだよ！」"
+  },
+  {
+   "id": "clse07:862000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぐうっ！！」"
+  },
+  {
+   "id": "clse07:862100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「“思考誘導”っ！？」"
+  },
+  {
+   "id": "clse07:862200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ぐぅううーーっ！」"
+  },
+  {
+   "id": "clse07:862300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「くっ、はぁっ……はぁはぁはぁ……！」"
+  },
+  {
+   "id": "clse07:862400",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:862500",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「貴様……なぜ、それを……？」"
+  },
+  {
+   "id": "clse07:862600",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "와타베 토모아키",
+   "jp": "「佐久間……？」"
+  },
+  {
+   "id": "clse07:862700",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "와타베 토모아키",
+   "jp": "「『人工ギガロマニアックス発生装置』！？」"
+  },
+  {
+   "id": "clse07:862800",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "와타베 토모아키",
+   "jp": "「しかしっ！ あの装置は、私が確かに回収した！ 設計図もデータファイルも全て消去したんだ！ コピーする時間など、絶対になかったはずだ」"
+  },
+  {
+   "id": "clse07:862900",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "와타베 토모아키",
+   "jp": "「！？ まさか……記憶した、というのか！？ 一度見ただけで、あれを！？」"
+  },
+  {
+   "id": "clse07:863000",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "와타베 토모아키",
+   "jp": "「君には充分警戒していたつもりだったが……それでも甘かったようだ。ただの⟦rb⟧玩具⟦rt⟧おもちゃ⟦/r⟧をいじっているものだとばかり思っていたが……まさかそう来るとは」"
+  },
+  {
+   "id": "clse07:863100",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "와타베 토모아키",
+   "jp": "「……僕は、君をそれなりに評価しているつもりだったが、それでもまだ過小評価だったんだな……」"
+  },
+  {
+   "id": "clse07:863200",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "와타베 토모아키",
+   "jp": "「今回は僕の完敗だ。この傷では、しばらく宮代くんや君たちにちょっかいを出すことは出来そうにない」"
+  },
+  {
+   "id": "clse07:863300",
+   "type": "dialogue",
+   "speaker": "和久井修一",
+   "speaker_ko": "와쿠이 슈이치",
+   "prev_speaker": null,
+   "next_speaker": "와타베 토모아키",
+   "jp": "「ああ。せいぜい気をつけることにするよ」"
+  },
+  {
+   "id": "clse07:863400",
+   "type": "dialogue",
+   "speaker": "渡部友昭",
+   "speaker_ko": "와타베 토모아키",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "？？？",
+   "jp": "「どうもー。ニコニヤニュース速報の渡部です！」"
+  },
+  {
+   "id": "clse07:863500",
+   "type": "dialogue",
+   "speaker": "渡部友昭",
+   "speaker_ko": "와타베 토모아키",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "？？？",
+   "jp": "「いやぁ、見ましたか、今の宮代少年のおどろいた顔！ ケッサクでしたねぇ！」"
+  },
+  {
+   "id": "clse07:863600",
+   "type": "dialogue",
+   "speaker": "渡部友昭",
+   "speaker_ko": "와타베 토모아키",
+   "prev_speaker": "와쿠이 슈이치",
+   "next_speaker": "？？？",
+   "jp": "「それでは今のシーンをもう一度、ご覧いただきましょう〜！」"
+  },
+  {
+   "id": "clse07:863700",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "와타베 토모아키",
+   "next_speaker": "아리무라 에미",
+   "jp": "「……それで、あなたは？」"
+  },
+  {
+   "id": "clse07:863800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「はっきりしない子ね。私はあなたについて訊いているんだけど」"
+  },
+  {
+   "id": "clse07:863900",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「宮代さんね。で、うちの雛絵とはどういうご関係？」"
+  },
+  {
+   "id": "clse07:864000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ちょっと。さっきからなにをヒソヒソ話してるの？ 訊いてるのはこっちなんだけど」"
+  },
+  {
+   "id": "clse07:864100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「お付き合いぃ？」"
+  },
+  {
+   "id": "clse07:864200",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ふ〜ん……ラブラブねぇ……」"
+  },
+  {
+   "id": "clse07:864300",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「ラブラブかどうかは置いておくとして、だからって年頃の娘が男の子とふたり暮らし、それもこんな環境でなんて、とてもじゃないけど感心できるものではないわね」"
+  },
+  {
+   "id": "clse07:864400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「あのね、雛絵。あなた、いくら高校生とはいえ、こんな風に男子の家に転がり込むのが許されるとでも思ってるの」"
+  },
+  {
+   "id": "clse07:864500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「それ……どういう意味？」"
+  },
+  {
+   "id": "clse07:864600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「っ……！！」"
+  },
+  {
+   "id": "clse07:864700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やめなさい、人前で――！！」"
+  },
+  {
+   "id": "clse07:864800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だ、だからって、こんな腹いせみたいなことしてどうなるの！」"
+  },
+  {
+   "id": "clse07:864900",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「とにかく、一緒に帰るわよ、雛絵」"
+  },
+  {
+   "id": "clse07:865000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代さんって言ったわね。あなたもいったいどういうつもり？」"
+  },
+  {
+   "id": "clse07:865100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「好き……ねえ」"
+  },
+  {
+   "id": "clse07:865200",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ねえ、宮代さん。あなた本当にこの子のこと、好きなの？」"
+  },
+  {
+   "id": "clse07:865300",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふーん……そう……」"
+  },
+  {
+   "id": "clse07:865400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあいいわ。今日のところは帰ります」"
+  },
+  {
+   "id": "clse07:865500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうせ今は何を言っても聞かないでしょうし。頭が冷えた頃にまた来るわ」"
+  },
+  {
+   "id": "clse07:865600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「帰り道がわからないんだけど。送ってもらえるかしら？」"
+  },
+  {
+   "id": "clse07:865700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「宮代さん」"
+  },
+  {
+   "id": "clse07:865800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「悪いわね。あの子の我がままに突き合わせて」"
+  },
+  {
+   "id": "clse07:865900",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あの子のことだもの。付き合ってるなんて嘘。どうせ、ひとの良い先輩に無理言って、転がり込んだってところでしょう？」"
+  },
+  {
+   "id": "clse07:866000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その顔は図星ってところね」"
+  },
+  {
+   "id": "clse07:866100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ま、でもあなたみたいなタイプを選んだところをみると、あの子の見る目もまんざらではないってことかもしれないけど」"
+  },
+  {
+   "id": "clse07:866200",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、あなたなら妙なことしそうにないものね」"
+  },
+  {
+   "id": "clse07:866300",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あなたも迷惑してるんでしょう？」"
+  },
+  {
+   "id": "clse07:866400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふ。でもあなたもおかしな子ね。迷惑なら、あんなバカげたお芝居に付き合わなければいいのに」"
+  },
+  {
+   "id": "clse07:866500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まあでも、どうせここで強引にあの子を連れて帰ったところで、同じことでしょうし、あなたには悪いけど、もう少しだけ面倒見てやってもらえるかしら？」"
+  },
+  {
+   "id": "clse07:866600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「迷惑代兼宿泊費よ」"
+  },
+  {
+   "id": "clse07:866700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、あんなところで暮らしているってことは、困ってるんじゃないの？」"
+  },
+  {
+   "id": "clse07:866800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なるほどね……」"
+  },
+  {
+   "id": "clse07:866900",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こっちのことよ。それより雛絵のこと、よろしくお願いね」"
+  },
+  {
+   "id": "clse07:867000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「その代わり、傷物にするようなことがあったら、その時は……わかってるわよね？」"
+  },
+  {
+   "id": "clse07:867100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、その先はもう大通りね。ここまでくればわかるわ。ありがとう、それじゃあ」"
+  },
+  {
+   "id": "clse07:867200",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら。ひょっとしてしばらく来ないうちに“お母さん”って呼ばれる関係になっちゃったのかしら？」"
+  },
+  {
+   "id": "clse07:867300",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わかってるわ。冗談よ、冗談」"
+  },
+  {
+   "id": "clse07:867400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「一応ね。ほら、この前来るって言ったから。私、嘘は嫌いなのよねぇ」"
+  },
+  {
+   "id": "clse07:867500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あら、気が利くわね。ちょうど喉乾いてたの」"
+  },
+  {
+   "id": "clse07:867600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なにそれ？」"
+  },
+  {
+   "id": "clse07:867700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、私、アップルティー嫌いなの。そのマウンテンなんとかでいいわ」"
+  },
+  {
+   "id": "clse07:867800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「話は言わなくてもわかってるわよね？」"
+  },
+  {
+   "id": "clse07:867900",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「雛絵。馬鹿みたいな意地を張るのはやめて、いい加減帰ってきなさい」"
+  },
+  {
+   "id": "clse07:868000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こちらの……宮代さん、だったかしら？ あなたにも随分と迷惑かけてるでしょう？」"
+  },
+  {
+   "id": "clse07:868100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なに、いきなり？」"
+  },
+  {
+   "id": "clse07:868200",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんなことしないわよ。それに、今は大事な話をしてるんだから、そんな話は後になさい」"
+  },
+  {
+   "id": "clse07:868300",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いい？ あなたたちはまだふたりとも学生よ。今はお遊びで許されるかもしれないけど、もしこのままおかしなことになったら、あなたたちで責任とれるの？」"
+  },
+  {
+   "id": "clse07:868400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……私だってこの前、あなたが家を出てから、少しは反省してるのよ。これまでのことも、これからのことも含めて、パパときちんとお話もしてるわ」"
+  },
+  {
+   "id": "clse07:868500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それより、今はあなたたちのことを話してるの」"
+  },
+  {
+   "id": "clse07:868600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こんな当てつけみたいな家出の真似事しなくても、もしもあなたたちが本気で好き合ってるというのなら、私だって何もそれを咎めるつもりはないわ」"
+  },
+  {
+   "id": "clse07:868700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、年相応の付き合い方というのもがあるはずでしょう？ そのあたりのことを、どう思ってるのかきちんと話してほしいの」"
+  },
+  {
+   "id": "clse07:868800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どうなの、宮代さん？」"
+  },
+  {
+   "id": "clse07:868900",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「雛絵！ 今は宮代さんに聞いてるの！」"
+  },
+  {
+   "id": "clse07:869000",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は？ なんなのいきなり。どうしてまた……」"
+  },
+  {
+   "id": "clse07:869100",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": "카메라맨",
+   "jp": "「もちろん帰って来るなら、文句はないわ」"
+  },
+  {
+   "id": "clse07:869200",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": "카메라맨",
+   "jp": "「でも、理由を説明しなさい、理由を。これまで散々心配かけておいて、説明もなしにいきなり帰るなんて、こっちだってわけがわからないわ」"
+  },
+  {
+   "id": "clse07:869300",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": "카메라맨",
+   "jp": "「よくないわよ。こないだはふたり口裏あわせて、妙なこと言ってたけど、あの遊びはもう終わりってこと？」"
+  },
+  {
+   "id": "clse07:869400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": "카메라맨",
+   "jp": "「気まぐれも結構だけど、それに付き合わされる人のことも少しは考えたらどう？ くだらない嘘に付き合わされた宮代さんもいい迷惑よね」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「いいのよ、はっきり言ってあげて。そうじゃないと、この子、わからないんだから」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「…………？」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「……なんなのよ、いったい」"
+  }
+ ]
+}

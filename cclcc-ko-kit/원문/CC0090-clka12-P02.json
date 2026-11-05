@@ -1,0 +1,678 @@
+{
+ "packet_id": "CC0090-clka12-P02",
+ "kit_version": "1.0",
+ "source_file": "clka12.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ん？」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「な、なんでもない。入ろう」"
+  },
+  {
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "jp": "「ん」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いつもと変わらない日常が始まる。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "香月のなにかが変わったわけではない。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕のなにかが変わったわけでもない。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka12:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "二人とも、人付き合いが苦手だった。"
+  },
+  {
+   "id": "clka12:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "二人とも、人と話をするのが苦手だった。"
+  },
+  {
+   "id": "clka12:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "二人とも、人の気持ちを推し量るのが苦手だった。"
+  },
+  {
+   "id": "clka12:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "だから、これまでは特別な相手を作りたいと思うこともなかった。"
+  },
+  {
+   "id": "clka12:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": null,
+   "jp": "でも。"
+  },
+  {
+   "id": "clka12:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "でも、そんな二人だからこそ、相手の力になってあげたいと思える。"
+  },
+  {
+   "id": "clka12:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "力になれなくても、困っている時に傍にいてあげたいと思える。"
+  },
+  {
+   "id": "clka12:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "傍にいてあげられなくても、この世界のどこかにその人がいると思える。"
+  },
+  {
+   "id": "clka12:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それが、とても素敵なことなんだと、今、僕は知っている。"
+  },
+  {
+   "id": "clka12:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "きっと。"
+  },
+  {
+   "id": "clka12:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "きっと、今僕の横で、耳まで真っ赤にしながらロリポップの棒をブンブン動かしているこの女の子も。"
+  },
+  {
+   "id": "clka12:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "きっと、同じ気持ちなのだと、思う。"
+  },
+  {
+   "id": "clka12:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "二人で部室の入り口に立ち、自然に、二人でノブを握った。"
+  },
+  {
+   "id": "clka12:11300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "카즈키 하나",
+   "jp": "「これからも、よろしくな、香月」"
+  },
+  {
+   "id": "clka12:11400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……」"
+  },
+  {
+   "id": "clka12:11500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ん」"
+  },
+  {
+   "id": "clka12:11600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "部室には、伊藤、乃々、世莉架、雛絵が揃っていた。伊藤が座っている席に３人が集まり、なにやら話し込んでいる。"
+  },
+  {
+   "id": "clka12:11700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「みんな、昨日はありがとう。助かったよ。な？」"
+  },
+  {
+   "id": "clka12:11800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん」"
+  },
+  {
+   "id": "clka12:11900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "카즈키 하나",
+   "jp": "「それで、実はみんなに報告したいことがあって。な？」"
+  },
+  {
+   "id": "clka12:12000",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん」"
+  },
+  {
+   "id": "clka12:12100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「わざわざ報せるのもどうかと思うんだけど、みんなには手伝ってもらったわけだし――」"
+  },
+  {
+   "id": "clka12:12200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「――ん？」"
+  },
+  {
+   "id": "clka12:12300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "誰も、僕の話を聞いていない。伊藤が持っているなにかを見ながら喋っている。"
+  },
+  {
+   "id": "clka12:12400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「なあ、みんな――」"
+  },
+  {
+   "id": "clka12:12500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふうん、『来栖はツンデレが過ぎるので、もう少し年上のお姉さん的な余裕のあるエロさを醸し出せると良い』ねえ」"
+  },
+  {
+   "id": "clka12:12600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留ってば、姉に対してそういう劣情を感じてたわけねえ」"
+  },
+  {
+   "id": "clka12:12700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ひっ！！！」"
+  },
+  {
+   "id": "clka12:12800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「『尾上は、エロ知識のなさとガードの弱さから、気がつくと幼なじみ系エロ展開に持ち込めるかもしれない』」"
+  },
+  {
+   "id": "clka12:12900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タク、幼なじみ系エロ展開って、なに？」"
+  },
+  {
+   "id": "clka12:13000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ひいっ！！！」"
+  },
+  {
+   "id": "clka12:13100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「『有村はエロにオープンな所があるので、その場の勢いで持ち込める可能性がある』」"
+  },
+  {
+   "id": "clka12:13200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はあん、宮代先輩って、顔に似合わずケダモノなんですねえ」"
+  },
+  {
+   "id": "clka12:13300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「ひいいいいいいいっ！！！！！！！！」"
+  },
+  {
+   "id": "clka12:13400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "間違いない。伊藤が持っているあれは、『華』に盗まれた⟦col:280aa02d1400⟧クールキャットプレス⟦col:800000⟧だ！"
+  },
+  {
+   "id": "clka12:13500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「いいいいいい、伊藤！！！！！！ ななななな、なんでお前がそれを持ってるんだ！？」"
+  },
+  {
+   "id": "clka12:13600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんでって、部室に来たら置いてあったんだよ」"
+  },
+  {
+   "id": "clka12:13700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": null,
+   "jp": "「だ、だってそれは僕が昨日回収――」"
+  },
+  {
+   "id": "clka12:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――いや待て。"
+  },
+  {
+   "id": "clka12:13900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "回収、してないぞ？"
+  },
+  {
+   "id": "clka12:14000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "あの時、香月は確かにこの雑誌を手に持っていた。"
+  },
+  {
+   "id": "clka12:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして、僕に差し出した。"
+  },
+  {
+   "id": "clka12:14200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それから、"
+  },
+  {
+   "id": "clka12:14300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それから――"
+  },
+  {
+   "id": "clka12:14400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "――覚えて、ない。"
+  },
+  {
+   "id": "clka12:14500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「かかかかか、香月、これは一体――？」"
+  },
+  {
+   "id": "clka12:14600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "横を見ると、そこには誰もいなかった。"
+  },
+  {
+   "id": "clka12:14700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「か、香月！？」"
+  },
+  {
+   "id": "clka12:14800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「へ！？」"
+  },
+  {
+   "id": "clka12:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いつの間にか香月は窓際のＰＣに座り、いつものように⟦col:280aa02d1400⟧エンスー⟦col:800000⟧を始めていた。"
+  },
+  {
+   "id": "clka12:15000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「か、香月！」"
+  },
+  {
+   "id": "clka12:15100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕が窓際に駆け寄ろうとしたその時、"
+  },
+  {
+   "id": "clka12:15200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留ー？ これはあなたが書いた物なのよね？」"
+  },
+  {
+   "id": "clka12:15300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「『ツンデレが過ぎる』って、どういう意味か教えてくれる？」"
+  },
+  {
+   "id": "clka12:15400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……目が笑っていない。"
+  },
+  {
+   "id": "clka12:15500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "「い、いやこれは」"
+  },
+  {
+   "id": "clka12:15600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「タクー、幼なじみ系エロ展開ってなにー？」"
+  },
+  {
+   "id": "clka12:15700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「いや、あのだな」"
+  },
+  {
+   "id": "clka12:15800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代先輩、勢いで持ち込んでみます？ 私は構いませんよ」"
+  },
+  {
+   "id": "clka12:15900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「だ、だから！」"
+  },
+  {
+   "id": "clka12:16000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「い、伊藤！ 助けてくれ！」"
+  },
+  {
+   "id": "clka12:16100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、俺呼び出しだった。じゃあな、あとは頑張れ」"
+  },
+  {
+   "id": "clka12:16200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「嘘だろ！？」"
+  },
+  {
+   "id": "clka12:16300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「拓留？」"
+  },
+  {
+   "id": "clka12:16400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「タクー？」"
+  },
+  {
+   "id": "clka12:16500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代先輩？」"
+  },
+  {
+   "id": "clka12:16600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ぎやあああああああああああ！！！！！！！」"
+  },
+  {
+   "id": "clka12:16700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「……」"
+  },
+  {
+   "id": "clka12:16800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clka12:16900",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「……ふふっ」"
+  }
+ ],
+ "context_after": []
+}

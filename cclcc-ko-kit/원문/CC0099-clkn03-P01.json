@@ -1,0 +1,682 @@
+{
+ "packet_id": "CC0099-clkn03-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn03.msb",
+ "speakers_in_packet": [
+  "교사",
+  "남학생",
+  "여학생",
+  "카와하라 마사시",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn03:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "교사",
+   "jp": "時間は少し前にさかのぼる――。"
+  },
+  {
+   "id": "clkn03:100",
+   "type": "dialogue",
+   "speaker": "教師",
+   "speaker_ko": "교사",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「それじゃあ、今日の授業はここまで。ちゃんと復習しておくように」"
+  },
+  {
+   "id": "clkn03:200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "교사",
+   "next_speaker": "쿠루스 노노",
+   "jp": "午前中の終わりを告げるその声とともに、教室内は騒めきに包まれる。"
+  },
+  {
+   "id": "clkn03:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "교사",
+   "next_speaker": "쿠루스 노노",
+   "jp": "来栖乃々はバッグを取り出し、中から小さな袋を取り出した。"
+  },
+  {
+   "id": "clkn03:400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "교사",
+   "next_speaker": null,
+   "jp": "（もう。拓留ったら、さっさと先に行っちゃうんだから）"
+  },
+  {
+   "id": "clkn03:500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "せっかく用意しておいた弁当も持たずに、拓留は乃々たちを置いて登校してしまった。"
+  },
+  {
+   "id": "clkn03:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "⟦top:38⟧以前もそうだった。"
+  },
+  {
+   "id": "clkn03:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "同じ家に暮らしている姉弟同士、一緒に通学したところで何も恥ずかしいことなどないと何度言っても、拓留は嫌がった。"
+  },
+  {
+   "id": "clkn03:800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "교사",
+   "next_speaker": "여학생",
+   "jp": "（ホント、男の子って……）"
+  },
+  {
+   "id": "clkn03:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "お弁当は午前中の休憩時間にでも届けようとも思ったが、その都度生徒会の用事や授業の用意を頼まれたりといったことが重なり、結局昼になってしまった。"
+  },
+  {
+   "id": "clkn03:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "その上こんな日に限って教師は、チャイムが鳴った後もなかなか授業を終わろうとしないのだから、ついついヤキモキしてしまうというものだ。"
+  },
+  {
+   "id": "clkn03:1100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "여학생",
+   "jp": "（さて、と。急がなきゃ）"
+  },
+  {
+   "id": "clkn03:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여학생",
+   "jp": "拓留のことだ。早くしないと、購買部でパンでも買いに行くに違いない。"
+  },
+  {
+   "id": "clkn03:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여학생",
+   "jp": "そう思って弁当の入った袋を手に立ち上がったところで、クラスの子が話しかけてきた。"
+  },
+  {
+   "id": "clkn03:1400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、ねえ、乃々！ 一緒にお昼――」"
+  },
+  {
+   "id": "clkn03:1500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "여학생",
+   "next_speaker": "여학생",
+   "jp": "「あ、ごめん。今日はちょっと……」"
+  },
+  {
+   "id": "clkn03:1600",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「なに？ また生徒会？」"
+  },
+  {
+   "id": "clkn03:1700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "여학생",
+   "next_speaker": "여학생",
+   "jp": "「んー、まあ、ね……」"
+  },
+  {
+   "id": "clkn03:1800",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「こんな時期になってまで大変だよねぇ……」"
+  },
+  {
+   "id": "clkn03:1900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "여학생",
+   "next_speaker": null,
+   "jp": "「うん。だからまた今度。ゴメンね」"
+  },
+  {
+   "id": "clkn03:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "若干の後ろめたさを感じながらも、乃々は教室を後にして拓留の元へと急いだ。"
+  },
+  {
+   "id": "clkn03:2100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "여학생",
+   "next_speaker": null,
+   "jp": "「ええっと……拓留は……」"
+  },
+  {
+   "id": "clkn03:2200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "여학생",
+   "next_speaker": null,
+   "jp": "「あ、いたいた……たく――」"
+  },
+  {
+   "id": "clkn03:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "教室の扉の付近に立って、そう声をかけようとしたところで、乃々は言葉を飲み込んだ。"
+  },
+  {
+   "id": "clkn03:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "拓留の周りを尾上や雛絵が取り囲むようにして、楽しそうにご飯を食べていた。"
+  },
+  {
+   "id": "clkn03:2500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "実際はまた違う状況であったのだが、少なくとも乃々にはそう見えた。"
+  },
+  {
+   "id": "clkn03:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "拓留は口いっぱいにパンのようなものを頬張って、目を白黒させている。"
+  },
+  {
+   "id": "clkn03:2700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "카와하라 마사시",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn03:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "自然と、手にした弁当に目がいった。"
+  },
+  {
+   "id": "clkn03:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "あの様子だと、きっとお腹もいっぱいだろう。"
+  },
+  {
+   "id": "clkn03:3000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "카와하라 마사시",
+   "jp": "（しょうがないか……）"
+  },
+  {
+   "id": "clkn03:3100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "さっき生徒会の用があると言った手前、教室に戻ることもできず、乃々は生徒会室へと足を向けた。"
+  },
+  {
+   "id": "clkn03:3200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「来栖？」"
+  },
+  {
+   "id": "clkn03:3300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "生徒会室へ向かう道中、川原とばったり顔を合わせた。"
+  },
+  {
+   "id": "clkn03:3400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あれ？ もしかして生徒会室？ 今日、何かあったっけ？」"
+  },
+  {
+   "id": "clkn03:3500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「あ、ううん。そうじゃないんだけど、ちょっと……」"
+  },
+  {
+   "id": "clkn03:3600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「……？？？」"
+  },
+  {
+   "id": "clkn03:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "川原が拓留を快く思っていないことは、当然乃々も知っていた。"
+  },
+  {
+   "id": "clkn03:3800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ここで拓留のところに行っていたと知られれば、またどう思われるかわかったものではない。"
+  },
+  {
+   "id": "clkn03:3900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「か、川原くんは？」"
+  },
+  {
+   "id": "clkn03:4000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「今から購買に。さっきの授業が思ったより長引いちまってな。今さら行っても、ろくなの残ってないだろうけど……」"
+  },
+  {
+   "id": "clkn03:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "確かに、お昼時の購買部は戦場だ。"
+  },
+  {
+   "id": "clkn03:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "今さら行っても、既にめぼしいパンは売り切れているだろう。"
+  },
+  {
+   "id": "clkn03:4300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「あ……」"
+  },
+  {
+   "id": "clkn03:4400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ん？ なに……」"
+  },
+  {
+   "id": "clkn03:4500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「えっと、もし良かったらだけど……これ、どうかな？」"
+  },
+  {
+   "id": "clkn03:4600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "手に提げていた小さな袋を差し出して乃々は言った。"
+  },
+  {
+   "id": "clkn03:4700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「え？ これってもしかして……弁当？」"
+  },
+  {
+   "id": "clkn03:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "小さく頷く。"
+  },
+  {
+   "id": "clkn03:4900",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「来栖の手作り……？」"
+  },
+  {
+   "id": "clkn03:5000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「たいしたものは入ってないけど……」"
+  },
+  {
+   "id": "clkn03:5100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「これを……俺に？」"
+  },
+  {
+   "id": "clkn03:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "違う。"
+  },
+  {
+   "id": "clkn03:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "拓留のために作ったけど無駄になってしまったから――"
+  },
+  {
+   "id": "clkn03:5400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "⟦top:114⟧そう言おうと思ってふと、拓留と川原の関係を思い躊躇してしまった。"
+  },
+  {
+   "id": "clkn03:5500",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「マジかよ！？ 来栖が俺に弁当！ ヤバい！ すっげー嬉しい！！」"
+  },
+  {
+   "id": "clkn03:5600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「あ、そうじゃなくて――」"
+  },
+  {
+   "id": "clkn03:5700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "しかし、ひったくるように弁当を奪い取った川原の耳には、既に乃々の言葉は届いていないようだった。"
+  },
+  {
+   "id": "clkn03:5800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「来栖の手作り弁当かぁ。絶対美味いよなぁ」"
+  },
+  {
+   "id": "clkn03:5900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「そんなこと……」"
+  },
+  {
+   "id": "clkn03:6000",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "남학생",
+   "jp": "「そんなことあるって！ 絶対美味いに決まってる！！」"
+  },
+  {
+   "id": "clkn03:6100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "남학생",
+   "jp": "今にも弁当箱に頬ずりくらいしそうな勢いだ。"
+  },
+  {
+   "id": "clkn03:6200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「おい、雅司。何やってんだよ。早く行かないと売り切れんぞ！」"
+  },
+  {
+   "id": "clkn03:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "廊下の向こうから、川原のクラスメイトらしき男子が声をかけてきた。"
+  },
+  {
+   "id": "clkn03:6400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "남학생",
+   "next_speaker": "남학생",
+   "jp": "「ああ、悪い！ 俺、パンいらなくなったから、お前ら行って来いよ」"
+  },
+  {
+   "id": "clkn03:6500",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「は？ いらなくなったって、なんでだよ？」"
+  },
+  {
+   "id": "clkn03:6600",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "남학생",
+   "next_speaker": "남학생",
+   "jp": "「なんだよ？ 知りたいか？ あー、でもどうしようかな。教えるのももったいないしなぁ」"
+  },
+  {
+   "id": "clkn03:6700",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「は？ なんだよそれ。もしかしてお前……」"
+  },
+  {
+   "id": "clkn03:6800",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "남학생",
+   "next_speaker": "남학생",
+   "jp": "「いやぁ、実はさ……」"
+  },
+  {
+   "id": "clkn03:6900",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「なに勿体ぶってんだよ。早く教えろよ！」"
+  },
+  {
+   "id": "clkn03:7000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "남학생",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「あ、川原くん。それじゃあ、私はこれで……」"
+  },
+  {
+   "id": "clkn03:7100",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "「え？ 来栖？ どうせなら一緒に――」"
+  },
+  {
+   "id": "clkn03:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": null,
+   "jp": "なんだか面倒くさいことになりそうなので、乃々は川原が止めるのも聞かず、その場を後にした。"
+  },
+  {
+   "id": "clkn03:7300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": null,
+   "jp": "その姿は、川原から見れば、照れてその場から逃げ出したと受け取られたかもしれなかったが、乃々の考えはそこまでは及ばなかった。"
+  }
+ ],
+ "context_after": []
+}

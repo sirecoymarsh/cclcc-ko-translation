@@ -1,0 +1,512 @@
+{
+ "packet_id": "CC0125-clkn14-P02",
+ "kit_version": "1.0",
+ "source_file": "clkn14.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "오노에 세리카"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "証言や証拠を出しさえすれば実証できる可能性だってある。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "けれど尾上の質問に対する答えは、僕の中では既に決まっていた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「言わないよ、そんなこと……」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「どうして？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "どうして？"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その理由も散々考えた。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn14:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして考えた挙句、ひとつの答えに達していた。"
+  },
+  {
+   "id": "clkn14:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "揺らぎない答えに。"
+  },
+  {
+   "id": "clkn14:10200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「僕はもう嫌なんだよ……あいつのあんな哀しい顔を見るのが……」"
+  },
+  {
+   "id": "clkn14:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう、それが僕の出した答えだ。"
+  },
+  {
+   "id": "clkn14:10400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「久しぶりに⟦rb⟧青葉寮⟦rt⟧うち⟦/r⟧に帰ってさ、楽しかったんだよ、すごく……」"
+  },
+  {
+   "id": "clkn14:10500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "「父さんがいて、結衣や結人やうきがいて……そして赤ん坊がいて……」"
+  },
+  {
+   "id": "clkn14:10600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あいつが怒ったり文句言ったり笑ったり……」"
+  },
+  {
+   "id": "clkn14:10700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ずっと、こんな時間が続けばいいって思ったんだ」"
+  },
+  {
+   "id": "clkn14:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ずっとずっと。"
+  },
+  {
+   "id": "clkn14:10900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あいつが笑ってくれてればいいなって……」"
+  },
+  {
+   "id": "clkn14:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そしていつか……。"
+  },
+  {
+   "id": "clkn14:11100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いつか、本当の家族になれればって……そう思ったんだ……」"
+  },
+  {
+   "id": "clkn14:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "彼女が笑っていないだけで、⟦rb⟧青葉寮⟦rt⟧うち⟦/r⟧の中からはまるで火が消えてしまったようだ。"
+  },
+  {
+   "id": "clkn14:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "どれだけひかりがやかましく泣いていても、結衣や結人やうきが話をしていても、その中心からは光が消えてしまったかのようにすら思える。"
+  },
+  {
+   "id": "clkn14:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "光と火が消えた家は、ただただ寒く虚しいだけだ。"
+  },
+  {
+   "id": "clkn14:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今になってやっと僕は気づいてしまった。"
+  },
+  {
+   "id": "clkn14:11600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今こうして思い悩んでいる彼女を見ているだけで、胸が苦しい。"
+  },
+  {
+   "id": "clkn14:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "なんとかしてやりたいと思う。"
+  },
+  {
+   "id": "clkn14:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だから……。"
+  },
+  {
+   "id": "clkn14:11900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "오노에 세리카",
+   "jp": "「彼女の哀しみを僕が代わりに背負ってあげられるなら、僕は喜んで背負うよ」"
+  },
+  {
+   "id": "clkn14:12000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、タク。それってさ……のんちゃんが好きってことだよね？」"
+  },
+  {
+   "id": "clkn14:12100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ば、バカ！ ストレートに言うなよ！」"
+  },
+  {
+   "id": "clkn14:12200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「へ〜。否定しないってことは……そういうこと？」"
+  },
+  {
+   "id": "clkn14:12300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「っ……それは……ま、まあ……」"
+  },
+  {
+   "id": "clkn14:12400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そっか……」"
+  },
+  {
+   "id": "clkn14:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "尾上は優しく微笑んだ。"
+  },
+  {
+   "id": "clkn14:12600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それじゃあ訊くけど、タクが好きなのは、のんちゃん？ それとも泉理ちゃん？」"
+  },
+  {
+   "id": "clkn14:12700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「どっちだって一緒だよ。乃々だろうが泉理だろうが、あいつはあいつだ」"
+  },
+  {
+   "id": "clkn14:12800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「泉理として過ごした時間。乃々として生きた時間。その両方があって、今のあいつがいるんだから……」"
+  },
+  {
+   "id": "clkn14:12900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「学校で⟦col:280aa02d1400⟧女帝⟦col:800000⟧と言われてた乃々も、家でしっかり者の姉だった泉理も、どちらも彼女を形作っているものなら、僕はそれを受け入れるだけだ」"
+  },
+  {
+   "id": "clkn14:13000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕にはそれくらいしかできないけれど。"
+  },
+  {
+   "id": "clkn14:13100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "でも、それで彼女が少しでも救われるなら。"
+  },
+  {
+   "id": "clkn14:13200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それ……のんちゃんに直接言ってあげればいいのに」"
+  },
+  {
+   "id": "clkn14:13300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「そんな恥ずかしいこと、できるか」"
+  },
+  {
+   "id": "clkn14:13400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そっかなぁ。言ってあげたら喜ぶと思うけどなぁ」"
+  },
+  {
+   "id": "clkn14:13500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "喜んで……くれるだろうか。"
+  },
+  {
+   "id": "clkn14:13600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、それがタクの望みなら、私は反対しないよ」"
+  },
+  {
+   "id": "clkn14:13700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「……尾上がそう言ってくれるなら心強い。なんたって、お前は僕の大事な……友達だからな」"
+  },
+  {
+   "id": "clkn14:13800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「友達……かぁ」"
+  },
+  {
+   "id": "clkn14:13900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えへへー。なんかそういうの、改めて言われると照れるよね」"
+  },
+  {
+   "id": "clkn14:14000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「照れるなよ。お前が照れたら、僕まで照れちゃうだろ」"
+  },
+  {
+   "id": "clkn14:14100",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あー。タク、赤くなってる？」"
+  },
+  {
+   "id": "clkn14:14200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なってない」"
+  },
+  {
+   "id": "clkn14:14300",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「へへっ。でも……うん、なんか安心した。やっぱりタクはタクなんだなって」"
+  },
+  {
+   "id": "clkn14:14400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なんだよ、それ」"
+  },
+  {
+   "id": "clkn14:14500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「んーん。それじゃ、頑張ってね、応援してる」"
+  },
+  {
+   "id": "clkn14:14600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "尾上は軽やかに手を振ると、慌ただしく部室を出て行った。"
+  },
+  {
+   "id": "clkn14:14700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "考えてみればあれくらいのこと、尾上ならわざわざ聞かなくてもわかったはずなのに。"
+  },
+  {
+   "id": "clkn14:14800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "でも……。"
+  },
+  {
+   "id": "clkn14:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "声に出したおかげで、僕は自分の気持ちを再確認することができた。"
+  },
+  {
+   "id": "clkn14:15000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "後は……僕にとって一番大切なものを守る。"
+  },
+  {
+   "id": "clkn14:15100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": null,
+   "jp": "それが今の僕にできることだ。"
+  }
+ ],
+ "context_after": []
+}

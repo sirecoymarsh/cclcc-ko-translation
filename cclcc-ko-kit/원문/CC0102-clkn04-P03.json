@@ -1,0 +1,417 @@
+{
+ "packet_id": "CC0102-clkn04-P03",
+ "kit_version": "1.0",
+ "source_file": "clkn04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「それにしても驚いたねぇ」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「あ、ああ……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "他人の告白とはいえ、あんなに息が詰まるものだとは思わなかった。"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「しっかし、川原も度胸あるよなー。あの⟦col:280aa02d1400⟧女帝⟦col:800000⟧に、だぜ？」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「なんで？ のんちゃん、カワイイし性格もいいし家事だって何でもこなす⟦col:280aa02d1400⟧ステキ女子⟦col:800000⟧だよ？」"
+  },
+  {
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "jp": "「そうかもしんねえけどさ……でも普通に考えりゃ無理だって、最初からわかってるようなもんじゃん」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn04:20000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "이토 신지",
+   "next_speaker": "이토 신지",
+   "jp": "そう……なのか？"
+  },
+  {
+   "id": "clkn04:20100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「ま、本人は全然わかってなかったみたいだけどな」"
+  },
+  {
+   "id": "clkn04:20200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「それにしても無いわー。あの告白は無いわー」"
+  },
+  {
+   "id": "clkn04:20300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「『俺の女になれ、来栖』て！ しかも壁ドンって！」"
+  },
+  {
+   "id": "clkn04:20400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「そんなの、好きな男子以外からやられても引くだけだっつーの」"
+  },
+  {
+   "id": "clkn04:20500",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「クズ……かも……」"
+  },
+  {
+   "id": "clkn04:20600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "勝手に見られてた上にここまで酷評されると、ちょっと可哀想な気もするな。"
+  },
+  {
+   "id": "clkn04:20700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「とにかく皆、さっき見たことは――」"
+  },
+  {
+   "id": "clkn04:20800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "오노에 세리카",
+   "jp": "「ご、ごめんなさい、遅くなって」"
+  },
+  {
+   "id": "clkn04:20900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "言いかけたところで扉が開き、誰あろうその乃々が顔を見せた。"
+  },
+  {
+   "id": "clkn04:21000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、のんちゃん！ さっきの――！！」"
+  },
+  {
+   "id": "clkn04:21100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「わあああああああっ！！！」"
+  },
+  {
+   "id": "clkn04:21200",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？ んぐーっ、んふーっ！！」"
+  },
+  {
+   "id": "clkn04:21300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "慌てて尾上の口を塞ぐ。"
+  },
+  {
+   "id": "clkn04:21400",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はーっ……もう、なにするのタクー」"
+  },
+  {
+   "id": "clkn04:21500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「なに考えてんだよっ！ さっきの一部始終を僕たちが見てたってこと、来栖には内緒だ」"
+  },
+  {
+   "id": "clkn04:21600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「えー、どうしてー？」"
+  },
+  {
+   "id": "clkn04:21700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "「どうしてもだっ！」"
+  },
+  {
+   "id": "clkn04:21800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「むーっ」"
+  },
+  {
+   "id": "clkn04:21900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留？ どうしたの？」"
+  },
+  {
+   "id": "clkn04:22000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「あー、いや、なんでもないんだ、なんでも。な、伊藤？」"
+  },
+  {
+   "id": "clkn04:22100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「お、おう！」"
+  },
+  {
+   "id": "clkn04:22200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「？？？」"
+  },
+  {
+   "id": "clkn04:22300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "尾上は不服そうだったが、他の連中は一応わきまえてはいるようだった。"
+  },
+  {
+   "id": "clkn04:22400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まあいいわ。それより、今日の部活はどうする？」"
+  },
+  {
+   "id": "clkn04:22500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「あー、それなんだけど、僕、ちょっと用があるのを思い出してさ」"
+  },
+  {
+   "id": "clkn04:22600",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、俺も俺も！！」"
+  },
+  {
+   "id": "clkn04:22700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「たまには文芸部にも顔出さないと！」"
+  },
+  {
+   "id": "clkn04:22800",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「⟦col:280aa02d1400⟧エンスー⟦col:800000⟧の時間限定クエ……かも……」"
+  },
+  {
+   "id": "clkn04:22900",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「え？ えっと、私は、私は……帰ってマンガ読まなきゃ！」"
+  },
+  {
+   "id": "clkn04:23000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それは、いつだって出来るだろ。"
+  },
+  {
+   "id": "clkn04:23100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう……それじゃあ、今日はこれで解散にしましょうか」"
+  },
+  {
+   "id": "clkn04:23200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あ、ああ、そうだな。じゃ、僕はこれで」"
+  },
+  {
+   "id": "clkn04:23300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、拓留！ 今日は家には――」"
+  },
+  {
+   "id": "clkn04:23400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「っ……今日はやめとくよ。遅くなりそうだし」"
+  },
+  {
+   "id": "clkn04:23500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「そう……」"
+  },
+  {
+   "id": "clkn04:23600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "とてもじゃないけど、さっきのことが頭にチラついて、普通に過ごせるとは思えなかった。"
+  },
+  {
+   "id": "clkn04:23700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "せめて一日でも時間をおけば、今日の一件はなかったように過ごせるだろう。"
+  },
+  {
+   "id": "clkn04:23800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "そして。"
+  },
+  {
+   "id": "clkn04:23900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "確かにこの僕の予想どおり、翌日には今日のことは無かったように過ごすこととなった。"
+  },
+  {
+   "id": "clkn04:24000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "ただ、それは決して平穏な日常の回復とは程遠かったのだが。"
+  }
+ ],
+ "context_after": []
+}

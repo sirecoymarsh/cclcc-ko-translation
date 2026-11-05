@@ -1,0 +1,107 @@
+{
+ "packet_id": "CC0004-claa01-P04",
+ "kit_version": "1.0",
+ "source_file": "claa01.msb",
+ "speakers_in_packet": [
+  "쿠노사토 미오",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「えっ！？ い、いや、そんなことはないぞ、うむ」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「うふふ、冗談です。ちょっといじわるでしたね。今度は私の料理も食べて、感想を聞かせてください」"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「あ、ああ、もちろん」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "と……。"
+  },
+  {
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "jp": "「ん？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その時、部屋の隅で、澪のスマホの着信音が響いた。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "claa01:22000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "타치바나 유토",
+   "jp": "澪は、スマホを手に取ると画面を見たが――誰からの着信か分かったとたん、苦虫をかみつぶしたような顔になった。"
+  },
+  {
+   "id": "claa01:22100",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「先生？」"
+  },
+  {
+   "id": "claa01:22200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": null,
+   "jp": "「あ、いや、なんでもない。ちょっと面倒なヤツからの電話でな」"
+  },
+  {
+   "id": "claa01:22300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": null,
+   "jp": "「こいつから連絡がある時は、ロクなことがない」"
+  },
+  {
+   "id": "claa01:22400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "――スマホの画面には、『⟦rb⟧神成岳志⟦rt⟧しんじょうたけし⟦/r⟧』という名が表示されていた。"
+  },
+  {
+   "id": "claa01:22500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "⟦top:38⟧せっかくの楽しい時間が台無しだ。"
+  },
+  {
+   "id": "claa01:22600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "澪は、小声でそうつぶやいた。"
+  }
+ ],
+ "context_after": []
+}

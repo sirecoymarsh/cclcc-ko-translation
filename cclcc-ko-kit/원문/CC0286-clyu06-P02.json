@@ -1,0 +1,963 @@
+{
+ "packet_id": "CC0286-clyu06-P02",
+ "kit_version": "1.0",
+ "source_file": "clyu06.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "여자들",
+  "쿠루스 노노",
+  "타치바나 유이",
+  "타치바나 유토"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "それとも本当は怒ってて、僕をバカにしてるのか？"
+  },
+  {
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "jp": "「ほら、タクル。いらっしゃい。良い子良い子してあげる」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "乃々は何故か突然その場にしゃがみ込んで、両手を広げてみせた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "やっぱり僕をからかっているらしい。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "何が“良い子良い子”だ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "そんな事して欲しくなんて――。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu06:10000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "（あ、あれ？）"
+  },
+  {
+   "id": "clyu06:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "おかしい……身体が勝手に乃々の方に向かって進んでる……？"
+  },
+  {
+   "id": "clyu06:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その上、乃々のサイズ感が……やけに大きい気がするんだけど……。"
+  },
+  {
+   "id": "clyu06:10300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "（あ……）"
+  },
+  {
+   "id": "clyu06:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "――と、声を上げる間もなく、僕は乃々の大きな両手に軽々と抱えあげられてしまった。"
+  },
+  {
+   "id": "clyu06:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そして次の瞬間には、顔面が乃々のふくよかな胸の感触に覆われていた。"
+  },
+  {
+   "id": "clyu06:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "なんだこれ……柔らかい……。"
+  },
+  {
+   "id": "clyu06:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "それに……いい匂いがする。"
+  },
+  {
+   "id": "clyu06:10800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「よしよし、いいこいいこ」"
+  },
+  {
+   "id": "clyu06:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "や、やめろ！ 子どもじゃないんだから！"
+  },
+  {
+   "id": "clyu06:11000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유이",
+   "jp": "「キャン、キャン！」"
+  },
+  {
+   "id": "clyu06:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……あ、あれ？"
+  },
+  {
+   "id": "clyu06:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "おかしい。"
+  },
+  {
+   "id": "clyu06:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕の声……。"
+  },
+  {
+   "id": "clyu06:11400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유이",
+   "jp": "「キャン！！」"
+  },
+  {
+   "id": "clyu06:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "言葉が……出ない……。"
+  },
+  {
+   "id": "clyu06:11600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「乃々姉ばっかりズルいー。私もいいこいいこするー」"
+  },
+  {
+   "id": "clyu06:11700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「あん！ もう！」"
+  },
+  {
+   "id": "clyu06:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유이",
+   "jp": "違う。言葉だけじゃない。"
+  },
+  {
+   "id": "clyu06:11900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유토",
+   "jp": "「よしよし、いいこいいこ」"
+  },
+  {
+   "id": "clyu06:12000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "どうやら僕は……犬になってしまったらしい！！"
+  },
+  {
+   "id": "clyu06:12100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유토",
+   "jp": "何故？ どうして、突然こんなことに……？"
+  },
+  {
+   "id": "clyu06:12200",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu06:12300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유토",
+   "jp": "「なぁに？ もしかしてユウも良い子良い子したい？」"
+  },
+  {
+   "id": "clyu06:12400",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ぼ、僕は大丈夫」"
+  },
+  {
+   "id": "clyu06:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "ほ……良かった。"
+  },
+  {
+   "id": "clyu06:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "타치바나 유이",
+   "jp": "結人にまで抱きかかえられたら、僕はもうこの先、なんだかダメな方向へ歩み出してしまいそうな気がする。"
+  },
+  {
+   "id": "clyu06:12700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そ？ タクル、こんなにかわいいのに」"
+  },
+  {
+   "id": "clyu06:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "結衣の腕の中で身じろぎすると、乃々の時とはまた違う感触が身体中に触れた。"
+  },
+  {
+   "id": "clyu06:12900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "微かではあるが、充分に柔らかな感触――。"
+  },
+  {
+   "id": "clyu06:13000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あん！」"
+  },
+  {
+   "id": "clyu06:13100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「やだ、もう、タクルったら、そんなところ触っちゃダメでしょ？ めっ」"
+  },
+  {
+   "id": "clyu06:13200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ち、違うんだ。"
+  },
+  {
+   "id": "clyu06:13300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "今のはわざとじゃなくて――"
+  },
+  {
+   "id": "clyu06:13400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "（っ……）"
+  },
+  {
+   "id": "clyu06:13500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あれ？」"
+  },
+  {
+   "id": "clyu06:13600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「どうしたの？」"
+  },
+  {
+   "id": "clyu06:13700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「今、タクル……ぶるぶるってした。もしかしておしっこかな？」"
+  },
+  {
+   "id": "clyu06:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣はひょいと立ち上がると、僕を軽々と抱えて、いつの間にか部屋の隅に置かれていたペット用のトイレに放った。"
+  },
+  {
+   "id": "clyu06:13900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "（え……）"
+  },
+  {
+   "id": "clyu06:14000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "「はい、おしっこはそこでするのよ？」"
+  },
+  {
+   "id": "clyu06:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "ここでって言われても……。"
+  },
+  {
+   "id": "clyu06:14200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "「ほら。しー、しー……」"
+  },
+  {
+   "id": "clyu06:14300",
+   "type": "dialogue",
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu06:14400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유토",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu06:14500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そんな……いくら僕が犬だからといって、こんな風に見られている中で排尿するなんて、恥ずかしい真似できるわけがない。"
+  },
+  {
+   "id": "clyu06:14600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……と思っているのに。"
+  },
+  {
+   "id": "clyu06:14700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ク〜ン」"
+  },
+  {
+   "id": "clyu06:14800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "犬となってしまった僕の忍耐力は、自然の欲求に対してはまったくもって無力だった。"
+  },
+  {
+   "id": "clyu06:14900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유이",
+   "jp": "（あ……）"
+  },
+  {
+   "id": "clyu06:15000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「わ。いっぱいでてる……すごーい」"
+  },
+  {
+   "id": "clyu06:15100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "（やめて……見ないで……）"
+  },
+  {
+   "id": "clyu06:15200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu06:15300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうしたの、拓留兄？ 顔、赤いよ？」"
+  },
+  {
+   "id": "clyu06:15400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「あ、いや……別に、なんでも……ない……」"
+  },
+  {
+   "id": "clyu06:15500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "結衣の顔を真っ直ぐ見られず、思わず目線を外してしまった。"
+  },
+  {
+   "id": "clyu06:15600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「…………？」"
+  },
+  {
+   "id": "clyu06:15700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、結衣。拓留の姿が見えないんだけど、どこに行ったか知ら――」"
+  },
+  {
+   "id": "clyu06:15800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "得てして、悪い予感というものは当たるものだ。"
+  },
+  {
+   "id": "clyu06:15900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "乃々は入って来るなり、僕たちの姿を見て固まった。"
+  },
+  {
+   "id": "clyu06:16000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留……」"
+  },
+  {
+   "id": "clyu06:16100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "これは……完全に誤解している目だ。"
+  },
+  {
+   "id": "clyu06:16200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「く……乃々……違うんだ、これは――」"
+  },
+  {
+   "id": "clyu06:16300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "「違う？ 何が違うっていうの？」"
+  },
+  {
+   "id": "clyu06:16400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유이",
+   "jp": "乃々の背後に、真っ黒な暗雲が立ち込めるのが見えた気がした。"
+  },
+  {
+   "id": "clyu06:16500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유이",
+   "jp": "ここは何とか穏便に済ませたいところだが……。"
+  },
+  {
+   "id": "clyu06:16600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「待って、乃々姉」"
+  },
+  {
+   "id": "clyu06:16700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "不意に結衣が僕と乃々の間に立ちはだかった。"
+  },
+  {
+   "id": "clyu06:16800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「乃々姉には、私と拓留兄の仲をどうこう言う資格はないと思うんだけど」"
+  },
+  {
+   "id": "clyu06:16900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "쿠루스 노노",
+   "jp": "……いきなり何を言い出すんだ？"
+  },
+  {
+   "id": "clyu06:17000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「それは……どういうことかしら、結衣？」"
+  },
+  {
+   "id": "clyu06:17100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だって、乃々姉は拓留兄とは⟦rb⟧ただの⟦rt⟧⟦rbc⟧●●●⟦/r⟧⟦rb⟧家族⟦rt⟧⟦rbc⟧●●⟦/r⟧でしょ？ いつも言ってるもんね。だから拓留兄が私たちと何をしようが、関係ないもん」"
+  },
+  {
+   "id": "clyu06:17200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "쿠루스 노노",
+   "jp": "思わぬ結衣の言葉に、僕はただ呆気にとられていた。"
+  },
+  {
+   "id": "clyu06:17300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "쿠루스 노노",
+   "jp": "一方、乃々はといえば……。"
+  },
+  {
+   "id": "clyu06:17400",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「私たちの……関係？ 私には資格がない……？」"
+  },
+  {
+   "id": "clyu06:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "どう考えても、爆発寸前だった。"
+  },
+  {
+   "id": "clyu06:17600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "結衣の言っていることは半分は間違いない。"
+  },
+  {
+   "id": "clyu06:17700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕と乃々はただの⟦rb⟧姉弟⟦rt⟧きょうだい⟦/r⟧であって、それ以上でもそれ以下でもない。"
+  },
+  {
+   "id": "clyu06:17800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "何かあったところで、とやかく言われる筋合いはない。"
+  },
+  {
+   "id": "clyu06:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "問題なのは、それが結衣にも当てはまるということで……。"
+  },
+  {
+   "id": "clyu06:18000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう……」"
+  },
+  {
+   "id": "clyu06:18100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "突然、乃々の手に巨大な翼が生えた。"
+  },
+  {
+   "id": "clyu06:18200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや、それは――⟦col:280aa02d1400⟧ディソード⟦col:800000⟧。"
+  },
+  {
+   "id": "clyu06:18300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "⟦col:280aa02d1400⟧ギガロマニアックス⟦col:800000⟧だけが使えるという、妄想の剣――。"
+  },
+  {
+   "id": "clyu06:18400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ま、待て、乃々……早まるな！ 話せばわかる！！」"
+  },
+  {
+   "id": "clyu06:18500",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふぅん。そうやって脅せば従うって思ってるんでしょ」"
+  },
+  {
+   "id": "clyu06:18600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣はさらに乃々の心境を逆なでするようなことを言いながら、僕に抱き着くと、首に腕を絡めてきた。"
+  },
+  {
+   "id": "clyu06:18700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「お、おい、結衣……いい加減にしろって」"
+  },
+  {
+   "id": "clyu06:18800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いや。拓留兄は私のもんだもん。誰にも渡さないんだから」"
+  },
+  {
+   "id": "clyu06:18900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「っ……」"
+  },
+  {
+   "id": "clyu06:19000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "……わけがわからない。"
+  },
+  {
+   "id": "clyu06:19100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いったいいつの間に僕は、ふたりに奪い合われるような立場になったというんだ？"
+  },
+  {
+   "id": "clyu06:19200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여자들",
+   "jp": "「ふ、ふたりとも、少し落ち着いて……」"
+  },
+  {
+   "id": "clyu06:19300",
+   "type": "dialogue",
+   "speaker": "女子一同",
+   "speaker_ko": "여자들",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留は黙ってて！」⟦n⟧⟦par⟧「拓留兄は黙ってて！」"
+  },
+  {
+   "id": "clyu06:19400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여자들",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「う……」"
+  },
+  {
+   "id": "clyu06:19500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유토",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu06:19600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유토",
+   "jp": "乃々はディソードを手にしたままにじり寄って来る。"
+  },
+  {
+   "id": "clyu06:19700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유토",
+   "jp": "一方で結衣は僕を離すどころか、一層身体を密着させ、乃々に挑発的な視線を送っていた。"
+  },
+  {
+   "id": "clyu06:19800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유토",
+   "jp": "これじゃあ、本当に大惨事になってしまう。"
+  },
+  {
+   "id": "clyu06:19900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "타치바나 유토",
+   "jp": "どうしよう……。"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "どうすれば……。"
+  },
+  {
+   "speaker": "橘結人",
+   "speaker_ko": "타치바나 유토",
+   "jp": "「やめてっ！！！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その時、蚊帳の外から放たれた、空間を切り裂くような結人の一声に、ふたりの動きが止まった。"
+  }
+ ]
+}

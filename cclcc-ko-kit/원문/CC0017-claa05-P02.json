@@ -1,0 +1,840 @@
+{
+ "packet_id": "CC0017-claa05-P02",
+ "kit_version": "1.0",
+ "source_file": "claa05.msb",
+ "speakers_in_packet": [
+  "모두",
+  "미야시로 타쿠루",
+  "신문부원들",
+  "신조 타케시",
+  "여자",
+  "오노에 세리카",
+  "쿠노사토 미오",
+  "쿠루스 노노"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "神成さんが、一瞬、しまったという顔になった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "一方の久野里さんは、口の端でかすかに笑う。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "このふたり、どうにも久野里さんの方が一枚上手らしい。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その時、神成さんのポケットでスマホが鳴った。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "話題をそらせると思ったのか、彼は少しホッとしながら通話ボタンを押す。"
+  },
+  {
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "jp": "「はい、神成。こっちは今のところ特に――」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "claa05:6900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "神成さんがスマホに向かって何か言おうとする前に、電話口の向こうから、半狂乱になっている声が響いた。"
+  },
+  {
+   "id": "claa05:7000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "断片的にしか聞きとれないが、犯人らしき女を発見したとか、女が炎を出したとか、消防に緊急連絡をとか……とにかく、電話の相手は完全にパニックを起こしている。"
+  },
+  {
+   "id": "claa05:7100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "（……炎？ 女？）"
+  },
+  {
+   "id": "claa05:7200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "耳を澄ませてみると、街のあちらこちらから、消防のサイレンが聞こえ始めていた。"
+  },
+  {
+   "id": "claa05:7300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여자",
+   "jp": "「拓留！ 世莉架！ とにかく今日はもう帰りましょう！ 久野里さんも、刑事さんの言う事をちゃんと聞いて――」"
+  },
+  {
+   "id": "claa05:7400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여자",
+   "jp": "異変を察した来栖がそこまで言いかけた、その時、だった。"
+  },
+  {
+   "id": "claa05:7500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여자",
+   "jp": "カツッ……。ズルリ……。"
+  },
+  {
+   "id": "claa05:7600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여자",
+   "jp": "カツッ……。ズルリ……。"
+  },
+  {
+   "id": "claa05:7700",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "신문부원들",
+   "jp": "「…………」"
+  },
+  {
+   "id": "claa05:7800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "신문부원들",
+   "jp": "その女の姿は、路地の向こうからゆっくりと現れた。"
+  },
+  {
+   "id": "claa05:7900",
+   "type": "dialogue",
+   "speaker": "新聞部員たち",
+   "speaker_ko": "신문부원들",
+   "prev_speaker": "여자",
+   "next_speaker": "오노에 세리카",
+   "jp": "「！？」⟦n⟧⟦par⟧「う？」⟦n⟧⟦par⟧「ひ？」"
+  },
+  {
+   "id": "claa05:8000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "오노에 세리카",
+   "jp": "それは、なんとも不気味な女だった。"
+  },
+  {
+   "id": "claa05:8100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "오노에 세리카",
+   "jp": "顔のほとんどを覆い隠すほどの長い髪。そのせいで表情がまったく見えない。"
+  },
+  {
+   "id": "claa05:8200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "오노에 세리카",
+   "jp": "けれど、髪の奥から覗く瞳だけが、何かに飢えているように爛々と光っている。それはまるで、深淵に闇を宿したように、どこまでも⟦rb⟧昏⟦rt⟧くら⟦/r⟧い光だった。"
+  },
+  {
+   "id": "claa05:8300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "오노에 세리카",
+   "jp": "そんな女が、こちらに向かってゆっくりと歩いて来る。"
+  },
+  {
+   "id": "claa05:8400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "오노에 세리카",
+   "jp": "その動作がやけにぎこちなく見えるのは、片足を引きずっているからだと、僕はようやく気付いた。"
+  },
+  {
+   "id": "claa05:8500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "오노에 세리카",
+   "jp": "足を怪我しているのか、それとも、元々、足が悪いのか。"
+  },
+  {
+   "id": "claa05:8600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신문부원들",
+   "next_speaker": "오노에 세리카",
+   "jp": "だが、その⟦rb⟧緩慢⟦rt⟧かんまん⟦/r⟧にも見える動作が、逆に、獲物を狙う爬虫類のようで余計に恐ろしかった。"
+  },
+  {
+   "id": "claa05:8700",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "신문부원들",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「タク……」"
+  },
+  {
+   "id": "claa05:8800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あの人、いったい……？」"
+  },
+  {
+   "id": "claa05:8900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "신조 타케시",
+   "jp": "「尾上も来栖も、下がってろ」"
+  },
+  {
+   "id": "claa05:9000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "僕は自分の足が震えているのをごまかすかのように、ふたりを背にかばう格好で、逆に一歩前へ出た。"
+  },
+  {
+   "id": "claa05:9100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ダメだ、宮代くん。あいつは、今までのバカバカしい事件の連中とはわけが違う」"
+  },
+  {
+   "id": "claa05:9200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「え？」"
+  },
+  {
+   "id": "claa05:9300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ここ最近、渋谷で連続放火が起きてる。目撃情報から⟦rb⟧鑑⟦rt⟧かんが⟦/r⟧みて……犯人は、たぶんあの女だ」"
+  },
+  {
+   "id": "claa05:9400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「しかも、あいつはただの放火魔じゃない。火を使う能力者の可能性がある……」"
+  },
+  {
+   "id": "claa05:9500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「⟦col:280aa02d1400⟧⟦rb⟧発火能力者⟦rt⟧パイロキネシスト⟦/r⟧⟦col:800000⟧だと言うのか……？」"
+  },
+  {
+   "id": "claa05:9600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "⟦rb⟧発火能力⟦rt⟧パイロキネシス⟦/r⟧――。"
+  },
+  {
+   "id": "claa05:9700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "その能力の原理は未だに謎とされているが、通常では考えられないほどの短時間で熱エネルギーを発生させ、対象物を一瞬で燃え上がらせることが出来るという。"
+  },
+  {
+   "id": "claa05:9800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "それが、数ある能力の中でも、最凶最悪のひとつと言われているゆえんだ。"
+  },
+  {
+   "id": "claa05:9900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「⟦rb⟧所轄⟦rt⟧しょかつ⟦/r⟧の刑事がすでに２人やられてる。ここは俺がなんとかするから、久野里さんは、宮代くんたちを連れて、逃げろ」"
+  },
+  {
+   "id": "claa05:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "カツッ……。ズルリ……。"
+  },
+  {
+   "id": "claa05:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "カツッ……。ズルリ……。"
+  },
+  {
+   "id": "claa05:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "そうこうしているうちにも、女はゆっくりと近づいてくる。"
+  },
+  {
+   "id": "claa05:10300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": null,
+   "jp": "「止まれ！ 手を頭の後ろに置き、そのまま動くな！」"
+  },
+  {
+   "id": "claa05:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "神成さんがついに懐から拳銃を抜き、照準だけは女からやや外しつつ、叫んだ。"
+  },
+  {
+   "id": "claa05:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "だが、その次の瞬間！"
+  },
+  {
+   "id": "claa05:10600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うわっ！？」"
+  },
+  {
+   "id": "claa05:10700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": null,
+   "jp": "⟦rb⟧発火能力⟦rt⟧パイロキネシス⟦/r⟧が恐れられている理由の一端を、僕たちは目の当たりにすることになった。"
+  },
+  {
+   "id": "claa05:10800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "여자",
+   "jp": "あろうことか、神成さんが、手にしていた拳銃を放り出したのだ。"
+  },
+  {
+   "id": "claa05:10900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "여자",
+   "jp": "と同時に、拳銃は、まるでアメ細工の作り物であるかのようにグニャリと折れ曲がったかと思うと、いきなり火球と化した。"
+  },
+  {
+   "id": "claa05:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "여자",
+   "jp": "火球の芯が青みがかっているのは、たぶん、金属が燃える際の高温のせいだろうか。"
+  },
+  {
+   "id": "claa05:11100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "여자",
+   "jp": "銃にこめられていた弾丸の中の火薬が次々と破裂し、耳をつんざくような音があたりに響く。"
+  },
+  {
+   "id": "claa05:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "여자",
+   "jp": "神成さんはもちろん、あの久野里さんさえ言葉を失っていた。"
+  },
+  {
+   "id": "claa05:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "여자",
+   "jp": "そんな僕たちの姿を見て悦楽を感じたのか、女の口の端がニイッとつりあがった。"
+  },
+  {
+   "id": "claa05:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "여자",
+   "jp": "そして――ふいに。"
+  },
+  {
+   "id": "claa05:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "女の目が僕に向けられ、視線と視線がからみあった。"
+  },
+  {
+   "id": "claa05:11600",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「…………」"
+  },
+  {
+   "id": "claa05:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "最初それは、獲物を追い詰めた殺人者の笑みを含んでいたが――僕が尾上と来栖を必死になってかばっているのを見ると、いきなり、悪意と憎悪に満ちた目に変わった。"
+  },
+  {
+   "id": "claa05:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それがあまりにも恐ろしくて、思わずサッと視線を外してしまった。"
+  },
+  {
+   "id": "claa05:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "が、そろそろ大丈夫かと思って女に視線を戻してみると……。"
+  },
+  {
+   "id": "claa05:12000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여자",
+   "next_speaker": "여자",
+   "jp": "（うわぁっ、なんかまだこっち見てる！）"
+  },
+  {
+   "id": "claa05:12100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여자",
+   "jp": "女はなぜか僕をずっと見つめたまま、ザラザラとした不快な声でこう言った。"
+  },
+  {
+   "id": "claa05:12200",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……お前……死ね……」"
+  },
+  {
+   "id": "claa05:12300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "その途端、僕の足元から大きな炎の柱が立ち上った。"
+  },
+  {
+   "id": "claa05:12400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それはあまりにも唐突で、強力で、もしも僕の能力が⟦rb⟧念動⟦rt⟧サイコキネシス⟦/r⟧じゃなかったら、大火傷をおっていたに違いない。"
+  },
+  {
+   "id": "claa05:12500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕が本能的に炎に向かって能力をぶつけたことで、炎柱はかろうじて軌道を変え、そばにあった植え込みを一瞬で灰に変えた。"
+  },
+  {
+   "id": "claa05:12600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여자",
+   "next_speaker": "신조 타케시",
+   "jp": "（こ、この女、ヤバイ！ ヤバすぎる……！）"
+  },
+  {
+   "id": "claa05:12700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「二人を連れて逃げろ、宮代くんっ。早くっ」"
+  },
+  {
+   "id": "claa05:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "神成さんが久野里さんをかばいつつ、必死になって叫んでいるが、実のところ僕は足の震えが止まらず、思うように逃げることが出来なくなっていた。"
+  },
+  {
+   "id": "claa05:12900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "여자",
+   "jp": "「拓留っ、急いでっ……お願いっ」"
+  },
+  {
+   "id": "claa05:13000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "여자",
+   "jp": "あの“⟦col:280aa02d1400⟧女帝⟦col:800000⟧”来栖乃々ですら、歯の根も合わないような声で言うものの、僕と同じで、全く身動きができないようだった。"
+  },
+  {
+   "id": "claa05:13100",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": null,
+   "jp": "「逃がしは……しない……」"
+  },
+  {
+   "id": "claa05:13200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "女は、まるでゾンビ映画のワンシーンのように、片足を引きずりながらさらに僕たちのほうへと向かってくる。"
+  },
+  {
+   "id": "claa05:13300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "カツーン……ズルリ……。"
+  },
+  {
+   "id": "claa05:13400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "カツーン……ズルリ……。"
+  },
+  {
+   "id": "claa05:13500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そして女は、僕らの方に向かって指を突き出した。"
+  },
+  {
+   "id": "claa05:13600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "今にも、僕らの周囲に火柱が上がる様子が想像できた。"
+  },
+  {
+   "id": "claa05:13700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "もうだめだ。"
+  },
+  {
+   "id": "claa05:13800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "僕は、とっさに尾上と来栖を守ろうと、二人を抱きかかえるようにして地面に伏した。"
+  },
+  {
+   "id": "claa05:13900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "여자",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "神成さんも、久野里さんをかばうように抱いて、地面に転がる。"
+  },
+  {
+   "id": "claa05:14000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「きゃっ……」"
+  },
+  {
+   "id": "claa05:14100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "여자",
+   "jp": "神成さんに抱かれた時に、⟦rb⟧あの⟦rt⟧⟦rbc⟧●●⟦/r⟧久野里さんが、これまで聞いたこともないような可愛らしい悲鳴を上げたが、今はそれを気にとめている余裕さえない。"
+  },
+  {
+   "id": "claa05:14200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "여자",
+   "jp": "たぶん、こんなことをしても無駄だ。"
+  },
+  {
+   "id": "claa05:14300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "여자",
+   "jp": "一瞬後には、僕らのうちの誰かが火だるまに――"
+  },
+  {
+   "id": "claa05:14400",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "모두",
+   "jp": "「……うっ。うっ……うううっ……ぐすっ」"
+  },
+  {
+   "id": "claa05:14500",
+   "type": "dialogue",
+   "speaker": "全員",
+   "speaker_ko": "모두",
+   "prev_speaker": "여자",
+   "next_speaker": "여자",
+   "jp": "「「は？」」"
+  },
+  {
+   "id": "claa05:14600",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "모두",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うううっ、ぐすっ、うえぇぇ……」"
+  },
+  {
+   "id": "claa05:14700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여자",
+   "next_speaker": "신조 타케시",
+   "jp": "「あ、あれっ？」"
+  },
+  {
+   "id": "claa05:14800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ええっと？」"
+  },
+  {
+   "id": "claa05:14900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "おそるおそるパイロキネシストの女の方を振り仰ぐと、彼女はいつの間にかその場にペタンと座り込み、おいおいと泣き崩れていた。"
+  },
+  {
+   "id": "claa05:15000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "僕らは全員当惑して、顔を見合わせた。"
+  },
+  {
+   "id": "claa05:15100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ、あの〜？ ちょっと、キミ？」"
+  },
+  {
+   "id": "claa05:15200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「どうかしましたか〜？」"
+  },
+  {
+   "id": "claa05:15300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "여자",
+   "jp": "「大丈夫ですか〜？」"
+  },
+  {
+   "id": "claa05:15400",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "신조 타케시",
+   "jp": "「ううう、いいんです。私なんか放っておいてください。うわぁぁん……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いやいやいや！ 『放っといてくれ』もなにも、そっちが勝手に襲ってきたんでしょうが！？ ……と思わずツッコミそうになる自分をおさえ、僕は尾上と来栖に手を貸しつつ立ち上がった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "神成さんと久野里さんも、犯人の女を刺激しないようにそっと立ち上がると、彼女の方へ少しずつ近づいていく。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ちなみに、久野里さんが蚊の鳴くような声で『わ、私が男に押し倒されて『キャッ』とか悲鳴を上げただと？』とかブツブツ言っているみたいだが、それにはあえて触れないでおくことにする。"
+  }
+ ]
+}

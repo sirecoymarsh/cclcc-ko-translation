@@ -1,0 +1,957 @@
+{
+ "packet_id": "CC0326-_system-P02",
+ "kit_version": "1.0",
+ "source_file": "_system.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "シンクロしようよ-LCCmix-"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "The　uniting　with　limit"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "M.I.L"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "Silence"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "Adventure"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "Soliloquy"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_system:23500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "SHIBUYA"
+  },
+  {
+   "id": "_system:23600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Delusion"
+  },
+  {
+   "id": "_system:23700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Fear"
+  },
+  {
+   "id": "_system:23800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "SEIRA"
+  },
+  {
+   "id": "_system:23900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Girls"
+  },
+  {
+   "id": "_system:24000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Gradually　Panic"
+  },
+  {
+   "id": "_system:24100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Tender　hearts"
+  },
+  {
+   "id": "_system:24200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Doubt"
+  },
+  {
+   "id": "_system:24300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Mysterious"
+  },
+  {
+   "id": "_system:24400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Virtual　reality"
+  },
+  {
+   "id": "_system:24500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "I'm　rounder"
+  },
+  {
+   "id": "_system:24600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "In　the　ward"
+  },
+  {
+   "id": "_system:24700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Town　Vanguard"
+  },
+  {
+   "id": "_system:24800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Pity"
+  },
+  {
+   "id": "_system:24900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Detective"
+  },
+  {
+   "id": "_system:25000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Distorted　theory"
+  },
+  {
+   "id": "_system:25100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Truth　and　false"
+  },
+  {
+   "id": "_system:25200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "White　out"
+  },
+  {
+   "id": "_system:25300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Shogun"
+  },
+  {
+   "id": "_system:25400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "LastBattle"
+  },
+  {
+   "id": "_system:25500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Convert"
+  },
+  {
+   "id": "_system:25600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Final　chapter"
+  },
+  {
+   "id": "_system:25700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Colors"
+  },
+  {
+   "id": "_system:25800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Real　link"
+  },
+  {
+   "id": "_system:25900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Silent　Sky"
+  },
+  {
+   "id": "_system:26000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "極上HEAVEN"
+  },
+  {
+   "id": "_system:26100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "シンクロしようよ"
+  },
+  {
+   "id": "_system:26200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "祈りのヴィオレット"
+  },
+  {
+   "id": "_system:26300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "この空の彼方に"
+  },
+  {
+   "id": "_system:26400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "罪過に契約の血を"
+  },
+  {
+   "id": "_system:30000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "track"
+  },
+  {
+   "id": "_system:30100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "time"
+  },
+  {
+   "id": "_system:30200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "title"
+  },
+  {
+   "id": "_system:30300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "？？？？？"
+  },
+  {
+   "id": "_system:30400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "artist"
+  },
+  {
+   "id": "_system:30500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "..."
+  },
+  {
+   "id": "_system:31000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作曲：　阿保剛"
+  },
+  {
+   "id": "_system:31100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作曲：志倉千代丸　編曲：　阿保剛"
+  },
+  {
+   "id": "_system:31200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "歌：アフィリア・サーガ　作詞/作曲：志倉千代丸　編曲：久下真音"
+  },
+  {
+   "id": "_system:31300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "歌：イケてるハーツ　作詞/作曲：志倉千代丸　編曲：悠木真一"
+  },
+  {
+   "id": "_system:32000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＴＨＥ　ＯＴＨＥＲ　ＷＯＲＬＤ"
+  },
+  {
+   "id": "_system:32100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＯＴＯＢＯＫＥ"
+  },
+  {
+   "id": "_system:32200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＳＥＸＹ　ＶＩＥＷ"
+  },
+  {
+   "id": "_system:32300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＩＴ’Ｓ　ＦＡＲＣＥ"
+  },
+  {
+   "id": "_system:32400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＤＡＩＬＹ　ＳＴＥＰ"
+  },
+  {
+   "id": "_system:32500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＣＬＥＡＲ　ＣＯＬＯＲ"
+  },
+  {
+   "id": "_system:32600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＣＯＮＳＴＡＮＴ　ＤＡＹＳ"
+  },
+  {
+   "id": "_system:32700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｉ’Ｍ　ＣＯＮＳＣＩＯＵＳ"
+  },
+  {
+   "id": "_system:32800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＳＥＬＦ－ＲＥＡＬＩＺＡＴＩＯＮ"
+  },
+  {
+   "id": "_system:32900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＥＡＬ　ＢＯＯＴ　ＭＯＤＵＬＡＴＩＯＮ"
+  },
+  {
+   "id": "_system:33000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＣＯＭＥＤＹ’Ｓ　ＤＡＮＣＥ"
+  },
+  {
+   "id": "_system:33100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＰＳＹＣＨＥ"
+  },
+  {
+   "id": "_system:33200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＩＮＳＡＮＥ　ＥＲＯＳ"
+  },
+  {
+   "id": "_system:33300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "罪証のルシファー　－ｉｎｓｔｒｕｍｅｎｔａｌ－"
+  },
+  {
+   "id": "_system:33400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＢＯＹＤＡＫＥＹＯ"
+  },
+  {
+   "id": "_system:33500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＴＨＥ　ＴＨＩＲＤ　ＭＥＬＴ"
+  },
+  {
+   "id": "_system:33600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＶＩＥＷＰＯＩＮＴ"
+  },
+  {
+   "id": "_system:33700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＣＯＵＮＴ　ＤＯＷＮ"
+  },
+  {
+   "id": "_system:33800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＣＯＵＮＴ　ＤＯＷＮ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:33900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＰＥＡＫ　ＬＥＶＥＬ"
+  },
+  {
+   "id": "_system:34000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＮＥＵＴＲＡＬＳ"
+  },
+  {
+   "id": "_system:34100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＮＥＵＴＲＡＬＳ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:34200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＥＶＩＶＥＤ　ＳＨＩＢＵＹＡ"
+  },
+  {
+   "id": "_system:34300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＥＶＩＶＥＤ　ＳＨＩＢＵＹＡ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:34400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＣＡＰＡＣＩＴＹ"
+  },
+  {
+   "id": "_system:34500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＦＡＩＲＹ’Ｓ　ＤＡＮＣＥ"
+  },
+  {
+   "id": "_system:34600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＦＡＩＲＹ’Ｓ　ＤＡＮＣＥ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:34700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＩＮＳＰＥＣＴＩＯＮ"
+  },
+  {
+   "id": "_system:34800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＩＮＳＰＥＣＴＩＯＮ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:34900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＭＡＰＰＩＮＧ　ＭＯＤＥ"
+  },
+  {
+   "id": "_system:35000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＭＡＰＰＩＮＧ　ＭＯＤＥ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:35100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＡＮ　ＩＮＴＥＲＦＥＲＥＲ　ＩＮ　ＷＨＩＴＥ"
+  },
+  {
+   "id": "_system:35200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＧＩＲＬＩＳＨ"
+  },
+  {
+   "id": "_system:35300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＧＩＲＬＩＳＨ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:35400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＧＡＧ"
+  },
+  {
+   "id": "_system:35500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＴＨＥＮ"
+  },
+  {
+   "id": "_system:35600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＳＵＭＯ　ＳＥＡＬ"
+  },
+  {
+   "id": "_system:35700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＳＵＭＯ　ＳＥＡＬ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:35800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＡＨ　ＴＯＫＹＯ　ＧＥＮＥＲＡＬ　ＨＯＳＰＩＴＡＬ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:35900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＯＲＳＣＨＡＣＨ　ＴＥＳＴ"
+  },
+  {
+   "id": "_system:36000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＯＲＳＣＨＡＣＨ　ＴＥＳＴ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:36100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＮＥＴＷＯＲＫＥＲ"
+  },
+  {
+   "id": "_system:36200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＨＥＲ　ＷＯＲＲＩＥＳ"
+  },
+  {
+   "id": "_system:36300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＯＮＬＩＮＥ　ＮＯＷ"
+  },
+  {
+   "id": "_system:36400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＷＨＡＴ　ＷＡＳ　ＬＯＳＴ"
+  },
+  {
+   "id": "_system:36500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＭＯＲＥ　ＧＲＩＥＦ"
+  },
+  {
+   "id": "_system:36600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＴＨＥ　ＡＩＲ　ＯＦ　ＴＥＲＲＯＲ"
+  },
+  {
+   "id": "_system:36700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＴＨＥ　ＡＩＲ　ＯＦ　ＴＥＲＲＯＲ　－ｌｉｔｅ－"
+  },
+  {
+   "id": "_system:36800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＤＵＳＫ"
+  },
+  {
+   "id": "_system:36900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＦＡＲ　ＤＡＹＳ"
+  },
+  {
+   "id": "_system:37000",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＧＩＲＬＩＳＨ　－ＰＩＡＮＯ－"
+  },
+  {
+   "id": "_system:37100",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＤＩＤ　ＹＯＵ　ＥＮＪＯＹ？"
+  },
+  {
+   "id": "_system:37200",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＶＩＳＩＢＬＥ　ＥＳＳＥＮＣＥ"
+  },
+  {
+   "id": "_system:37300",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＤＩ－ＳＷＯＲＤ　ＯＦ　ＳＡＤＮＥＳＳ"
+  },
+  {
+   "id": "_system:37400",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＲＥＳＥＴ"
+  },
+  {
+   "id": "_system:37500",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＳＨＡＤＹ　ＡＭＢＩＥＮＣＥ"
+  },
+  {
+   "id": "_system:37600",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＦＬＡＳＨＢＡＣＫ"
+  },
+  {
+   "id": "_system:37700",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＬＡＳＴ　ＬＩＮＥ　－ＳＨＩＢＵＹＡ－"
+  },
+  {
+   "id": "_system:37800",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＨＥ　ＩＳ　…"
+  },
+  {
+   "id": "_system:37900",
+   "type": "system",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "非合理的かつ訂正不能な思い込み"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "罪証のルシファー"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "？？？"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "宮代拓留"
+  }
+ ]
+}

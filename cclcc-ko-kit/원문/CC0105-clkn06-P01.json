@@ -1,0 +1,524 @@
+{
+ "packet_id": "CC0105-clkn06-P01",
+ "kit_version": "1.0",
+ "source_file": "clkn06.msb",
+ "speakers_in_packet": [
+  "남학생",
+  "미야시로 타쿠루",
+  "아리무라 히나에",
+  "여학생",
+  "오노에 세리카",
+  "이토 신지",
+  "카와하라 마사시",
+  "카즈키 하나",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "clkn06:0",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": null,
+   "next_speaker": "여학생",
+   "jp": "「以上、賛成２５８、反対２４２、白票１３により『校内恋愛禁止令』は可決されることとなりました」"
+  },
+  {
+   "id": "clkn06:100",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "남학생",
+   "jp": "「ウソ〜」"
+  },
+  {
+   "id": "clkn06:200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "여학생",
+   "next_speaker": "여학생",
+   "jp": "「マジかよ〜！」"
+  },
+  {
+   "id": "clkn06:300",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "여학생",
+   "next_speaker": "여학생",
+   "jp": "「ざまぁ！」"
+  },
+  {
+   "id": "clkn06:400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "남학생",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「リア充爆発しろーっ！！」"
+  },
+  {
+   "id": "clkn06:500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "여학생",
+   "next_speaker": "이토 신지",
+   "jp": "「冗談……だろ？」"
+  },
+  {
+   "id": "clkn06:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "まさか、本当に可決してしまうなんて……。"
+  },
+  {
+   "id": "clkn06:700",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ほら見ろほら見ろ！ 公平になんつー綺麗ごと言ってるから、可決しちまったじゃねえか！！ どうしてくれるんだよ！」"
+  },
+  {
+   "id": "clkn06:800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "오노에 세리카",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn06:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "오노에 세리카",
+   "jp": "ステージ上にいる乃々も、呆然とした様子で立ちつくしている。"
+  },
+  {
+   "id": "clkn06:1000",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "이토 신지",
+   "jp": "「ビックリだねぇ」"
+  },
+  {
+   "id": "clkn06:1100",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あぁぁ、これで俺の⟦col:280aa02d1400⟧バラ色学園生活⟦col:800000⟧への希望は絶たれちまったぁ〜！」"
+  },
+  {
+   "id": "clkn06:1200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ていうかー、伊藤先輩は校則あってもなくても結果は変わんないからいいけどー、雛絵ちゃんなんてまだ２年生なのにー、これからずっと恋愛禁止だなんてカワイソー」"
+  },
+  {
+   "id": "clkn06:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕たち同様、あちらこちらで嘆きの声が聞こえる。"
+  },
+  {
+   "id": "clkn06:1400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "だが、それ以上に可決を喜ぶ声も聞こえていた。"
+  },
+  {
+   "id": "clkn06:1500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ようするに、僕たちは川原くんを侮っていたってことだ」"
+  },
+  {
+   "id": "clkn06:1600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "どうやら、この校則可決に向けての川原くんの働きかけは、僕たちの知らないところで、迅速且つ着実に進んでいたらしい。"
+  },
+  {
+   "id": "clkn06:1700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "まずは学内にいる⟦col:280aa02d1400⟧非モテ⟦col:800000⟧の連中。"
+  },
+  {
+   "id": "clkn06:1800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "特に間もなく卒業を迎える３年生を中心にした説得。"
+  },
+  {
+   "id": "clkn06:1900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "それから、学外に彼氏彼女のいる連中も、囲い込みの対象になったらしい。"
+  },
+  {
+   "id": "clkn06:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "彼らを相手に、どういう説得を試みたのかは、その話を聞いていない僕たちには知りようはないが、それはよほど巧妙なものだったに違いない。"
+  },
+  {
+   "id": "clkn06:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "結果として、過半数以上の人間がこうして賛成票に回ったのだから。"
+  },
+  {
+   "id": "clkn06:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카즈키 하나",
+   "jp": "全てはモテない人間のコンプレックスに訴えた川原くんの手腕というわけだ。"
+  },
+  {
+   "id": "clkn06:2300",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「ダテに副会長じゃなかった……かも……」"
+  },
+  {
+   "id": "clkn06:2400",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "오노에 세리카",
+   "jp": "「まあ、何気にアイツ、男には人気あるからな……」"
+  },
+  {
+   "id": "clkn06:2500",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「そういえば、副会長になった時の票も、ほとんど男子だっていう話だよねぇ」"
+  },
+  {
+   "id": "clkn06:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "そう……なのか。"
+  },
+  {
+   "id": "clkn06:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "오노에 세리카",
+   "jp": "僕たちに――主に僕にだけれど――対しては当たりが厳しいから考えたこともなかったけど、確かにいつも周りに誰かいるイメージはある。"
+  },
+  {
+   "id": "clkn06:2800",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「のんちゃん、大丈夫かなぁ？」"
+  },
+  {
+   "id": "clkn06:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "本来なら、こういう理不尽な校則に一番反対するのは乃々だ。"
+  },
+  {
+   "id": "clkn06:3000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "쿠루스 노노",
+   "jp": "けれど可決されてしまった今となっては、どうこう言えない――そう考えるのも乃々だ。"
+  },
+  {
+   "id": "clkn06:3100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clkn06:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "壇上の乃々は何も言わずにうつむいている。"
+  },
+  {
+   "id": "clkn06:3300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카즈키 하나",
+   "jp": "「うーん、結構ショック受けてるっぽいすねぇ」"
+  },
+  {
+   "id": "clkn06:3400",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「無理もない……かも……」"
+  },
+  {
+   "id": "clkn06:3500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「来栖！！！」"
+  },
+  {
+   "id": "clkn06:3600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あ……拓留……」"
+  },
+  {
+   "id": "clkn06:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "廊下で会った乃々は、やはり元気が無さそうだった。"
+  },
+  {
+   "id": "clkn06:3800",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私の見通しが甘かったみたい。まさか、こんな結果になるなんてね……」"
+  },
+  {
+   "id": "clkn06:3900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「でも別に来栖が責任感じる必要もないだろ。こうなったのも、学園の総意なわけだしさ……」"
+  },
+  {
+   "id": "clkn06:4000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「そうかな……」"
+  },
+  {
+   "id": "clkn06:4100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "카와하라 마사시",
+   "jp": "そもそも川原くんの目的は、フラれたことに対する意趣返しなんだし……。"
+  },
+  {
+   "id": "clkn06:4200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん？ 君たち」"
+  },
+  {
+   "id": "clkn06:4300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "おっと、噂をすれば、だ。"
+  },
+  {
+   "id": "clkn06:4400",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「言っておくが、校内恋愛は禁止だぞ、来栖」"
+  },
+  {
+   "id": "clkn06:4500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ぼ、ぼぼ、僕たちは別にそういうのじゃ……」"
+  },
+  {
+   "id": "clkn06:4600",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "카와하라 마사시",
+   "jp": "「わかってます。それともなに？ まさか異性と話をするだけでもダメだと言うつもり？」"
+  },
+  {
+   "id": "clkn06:4700",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いやいや、一応、念をおしただけだ。生徒会長には模範となってもらわなければいけないだろ？」"
+  },
+  {
+   "id": "clkn06:4800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "こういうことをすると、嫌われるだけだということがわからないのだろうか？"
+  },
+  {
+   "id": "clkn06:4900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "それともヤケクソなのか？"
+  },
+  {
+   "id": "clkn06:5000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "あるいは可愛さ余って憎さなんとか、ってのか？"
+  },
+  {
+   "id": "clkn06:5100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "카와하라 마사시",
+   "jp": "どちらにしても子どもっぽいったらない。"
+  },
+  {
+   "id": "clkn06:5200",
+   "type": "dialogue",
+   "speaker": "川原雅司",
+   "speaker_ko": "카와하라 마사시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「これからも誤解を招くような行動は慎むように、くれぐれも、気をつけてくれよ」"
+  },
+  {
+   "id": "clkn06:5300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "川原くんはくるりと踵を返し、廊下の向こうへと消えた。"
+  },
+  {
+   "id": "clkn06:5400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카와하라 마사시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「まあ、なんだ……困るって言ったって一部の人間なだけで、それも学校の外まで監視するわけにはいかないんだから、実際のところ実害はほとんどないんじゃないか？」"
+  },
+  {
+   "id": "clkn06:5500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「そう……だといいんだけど……」"
+  }
+ ],
+ "context_after": []
+}

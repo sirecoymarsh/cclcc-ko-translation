@@ -1,0 +1,960 @@
+{
+ "packet_id": "CC0253-clse07-P94",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "야마조에 우키",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「ほんとう……？」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「う、うん……」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「………」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「ね、姉さんの言う通りです」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「あ、あの、私はえっと……どちらも素敵だと……ですよね、拓留さん？」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「えっ？ ええっと、その……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:889500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい？」"
+  },
+  {
+   "id": "clse07:889600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:889700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:889800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は、はい……残念ながら」"
+  },
+  {
+   "id": "clse07:889900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私、拓留さんのこと、素敵なお兄ちゃんだと思っていたのに……えっちなお兄ちゃんだったのですね」"
+  },
+  {
+   "id": "clse07:890000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「やっぱりえっちです……」"
+  },
+  {
+   "id": "clse07:890100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「で、でもっ、私にとって拓留さんは大事なお兄ちゃん！ 私、我慢しますからっ！」"
+  },
+  {
+   "id": "clse07:890200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えっ？ せっかくなのに、なんとかしちゃっていいんですか？」"
+  },
+  {
+   "id": "clse07:890300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でしたら簡単です。私からなるべく遠く離れて下さい。そうすれば、解除出来ると思います」"
+  },
+  {
+   "id": "clse07:890400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私、ショックです」"
+  },
+  {
+   "id": "clse07:890500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はずかしいですね」"
+  },
+  {
+   "id": "clse07:890600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私もそんな気がします」"
+  },
+  {
+   "id": "clse07:890700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうなんですか？」"
+  },
+  {
+   "id": "clse07:890800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ有村さん、もしかしたらもう⟦rb⟧新聞部⟦rt⟧ここ⟦/r⟧には来ないということでしょうか？」"
+  },
+  {
+   "id": "clse07:890900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:891000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……心外です」"
+  },
+  {
+   "id": "clse07:891100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……私も冗談です」"
+  },
+  {
+   "id": "clse07:891200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふぇ……ほっぺ、引っ張らないれくらさい。いたい……れす……」"
+  },
+  {
+   "id": "clse07:891300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……まさか、考えてなかったんですか？」"
+  },
+  {
+   "id": "clse07:891400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふふ」"
+  },
+  {
+   "id": "clse07:891500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふふ」"
+  },
+  {
+   "id": "clse07:891600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もう、結衣ちゃんったら、素直じゃないんですから」"
+  },
+  {
+   "id": "clse07:891700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こんなこと言ってるけど、本当は寂しかったんですよ、結衣ちゃん」"
+  },
+  {
+   "id": "clse07:891800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「私、知ってますよ。時々、拓留さんのベッドでこっそりお昼寝してたこと」"
+  },
+  {
+   "id": "clse07:891900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それ、この前買ってきたお洋服ですよね。結衣ちゃんお気に入りの」"
+  },
+  {
+   "id": "clse07:892000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留さんのお部屋は、乃々さんがちゃんと掃除してくれてますから、以前のまま使えますよ」"
+  },
+  {
+   "id": "clse07:892100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「乃々さん、もしかしたら、出て来づらいのかも……」"
+  },
+  {
+   "id": "clse07:892200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だって、ほら……乃々さん家では……」"
+  },
+  {
+   "id": "clse07:892300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい」"
+  },
+  {
+   "id": "clse07:892400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いただきます」"
+  },
+  {
+   "id": "clse07:892500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい。お手伝いさせていただきました」"
+  },
+  {
+   "id": "clse07:892600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ええっ？」"
+  },
+  {
+   "id": "clse07:892700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まだ？」"
+  },
+  {
+   "id": "clse07:892800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、もしも本当に魔法が使えたら素敵ですよね」"
+  },
+  {
+   "id": "clse07:892900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「まさか……あのマジカル・ユイが結衣ちゃんだったなんて……」"
+  },
+  {
+   "id": "clse07:893000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あのっ、サインください……」"
+  },
+  {
+   "id": "clse07:893100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どんなマジックですか？」"
+  },
+  {
+   "id": "clse07:893200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ふふっ、拓留さんったら、そんなに驚くなんて」"
+  },
+  {
+   "id": "clse07:893300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ〜、結人くん。寝ぐせひどいです。なおさなきゃ」"
+  },
+  {
+   "id": "clse07:893400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、じゃあ私は診療所のお洗濯物を片付けてきますね」"
+  },
+  {
+   "id": "clse07:893500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おやすみなさい」"
+  },
+  {
+   "id": "clse07:893600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留さん。お風呂湧きましたよ。お先にどうぞ」"
+  },
+  {
+   "id": "clse07:893700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「今朝早く、うちの前に置かれていたんです。この手紙と一緒に」"
+  },
+  {
+   "id": "clse07:893800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「言われてみればそうですね」"
+  },
+  {
+   "id": "clse07:893900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい。すごくかわいいです」"
+  },
+  {
+   "id": "clse07:894000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ま、待ってください。赤ちゃんを抱く時はきちんと首のところを支えてあげないと」"
+  },
+  {
+   "id": "clse07:894100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「い、いえ……実際に経験はない……ですけど……」"
+  },
+  {
+   "id": "clse07:894200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:894300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は、はいっ。興味があるとかそういうわけではない……です……」"
+  },
+  {
+   "id": "clse07:894400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おふたりはやっぱり……」"
+  },
+  {
+   "id": "clse07:894500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「赤ちゃん、可愛いですね、拓留さん」"
+  },
+  {
+   "id": "clse07:894600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でちゅ、ね……？」"
+  },
+  {
+   "id": "clse07:894700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「は、はい……」"
+  },
+  {
+   "id": "clse07:894800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ふふっ」"
+  },
+  {
+   "id": "clse07:894900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そういえば、拓留さん、昨夜遅く泉理さんのお部屋から出て来ましたけど……」"
+  },
+  {
+   "id": "clse07:895000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:895100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「今日は拓留さんも一緒なんですね」"
+  },
+  {
+   "id": "clse07:895200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「また、遊びにきてね。待ってますから……」"
+  },
+  {
+   "id": "clse07:895300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「うんっ」"
+  },
+  {
+   "id": "clse07:895400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「また、遊びにきてね。待ってますから……」"
+  },
+  {
+   "id": "clse07:895500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「いったいどうしたんでしょう？ 最近、世莉架さんの様子、ちょっと変な気がします」"
+  },
+  {
+   "id": "clse07:895600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「ど、どうして私たちはダメなんですか？」"
+  },
+  {
+   "id": "clse07:895700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「でも……本当にそうなんでしょうか？」"
+  },
+  {
+   "id": "clse07:895800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": "？？？",
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:895900",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "야마조에 우키",
+   "next_speaker": "야마조에 우키",
+   "jp": "「拓留さーん！」"
+  },
+  {
+   "id": "clse07:896000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「はい、どうぞ。マウンテンビューです」"
+  },
+  {
+   "id": "clse07:896100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「尾上さんはグレープフルーツジュースで良かったですよね？」"
+  },
+  {
+   "id": "clse07:896200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「有村さんのアップルティーと姉さんのダージリンは、いま淹れますね」"
+  },
+  {
+   "id": "clse07:896300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「いえ。好きでやってることですから」"
+  },
+  {
+   "id": "clse07:896400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「私、ですか？」"
+  },
+  {
+   "id": "clse07:896500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「私は……特に……」"
+  },
+  {
+   "id": "clse07:896600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「趣味、ですか？ そうですね……お手伝いとか」"
+  },
+  {
+   "id": "clse07:896700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "？？？",
+   "next_speaker": null,
+   "jp": "「え……」"
+  },
+  {
+   "id": "clse07:896800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:896900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いえ……なんていうかその……そういうこと、あまり言われたことないので……」"
+  },
+  {
+   "id": "clse07:897000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いえ。気にしないでください。私が好きでやってることなので」"
+  },
+  {
+   "id": "clse07:897100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい。私は、こうして皆さんの役に立てて、私、嬉しいです」"
+  },
+  {
+   "id": "clse07:897200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あの、姉さん。私……」"
+  },
+  {
+   "id": "clse07:897300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい。では私は、戻ってお父さんの手伝いしておきます」"
+  },
+  {
+   "id": "clse07:897400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい」"
+  },
+  {
+   "id": "clse07:897500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いえ。好きでやってることですから」"
+  },
+  {
+   "id": "clse07:897600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……ありがとうございます」"
+  },
+  {
+   "id": "clse07:897700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「聴診器なら首にかかってます」"
+  },
+  {
+   "id": "clse07:897800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「父さんの様子を見てたらなんとなく」"
+  },
+  {
+   "id": "clse07:897900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？」"
+  },
+  {
+   "id": "clse07:898000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ……んぐ、んんんっ」"
+  },
+  {
+   "id": "clse07:898100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ご、ごちそうさまでした」"
+  },
+  {
+   "id": "clse07:898200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:898300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え？ アイドル活動……ですか？」"
+  },
+  {
+   "id": "clse07:898400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「でも、アイドルって何をすればいいのか、私わかりません……」"
+  },
+  {
+   "id": "clse07:898500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結衣ちゃんは、アイドルになりたいんですか？」"
+  },
+  {
+   "id": "clse07:898600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう……ですか……」"
+  },
+  {
+   "id": "clse07:898700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ〜あ〜あ〜……」"
+  },
+  {
+   "id": "clse07:898800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「…………」"
+  },
+  {
+   "id": "clse07:898900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、もしかして起こしてしまいましたか？ ごめんなさい」"
+  },
+  {
+   "id": "clse07:899000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう……ですか。よかった」"
+  },
+  {
+   "id": "clse07:899100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、はい。それじゃあ、失礼します」"
+  },
+  {
+   "id": "clse07:899200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい。実はその……」"
+  },
+  {
+   "id": "clse07:899300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「拓留さん。結衣ちゃんのお願い、聞いてあげてもらえないでしょうか？」"
+  },
+  {
+   "id": "clse07:899400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「はい……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「結衣ちゃん、ああやって納得してはいましたけど、本当はやってみたいはずなんです。だから……」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「結衣ちゃん……」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「えっと、それはその……」"
+  }
+ ]
+}

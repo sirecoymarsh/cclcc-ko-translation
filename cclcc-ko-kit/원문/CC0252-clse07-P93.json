@@ -1,0 +1,963 @@
+{
+ "packet_id": "CC0252-clse07-P93",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "야마조에 우키",
+  "여자",
+  "여학생",
+  "히카리",
+  "히카리 엄마"
+ ],
+ "context_before": [
+  {
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "jp": "「だぁだぁ」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:879500",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:879600",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:879700",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（泣き出す）」"
+  },
+  {
+   "id": "clse07:879800",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（泣きやむ）」"
+  },
+  {
+   "id": "clse07:879900",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:880000",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（くしゃみ）」"
+  },
+  {
+   "id": "clse07:880100",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（激しくなく声）」"
+  },
+  {
+   "id": "clse07:880200",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（激しくなく声）」"
+  },
+  {
+   "id": "clse07:880300",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（泣き止む声）」"
+  },
+  {
+   "id": "clse07:880400",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:880500",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（泣き声）」"
+  },
+  {
+   "id": "clse07:880600",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（泣きやむ）」"
+  },
+  {
+   "id": "clse07:880700",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": "히카리 엄마",
+   "jp": "「（だぁだぁ）」"
+  },
+  {
+   "id": "clse07:880800",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": "히카리 엄마",
+   "jp": "「（激しくなく声）」"
+  },
+  {
+   "id": "clse07:880900",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": "히카리 엄마",
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:881000",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": "히카리 엄마",
+   "jp": "「まぁま……」"
+  },
+  {
+   "id": "clse07:881100",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": "히카리 엄마",
+   "jp": "「まぁま……」"
+  },
+  {
+   "id": "clse07:881200",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": "히카리 엄마",
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:881300",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": "히카리 엄마",
+   "jp": "「まぁま……」"
+  },
+  {
+   "id": "clse07:881400",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": "히카리 엄마",
+   "jp": "「まぁま……」"
+  },
+  {
+   "id": "clse07:881500",
+   "type": "dialogue",
+   "speaker": "ひかりの母",
+   "speaker_ko": "히카리 엄마",
+   "prev_speaker": "히카리",
+   "next_speaker": "여학생",
+   "jp": "「本当にすみませんでした……」"
+  },
+  {
+   "id": "clse07:881600",
+   "type": "dialogue",
+   "speaker": "ひかりの母",
+   "speaker_ko": "히카리 엄마",
+   "prev_speaker": "히카리",
+   "next_speaker": "여학생",
+   "jp": "「はい」"
+  },
+  {
+   "id": "clse07:881700",
+   "type": "dialogue",
+   "speaker": "ひかりの母",
+   "speaker_ko": "히카리 엄마",
+   "prev_speaker": "히카리",
+   "next_speaker": "여학생",
+   "jp": "「本当にすみませんでした……」"
+  },
+  {
+   "id": "clse07:881800",
+   "type": "dialogue",
+   "speaker": "ひかりの母",
+   "speaker_ko": "히카리 엄마",
+   "prev_speaker": "히카리",
+   "next_speaker": "여학생",
+   "jp": "「はい」"
+  },
+  {
+   "id": "clse07:881900",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": null,
+   "jp": "「ウソ〜」"
+  },
+  {
+   "id": "clse07:882000",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": null,
+   "jp": "「クスクス」"
+  },
+  {
+   "id": "clse07:882100",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": null,
+   "jp": "「ほら、あの人……」"
+  },
+  {
+   "id": "clse07:882200",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": null,
+   "jp": "「どういうこと？」"
+  },
+  {
+   "id": "clse07:882300",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": null,
+   "jp": "「ねえ、それってつまり……」"
+  },
+  {
+   "id": "clse07:882400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": null,
+   "jp": "「なにそれ……」"
+  },
+  {
+   "id": "clse07:882500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": null,
+   "jp": "「でも、それくらい……」"
+  },
+  {
+   "id": "clse07:882600",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": "히카리 엄마",
+   "next_speaker": null,
+   "jp": "「なになに……？」"
+  },
+  {
+   "id": "clse07:882700",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あたしも、生徒会長にはお世話になったし……」"
+  },
+  {
+   "id": "clse07:882800",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:882900",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:883000",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おめでとー！」"
+  },
+  {
+   "id": "clse07:883100",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:883200",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:883300",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:883400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、会長。おはようございまーす」"
+  },
+  {
+   "id": "clse07:883500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「見て見て、ほら、あの人……」"
+  },
+  {
+   "id": "clse07:883600",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「いいえ、私よ！」"
+  },
+  {
+   "id": "clse07:883700",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「リア充爆発しろーっ！！」"
+  },
+  {
+   "id": "clse07:883800",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「クスクス」"
+  },
+  {
+   "id": "clse07:883900",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「近づいたら妊娠しちゃうんじゃない？」"
+  },
+  {
+   "id": "clse07:884000",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なにそれ？」"
+  },
+  {
+   "id": "clse07:884100",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「事実だって！」"
+  },
+  {
+   "id": "clse07:884200",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わけわかんないんだけど」"
+  },
+  {
+   "id": "clse07:884300",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「みんなだって従ってるんだし……」"
+  },
+  {
+   "id": "clse07:884400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「会長、何言ってるの？」"
+  },
+  {
+   "id": "clse07:884500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あんなメンドくさいこと、あたしなら頼まれてもヤだし……」"
+  },
+  {
+   "id": "clse07:884600",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:884700",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:884800",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ひゅーひゅー！」"
+  },
+  {
+   "id": "clse07:884900",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:885000",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:885100",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:885200",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わ！ 宮代プロデューサーよね？ 数々の一流アイドルを育てあげてるっていう」"
+  },
+  {
+   "id": "clse07:885300",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「バッカ。あんたなんて、プロデュースしてもらっても売れるわけないじゃん。それより私が」"
+  },
+  {
+   "id": "clse07:885400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そうよ。ただ、誕生日のプレゼントをもらってただけでしょ」"
+  },
+  {
+   "id": "clse07:885500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そんな！！」"
+  },
+  {
+   "id": "clse07:885600",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「にゃい、だって」"
+  },
+  {
+   "id": "clse07:885700",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「もしかしたら、あの子たちも毒牙に……？」"
+  },
+  {
+   "id": "clse07:885800",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「わけわかんないんだけど……」"
+  },
+  {
+   "id": "clse07:885900",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うそー！」"
+  },
+  {
+   "id": "clse07:886000",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「どーゆーことー？」"
+  },
+  {
+   "id": "clse07:886100",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「妥当だと思う……」"
+  },
+  {
+   "id": "clse07:886200",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「なんなの……？」"
+  },
+  {
+   "id": "clse07:886300",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ていうか、恋愛禁止とかありえなくない？」"
+  },
+  {
+   "id": "clse07:886400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:886500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:886600",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「自分たちばっかりずるーい！」"
+  },
+  {
+   "id": "clse07:886700",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:886800",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:886900",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:887000",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「私もプロデュースしてもらいたーい」"
+  },
+  {
+   "id": "clse07:887100",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「何言ってるの。私！！」"
+  },
+  {
+   "id": "clse07:887200",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「あ、生徒会長。さようなら」"
+  },
+  {
+   "id": "clse07:887300",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「来栖先輩、ごきげんよう」"
+  },
+  {
+   "id": "clse07:887400",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「あ、ねえ、乃々！ 一緒にお昼――」"
+  },
+  {
+   "id": "clse07:887500",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「なに？ また生徒会？」"
+  },
+  {
+   "id": "clse07:887600",
+   "type": "dialogue",
+   "speaker": "女子生徒",
+   "speaker_ko": "여학생",
+   "prev_speaker": null,
+   "next_speaker": "여자",
+   "jp": "「こんな時期になってまで大変だよねぇ……」"
+  },
+  {
+   "id": "clse07:887700",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "여학생",
+   "next_speaker": "야마조에 우키",
+   "jp": "「うきちゃんはいつもお手伝いして、小さいのに偉いねぇ」"
+  },
+  {
+   "id": "clse07:887800",
+   "type": "dialogue",
+   "speaker": "女",
+   "speaker_ko": "여자",
+   "prev_speaker": "여학생",
+   "next_speaker": "야마조에 우키",
+   "jp": "「ほら、飴ちゃんあげる。あとでお食べ」"
+  },
+  {
+   "id": "clse07:887900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「………。いますが、何か？」"
+  },
+  {
+   "id": "clse07:888000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「すみません。以後、気をつけます」"
+  },
+  {
+   "id": "clse07:888100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「帰りが少し遅いから、心配して迎えに来たの。……遅くなるなら、連絡くらいして欲しい」"
+  },
+  {
+   "id": "clse07:888200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「ええ？ 久野里さんでも、うっかりすることなんてあるんですね。ユウのお弁当に感激して……とか？」"
+  },
+  {
+   "id": "clse07:888300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「うふふ、冗談です。ちょっといじわるでしたね。今度は私の料理も食べて、感想を聞かせてください」"
+  },
+  {
+   "id": "clse07:888400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「そうですね。ははは……」"
+  },
+  {
+   "id": "clse07:888500",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「あ、えと、すみません。私……今、ちょっと“だいえっと”を……」"
+  },
+  {
+   "id": "clse07:888600",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": "여자",
+   "next_speaker": null,
+   "jp": "「で、でも、姉さん……私ね、最近なんか急に体重が増えて来ちゃってるの。お洋服も、胸やお尻のあたりとか、すごくキツイし……」"
+  },
+  {
+   "id": "clse07:888700",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「え……？」"
+  },
+  {
+   "id": "clse07:888800",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「……？ あの？」"
+  },
+  {
+   "id": "clse07:888900",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ほんとう……？」"
+  },
+  {
+   "id": "clse07:889000",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「う、うん……」"
+  },
+  {
+   "id": "clse07:889100",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「………」"
+  },
+  {
+   "id": "clse07:889200",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ね、姉さんの言う通りです」"
+  },
+  {
+   "id": "clse07:889300",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あ、あの、私はえっと……どちらも素敵だと……ですよね、拓留さん？」"
+  },
+  {
+   "id": "clse07:889400",
+   "type": "dialogue",
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「えっ？ ええっと、その……」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「はい？」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「………」"
+  },
+  {
+   "speaker": "山添うき",
+   "speaker_ko": "야마조에 우키",
+   "jp": "「………」"
+  }
+ ]
+}

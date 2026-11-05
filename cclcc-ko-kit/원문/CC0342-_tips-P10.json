@@ -1,0 +1,957 @@
+{
+ "packet_id": "CC0342-_tips-P10",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "へんがお"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "自らすすんで、極端に表情を変化させることで生み出される滑稽な顔。特に若い女子の間で流行っている。思い切りが良いと好印象を持たれるが、中途半端だとかわい子ぶっているととられるため常に危険と隣り合わせの行為ともいえる。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その他"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "デニール値"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "でにーるち"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "でにぃるち"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:89900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "タイツやストッキングなどの濃さを表す単位……と思われがちだが、本来は繊維の太さを表す単位。繊維を９０００メートルの長さに伸ばした際、１ｇとなる値を１デニールという。一般的には１１０デニール以上になると、タイツは透けないといわれているので、宴会の余興などで被る際には注意が必要。"
+  },
+  {
+   "id": "_tips:90000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:90100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "アプリ"
+  },
+  {
+   "id": "_tips:90200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あぷり"
+  },
+  {
+   "id": "_tips:90300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あぷり"
+  },
+  {
+   "id": "_tips:90400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ａｐｐｌｉｃａｔｉｏｎ　ｓｏｆｔｗａｒｅ。任意にＯＳへインストールすることで使えるようになるソフトのこと。"
+  },
+  {
+   "id": "_tips:90500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "作品"
+  },
+  {
+   "id": "_tips:90600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "エンスー"
+  },
+  {
+   "id": "_tips:90700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えんすー"
+  },
+  {
+   "id": "_tips:90800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えんすぅ"
+  },
+  {
+   "id": "_tips:90900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）日本最多のオンラインユーザー数を誇るオンラインＲＰＧ（ＭＭＯＲＰＧ）『エンパイア・スウィーパー・オンライン』の略称。中世ヨーロッパ風のファンタジー世界『バゼラード』を舞台に冒険を繰り広げる。"
+  },
+  {
+   "id": "_tips:91000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "渋谷"
+  },
+  {
+   "id": "_tips:91100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "スクランブル交差点"
+  },
+  {
+   "id": "_tips:91200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すくらんぶるこうさてん"
+  },
+  {
+   "id": "_tips:91300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すくらんぶるこうさてん"
+  },
+  {
+   "id": "_tips:91400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "車の流れと歩行者を完全に制御し分離する方式の交差点。つまり、歩行者側が青の場合は、車の流れはすべて止められ、逆に車が走る時は、歩行者は一切わたることが出来ない。特に渋谷のスクランブル交差点は、複数の横断歩道が入り組む複雑な構造にもかかわらず、誰もがぶつからずに渡る光景が興味深いと、外国人旅行者の観光スポットにもなっている。"
+  },
+  {
+   "id": "_tips:91500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:91600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "マッポ"
+  },
+  {
+   "id": "_tips:91700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まっぽ"
+  },
+  {
+   "id": "_tips:91800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "まっぽ"
+  },
+  {
+   "id": "_tips:91900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "警察官や巡査を示す俗称。主に怖い人たちの間で使われていた。『マッポ』という言葉自体は明治時代からあり、当時は警官に薩摩出身者が多く『さつまっぽう』と呼ばれたことから、略されてマッポになったと言われる。"
+  },
+  {
+   "id": "_tips:92000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:92100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "セクハラ"
+  },
+  {
+   "id": "_tips:92200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "せくはら"
+  },
+  {
+   "id": "_tips:92300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "せくはら"
+  },
+  {
+   "id": "_tips:92400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「性的嫌がらせ」のことで、相手の意に反して嫌悪感を抱かせるような性的な言葉や行為のことをいう。１９７０年代のアメリカで生まれた概念で、日本で言われ始めたのは１９８０年代に入ってのこと。男性から女性に対してだけでなく、女性から男性へ、あるいは同性同士でも性的に嫌悪感を抱かせる行為はセクハラとなり得る。"
+  },
+  {
+   "id": "_tips:92500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:92600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ダージリン"
+  },
+  {
+   "id": "_tips:92700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だーじりん"
+  },
+  {
+   "id": "_tips:92800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "だぁじりん"
+  },
+  {
+   "id": "_tips:92900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "インドは東ヒマラヤ山麓、標高２０００メートルに位置する、ダージリン地方にて栽培される紅茶。「紅茶のシャンペン」とも呼ばれ、世界三大紅茶のひとつともされる。その香りの高さから、多くの人に愛される紅茶でもある。"
+  },
+  {
+   "id": "_tips:93000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:93100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "都市伝説"
+  },
+  {
+   "id": "_tips:93200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "としでんせつ"
+  },
+  {
+   "id": "_tips:93300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "としでんせつ"
+  },
+  {
+   "id": "_tips:93400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "主に２０世紀以降において、根拠が不明であったり、曖昧であったりする噂話の事。怪談やオカルト、フォークロアとは区別されて扱われるが、最近はその定義が曖昧になってきている。クスリと笑えるような小話から、恐ろしいサスペンスチックなものまで、多くの都市伝説が存在し、あたかも実際にあった出来事のように語られる。代表的なものでは『トイレの花子さん』や『死体洗いのバイト』『ＭＩＢ』など。"
+  },
+  {
+   "id": "_tips:93500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:93600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "女性ホルモン"
+  },
+  {
+   "id": "_tips:93700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じょせいほるもん"
+  },
+  {
+   "id": "_tips:93800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じょせいほるもん"
+  },
+  {
+   "id": "_tips:93900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "女性が妊娠と出産を行う上で必要な体を作るために分泌されるホルモン。主にエストロゲンとプロゲステロンというふたつのホルモンのことを差す。"
+  },
+  {
+   "id": "_tips:94000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:94100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "カンフー映画"
+  },
+  {
+   "id": "_tips:94200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かんふーえいが"
+  },
+  {
+   "id": "_tips:94300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かんふぅえいが"
+  },
+  {
+   "id": "_tips:94400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "中国で作られた、中国拳法やカンフーを題材とした格闘映画。１９７０年代以降ブームとなり、多くのアクション俳優を生み出した。見終わった後は真似をしたくなる。"
+  },
+  {
+   "id": "_tips:94500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "渋谷"
+  },
+  {
+   "id": "_tips:94600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "青葉医院"
+  },
+  {
+   "id": "_tips:94700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あおばいいん"
+  },
+  {
+   "id": "_tips:94800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あおばいいん"
+  },
+  {
+   "id": "_tips:94900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）宮代拓留たちの義理の父親である佐久間恒が経営する個人医院。院長と看護師ふたりの計三名の小規模医院。建物の一階が病院で、二階と三階が拓留たちが預けられている養護施設、青葉寮となっている。最寄りは代々木公園駅。"
+  },
+  {
+   "id": "_tips:95000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:95100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ニヤ生"
+  },
+  {
+   "id": "_tips:95200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にやなま"
+  },
+  {
+   "id": "_tips:95300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にやなま"
+  },
+  {
+   "id": "_tips:95400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）ニコニヤ動画が提供するサービスの１つで、ライブストリーミングの動画共有サービス「ニコニヤ生放送」の略称。"
+  },
+  {
+   "id": "_tips:95500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:95600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＭＯＭＯＮＥ"
+  },
+  {
+   "id": "_tips:95700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ももね"
+  },
+  {
+   "id": "_tips:95800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＭＯＭＯＮＥ"
+  },
+  {
+   "id": "_tips:95900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）『音漏れてん』事件が一部で話題となった高柳桃寧が、半ばやけくそ気味にはじめたニヤ生で何故かブレイク。その後いくつかのキャラクターを模索した後辿り着いた、アイドルキャラ。聞くものの精神をいらだたせる、必要以上に甘ったるい口調は、回を追うごとにエスカレートしている。"
+  },
+  {
+   "id": "_tips:96000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:96100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "渋谷にうず"
+  },
+  {
+   "id": "_tips:96200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しぶやにうず"
+  },
+  {
+   "id": "_tips:96300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しぶやにうず"
+  },
+  {
+   "id": "_tips:96400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）渋谷に関連する情報を発信しているＰＣサイト。渋谷の高校生からの人気も高く、影響力も強い。大きなニュースがある時は、管理人であるケイさん自らがネットラジオを配信しており、ファンも多い。情報強者を自称する宮代拓留が認める情報サイトのひとつ。"
+  },
+  {
+   "id": "_tips:96500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:96600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ケイさん"
+  },
+  {
+   "id": "_tips:96700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "けいさん"
+  },
+  {
+   "id": "_tips:96800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "けいさん"
+  },
+  {
+   "id": "_tips:96900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "渋谷にうずの管理人。その正体は拓留たちも良く知る久野里澪で、名前の由来は彼女の頭文字からとったもの。本人の性格とは異なり、やさしくおっとりした声音からファンも多く、素性や写真などの公開を希望する声も多い。"
+  },
+  {
+   "id": "_tips:97000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:97100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "口パクアイドル"
+  },
+  {
+   "id": "_tips:97200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くちぱくあいどる"
+  },
+  {
+   "id": "_tips:97300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くちぱくあいどる"
+  },
+  {
+   "id": "_tips:97400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）口パクであることを自ら公言し、むしろ進んでネタにしていくスタイルのアイドル。"
+  },
+  {
+   "id": "_tips:97500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:97600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "エア・バンド"
+  },
+  {
+   "id": "_tips:97700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えあばんど"
+  },
+  {
+   "id": "_tips:97800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えあばんど"
+  },
+  {
+   "id": "_tips:97900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "楽器を手にいかにも弾いているように見せながら、実際には自らは演奏しておらず、またそれを公言しているバンドのこと。もはや弾いているフリすらもせず、パフォーマンスに従事する場合もある。"
+  },
+  {
+   "id": "_tips:98000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:98100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "炎上商法"
+  },
+  {
+   "id": "_tips:98200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えんじょうしょうほう"
+  },
+  {
+   "id": "_tips:98300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えんじょうしょうほう"
+  },
+  {
+   "id": "_tips:98400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "マーケティング手法のひとつで、ＳＮＳなどで、わざと非難され炎上するような意見を発信することによって、知名度や売り上げなどを伸ばそうとする商法。巻き込まれると大やけどをする。"
+  },
+  {
+   "id": "_tips:98500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:98600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "黒歴史"
+  },
+  {
+   "id": "_tips:98700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くろれきし"
+  },
+  {
+   "id": "_tips:98800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くろれきし"
+  },
+  {
+   "id": "_tips:98900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネットスラングの一つ。主に、なかったことにしたい、触れられたくない恥ずかしい過去の意味で使われる。元々は某有名ロボットアニメで使われていた単語から。"
+  },
+  {
+   "id": "_tips:99000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:99100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "デスノート"
+  },
+  {
+   "id": "_tips:99200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ですのーと"
+  },
+  {
+   "id": "_tips:99300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ですのぉと"
+  },
+  {
+   "id": "_tips:99400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "死を招くノート。厨二病をこじらせた手記や、過大な夢で彩られており、将来発掘された際、あまりの黒歴史ぶりから、恥ずかしさのあまり死にたくなるという、恐ろしいノートである。"
+  },
+  {
+   "id": "_tips:99500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:99600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ホノリウス"
+  },
+  {
+   "id": "_tips:99700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ほのりうす"
+  },
+  {
+   "id": "_tips:99800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ほのりうす"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "正確には『ホノリウス誓いの書』といい、グリモワール――つまり有名な魔導書のひとつ。テーベのホノリウスという人物によって書かれたとされている。降神術に用いると言われる。最古のものは大英図書館に収蔵されている。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その他"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ピカトリスク"
+  }
+ ]
+}

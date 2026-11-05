@@ -1,0 +1,323 @@
+{
+ "packet_id": "CC0284-clyu05-P02",
+ "kit_version": "1.0",
+ "source_file": "clyu05.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その結果の涙だった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いつもは元気で明るくて――だから結衣はもっと強い子なんだと思ってた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "でも、まだまだ子どもなんだ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "不安にもなるし、心細くだってなる。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕には、そんな結衣がとても意地らしく見えた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「大丈夫……結衣ならできるよ」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu05:10000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結局、僕は結衣を甘やかしていた。"
+  },
+  {
+   "id": "clyu05:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣の頭をそっと撫でてやる。"
+  },
+  {
+   "id": "clyu05:10200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "考えてみれば、結衣にこんなことしてやるのは初めてかもしれない……。"
+  },
+  {
+   "id": "clyu05:10300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「僕がついてる」"
+  },
+  {
+   "id": "clyu05:10400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほんと？」"
+  },
+  {
+   "id": "clyu05:10500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ああ……」"
+  },
+  {
+   "id": "clyu05:10600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "結衣はうるんだ目で僕を見上げた。"
+  },
+  {
+   "id": "clyu05:10700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ……拓留兄。お願いがあるんだけど……」"
+  },
+  {
+   "id": "clyu05:10800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「な、なに？」"
+  },
+  {
+   "id": "clyu05:10900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もうちょっとだけ、そうやって撫でててもらってもいい？」"
+  },
+  {
+   "id": "clyu05:11000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「……ああ」"
+  },
+  {
+   "id": "clyu05:11100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「……ありがと」"
+  },
+  {
+   "id": "clyu05:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そう言うと、結衣は僕の胸に顔をうずめた。"
+  },
+  {
+   "id": "clyu05:11300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "（あ、あれ……？）"
+  },
+  {
+   "id": "clyu05:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕、なにドキドキしてるんだよ？"
+  },
+  {
+   "id": "clyu05:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結衣は妹だぞ？"
+  },
+  {
+   "id": "clyu05:11600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "（でも、血は繋がってないんだよな……）"
+  },
+  {
+   "id": "clyu05:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それに……。"
+  },
+  {
+   "id": "clyu05:11800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "（子どもだ子どもだと思ってたけど、意外と……）"
+  },
+  {
+   "id": "clyu05:11900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "って、だから、変なこと考えるなよ、僕！"
+  },
+  {
+   "id": "clyu05:12000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、拓留兄」"
+  },
+  {
+   "id": "clyu05:12100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ん？」"
+  },
+  {
+   "id": "clyu05:12200",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留兄が出て行って、ホントはすごく寂しかったんだからね」"
+  },
+  {
+   "id": "clyu05:12300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ご、ゴメン……」"
+  },
+  {
+   "id": "clyu05:12400",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも……帰って来てくれて、嬉しい」"
+  },
+  {
+   "id": "clyu05:12500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「そ、そっか……」"
+  },
+  {
+   "id": "clyu05:12600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "結局、僕は結衣が落ち着くまで、そうしてやっていた。"
+  },
+  {
+   "id": "clyu05:12700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "確かに、踊りにはまだまだ問題があるかもしれない。"
+  },
+  {
+   "id": "clyu05:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "でも、結衣がここまでやる気になってるんだ。"
+  },
+  {
+   "id": "clyu05:12900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "きっと大丈夫。"
+  },
+  {
+   "id": "clyu05:13000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "少なくとも、僕だけはそう信じてやろうと、そう思った。"
+  }
+ ],
+ "context_after": []
+}

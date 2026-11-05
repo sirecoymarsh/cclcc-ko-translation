@@ -1,0 +1,161 @@
+{
+ "packet_id": "CC0275-clyu01-P12",
+ "kit_version": "1.0",
+ "source_file": "clyu01.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「う、うぅ……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ごめんな、結衣、結人。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "こんな目に遭わせて。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "せめてもの僕の罪滅ぼしとして……。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "僕はこの写真を、目に焼き付けておくことにするよ。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ずっと……。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu01:109500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ずっと。"
+  },
+  {
+   "id": "clyu01:109600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "타치바나 유이",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clyu01:109700",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、拓留兄……？」"
+  },
+  {
+   "id": "clyu01:109800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": null,
+   "jp": "「え？ あ、ああ」"
+  },
+  {
+   "id": "clyu01:109900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "ヤバい。"
+  },
+  {
+   "id": "clyu01:110000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "また妄想に耽ってしまった。"
+  },
+  {
+   "id": "clyu01:110100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "ていうか、なに焼き付けてんだよ僕は……。"
+  },
+  {
+   "id": "clyu01:110200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "全然、罪滅ぼしになってないじゃないか。"
+  },
+  {
+   "id": "clyu01:110300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "しかも、片方は男の子だぞ！！！"
+  },
+  {
+   "id": "clyu01:110400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "と、とにかく、ふたりをそんな目に遭わせるわけにはいかない。"
+  },
+  {
+   "id": "clyu01:110500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "ここから先は僕がしっかりしなくては。"
+  },
+  {
+   "id": "clyu01:110600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "よし！ 明日から早速、ふたりをアイドルに育て上げるためのプランを立てるぞ！！！！"
+  },
+  {
+   "id": "clyu01:110700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "と、まあそんなこんなで、僕はその日からしばらく、青葉寮で生活することにした。"
+  }
+ ],
+ "context_after": []
+}

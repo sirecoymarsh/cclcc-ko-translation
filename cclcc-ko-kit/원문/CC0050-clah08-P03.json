@@ -1,0 +1,234 @@
+{
+ "packet_id": "CC0050-clah08-P03",
+ "kit_version": "1.0",
+ "source_file": "clah08.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "아리무라 에미",
+  "아리무라 히나에"
+ ],
+ "context_before": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「いいでしょ。私、帰るって言ってるんだから」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「よくないわよ。こないだはふたり口裏あわせて、妙なこと言ってたけど、あの遊びはもう終わりってこと？」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「――っ」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「気まぐれも結構だけど、それに付き合わされる人のことも少しは考えたらどう？ くだらない嘘に付き合わされた宮代さんもいい迷惑よね」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「あ、いや……」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「いいのよ、はっきり言ってあげて。そうじゃないと、この子、わからないんだから」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah08:19900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに最初は迷惑だった。"
+  },
+  {
+   "id": "clah08:20000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ついさっきまで、迷惑だと思っていた。"
+  },
+  {
+   "id": "clah08:20100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "けれど、それでも――。"
+  },
+  {
+   "id": "clah08:20200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「その、僕は――」"
+  },
+  {
+   "id": "clah08:20300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "いつしか有村のことが……。"
+  },
+  {
+   "id": "clah08:20400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 에미",
+   "jp": "「やめてっ！！！」"
+  },
+  {
+   "id": "clah08:20500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………？」"
+  },
+  {
+   "id": "clah08:20600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「迷惑かけたのはわかってる……だから言わないで……」"
+  },
+  {
+   "id": "clah08:20700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「声に……出さないで……」"
+  },
+  {
+   "id": "clah08:20800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah08:20900",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ママ……先輩は最初から関係ないから……私が勝手におしかけて、無理矢理、居候してただけだから……」"
+  },
+  {
+   "id": "clah08:21000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村はゆっくりと立ち上がった。"
+  },
+  {
+   "id": "clah08:21100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先輩も、迷惑かけてごめんなさい……」"
+  },
+  {
+   "id": "clah08:21200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そして深々と頭を下げると、そのまま隅に置いていたバッグを肩にかけ、そのまま振り返りもせずに出て行ってしまった。"
+  },
+  {
+   "id": "clah08:21300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 에미",
+   "jp": "（有村……）"
+  },
+  {
+   "id": "clah08:21400",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「……なんなのよ、いったい」"
+  },
+  {
+   "id": "clah08:21500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "僕こそ、言いたかった。"
+  },
+  {
+   "id": "clah08:21600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "아리무라 에미",
+   "jp": "いったいなんなんだ。"
+  },
+  {
+   "id": "clah08:21700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「迷惑かけたわね。ごめんなさい……」"
+  },
+  {
+   "id": "clah08:21800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "有村の母さんは、ため息交じりに言うと、しっかりとした足取りで有村の跡を追って出て行った。"
+  },
+  {
+   "id": "clah08:21900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "帰り際に置いていった封筒の中には、お札が数枚入っていた。"
+  }
+ ],
+ "context_after": []
+}

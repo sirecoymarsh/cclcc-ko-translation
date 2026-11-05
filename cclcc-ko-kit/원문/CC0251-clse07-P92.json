@@ -1,0 +1,969 @@
+{
+ "packet_id": "CC0251-clse07-P92",
+ "kit_version": "1.0",
+ "source_file": "clse07.msb",
+ "speakers_in_packet": [
+  "교사",
+  "남자",
+  "남학생",
+  "미나미카타 켄지",
+  "선도부원",
+  "아리무라 에미",
+  "의사",
+  "점원",
+  "카메라맨",
+  "학생회 임원",
+  "히카리"
+ ],
+ "context_before": [
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「雛絵！ 今は宮代さんに聞いてるの！」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「は？ なんなのいきなり。どうしてまた……」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「もちろん帰って来るなら、文句はないわ」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「でも、理由を説明しなさい、理由を。これまで散々心配かけておいて、説明もなしにいきなり帰るなんて、こっちだってわけがわからないわ」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「よくないわよ。こないだはふたり口裏あわせて、妙なこと言ってたけど、あの遊びはもう終わりってこと？」"
+  },
+  {
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "jp": "「気まぐれも結構だけど、それに付き合わされる人のことも少しは考えたらどう？ くだらない嘘に付き合わされた宮代さんもいい迷惑よね」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clse07:869500",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": "카메라맨",
+   "jp": "「いいのよ、はっきり言ってあげて。そうじゃないと、この子、わからないんだから」"
+  },
+  {
+   "id": "clse07:869600",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": "카메라맨",
+   "jp": "「…………？」"
+  },
+  {
+   "id": "clse07:869700",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": "카메라맨",
+   "jp": "「……なんなのよ、いったい」"
+  },
+  {
+   "id": "clse07:869800",
+   "type": "dialogue",
+   "speaker": "有村恵美",
+   "speaker_ko": "아리무라 에미",
+   "prev_speaker": null,
+   "next_speaker": "카메라맨",
+   "jp": "「迷惑かけたわね。ごめんなさい……」"
+  },
+  {
+   "id": "clse07:869900",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "「はーい、こっち向いて笑ってくださーい」"
+  },
+  {
+   "id": "clse07:870000",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "「そっちの彼女、いい笑顔だね！ 衣装も凄い似合ってる！」"
+  },
+  {
+   "id": "clse07:870100",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "「んー、彼氏の方は表情堅いなー。もっとリラックスして行こうよ！」"
+  },
+  {
+   "id": "clse07:870200",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "「ほら彼氏さん、笑って笑って！ 折角の二人の新しい門出だよ！」"
+  },
+  {
+   "id": "clse07:870300",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "「あ、もっと雰囲気出した方が気分乗るかな？ そっちで行ってみようか」"
+  },
+  {
+   "id": "clse07:870400",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": null,
+   "jp": "「幸せそうな笑顔をください！ ⟦rb⟧新郎新婦の⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧⟦rb⟧お二人さん⟦rt⟧⟦rbc⟧●●●●●⟦/r⟧！」"
+  },
+  {
+   "id": "clse07:870500",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미나미카타 켄지",
+   "jp": "「いやあ、彼女さんは花嫁衣装が似合うねえ！ とても１６歳には見えない大人の色気を醸しだしてるよ！」"
+  },
+  {
+   "id": "clse07:870600",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": "아리무라 에미",
+   "next_speaker": "미나미카타 켄지",
+   "jp": "「うーん、逆に、彼氏さんの方は、正直あんまり似合ってないね。アッハッハ！」"
+  },
+  {
+   "id": "clse07:870700",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": null,
+   "next_speaker": "미나미카타 켄지",
+   "jp": "「お、いいねいいね！ 彼女さん、そうやってどんどん彼氏さんを誘惑しちゃって！」"
+  },
+  {
+   "id": "clse07:870800",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": null,
+   "next_speaker": "미나미카타 켄지",
+   "jp": "「よーし、じゃあ次はアレ行っちゃおうか！」"
+  },
+  {
+   "id": "clse07:870900",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": null,
+   "next_speaker": "미나미카타 켄지",
+   "jp": "「アレだよアレ。誓いのキッス！」"
+  },
+  {
+   "id": "clse07:871000",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": null,
+   "next_speaker": "미나미카타 켄지",
+   "jp": "「おお！ 彼女さんは積極的でいいねえ！」"
+  },
+  {
+   "id": "clse07:871100",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": null,
+   "next_speaker": "미나미카타 켄지",
+   "jp": "「ほら彼氏さん！ バッチリ撮るから、一気にいっちゃえ！」"
+  },
+  {
+   "id": "clse07:871200",
+   "type": "dialogue",
+   "speaker": "カメラマン",
+   "speaker_ko": "카메라맨",
+   "prev_speaker": null,
+   "next_speaker": "미나미카타 켄지",
+   "jp": "「いいねー！ 予定とはちょっと違ったけど、これはこれで幸せな家庭を感じさせる良い写真になるよ！ あっはっはっは！」"
+  },
+  {
+   "id": "clse07:871300",
+   "type": "dialogue",
+   "speaker": "南方謙二",
+   "speaker_ko": "미나미카타 켄지",
+   "prev_speaker": "카메라맨",
+   "next_speaker": "의사",
+   "jp": "「真の漢ってのはな、本当に惚れるべき女が現れるまで、他の女の色香になんざ惑わされないものだぜ。なぁ？」"
+  },
+  {
+   "id": "clse07:871400",
+   "type": "dialogue",
+   "speaker": "医師",
+   "speaker_ko": "의사",
+   "prev_speaker": "미나미카타 켄지",
+   "next_speaker": "교사",
+   "jp": "「久野里さん、どうです？ 視界のどこかに異常を感じたりは？」"
+  },
+  {
+   "id": "clse07:871500",
+   "type": "dialogue",
+   "speaker": "医師",
+   "speaker_ko": "의사",
+   "prev_speaker": "미나미카타 켄지",
+   "next_speaker": "교사",
+   "jp": "「耳は両方ともきちんと聞こえていますか？ 耳鳴りは？」"
+  },
+  {
+   "id": "clse07:871600",
+   "type": "dialogue",
+   "speaker": "医師",
+   "speaker_ko": "의사",
+   "prev_speaker": "미나미카타 켄지",
+   "next_speaker": "교사",
+   "jp": "「そうですか。どこにも問題なさそうですね。たぶん疲れによるものでしょう。念のため、点滴をしておきますね」"
+  },
+  {
+   "id": "clse07:871700",
+   "type": "dialogue",
+   "speaker": "教師",
+   "speaker_ko": "교사",
+   "prev_speaker": "의사",
+   "next_speaker": "남학생",
+   "jp": "「ん？ もう時間か。それじゃあ今日はここまで」"
+  },
+  {
+   "id": "clse07:871800",
+   "type": "dialogue",
+   "speaker": "教師",
+   "speaker_ko": "교사",
+   "prev_speaker": "의사",
+   "next_speaker": "남학생",
+   "jp": "「それじゃあ、今日の授業はここまで。ちゃんと復習しておくように」"
+  },
+  {
+   "id": "clse07:871900",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "교사",
+   "next_speaker": null,
+   "jp": "「マジかよ〜！」"
+  },
+  {
+   "id": "clse07:872000",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "교사",
+   "next_speaker": null,
+   "jp": "「クスクス」"
+  },
+  {
+   "id": "clse07:872100",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "교사",
+   "next_speaker": null,
+   "jp": "「おい、あいつだろ。例の……」"
+  },
+  {
+   "id": "clse07:872200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "교사",
+   "next_speaker": null,
+   "jp": "「一部？ なんだそりゃ？」"
+  },
+  {
+   "id": "clse07:872300",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "교사",
+   "next_speaker": null,
+   "jp": "「おい、認めたぞ！」"
+  },
+  {
+   "id": "clse07:872400",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "교사",
+   "next_speaker": null,
+   "jp": "「おいおい、なんだよそれ」"
+  },
+  {
+   "id": "clse07:872500",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "교사",
+   "next_speaker": null,
+   "jp": "「おい、退学だってよ……」"
+  },
+  {
+   "id": "clse07:872600",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": "교사",
+   "next_speaker": null,
+   "jp": "「どういうことだ？」"
+  },
+  {
+   "id": "clse07:872700",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「そう……だよな……」"
+  },
+  {
+   "id": "clse07:872800",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:872900",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:873000",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おいおい、見せつけんな！！！」"
+  },
+  {
+   "id": "clse07:873100",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:873200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:873300",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:873400",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おっ、女帝さまのお通りだぞ」"
+  },
+  {
+   "id": "clse07:873500",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「ざまぁ！」"
+  },
+  {
+   "id": "clse07:873600",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「クスクス」"
+  },
+  {
+   "id": "clse07:873700",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「うわっ、あんな暗そうなのに、ヤることヤってんのかよ……」"
+  },
+  {
+   "id": "clse07:873800",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「おいおい……」"
+  },
+  {
+   "id": "clse07:873900",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「マジかよ……」"
+  },
+  {
+   "id": "clse07:874000",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「それじゃあ説明になってねーじゃねーか……」"
+  },
+  {
+   "id": "clse07:874100",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「マジかよ……」"
+  },
+  {
+   "id": "clse07:874200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「意味わかんねーし……」"
+  },
+  {
+   "id": "clse07:874300",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝は女帝だよな……」"
+  },
+  {
+   "id": "clse07:874400",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:874500",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「女帝！ 女帝！ 女帝！！」"
+  },
+  {
+   "id": "clse07:874600",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「結婚式には呼べよー！」"
+  },
+  {
+   "id": "clse07:874700",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:874800",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:874900",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「キース！ キース！ キース！」"
+  },
+  {
+   "id": "clse07:875000",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「あ、いや僕たちは別に……」"
+  },
+  {
+   "id": "clse07:875100",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「プレゼントくらい、友達同士でもあげるだろ」"
+  },
+  {
+   "id": "clse07:875200",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「今噛んだぞ」"
+  },
+  {
+   "id": "clse07:875300",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「おい、雅司。何やってんだよ。早く行かないと売り切れんぞ！」"
+  },
+  {
+   "id": "clse07:875400",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「は？ いらなくなったって、なんでだよ？」"
+  },
+  {
+   "id": "clse07:875500",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「は？ なんだよそれ。もしかしてお前……」"
+  },
+  {
+   "id": "clse07:875600",
+   "type": "dialogue",
+   "speaker": "男子生徒",
+   "speaker_ko": "남학생",
+   "prev_speaker": null,
+   "next_speaker": "남자",
+   "jp": "「なに勿体ぶってんだよ。早く教えろよ！」"
+  },
+  {
+   "id": "clse07:875700",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "남학생",
+   "next_speaker": "학생회 임원",
+   "jp": "「あれ？ なあ……今のヤツ、アレじゃね？ 昔、アイドルのプロデューサーとかやってた……」"
+  },
+  {
+   "id": "clse07:875800",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "남학생",
+   "next_speaker": "학생회 임원",
+   "jp": "「だよな。一瞬だけ売れかけたアイドルで、その後すぐ消えたし」"
+  },
+  {
+   "id": "clse07:875900",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "남학생",
+   "next_speaker": "학생회 임원",
+   "jp": "「は？ 誰それ？ 知らね」"
+  },
+  {
+   "id": "clse07:876000",
+   "type": "dialogue",
+   "speaker": "男",
+   "speaker_ko": "남자",
+   "prev_speaker": "남학생",
+   "next_speaker": "학생회 임원",
+   "jp": "「ンなヤツ、知るわけねーって」"
+  },
+  {
+   "id": "clse07:876100",
+   "type": "dialogue",
+   "speaker": "生徒会役員",
+   "speaker_ko": "학생회 임원",
+   "prev_speaker": "남자",
+   "next_speaker": "점원",
+   "jp": "「生徒の皆さんにお伝えします。本日放課後、臨時の生徒集会を行います」"
+  },
+  {
+   "id": "clse07:876200",
+   "type": "dialogue",
+   "speaker": "生徒会役員",
+   "speaker_ko": "학생회 임원",
+   "prev_speaker": "남자",
+   "next_speaker": "점원",
+   "jp": "「放課後になりましたら、生徒の皆さんは体育館に集まってください。繰り返します……」"
+  },
+  {
+   "id": "clse07:876300",
+   "type": "dialogue",
+   "speaker": "店員",
+   "speaker_ko": "점원",
+   "prev_speaker": "학생회 임원",
+   "next_speaker": "선도부원",
+   "jp": "「アリガトゴザイマシター」"
+  },
+  {
+   "id": "clse07:876400",
+   "type": "dialogue",
+   "speaker": "店員",
+   "speaker_ko": "점원",
+   "prev_speaker": "학생회 임원",
+   "next_speaker": "선도부원",
+   "jp": "「アリガトゴザイマシター」"
+  },
+  {
+   "id": "clse07:876500",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "점원",
+   "next_speaker": "히카리",
+   "jp": "「おい、見つけたぞ！ あそこだ！」"
+  },
+  {
+   "id": "clse07:876600",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "점원",
+   "next_speaker": "히카리",
+   "jp": "「おい、君たち！！ そこでコソコソなにしている！！」"
+  },
+  {
+   "id": "clse07:876700",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "점원",
+   "next_speaker": "히카리",
+   "jp": "「……どれ……指輪か……アウトだな」"
+  },
+  {
+   "id": "clse07:876800",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "점원",
+   "next_speaker": "히카리",
+   "jp": "「よし、行くぞ！」"
+  },
+  {
+   "id": "clse07:876900",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "점원",
+   "next_speaker": "히카리",
+   "jp": "「つまり、誕生日のプレゼントをやりとりするような仲ということだな」"
+  },
+  {
+   "id": "clse07:877000",
+   "type": "dialogue",
+   "speaker": "風紀委員",
+   "speaker_ko": "선도부원",
+   "prev_speaker": "점원",
+   "next_speaker": "히카리",
+   "jp": "「よし、ふたりとも、生徒会室に来てもらおう」"
+  },
+  {
+   "id": "clse07:877100",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": "선도부원",
+   "next_speaker": null,
+   "jp": "「（泣き声）」"
+  },
+  {
+   "id": "clse07:877200",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": "선도부원",
+   "next_speaker": null,
+   "jp": "「（泣き声）」"
+  },
+  {
+   "id": "clse07:877300",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": "선도부원",
+   "next_speaker": null,
+   "jp": "「（笑い声）」）"
+  },
+  {
+   "id": "clse07:877400",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": "선도부원",
+   "next_speaker": null,
+   "jp": "「（泣き出す）」"
+  },
+  {
+   "id": "clse07:877500",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": "선도부원",
+   "next_speaker": null,
+   "jp": "「（泣き声）」"
+  },
+  {
+   "id": "clse07:877600",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": "선도부원",
+   "next_speaker": null,
+   "jp": "「（泣き声）」"
+  },
+  {
+   "id": "clse07:877700",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": "선도부원",
+   "next_speaker": null,
+   "jp": "「（笑い声）」"
+  },
+  {
+   "id": "clse07:877800",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": "선도부원",
+   "next_speaker": null,
+   "jp": "「（泣き声）」"
+  },
+  {
+   "id": "clse07:877900",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（だぁだぁ）」"
+  },
+  {
+   "id": "clse07:878000",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（泣き声）」"
+  },
+  {
+   "id": "clse07:878100",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（泣き出す）」"
+  },
+  {
+   "id": "clse07:878200",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（激しく泣く）」"
+  },
+  {
+   "id": "clse07:878300",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（笑って）」"
+  },
+  {
+   "id": "clse07:878400",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（笑って）」"
+  },
+  {
+   "id": "clse07:878500",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（笑って）」"
+  },
+  {
+   "id": "clse07:878600",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「（むずかって）」"
+  },
+  {
+   "id": "clse07:878700",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:878800",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:878900",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:879000",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:879100",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:879200",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:879300",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "id": "clse07:879400",
+   "type": "dialogue",
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「だぁだぁ」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "jp": "「だぁだぁ」"
+  },
+  {
+   "speaker": "ひかり",
+   "speaker_ko": "히카리",
+   "jp": "「（泣き出す）」"
+  }
+ ]
+}

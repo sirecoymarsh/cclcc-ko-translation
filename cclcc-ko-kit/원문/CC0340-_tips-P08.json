@@ -1,0 +1,687 @@
+{
+ "packet_id": "CC0340-_tips-P08",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "しんてきすとれす"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "心に与えられる大きな負担のこと。精神的ストレスやストレス症状とも呼ばれるが、医学用語ではなくあくまでも一般的な用語として用いられる。ストレスが溜まり過ぎると、身体的にも影響をもたらすと言われ、その症状は乳幼児期にも表れるといわれる。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その他"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "教育委員会"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "きょういくいいんかい"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "きょういくいいんかい"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:73400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "各地方公共団体に置かれ、教育に関する重要事項や方針を決定し体現させるための行政委員会。基本的には５人の委員からなり、任期は４年。政治的、宗教的に中立的立場が求められる。制度としては、委員長を含む委員の５名をもって『教育委員会』というが、実務組織である『教育委員会事務局』を含めて『教育委員会』と呼ぶことも多い。テレビなどでよく頭を下げている人々のこと。"
+  },
+  {
+   "id": "_tips:73500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:73600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "燃料"
+  },
+  {
+   "id": "_tips:73700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ねんりょう"
+  },
+  {
+   "id": "_tips:73800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ねんりょう"
+  },
+  {
+   "id": "_tips:73900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "何らかの化学反応によって、熱源、動力源を発生させる物質、物体のこと。石炭、石油、ガスなど。また、ネット用語として、ＳＮＳなどにおける『炎上』が鎮火した頃になって、新たに『再炎上』させるような話題などを投下することを言う。"
+  },
+  {
+   "id": "_tips:74000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:74100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "公開処刑"
+  },
+  {
+   "id": "_tips:74200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こうかいしょけい"
+  },
+  {
+   "id": "_tips:74300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こうかいしょけい"
+  },
+  {
+   "id": "_tips:74400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ギロチン、磔刑のように、見せしめなどのために公の場で行われる処刑のこと。近年では、公衆の面前において、見せしめとして行われる行為や、他者と比較され恥ずかしい思いをさせられるような場合において用いられることが多い。"
+  },
+  {
+   "id": "_tips:74500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:74600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｂ級映画"
+  },
+  {
+   "id": "_tips:74700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "びーきゅうえいが"
+  },
+  {
+   "id": "_tips:74800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "Ｂきゅうえいが"
+  },
+  {
+   "id": "_tips:74900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "低予算で作られた微妙な映画のこと。元々は『Ｂ地区』にあった古い撮影所で撮られた映画を『Ｂ－ｐｉｃｔｕｒｅｓ』と呼んだが、その後、二本立て上映の際に、添え物として撮影された映画のことを呼ぶようになった。やがて、ハリウッドなどの超大作映画に対し、予算も内容も劣る作品についてをＢ級と呼ぶようになった。今日では、単につまらない作品、チープでバカバカしい作品をＢ級と呼ぶことも多い。なお、Ｂ級映画ばかりを好む映画愛好家も多い。"
+  },
+  {
+   "id": "_tips:75000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:75100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "特殊メイク"
+  },
+  {
+   "id": "_tips:75200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "とくしゅめいく"
+  },
+  {
+   "id": "_tips:75300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "とくしゅめいく"
+  },
+  {
+   "id": "_tips:75400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "映画のＳＦＸ技術のひとつ。特殊な素材を利用し、怪我や病気、あるいは怪物や宇宙人といった、通常ではない姿を体現する技術。"
+  },
+  {
+   "id": "_tips:75500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:75600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "目安箱"
+  },
+  {
+   "id": "_tips:75700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "めやすばこ"
+  },
+  {
+   "id": "_tips:75800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "めやすばこ"
+  },
+  {
+   "id": "_tips:75900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "通常では伝えにくい町人などの要望や不満などを、直接訴えることが出来るように設置された、投函用の箱、あるいはその制度のこと。江戸時代に徳川吉宗が設置したことで有名だが、目安箱の制度自体は古くは戦国時代から存在していたといわれる。ただし、目安箱と呼ばれるようになったのは明治期以降で、当時はただ単に『箱』とだけ呼ばれていたという。"
+  },
+  {
+   "id": "_tips:76000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:76100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ハロウィン"
+  },
+  {
+   "id": "_tips:76200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はろうぃん"
+  },
+  {
+   "id": "_tips:76300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はろうぃん"
+  },
+  {
+   "id": "_tips:76400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "キリスト教において、『万聖節』あるいは『諸聖人の日』と呼ばれる聖人たちのための日の前夜祭。『聖人たち』を表す『Ａｌｌ Ｈａｌｌｏｗｓ』の『ＥＶＥ（前夜）』から変化した言葉と言われている。元々はケルト人の習慣に由来する。古来ケルトでは、夏の終わりを１０月３１日としており、冬を迎えると同時に、先祖の霊が訪れる人も考えられていた。その際、悪霊や魔女などもやってくることから、魔よけの儀式として行われていたという。それがやがてアメリカ大陸に渡り、宗教的意味はほぼなくなり、子どもたちが仮装してお菓子を要求する催しに変わった。日本において流行り始めたのは近年のことであり、リア充にとってはただ仮装して浮かれ騒ぐだけの日、非リア充にとっては浮かれ騒ぐリア充を見て苦言を呈し羨望交じりの呪いの言葉を吐きかける日となっている。"
+  },
+  {
+   "id": "_tips:76500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:76600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "クリスマス"
+  },
+  {
+   "id": "_tips:76700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くりすます"
+  },
+  {
+   "id": "_tips:76800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "くりすます"
+  },
+  {
+   "id": "_tips:76900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "キリストの誕生日と言われている。が、実際のところキリストの誕生日は不明。元々はゲルマン民族の冬至の日の祭りであり、この日を境に日照が長くなることを祝い、豊作を願う日であった。やがてキリスト教が広まるにつれ、土着の儀式を取り入れることとなり、キリストの誕生日を祝う日となったと考えられる。クリスマスツリーも冬にありなお緑をたたえる針葉樹により、強い生命を願うというゲルマンの儀式の名残りである。日本においては、何故か前日のイブのほうが盛り上がり、キリストとしては誕生日の前日に祝われるというわけのわからない日になっている。またイブの日は、都内ではあらゆるホテルが予約で埋まると言われ、恋人がいるかいないかで明暗がはっきりと別れる日でもある。"
+  },
+  {
+   "id": "_tips:77000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "科学"
+  },
+  {
+   "id": "_tips:77100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "デジャヴ"
+  },
+  {
+   "id": "_tips:77200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でじゃヴ"
+  },
+  {
+   "id": "_tips:77300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でじゃヴ"
+  },
+  {
+   "id": "_tips:77400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "既視感（仏：Ｄｅｊａ　ｖｕ）のこと。⟦n⟧実際は一度も体験したことがないにもかかわらず、以前にもどこかで体験したように感じること。⟦n⟧単なる錯覚ではなく、夢や物忘れで済ませられないほどのリアルな『過去の実体験』としての感覚が伴う。ただし、その『過去』とはいつ、どこだったのかは当然ながら思い出すことはできず、結果強い違和感をもたらす。"
+  },
+  {
+   "id": "_tips:77500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:77600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "カフェイン"
+  },
+  {
+   "id": "_tips:77700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かふぇいん"
+  },
+  {
+   "id": "_tips:77800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かふぇいん"
+  },
+  {
+   "id": "_tips:77900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "アルカロイドの一種で、興奮、覚醒作用があると言われ、副作用としてめまいや不眠を伴う。コーヒーや紅茶、チョコレートなど、嗜好品の多くに含まれ、また薬品にも使用されている。適量であれば良薬となるが、過剰に摂取した場合は健康に悪影響を与える原因にもなる。なにごともほどほどが一番ということだ。"
+  },
+  {
+   "id": "_tips:78000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ネット"
+  },
+  {
+   "id": "_tips:78100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "スパムメール"
+  },
+  {
+   "id": "_tips:78200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すぱむめーる"
+  },
+  {
+   "id": "_tips:78300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "すぱむめぇる"
+  },
+  {
+   "id": "_tips:78400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "迷惑メールとも呼ばれる。不特定多数に対して一斉送信される広告メール。紙ではなく電子メールのことを指す。膨大な数のスパムメールが受信者の意志に関係なく送られてくるため、とても迷惑である。コンピュータウイルスなどが仕込まれている場合もあり、添付されたファイルなどを迂闊に開くのは危険。"
+  },
+  {
+   "id": "_tips:78500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:78600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "むっつりスケベ"
+  },
+  {
+   "id": "_tips:78700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "むっつりすけべ"
+  },
+  {
+   "id": "_tips:78800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "むっつりすけべ"
+  },
+  {
+   "id": "_tips:78900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "表面上はスケベじゃないと取り繕っているが、内心ではスケベなことばかり考えている人。周囲にはバレバレである。"
+  },
+  {
+   "id": "_tips:79000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:79100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "リア充オーラ"
+  },
+  {
+   "id": "_tips:79200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りあじゅうおーら"
+  },
+  {
+   "id": "_tips:79300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りあじゅうおぉら"
+  },
+  {
+   "id": "_tips:79400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "リアル世界の生活が華やかで充実している人（リア充）が全身で放つ、キラキラした雰囲気。リア充ではない人はこのオーラが眩しすぎて正視できない。"
+  },
+  {
+   "id": "_tips:79500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "渋谷"
+  },
+  {
+   "id": "_tips:79600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ハチ公"
+  },
+  {
+   "id": "_tips:79700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はちこう"
+  },
+  {
+   "id": "_tips:79800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はちこう"
+  },
+  {
+   "id": "_tips:79900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "大正時代、亡くなった飼い主のことを渋谷駅前で約１０年もの間待ち続けた秋田犬。名前はハチで、ハチ公は愛称。忠犬として人々に愛された。現在は渋谷駅前の広場に銅像が建てられ、待ち合わせ場所として渋谷のシンボルになっている。"
+  },
+  {
+   "id": "_tips:80000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "渋谷"
+  },
+  {
+   "id": "_tips:80100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "１０７"
+  },
+  {
+   "id": "_tips:80200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いちまるなな"
+  },
+  {
+   "id": "_tips:80300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "１０７"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "（架空）渋谷駅の近く、道玄坂にあるファッションビル。ＳＨＩＢＵＹＡ１０７が正式名称。８階建てで１００店舗以上のテナントが入っている。１０代〜２０代の女性向けファッションブランドが中心であり、渋谷のギャルにとって聖地とまで言われているほど。⟦n⟧２００９年の渋谷地震で半壊したが、多くの人々に愛された渋谷の象徴を無くすわけにはいかないと、かつてとまったく同じ形に修築し再オープンを果たした。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その他"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "４８手"
+  }
+ ]
+}

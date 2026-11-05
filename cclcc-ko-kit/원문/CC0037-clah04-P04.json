@@ -1,0 +1,966 @@
+{
+ "packet_id": "CC0037-clah04-P04",
+ "kit_version": "1.0",
+ "source_file": "clah04.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "아리무라 히나에",
+  "오노에 세리카",
+  "이토 신지",
+  "카즈키 하나",
+  "쿠루스 노노",
+  "？？？"
+ ],
+ "context_before": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「うっわー。背中にデカデカと『バカ』って書かれた紙、貼られてましたよ、先輩」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「誰でしょうねぇ、いまどきこんなイタズラするなんて。ひっでー」"
+  },
+  {
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "jp": "「？？？」"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「ま、でも生徒会の人も問題ないって言ってましたし、これで隠すことなく堂々と宮代先輩のところで共同生活できるってことですね」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "……こいつ、何かしたんじゃないのか？"
+  },
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「なにか？」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clah04:30000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "くっ……。"
+  },
+  {
+   "id": "clah04:30100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "이토 신지",
+   "jp": "「……た、確かに学校や生徒会は良いって言ったけどさ、やっぱり普通に考えてマズいんじゃないのか？」"
+  },
+  {
+   "id": "clah04:30200",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんだ、宮代。有村相手に、マズいことするつもりか？」"
+  },
+  {
+   "id": "clah04:30300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「じょ、冗談じゃない！！ 僕は絶対にそんなことはしない！」"
+  },
+  {
+   "id": "clah04:30400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "이토 신지",
+   "jp": "「むむっ」"
+  },
+  {
+   "id": "clah04:30500",
+   "type": "dialogue",
+   "speaker": "伊藤真二",
+   "speaker_ko": "이토 신지",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "오노에 세리카",
+   "jp": "「じゃ、別にいいんじゃないのか？」"
+  },
+  {
+   "id": "clah04:30600",
+   "type": "dialogue",
+   "speaker": "尾上世莉架",
+   "speaker_ko": "오노에 세리카",
+   "prev_speaker": "이토 신지",
+   "next_speaker": "카즈키 하나",
+   "jp": "「ひなちゃん、言い出したら聞かないしねぇ」"
+  },
+  {
+   "id": "clah04:30700",
+   "type": "dialogue",
+   "speaker": "香月華",
+   "speaker_ko": "카즈키 하나",
+   "prev_speaker": "오노에 세리카",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ん……」"
+  },
+  {
+   "id": "clah04:30800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "くそっ。こうなったら頼みの綱は来栖だけだ！"
+  },
+  {
+   "id": "clah04:30900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "카즈키 하나",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「く、来栖〜……！」"
+  },
+  {
+   "id": "clah04:31000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕は思いっきり同情を引こうと、可能な限り情けない声を作った。"
+  },
+  {
+   "id": "clah04:31100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まあ、拓留と有村さんなら大丈夫でしょう」"
+  },
+  {
+   "id": "clah04:31200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「そんなぁ」"
+  },
+  {
+   "id": "clah04:31300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "今や残された頼みの綱は⟦rb⟧学校⟦rt⟧ここ⟦/r⟧だけだったというのに、これで僕はまたしばらく有村と一緒に暮らさねばならないというわけか。"
+  },
+  {
+   "id": "clah04:31400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕だけの⟦rb⟧憩いの場⟦rt⟧オアシス⟦/r⟧だったはずのあの部屋だけでなく、学校までが奪われてゆく……。"
+  },
+  {
+   "id": "clah04:31500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "どこかに寄り道して、家に真っ直ぐ帰りたがらないサラリーマンってのはこんな心境なんだろうか。"
+  },
+  {
+   "id": "clah04:31600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「むぅ〜……」"
+  },
+  {
+   "id": "clah04:31700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": null,
+   "jp": "「はぁ……」"
+  },
+  {
+   "id": "clah04:31800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "幸いなことに有村は買い物をして帰るらしく、僕はひとり渋谷の街中を歩いていた。"
+  },
+  {
+   "id": "clah04:31900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕とは決して相容れないだろうと思われる人種がうじゃうじゃいるこの喧騒のただ中に、なぜか安堵している自分がいた。"
+  },
+  {
+   "id": "clah04:32000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "別に有村が嫌いなわけじゃない。"
+  },
+  {
+   "id": "clah04:32100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "外見だって悪くはないし、一緒に話していると楽しいとも思う時もある。"
+  },
+  {
+   "id": "clah04:32200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "じゃあ、何故こんなにもふたりでいることに重圧を感じているのか……。"
+  },
+  {
+   "id": "clah04:32300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "？？？",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah04:32400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "……あれ？ なんでだろう？"
+  },
+  {
+   "id": "clah04:32500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "うるさいから？"
+  },
+  {
+   "id": "clah04:32600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "？？？",
+   "jp": "果たしてそれだけ……だろうか？"
+  },
+  {
+   "id": "clah04:32700",
+   "type": "dialogue",
+   "speaker": "？？？",
+   "speaker_ko": "？？？",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "「ん？ 宮代くんじゃないか」"
+  },
+  {
+   "id": "clah04:32800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "신조 타케시",
+   "jp": "人ごみの中、僕を呼ぶ声。"
+  },
+  {
+   "id": "clah04:32900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "？？？",
+   "next_speaker": "신조 타케시",
+   "jp": "呼びかけてきたのは、神成さんだった。"
+  },
+  {
+   "id": "clah04:33000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "？？？",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「何してるんだ？ またスクープでも探しているのかい？」"
+  },
+  {
+   "id": "clah04:33100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「あ、いえ……今は特に……」"
+  },
+  {
+   "id": "clah04:33200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そいつは結構。学生は学生らしく日々を過ごすのが一番だ」"
+  },
+  {
+   "id": "clah04:33300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そうだ！"
+  },
+  {
+   "id": "clah04:33400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「神成さん！ お願いがあるんですけど」"
+  },
+  {
+   "id": "clah04:33500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お願い？」"
+  },
+  {
+   "id": "clah04:33600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「はい、実は……」"
+  },
+  {
+   "id": "clah04:33700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "僕は、有村がうちに住み着いていることを神成さんに打ち明けた。"
+  },
+  {
+   "id": "clah04:33800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "当然警察なら、なんらかの対応をとってくれるんじゃないかと期待してのことだ。"
+  },
+  {
+   "id": "clah04:33900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "だが……。"
+  },
+  {
+   "id": "clah04:34000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「う〜ん。そういうことなら、俺たちは何も協力できないな」"
+  },
+  {
+   "id": "clah04:34100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「何も、ですか？」"
+  },
+  {
+   "id": "clah04:34200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ああ、捜索願が出てるわけでもないし、所在もわかっている。もちろん事件性もない。となると後は、当人たちの問題だからな」"
+  },
+  {
+   "id": "clah04:34300",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それにこの場合、下手につつくと、君の方が立場的にマズい……」"
+  },
+  {
+   "id": "clah04:34400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「僕が？ どうして！」"
+  },
+  {
+   "id": "clah04:34500",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「君の部屋に未成年の女の子を連れ込んでいるわけだからね。⟦col:280aa02d1400⟧未成年者略取⟦col:800000⟧の罪に問われる可能性もある」"
+  },
+  {
+   "id": "clah04:34600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そんな……僕だってまだ未成年ですよ？」"
+  },
+  {
+   "id": "clah04:34700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「未成年者略取ってのは、被害者が未成年の場合に適応される。マル被……つまり、被疑者の年齢は関係ない。もちろん本人たちの意思もね」"
+  },
+  {
+   "id": "clah04:34800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから、たとえそれが有村さん本人の意思によるものであっても、彼女の母親が訴え出たら、その時点で君は被疑者となる可能性もあるわけだ……」"
+  },
+  {
+   "id": "clah04:34900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "なんだよ、その理不尽な法律……。"
+  },
+  {
+   "id": "clah04:35000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、有村さんの母親の気が変わらないことを祈っておくよ。ははは」"
+  },
+  {
+   "id": "clah04:35100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "神成さんは爽やかに笑ったけど、僕にとっては笑い事じゃない。"
+  },
+  {
+   "id": "clah04:35200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それにしても、君も変わってるな」"
+  },
+  {
+   "id": "clah04:35300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「……僕のどこが変わってるって言うんですか？」"
+  },
+  {
+   "id": "clah04:35400",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「君くらいの年頃だと、女の子がうちに泊まりにきたら、普通は喜ぶものだろう」"
+  },
+  {
+   "id": "clah04:35500",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「……でも、相手はあの有村ですよ？」"
+  },
+  {
+   "id": "clah04:35600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「まあ……俺たちには手厳しいところもあるけど、君たち同世代だと付き合いやすいんじゃないか？」"
+  },
+  {
+   "id": "clah04:35700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「それは……」"
+  },
+  {
+   "id": "clah04:35800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「でも確かに、意識しすぎると逆に付き合いづらいってのもあるからなぁ」"
+  },
+  {
+   "id": "clah04:35900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "意識しすぎると？"
+  },
+  {
+   "id": "clah04:36000",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「特に彼女の場合は、全部筒抜けだしな」"
+  },
+  {
+   "id": "clah04:36100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ま、せいぜい頑張ってくれよ」"
+  },
+  {
+   "id": "clah04:36200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いかにも他人事という風に、神成さんは笑いながら、雑踏の向こうへと消えて行った。"
+  },
+  {
+   "id": "clah04:36300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "意識……しすぎ？"
+  },
+  {
+   "id": "clah04:36400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "僕は意識しているのか？"
+  },
+  {
+   "id": "clah04:36500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村を？"
+  },
+  {
+   "id": "clah04:36600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに緊張感はある。"
+  },
+  {
+   "id": "clah04:36700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "たとえば尾上や乃々と同じ部屋で過ごしても、こうはならないように思う。"
+  },
+  {
+   "id": "clah04:36800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "香月なら……やっぱり違うだろう。"
+  },
+  {
+   "id": "clah04:36900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「…………」"
+  },
+  {
+   "id": "clah04:37000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "いやいや、そんなことはない。"
+  },
+  {
+   "id": "clah04:37100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "そもそも僕の理想の女の子は、もっとおしとやかで大人しくて、こう……ふわっとした感じで。"
+  },
+  {
+   "id": "clah04:37200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "有村とは真逆の女の子なんだ。"
+  },
+  {
+   "id": "clah04:37300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "だから特別有村を意識してるなんてことはない……はずだ。"
+  },
+  {
+   "id": "clah04:37400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ちゃおーっス！ 有村雛絵、ただいま帰還しましたー！」"
+  },
+  {
+   "id": "clah04:37500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "相変わらず元気のいいことだ。"
+  },
+  {
+   "id": "clah04:37600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ただいま帰りました！！」"
+  },
+  {
+   "id": "clah04:37700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「あ、ああ……おかえり……」"
+  },
+  {
+   "id": "clah04:37800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「よろしい。んしょっと」"
+  },
+  {
+   "id": "clah04:37900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "有村は満足げに頷くと、ソファベッドの上に何やら大荷物を置いた。"
+  },
+  {
+   "id": "clah04:38000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「なんだよ。何をそんなに買い込んできたんだ？」"
+  },
+  {
+   "id": "clah04:38100",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふっふっふー」"
+  },
+  {
+   "id": "clah04:38200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "不敵な笑みに、嫌な予感がした。"
+  },
+  {
+   "id": "clah04:38300",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほら、私って人が言ってることが、ウソかホントかわかるじゃないですかー」"
+  },
+  {
+   "id": "clah04:38400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "僕の質問はまるで無視して有村は言い出した。"
+  },
+  {
+   "id": "clah04:38500",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それで最近思ったんですけどね。ウソって、ずっとつき続けてると、ホントになることもあるんじゃないかって」"
+  },
+  {
+   "id": "clah04:38600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……どういうことだ？」"
+  },
+  {
+   "id": "clah04:38700",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「わかりませんか？」"
+  },
+  {
+   "id": "clah04:38800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「全然」"
+  },
+  {
+   "id": "clah04:38900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "아리무라 히나에",
+   "jp": "何を言わんとしているのか、まったく理解できていない僕に、有村はずいっと顔を近づけた。"
+  },
+  {
+   "id": "clah04:39000",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「先輩って私のこと、女の子だって思ってないですよね？」"
+  },
+  {
+   "id": "clah04:39100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「へ……？」"
+  },
+  {
+   "id": "clah04:39200",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「この前、母と話した時だって、ぜーんぶ嘘でしたし！」"
+  },
+  {
+   "id": "clah04:39300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「だからあれは、お前の書いた台本に従ったんだから当たり前で……」"
+  },
+  {
+   "id": "clah04:39400",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「しゃらーっぷ！！」"
+  },
+  {
+   "id": "clah04:39500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "ビシッと指を突き立てられ、言われるままに黙ってしまう。"
+  },
+  {
+   "id": "clah04:39600",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんかそれって、すっごーくプライドが傷つくっていうかー、女子として自信なくすっていうかー」"
+  },
+  {
+   "id": "clah04:39700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "……もしかして今日、時折不機嫌そうに見えたのは、もしかしてそういうことなのか？"
+  },
+  {
+   "id": "clah04:39800",
+   "type": "dialogue",
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「てなわけでー、これから私、有村雛絵、もてる女子力すべてをつぎ込み、力戦奮闘、万里一空、全身全霊をもって先輩をメロメロにさせてみせます！！！」"
+  },
+  {
+   "id": "clah04:39900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "아리무라 히나에",
+   "next_speaker": "아리무라 히나에",
+   "jp": "「……めろめろ？」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "有村雛絵",
+   "speaker_ko": "아리무라 히나에",
+   "jp": "「うっす！ メロメロっす！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "また面倒なことを言い始めた……。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（そういうのさえなければ、有村も少しは……）"
+  }
+ ]
+}

@@ -1,0 +1,957 @@
+{
+ "packet_id": "CC0338-_tips-P06",
+ "kit_version": "1.0",
+ "source_file": "_tips.msb",
+ "speakers_in_packet": [],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "くぅるきゃっとぷれす"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "（架空）１９７９年に創刊された、若い男性読者をターゲットにした情報誌。女性の口説き方やイケてるファッション、ファーストキスの場所で最も多いところなど真偽が定かでない情報を多数収録した、いわゆるデートマニュアル。特に８０年代後半から９０年代前半にかけて人気を博したが、次第に部数が減少し、２００４年に休刊。古本屋の雑誌コーナーにおいて、現在でも見かけることが出来る。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "オタク"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "ダゴンの王"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "だごんのおう"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "だごんのおう"
+  }
+ ],
+ "entries": [
+  {
+   "id": "_tips:54900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "魚の頭部を持つ海神。本来は古代パレスチナでペリシテ人が信仰していた聖なる神であったが、ペリシテ人と敵対するイスラエル人によって悪魔扱いを受けることとなった。そのため、ユダヤ教圏やキリスト教圏では悪魔の一人と目されており、Ｈ・Ｐ・ラブクラフトのクトゥルフ神話でも旧支配者クトゥルフに仕える邪神として登場する。なお、最近の研究では、海神ではなく農耕神であった可能性も指摘されている。"
+  },
+  {
+   "id": "_tips:55000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "科学"
+  },
+  {
+   "id": "_tips:55100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "エスパーカード"
+  },
+  {
+   "id": "_tips:55200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えすぱーかーど"
+  },
+  {
+   "id": "_tips:55300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えすぱぁかぁど"
+  },
+  {
+   "id": "_tips:55400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＥＳＰカード、ゼナーカード、とも呼ばれる。トランプのようなカードで、図柄は○マーク、＋マーク、□マーク、☆マーク、波マークの五種類のみ。いわゆる透視によって伏せたカードの図柄を当てるというＥＳＰ実験がよく行われる。"
+  },
+  {
+   "id": "_tips:55500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "科学"
+  },
+  {
+   "id": "_tips:55600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "エスパーリング"
+  },
+  {
+   "id": "_tips:55700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えすぱーりんぐ"
+  },
+  {
+   "id": "_tips:55800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えすぱぁりんぐ"
+  },
+  {
+   "id": "_tips:55900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "チャイナリング、マジックリングとも呼ばれる。中国発祥の古典的な手品の道具。二つの金属製リングで、互いをぶつけ合うと不思議なことに繋がってしまう。手品の道具であるため、超能力とは一切関係なく、きちんとタネが用意されている。"
+  },
+  {
+   "id": "_tips:56000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:56100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "アクアグラム"
+  },
+  {
+   "id": "_tips:56200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あくあぐらむ"
+  },
+  {
+   "id": "_tips:56300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "あくあぐらむ"
+  },
+  {
+   "id": "_tips:56400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）オンラインＲＰＧ（ＭＭＯＲＰＧ）『エンパイア・スイーパー・オンライン』シリーズに登場する武器の名称。"
+  },
+  {
+   "id": "_tips:56500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "オタク"
+  },
+  {
+   "id": "_tips:56600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ラフランス書房"
+  },
+  {
+   "id": "_tips:56700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "らふらんすしょぼう"
+  },
+  {
+   "id": "_tips:56800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "らふらんすしょぼう"
+  },
+  {
+   "id": "_tips:56900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）日本の出版社。男性向けのオリジナル官能小説――要するにかなりエッチな小説を主に刊行している。熟年向けから青年向けまで、レーベルは多岐に渡る。明確には表示されていないが、１８歳未満の良い子は読んではいけない。"
+  },
+  {
+   "id": "_tips:57000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "事象"
+  },
+  {
+   "id": "_tips:57100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ニュージェネレーションの狂気"
+  },
+  {
+   "id": "_tips:57200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にゅーじぇねれーしょんのきょうき"
+  },
+  {
+   "id": "_tips:57300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にゅぅじぇねれぇしょんのきょうき"
+  },
+  {
+   "id": "_tips:57400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）２００９年の９月７日から１１月４日にかけて、東京都渋谷区で発生した連続猟奇事件の俗称。全部で７つの事件がそれにあたるとされており、計１４人が死亡した。その殺害方法があまりにも常軌を逸していたことや、この事件をむしろ歓迎し楽しむかのような渋谷の若者たちの反応から、当時の大手マスコミは『ニュージェネレーションの狂気』というキーワードを当てはめ、よりセンセーショナルに報じた。具体的な発生日と事件の俗称は以下。⟦n⟧９月７日   集団ダイブ⟦n⟧９月１９日  妊娠男⟦n⟧９月２９日  張り付け⟦n⟧１０月１０日 ヴァンパイ屋⟦n⟧１０月２３日 ノータリン⟦n⟧１０月２８日 美味い手⟦n⟧１１月４日  ＤＱＮパズル"
+  },
+  {
+   "id": "_tips:57500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:57600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "消費期限"
+  },
+  {
+   "id": "_tips:57700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しょうひきげん"
+  },
+  {
+   "id": "_tips:57800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "しょうひきげん"
+  },
+  {
+   "id": "_tips:57900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "適切な保存方法を取った場合でも５日以内に品質が劣化してしまう食品――たとえば弁当、パン、惣菜、生麺、食肉など――が、衛生上危険な状態にならない期限のこと。賞味期限と違い、消費期限を過ぎた食品はカビが生えたり腐ったりしているので、食べるのはとても危険。絶対に真似をしてはいけない。"
+  },
+  {
+   "id": "_tips:58000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:58100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "パイロキネシスト"
+  },
+  {
+   "id": "_tips:58200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぱいろきねしすと"
+  },
+  {
+   "id": "_tips:58300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ぱいろきねしすと"
+  },
+  {
+   "id": "_tips:58400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "発火能力者。ファイアスターターとも。超能力の一種である発火能力を意識的、無意識的に使うことのできる者を指す。日本の少年マンガにおいて一番人気の能力者である。"
+  },
+  {
+   "id": "_tips:58500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:58600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ニーズ"
+  },
+  {
+   "id": "_tips:58700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にーず"
+  },
+  {
+   "id": "_tips:58800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "にぃず"
+  },
+  {
+   "id": "_tips:58900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "僕たちが望むもの。密かな楽しみ。"
+  },
+  {
+   "id": "_tips:59000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:59100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ドＳ"
+  },
+  {
+   "id": "_tips:59200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "どえす"
+  },
+  {
+   "id": "_tips:59300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "どＳ"
+  },
+  {
+   "id": "_tips:59400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "度を超したサディスト。いじめるのが好きな人。ドＭと対となる。最近では、ライトな意味で使われる場合も多い。酒の席などにおいて、自らをドＳであるとあっけらかんとアピールする人は男女問わず増えてきている。ドが付くからと言って、そういうハードなプレイに興じているとは限らないので注意が必要である。"
+  },
+  {
+   "id": "_tips:59500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:59600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "拘束具"
+  },
+  {
+   "id": "_tips:59700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こうそくぐ"
+  },
+  {
+   "id": "_tips:59800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "こうそくぐ"
+  },
+  {
+   "id": "_tips:59900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "体の自由を奪うための衣服や道具。手錠や足枷、ロープ、革ベルトなども該当する。"
+  },
+  {
+   "id": "_tips:60000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "渋谷"
+  },
+  {
+   "id": "_tips:60100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＡＨ東京総合病院"
+  },
+  {
+   "id": "_tips:60200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "えーえいちとうきょうそうごうびょういん"
+  },
+  {
+   "id": "_tips:60300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ＡＨとうきょうそうごうびょういん"
+  },
+  {
+   "id": "_tips:60400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "（架空）渋谷区の代々木にある総合病院。外来棟と病棟からなり、外来棟の屋上には庭園も整備されている。病床数は４００以上、２９の診療科があり、救急外来も受け入れている。２００９年に起きた一連の『ニュージェネレーションの狂気』事件において、この病院に勤務していた精神科医１名が犠牲になっている。"
+  },
+  {
+   "id": "_tips:60500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:60600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "監禁サスペンス"
+  },
+  {
+   "id": "_tips:60700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かんきんさすぺんす"
+  },
+  {
+   "id": "_tips:60800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かんきんさすぺんす"
+  },
+  {
+   "id": "_tips:60900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "小説や映画のジャンル、シチュエーションのひとつ。限定された閉鎖空間内に監禁された人物が、その状況からいかに脱出するかを描く。ホラー要素やＳＦ要素が含まれている場合が多い。"
+  },
+  {
+   "id": "_tips:61000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:61100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いけないモノ"
+  },
+  {
+   "id": "_tips:61200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いけないもの"
+  },
+  {
+   "id": "_tips:61300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "いけないもの"
+  },
+  {
+   "id": "_tips:61400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "男子の秘密の「いけないモノ」。むぎゅーっとされると冗談じゃなく死ぬほど痛い。"
+  },
+  {
+   "id": "_tips:61500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:61600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はい、あ〜ん"
+  },
+  {
+   "id": "_tips:61700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はい、あーん"
+  },
+  {
+   "id": "_tips:61800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "はいあぁん"
+  },
+  {
+   "id": "_tips:61900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「食べさせてあげるから、口を開いて待機せよ」を恋人なりの甘い言語で表現したもの。育児や介護ではなくあくまで愛情表現である。"
+  },
+  {
+   "id": "_tips:62000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:62100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "リビドー"
+  },
+  {
+   "id": "_tips:62200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りびどー"
+  },
+  {
+   "id": "_tips:62300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "りびどぉ"
+  },
+  {
+   "id": "_tips:62400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "『（主に性的な）欲望』を指す心理学用語。心理学者フロイトは『性的衝動の基になる力』であると提唱した。一方、同じく心理学者のユングは『すべての行動の根底にあるエネルギー』という意味として定義した。"
+  },
+  {
+   "id": "_tips:62500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:62600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "バカップル"
+  },
+  {
+   "id": "_tips:62700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ばかっぷる"
+  },
+  {
+   "id": "_tips:62800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ばかっぷる"
+  },
+  {
+   "id": "_tips:62900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "自分たちの世界に入り込んでいて周りが見えていないカップル。バカ＋カップルという造語。爆発させてよい。"
+  },
+  {
+   "id": "_tips:63000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:63100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "倦怠期"
+  },
+  {
+   "id": "_tips:63200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "けんたいき"
+  },
+  {
+   "id": "_tips:63300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "けんたいき"
+  },
+  {
+   "id": "_tips:63400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "恋愛や夫婦生活において、相手と一緒にいることに慣れてしまった結果訪れる精神的停滞期間のこと。マンネリ。相手の些細な言動に嫌悪感を感じたり、冷めてしまったり、普段の恋愛や夫婦生活に面倒くささを感じてしまう。"
+  },
+  {
+   "id": "_tips:63500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:63600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "カカア天下"
+  },
+  {
+   "id": "_tips:63700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かかあでんか"
+  },
+  {
+   "id": "_tips:63800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "かかあでんか"
+  },
+  {
+   "id": "_tips:63900",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "家庭内において、夫よりも妻のほうが権力を有している夫婦のことをいう。反対語に『亭主関白』がある。"
+  },
+  {
+   "id": "_tips:64000",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:64100",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "女帝"
+  },
+  {
+   "id": "_tips:64200",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じょてい"
+  },
+  {
+   "id": "_tips:64300",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "じょてい"
+  },
+  {
+   "id": "_tips:64400",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "女性の皇帝、あるいは天皇のこと。碧朋学園の生徒は、来栖乃々に対する敬意と畏怖を込めてこう呼ぶ。"
+  },
+  {
+   "id": "_tips:64500",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "その他"
+  },
+  {
+   "id": "_tips:64600",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "ディソード"
+  },
+  {
+   "id": "_tips:64700",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でぃそーど"
+  },
+  {
+   "id": "_tips:64800",
+   "type": "tip",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "でぃそぉど"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "（架空）Ｄｅｌｕｓｉｏｎ　Ｉｄｅａｌ　ｓｗｏｒｄ。ギガロマニアックスだけが持つ、妄想の剣。ディラックの海に繋がっているこの剣は、ギガロマニアックスが妄想を具現化する際に、端末の役割を担う。負の物質で構成されており、無限に崩壊し続けている。妄想状態（剣のガラスラインが青）の場合はギガロマニアックスにしか認識できず、実体もない。リアルブート時（剣のガラスラインが赤）になると剣は現実となり、誰にでも見える“物体としての剣”となる。神話や古い文献にも散見され、その記述によれば“目に見えない剣”とされる。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "作品"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "マジカル・ユイ"
+  }
+ ]
+}

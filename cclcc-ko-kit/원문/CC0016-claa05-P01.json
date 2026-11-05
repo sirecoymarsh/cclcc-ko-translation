@@ -1,0 +1,652 @@
+{
+ "packet_id": "CC0016-claa05-P01",
+ "kit_version": "1.0",
+ "source_file": "claa05.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "신조 타케시",
+  "쿠노사토 미오",
+  "쿠루스 노노"
+ ],
+ "context_before": [],
+ "entries": [
+  {
+   "id": "claa05:0",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "そして、迎えた１０月２３日――。"
+  },
+  {
+   "id": "claa05:100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": null,
+   "next_speaker": "신조 타케시",
+   "jp": "本当なら、ものすごいスクープを手に入れていたかも知れないのに――なぜか僕たちは、⟦rb⟧神成⟦rt⟧しんじょう⟦/r⟧刑事さんの前でそろって叱られ、また、ネチネチと嫌味を言われたりしていた。"
+  },
+  {
+   "id": "claa05:200",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": null,
+   "next_speaker": "쿠루스 노노",
+   "jp": "「なるほどな。話はだいたい分かった」"
+  },
+  {
+   "id": "claa05:300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "僕と尾上と、そして、久野里さんを⟦rb⟧補導⟦rt⟧⟦rbc⟧●●⟦/r⟧した神成さんが、いちおう、メモらしきものをとっている。"
+  },
+  {
+   "id": "claa05:400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠루스 노노",
+   "jp": "そして、僕らの横では――"
+  },
+  {
+   "id": "claa05:500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「すみません。本当にすみません。私からもよく言って聞かせますから、その……なんとか……」"
+  },
+  {
+   "id": "claa05:600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "신조 타케시",
+   "jp": "――来栖がペコペコと頭を下げていた。"
+  },
+  {
+   "id": "claa05:700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "신조 타케시",
+   "jp": "それが実に申し訳なくて、僕と尾上はひたすらうなだれ、いかにも反省しているポーズをとっていた。"
+  },
+  {
+   "id": "claa05:800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「まぁ、今回は特別、大目に見ておくからな、宮代くん。ホテルの中に侵入したのなら署まで来てもらうことになったが、未遂だからね……」"
+  },
+  {
+   "id": "claa05:900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そう。僕と尾上と、なぜか僕らにくっついて来た久野里さんは、今日、どこでどんな事件が起こるか予測するために、これまでの事件を再検証してみようとした。"
+  },
+  {
+   "id": "claa05:1000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そのために、『回転ジェット』の舞台となった『妖精のダンス』というホテルに、非常口からこっそり忍び込もうとしたのだ。"
+  },
+  {
+   "id": "claa05:1100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ところが運悪くその現場を、別件の捜査中だった神成さんに偶然見つかってしまい――お説教された挙句に、保護者代わりの来栖にまで連絡されてしまった、と……そういうわけだった。"
+  },
+  {
+   "id": "claa05:1200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "全くもって、ついてない話だ。"
+  },
+  {
+   "id": "claa05:1300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "しかも、見つかったのが僕と尾上だけなら、ひたすら謝って、もう少し早く解放してもらえたかも知れないのに――"
+  },
+  {
+   "id": "claa05:1400",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「確かに私たちが罪を犯したことは認める。だがな、神成さん？ あんたが今日こうして渋谷の街をアテもなくうろついているのは、私たちと同じ理由だと思うのだが、どうだろう？」"
+  },
+  {
+   "id": "claa05:1500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「そうであれば、こんな所で私たち相手に世間話をしている場合ではないと思うが？」"
+  },
+  {
+   "id": "claa05:1600",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………。あのな？ 俺はアテもなくうろついているわけじゃないし、キミたちと世間話をしてるわけでもない」"
+  },
+  {
+   "id": "claa05:1700",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「そもそも久野里さんは、自分が事情聴取をされているという自覚はあるのか？ いつになったらその毒舌を改めるつもりなんだ」"
+  },
+  {
+   "id": "claa05:1800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「毒舌とは心外だ。私は至極まっとうなことを言っているつもりだが」"
+  },
+  {
+   "id": "claa05:1900",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa05:2000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そう。久野里さんがいるせいで、話がこじれまくっているのだ。"
+  },
+  {
+   "id": "claa05:2100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "そもそも、なぜ彼女が一緒にいるかというと――"
+  },
+  {
+   "id": "claa05:2200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "話は二日前にさかのぼる。"
+  },
+  {
+   "id": "claa05:2300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "――二日前。"
+  },
+  {
+   "id": "claa05:2400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "彼女が新聞部の部室に現れたのは、ちょうど部室に僕しかいない時だった。もしかすると、そのタイミングを狙ったのかもしれない。"
+  },
+  {
+   "id": "claa05:2500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほう。『⟦col:280aa02d1400⟧ニュージェネレーションの狂気⟦col:800000⟧』と、事件発生日の一致について……か。オマエの目はただのフシ穴ではないようだな」"
+  },
+  {
+   "id": "claa05:2600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "久野里さんは、事件をマッピングしたボードの前の椅子に座ると、スカートの長さなど全く気にせずに足を組んだ。"
+  },
+  {
+   "id": "claa05:2700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "本人にはそんな意識は全くないのだろうが、白衣の間から覗く脚が妙に煽情的なことがあって、時々、目のやり場に困る。"
+  },
+  {
+   "id": "claa05:2800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "ちなみに、久野里さんは確かに僕らの先輩だが、別に新聞部に所属しているわけではない。"
+  },
+  {
+   "id": "claa05:2900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "その点は有村と同じで、なぜかウチの部に時々こうやって出入りしては、有村とは別の意味で新聞部の活動の邪魔を――もとい、有益な情報を提供していってくれる。"
+  },
+  {
+   "id": "claa05:3000",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「実は、私もずっと考えていたんだ。六年前の事件と、なぜ同じ日なんだろうと」"
+  },
+  {
+   "id": "claa05:3100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「犯人が『ニュージェネレーションの狂気』を意識してることは間違いないですよね？」"
+  },
+  {
+   "id": "claa05:3200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "僕が身を乗り出して言うと、久野里さんは、なぜか『キミは何を言ってるんだ？』という顔つきになった。"
+  },
+  {
+   "id": "claa05:3300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「“犯人”？ いったい、なんの犯人だ？」"
+  },
+  {
+   "id": "claa05:3400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「いや、だから、今回の一連の事件の――」"
+  },
+  {
+   "id": "claa05:3500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「宮代、よく考えてみろ。今回の件に犯人なんてものが存在するか？」"
+  },
+  {
+   "id": "claa05:3600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「え？」"
+  },
+  {
+   "id": "claa05:3700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "意表をつかれて、僕は口をみっともなくポカンと開けてしまった。"
+  },
+  {
+   "id": "claa05:3800",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「たとえば、第一の事件『こっち見んなー！』だが、あれはただ消費期限切れのチーズを、それと気が付かないで食べてしまっただけだ」"
+  },
+  {
+   "id": "claa05:3900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いわば、本人のミス以外のなにものでもない」"
+  },
+  {
+   "id": "claa05:4000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa05:4100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「続いて『音漏れてん』か？ あれも、ネット上では事件なのかも知れないが、リアルな社会の中では、やっぱり本人がミスをしただけのことで、事件扱いにすらなっていない」"
+  },
+  {
+   "id": "claa05:4200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "久野里さんにそう諭されてみると、確かにその通りだ。さっきまでの興奮が急速にしぼんでいくのを感じる。"
+  },
+  {
+   "id": "claa05:4300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "（そっか……『回転ジェット』も……）"
+  },
+  {
+   "id": "claa05:4400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "柿田さんがひどい目にあった『回転ジェット』だって、ベッドを作ったメーカーの設計ミスだし、『ごっつァンデス』にしても、ネット記者の渡部の自業自得でしかない。"
+  },
+  {
+   "id": "claa05:4500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "確かに、『ニュージェネレーションの狂気』のような“犯人”なんて、存在していないんだ。"
+  },
+  {
+   "id": "claa05:4600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「でも、六年前の事件と発生日がピッタリ同じなんて……」"
+  },
+  {
+   "id": "claa05:4700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ただの⟦rb⟧偶然⟦rt⟧⟦rbc⟧●●⟦/r⟧」"
+  },
+  {
+   "id": "claa05:4800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「………」"
+  },
+  {
+   "id": "claa05:4900",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あるいは、そうじゃないかも知れない」"
+  },
+  {
+   "id": "claa05:5000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「って、どっちなんです？」"
+  },
+  {
+   "id": "claa05:5100",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それが判然としないから、私も思考がまとまらずに困ってるんだ」"
+  },
+  {
+   "id": "claa05:5200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "久野里さんは、壁に貼ってある渋谷のマップを眺めながら、珍しく戸惑うような表情を見せた。"
+  },
+  {
+   "id": "claa05:5300",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ただ、もしも１０月２３日にまで何かが起こるようであれば……確率的にも、さすがに偶然とは言いがたいな」"
+  },
+  {
+   "id": "claa05:5400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「僕もそう思います。だから２３日は、渋谷の怪しい場所を調べて歩いてみようかと」"
+  },
+  {
+   "id": "claa05:5500",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふむ。……それなら私も同行させてもらおう」"
+  },
+  {
+   "id": "claa05:5600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「ええ？」"
+  },
+  {
+   "id": "claa05:5700",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「なんだ、イヤなのか？」"
+  },
+  {
+   "id": "claa05:5800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "「いえ、そういうわけじゃないですけど」"
+  },
+  {
+   "id": "claa05:5900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "……というのはウソで、久野里さんと一緒だと面倒なことになりそうだと思った。"
+  },
+  {
+   "id": "claa05:6000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "신조 타케시",
+   "jp": "そして、その予感は、まさに今、的中していた。"
+  },
+  {
+   "id": "claa05:6100",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "쿠노사토 미오",
+   "jp": "「だから、久野里さん。今日は危険だから、このままおとなしく帰ってくれと言ってるんだ。君に助けを借りたい時は、改めて連絡するから」"
+  },
+  {
+   "id": "claa05:6200",
+   "type": "dialogue",
+   "speaker": "久野里澪",
+   "speaker_ko": "쿠노사토 미오",
+   "prev_speaker": "신조 타케시",
+   "next_speaker": "신조 타케시",
+   "jp": "「危険？ 何か事件が発生するような情報を持ってるんだな、警察は？」"
+  },
+  {
+   "id": "claa05:6300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "神成さんが、一瞬、しまったという顔になった。"
+  },
+  {
+   "id": "claa05:6400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "一方の久野里さんは、口の端でかすかに笑う。"
+  },
+  {
+   "id": "claa05:6500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "このふたり、どうにも久野里さんの方が一枚上手らしい。"
+  },
+  {
+   "id": "claa05:6600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "その時、神成さんのポケットでスマホが鳴った。"
+  },
+  {
+   "id": "claa05:6700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "신조 타케시",
+   "jp": "話題をそらせると思ったのか、彼は少しホッとしながら通話ボタンを押す。"
+  },
+  {
+   "id": "claa05:6800",
+   "type": "dialogue",
+   "speaker": "神成岳志",
+   "speaker_ko": "신조 타케시",
+   "prev_speaker": "쿠노사토 미오",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「はい、神成。こっちは今のところ特に――」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "神成さんがスマホに向かって何か言おうとする前に、電話口の向こうから、半狂乱になっている声が響いた。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "断片的にしか聞きとれないが、犯人らしき女を発見したとか、女が炎を出したとか、消防に緊急連絡をとか……とにかく、電話の相手は完全にパニックを起こしている。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "（……炎？ 女？）"
+  }
+ ]
+}

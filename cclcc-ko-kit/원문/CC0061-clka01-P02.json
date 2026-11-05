@@ -1,0 +1,88 @@
+{
+ "packet_id": "CC0061-clka01-P02",
+ "kit_version": "1.0",
+ "source_file": "clka01.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "その画像は、この謎の頭痛や、謎の服装や、謎の車内風景を、遥かに凌駕する謎を僕に突きつけた。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「こ、こここここっ」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「こ、これはっ！？」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "それは、ネットやマンガや雑誌記事ではいくらでも取り上げられるが、現実で見たことはほとんど無い物だった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "もしかしたら実在するのかもしれないし、実在してくれたら人生に多少の彩りを与える可能性があるので、ほんの少しは実在して欲しいと思っている物だった。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "とはいえ、仮に実在しているとしても、自分には無縁の物だと思っていたし、ましてや僕のスマホに送られて来るなんて想像もしていなかった物だった。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clka01:10000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「こ……！」"
+  },
+  {
+   "id": "clka01:10100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「これ、が……！」"
+  },
+  {
+   "id": "clka01:10200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「あの……！」"
+  },
+  {
+   "id": "clka01:10300",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「伝説の――っ！」"
+  },
+  {
+   "id": "clka01:10400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": null,
+   "jp": "「――『エロい自撮り写真』って奴なんじゃないか！？」"
+  }
+ ],
+ "context_after": []
+}

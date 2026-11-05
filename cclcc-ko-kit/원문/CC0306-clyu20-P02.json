@@ -1,0 +1,170 @@
+{
+ "packet_id": "CC0306-clyu20-P02",
+ "kit_version": "1.0",
+ "source_file": "clyu20.msb",
+ "speakers_in_packet": [
+  "미야시로 타쿠루",
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「もう！ そういうことじゃなくて……と、とにかく早く向こうに……！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "と、結衣の顔が苦しそうに歪んで、僕は慌てて近寄った。"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「ゆ、結衣！？」"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「っ……だ、ダメ、もう……！！」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "次の瞬間……結衣の身体が一瞬、ブルっと震えたかと思うと、座り込んだ絨毯の周りに、じわじわと染みが広がっていった。"
+  },
+  {
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "jp": "「〜〜〜〜……」"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clyu20:10000",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「や、やだ！ 見ないで……！」"
+  },
+  {
+   "id": "clyu20:10100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そういう……ことだったのか。"
+  },
+  {
+   "id": "clyu20:10200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「う……ご、ゴメン……！」"
+  },
+  {
+   "id": "clyu20:10300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だから見ないでって言ってるのにぃ！ 拓留兄のバカ！ 嫌いっ！」"
+  },
+  {
+   "id": "clyu20:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "結衣は真っ赤になって俯いてしまった。"
+  },
+  {
+   "id": "clyu20:10500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "その姿がなんだかとても可愛くて。"
+  },
+  {
+   "id": "clyu20:10600",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「も〜、なに笑ってるの？」"
+  },
+  {
+   "id": "clyu20:10700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ごめん……」"
+  },
+  {
+   "id": "clyu20:10800",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ほんと……嫌いになっちゃうんだからね！」"
+  },
+  {
+   "id": "clyu20:10900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「だからゴメンって」"
+  },
+  {
+   "id": "clyu20:11000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "僕はなんだか嬉しくなってしまった。"
+  },
+  {
+   "id": "clyu20:11100",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「うそ……だからね」"
+  },
+  {
+   "id": "clyu20:11200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "타치바나 유이",
+   "jp": "「え？」"
+  },
+  {
+   "id": "clyu20:11300",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「嫌いになんてならないよ……だって、私ね……」"
+  }
+ ],
+ "context_after": []
+}

@@ -1,0 +1,963 @@
+{
+ "packet_id": "CC0107-clkn07-P02",
+ "kit_version": "1.0",
+ "source_file": "clkn07.msb",
+ "speakers_in_packet": [
+  "미나미사와 센리",
+  "미야시로 타쿠루",
+  "사쿠마 와타루",
+  "쿠루스 노노",
+  "타치바나 유이"
+ ],
+ "context_before": [
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "どう……なんだろう。"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "いや、さすがに無いな。"
+  },
+  {
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "jp": "「それより拓留。お風呂、入ってらっしゃい」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「あ、ああ……」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「はぁ……」"
+  },
+  {
+   "speaker": null,
+   "speaker_ko": null,
+   "jp": "風呂に入ると、日本人で良かったと思うよな。"
+  }
+ ],
+ "entries": [
+  {
+   "id": "clkn07:10000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねえ、拓留……お湯加減、どう？」"
+  },
+  {
+   "id": "clkn07:10100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「え？ あ……うん、ちょうどいいよ」"
+  },
+  {
+   "id": "clkn07:10200",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「そう」"
+  },
+  {
+   "id": "clkn07:10300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ん？ この口調……もしかして泉理のヤツ、乃々に戻ってる？"
+  },
+  {
+   "id": "clkn07:10400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "でも、なんで？"
+  },
+  {
+   "id": "clkn07:10500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「だったら、私も入ろうかな……」"
+  },
+  {
+   "id": "clkn07:10600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「は！？ ちょ、ちょっと待て！ お前、何言ってんだよ！？」"
+  },
+  {
+   "id": "clkn07:10700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いいじゃない。姉弟なんだし、たまには一緒に入っても」"
+  },
+  {
+   "id": "clkn07:10800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「いやいやいやいや、さすがにそれはマズいだろ！！」"
+  },
+  {
+   "id": "clkn07:10900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「でも、もう脱いじゃったし……」"
+  },
+  {
+   "id": "clkn07:11000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「だったら着ればいいだろ！！ とにかく、いくら姉弟だからってそんなこと――」"
+  },
+  {
+   "id": "clkn07:11100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "「拓留の言うとおりよ」"
+  },
+  {
+   "id": "clkn07:11200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "あ、あれ？"
+  },
+  {
+   "id": "clkn07:11300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "もしかして今度は……泉理か？"
+  },
+  {
+   "id": "clkn07:11400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "てことは、元に戻った……のか？"
+  },
+  {
+   "id": "clkn07:11500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "でもなんで？"
+  },
+  {
+   "id": "clkn07:11600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「自分だけ拓留とお風呂なんてズルい。だったら私も……」"
+  },
+  {
+   "id": "clkn07:11700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "は？"
+  },
+  {
+   "id": "clkn07:11800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "いったい何がどうなって……。"
+  },
+  {
+   "id": "clkn07:11900",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": null,
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留。絶対に目を開けちゃダメよ」"
+  },
+  {
+   "id": "clkn07:12000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ぅ……」"
+  },
+  {
+   "id": "clkn07:12100",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もう、ちゃんと聞いてるの、拓留？」"
+  },
+  {
+   "id": "clkn07:12200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ちょっと待って……まったくわけがわからないんだけど……」"
+  },
+  {
+   "id": "clkn07:12300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「わからないって、何が？」"
+  },
+  {
+   "id": "clkn07:12400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だから、なんで乃々と泉理がふたり同時に存在してるんだ？」"
+  },
+  {
+   "id": "clkn07:12500",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「どうしてって……」"
+  },
+  {
+   "id": "clkn07:12600",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「だって、私たちふたりとも、拓留のお姉さんだから」"
+  },
+  {
+   "id": "clkn07:12700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ねぇ？」"
+  },
+  {
+   "id": "clkn07:12800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "쿠루스 노노",
+   "jp": "ねぇって……それ、全然説明になってないから！"
+  },
+  {
+   "id": "clkn07:12900",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それより、どう、拓留？ 気持ちいい？」"
+  },
+  {
+   "id": "clkn07:13000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「あ……う、うん……気持ち……いい……」"
+  },
+  {
+   "id": "clkn07:13100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あら、私のほうが気持ちいいわよね？」"
+  },
+  {
+   "id": "clkn07:13200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「え、あ、いや、どっちも……」"
+  },
+  {
+   "id": "clkn07:13300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「ふ〜ん……じゃあ、私なんてこんなところ洗ってあげちゃう。えいっ」"
+  },
+  {
+   "id": "clkn07:13400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「はうあっ！！」"
+  },
+  {
+   "id": "clkn07:13500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あら、それなら私なんてこんなところ洗っちゃうもん、それっ」"
+  },
+  {
+   "id": "clkn07:13600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「あひゃあ！」"
+  },
+  {
+   "id": "clkn07:13700",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ほらほら、拓留。どっちのほうが気持ちいいかはっきりなさい」"
+  },
+  {
+   "id": "clkn07:13800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「もちろん、私のほうが気持ちいいわよね？」"
+  },
+  {
+   "id": "clkn07:13900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「ぁ……あぁっ……」"
+  },
+  {
+   "id": "clkn07:14000",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ううん、私よ」"
+  },
+  {
+   "id": "clkn07:14100",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「私よね？」"
+  },
+  {
+   "id": "clkn07:14200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "쿠루스 노노",
+   "jp": "「や、やめ、て……それ以上されたら……」"
+  },
+  {
+   "id": "clkn07:14300",
+   "type": "dialogue",
+   "speaker": "来栖乃々",
+   "speaker_ko": "쿠루스 노노",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「されたらぁ？」"
+  },
+  {
+   "id": "clkn07:14400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "쿠루스 노노",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「さ、されたら……」"
+  },
+  {
+   "id": "clkn07:14500",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうなっちゃうの？」"
+  },
+  {
+   "id": "clkn07:14600",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「ど、どどど……どうにかなっちゃう〜〜〜〜っ！！」"
+  },
+  {
+   "id": "clkn07:14700",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留。先、お風呂入っちゃいなさい」"
+  },
+  {
+   "id": "clkn07:14800",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "타치바나 유이",
+   "jp": "「え？ あ……」"
+  },
+  {
+   "id": "clkn07:14900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうしたの、拓留兄？」"
+  },
+  {
+   "id": "clkn07:15000",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「あ、いや……なんでもない。その……お風呂は、後にするよ。うん……」"
+  },
+  {
+   "id": "clkn07:15100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "今入ると、いろいろ思い出しちゃいそうだ。"
+  },
+  {
+   "id": "clkn07:15200",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「そう？ それじゃあ父さん、さっさと入っちゃって」"
+  },
+  {
+   "id": "clkn07:15300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おう。そうだ、拓留。たまには一緒に――」"
+  },
+  {
+   "id": "clkn07:15400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「結構です！」"
+  },
+  {
+   "id": "clkn07:15500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「お、おう……そ、そうか……」"
+  },
+  {
+   "id": "clkn07:15600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや、馬鹿なこと考えてないで風呂入って早く寝よう。"
+  },
+  {
+   "id": "clkn07:15700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미나미사와 센리",
+   "jp": "「それじゃあ、僕はもう寝るから」"
+  },
+  {
+   "id": "clkn07:15800",
+   "type": "dialogue",
+   "speaker": "南沢泉理",
+   "speaker_ko": "미나미사와 센리",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "타치바나 유이",
+   "jp": "「ええ、おやすみなさい」"
+  },
+  {
+   "id": "clkn07:15900",
+   "type": "dialogue",
+   "speaker": "橘結衣",
+   "speaker_ko": "타치바나 유이",
+   "prev_speaker": "미나미사와 센리",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おやすみ、拓留兄」"
+  },
+  {
+   "id": "clkn07:16000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "リビングに残っていたふたりにおやすみを言って、自分の部屋に向かう。"
+  },
+  {
+   "id": "clkn07:16100",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "타치바나 유이",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「ん……？」"
+  },
+  {
+   "id": "clkn07:16200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "寝室に戻るなり、違和感を覚えた。"
+  },
+  {
+   "id": "clkn07:16300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "ベッドの中央がこんもり盛り上がっている。"
+  },
+  {
+   "id": "clkn07:16400",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "誰か……いるのか？"
+  },
+  {
+   "id": "clkn07:16500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": null,
+   "jp": "『知ってるか、お前ら。実はな……お前たちは本当は……血の繋がっていない家族なんだよ……』"
+  },
+  {
+   "id": "clkn07:16600",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "何故か、さっき父さんが言った言葉を思い出してしまった。"
+  },
+  {
+   "id": "clkn07:16700",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "もしかして……泉理？"
+  },
+  {
+   "id": "clkn07:16800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "それとも結衣が……。"
+  },
+  {
+   "id": "clkn07:16900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "いや、それはない。"
+  },
+  {
+   "id": "clkn07:17000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "ふたりは僕が部屋に戻る前、居間にいた。"
+  },
+  {
+   "id": "clkn07:17100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "さすがにうきってことはないだろうから、ってことは……結人だな。"
+  },
+  {
+   "id": "clkn07:17200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "そっか。"
+  },
+  {
+   "id": "clkn07:17300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "結人の奴、最近少しは大人になったかと思ったけど、ひとりで寝られなくて僕のベッドに潜り込んでくるなんて、やっぱりまだまだ子どもだな。"
+  },
+  {
+   "id": "clkn07:17400",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": null,
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「しょうがない。一緒に寝るか」"
+  },
+  {
+   "id": "clkn07:17500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "そう言ってベッドに潜り込もうとしたと同時に、布団が跳ね除けられた。"
+  },
+  {
+   "id": "clkn07:17600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「嬉しいっ！」"
+  },
+  {
+   "id": "clkn07:17700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「うわああああああっ！！ と、父さん！？ どうして！！」"
+  },
+  {
+   "id": "clkn07:17800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「どうしてって、拓留と一緒に寝るためじゃない！」"
+  },
+  {
+   "id": "clkn07:17900",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "父さんは両手を胸元で合わせると、妙な⟦rb⟧しな⟦rt⟧⟦rbc⟧●●⟦/r⟧を作りながら言った。"
+  },
+  {
+   "id": "clkn07:18000",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「いったでしょう、拓留……血の繋がりは無いって」"
+  },
+  {
+   "id": "clkn07:18100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "血の繋がり云々以前の問題だ！"
+  },
+  {
+   "id": "clkn07:18200",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「い、いや、変な冗談はやめてよ、父さん！」"
+  },
+  {
+   "id": "clkn07:18300",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「冗談なんかじゃない。私は本気よっ！」"
+  },
+  {
+   "id": "clkn07:18400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「前から拓留のことを可愛いと思ってたのよ！」"
+  },
+  {
+   "id": "clkn07:18500",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「それなのに、勝手に出てっちゃって……でも、会えない時間が愛を育むって言うのは本当なのね」"
+  },
+  {
+   "id": "clkn07:18600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「あなたがいない間……心の中で拓留への愛が溢れて、もう止められない！」"
+  },
+  {
+   "id": "clkn07:18700",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「さあ、拓留！ いらっしゃい！」"
+  },
+  {
+   "id": "clkn07:18800",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "父さんが両手を開いて迫ってくる！"
+  },
+  {
+   "id": "clkn07:18900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「ひぃぃぃぃぃぃぃぃぃぃっ！！！」"
+  },
+  {
+   "id": "clkn07:19000",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "なんだ、これは。"
+  },
+  {
+   "id": "clkn07:19100",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "夢か？"
+  },
+  {
+   "id": "clkn07:19200",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "そうだ、夢だ。"
+  },
+  {
+   "id": "clkn07:19300",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "これは悪夢に違いない？"
+  },
+  {
+   "id": "clkn07:19400",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「拓留。一緒にいい夢見ましょう……」"
+  },
+  {
+   "id": "clkn07:19500",
+   "type": "narration",
+   "speaker": null,
+   "speaker_ko": null,
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "踵を返して逃げるよりも早く、僕は父さんの逞しい腕に抱きすくめられてしまった！"
+  },
+  {
+   "id": "clkn07:19600",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「んふ……拓留、カワイイ……」"
+  },
+  {
+   "id": "clkn07:19700",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「た、助けてぇ！ 誰か！ 泉理！ 結衣！ うき！ 結人！ 誰でもいい！ 頼む、助けてくれええええええええええ！！！」"
+  },
+  {
+   "id": "clkn07:19800",
+   "type": "dialogue",
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "prev_speaker": "미야시로 타쿠루",
+   "next_speaker": "미야시로 타쿠루",
+   "jp": "「おい、どうした拓留？」"
+  },
+  {
+   "id": "clkn07:19900",
+   "type": "dialogue",
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "prev_speaker": "사쿠마 와타루",
+   "next_speaker": "사쿠마 와타루",
+   "jp": "「うわああああああああっ！！」"
+  }
+ ],
+ "context_after": [
+  {
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "jp": "「な、なんだよ。人を化け物みたいに」"
+  },
+  {
+   "speaker": "宮代拓留",
+   "speaker_ko": "미야시로 타쿠루",
+   "jp": "「あ……い、いや……」"
+  },
+  {
+   "speaker": "佐久間恒",
+   "speaker_ko": "사쿠마 와타루",
+   "jp": "「どうした？ 息があがってるぞ。風邪か？」"
+  }
+ ]
+}
